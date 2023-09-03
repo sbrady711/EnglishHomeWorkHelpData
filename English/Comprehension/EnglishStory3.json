@@ -1,0 +1,967 @@
+
+
+[
+    {
+        "id": 2,
+        "category": "Comprehension",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "WackyTron's Time-Travel Tangle",
+                            "topicContent": "WackyTron stumbles upon a mysterious time machine and accidentally transports himself and his friends to different eras. Through imaginative twists and turns, they work together to fix the timeline and return home."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "WackyTron and the Enchanted Labyrinth",
+                            "topicContent": "In an enchanted garden labyrinth, WackyTron and his friends encounter magical creatures and riddles. Their journey becomes a blend of puzzle-solving and teamwork as they uncover the labyrinth's secrets."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "WackyTron's Cosmic Quest",
+                            "topicContent": "A meteor shower sparks WackyTron's cosmic curiosity. With Mizzy and friends, he builds a cardboard rocket for an imaginary space adventure, learning about planets and stars along the way."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "WackyTron's Carnival Curiosity",
+                            "topicContent": "When a traveling carnival arrives in town, WackyTron and his friends dive into thrilling rides and mysterious sideshows. Amid the carnival's wonders, they solve a captivating mystery."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "WackyTron's Secret Library Adventure",
+                            "topicContent": "  Inside an old library, WackyTron discovers a hidden door leading to an enchanted world of stories. Each book they enter becomes a new adventure, allowing them to explore tales firsthand.."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "WackyTron's Pirate Pursuit",
+                            "topicContent": "Set in a pirate-themed amusement park, WackyTron and his friends become pirate explorers on a quest for hidden treasure. Through clever clues and daring teamwork, they unearth the treasure's location."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": " WackyTron and the Dream Machine",
+                            "topicContent": "A whimsical machine allows WackyTron and his friends to enter their dreams. The dream world brings unexpected challenges and puzzles, testing their creativity and problem-solving skills."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "WackyTron's Magical Artifacts",
+                            "topicContent": "When an eccentric collector lends WackyTron and his friends magical artifacts, their playdates turn into imaginative quests. Each artifact possesses a unique power, leading to exciting adventures."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "WackyTron's Underwater Odyssey",
+                            "topicContent": "WackyTron and friends embark on an underwater journey in a fantastical submarine. As they explore vibrant coral reefs and encounter sea creatures, they uncover an underwater mystery."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "WackyTron's Robot Olympics",
+                            "topicContent": " In a futuristic world, WackyTron and friends participate in the Robot Olympics, where each event showcases their robot skills. From creative robot dances to elaborate obstacle courses, they aim for gold."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "WackyTron's Haunted Puzzle Manor",
+                            "topicContent": "At an old mansion rumored to be haunted, WackyTron and friends enter a thrilling mystery. With hidden passages and cryptic puzzles, they decipher the mansion's secrets and unveil its true story."
+                  
+                }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Memeory skills of WackyTrons adventures to the test.",
+          "questions": [
+              
+                  {
+                     "id": 0,
+                     "content": "How does the concept of time travel contribute to the challenges faced by WackyTron and his friends in 'WackyTron's Time-Travel Tangle'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "Time travel makes everything easy",
+                       "It creates a complex plot and requires problem-solving",
+                       "Time travel doesn't affect the story",
+                       "It leads to predictable events"
+                     ]
+                   },
+                   {
+                     "id": 1,
+                     "content": "What key skills do WackyTron and his friends use to navigate the enchanted labyrinth in 'WackyTron and the Enchanted Labyrinth'?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "Flying over obstacles",
+                       "Ignoring challenges",
+                       "Solving riddles alone",
+                       "Puzzle-solving and teamwork"
+                     ]
+                   },
+                   {
+                     "id": 2,
+                     "content": "How does the imaginative journey through space contribute to the learning experience in 'WackyTron's Cosmic Quest'?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "It sparks curiosity and teaches about planets and stars",
+                       "It teaches nothing",
+                       "It makes characters sleepy",
+                       "It involves pointless activities"
+                     ]
+                   },
+                   {
+                     "id": 3,
+                     "content": "What role does the traveling carnival play in the development of the mystery-solving skills of WackyTron and his friends in 'WackyTron's Carnival Curiosity'?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "It doesn't affect their skills",
+                       "It makes them forget about solving mysteries",
+                       "It presents opportunities for solving captivating mysteries",
+                       "It distracts them from solving problems"
+                     ]
+                   },
+                   {
+                     "id": 4,
+                     "content": "How does the enchanted library world in 'WackyTron's Secret Library Adventure' provide a unique learning experience for WackyTron and his friends?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "It allows them to explore tales firsthand and develop a deeper understanding",
+                       "It's just for fun and doesn't teach anything",
+                       "It confuses them",
+                       "It makes them sleepy"
+                     ]
+                   },
+                   {
+                     "id": 5,
+                     "content": "What cognitive skills do WackyTron and his friends use to decipher the cryptic puzzles in 'WackyTron's Haunted Puzzle Manor'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "They don't use cognitive skills",
+                       "Analytical thinking and problem-solving",
+                       "Memorization of random information",
+                       "Ignoring the puzzles"
+                     ]
+                   },
+                   {
+                     "id": 6,
+                     "content": "How does WackyTron's creativity and problem-solving ability impact his performance in the Robot Olympics in 'WackyTron's Robot Olympics'?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "He fails miserably",
+                       "He copies others' moves",
+                       "He doesn't participate",
+                       "He excels in creative robot dances and obstacle courses"
+                     ]
+                   },
+                   {
+                     "id": 7,
+                     "content": "What essential life skills do WackyTron and his friends develop during the underwater adventure in 'WackyTron's Underwater Odyssey'?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "They don't develop any skills",
+                       "They avoid challenges",
+                       "Exploration, curiosity, and teamwork",
+                       "They ignore sea creatures"
+                     ]
+                   },
+                   {
+                     "id": 8,
+                     "content": "How does the concept of dream exploration challenge WackyTron and his friends in 'WackyTron and the Dream Machine'?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "They face unexpected challenges and puzzles within the dream world",
+                       "Dream exploration is easy",
+                       "They have no challenges",
+                       "They don't explore dreams"
+                     ]
+                   },
+                   {
+                     "id": 9,
+                     "content": "What role do magical artifacts play in enhancing the playdates of WackyTron and his friends in 'WackyTron's Magical Artifacts'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "Artifacts don't have any role",
+                       "Each artifact leads to imaginative quests and exciting adventures",
+                       "Artifacts are boring",
+                       "Artifacts are dangerous"
+                     ]
+                   },
+                 {
+                  
+                 "id": 10,
+                 "content": "How does the concept of time travel affect the character development of WackyTron and his friends in 'WackyTron's Time-Travel Tangle'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "It doesn't affect their character development",
+                   "It makes them forget their personalities",
+                   "It challenges them to adapt and grow as they face new situations",
+                   "It makes them bored"
+                 ]
+               },
+               {
+                 "id": 11,
+                 "content": "In 'WackyTron and the Enchanted Labyrinth', how do the magical creatures and riddles contribute to the overall theme of the story?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They don't contribute to the theme",
+                   "They add an element of mystery and adventure that requires problem-solving",
+                   "They make the story less interesting",
+                   "They confuse the readers"
+                 ]
+               },
+               {
+                 "id": 12,
+                 "content": "What scientific concepts are introduced and explored during WackyTron's cardboard rocket adventure in 'WackyTron's Cosmic Quest'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Planets, stars, and meteor showers",
+                   "There are no scientific concepts",
+                   "Colors of the rainbow",
+                   "Magic spells"
+                 ]
+               },
+               {
+                 "id": 13,
+                 "content": "In 'WackyTron's Carnival Curiosity', how do the sideshows and thrilling rides contribute to the resolution of the mystery?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "They have no impact on the mystery",
+                   "They confuse the characters",
+                   "They make the mystery unsolvable",
+                   "They provide clues and create an atmosphere of intrigue"
+                 ]
+               },
+               {
+                 "id": 14,
+                 "content": "What role does the enchanted library play in teaching WackyTron and his friends about the power of imagination and storytelling in 'WackyTron's Secret Library Adventure'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The library has no role",
+                   "It exposes them to tales and helps them appreciate the magic of stories",
+                   "It distracts them from learning",
+                   "It makes them fall asleep"
+                 ]
+               },
+               {
+                 "id": 15,
+                 "content": "How do the hidden passages and cryptic puzzles reflect the themes of curiosity and perseverance in 'WackyTron's Haunted Puzzle Manor'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "They have no connection to the themes",
+                   "They discourage curiosity",
+                   "They encourage exploration and challenge them to overcome obstacles",
+                   "They make them give up"
+                 ]
+               },
+               {
+                 "id": 16,
+                 "content": "What aspects of creativity and innovation are highlighted during WackyTron's participation in the Robot Olympics in 'WackyTron's Robot Olympics'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Creative robot dances and elaborate obstacle courses",
+                   "There's no creativity involved",
+                   "Copying others' moves",
+                   "Ignoring the events"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "How does the exploration of the underwater world contribute to the development of a sense of wonder and appreciation for marine life in 'WackyTron's Underwater Odyssey'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "It doesn't contribute to anything",
+                   "It exposes them to vibrant coral reefs and sea creatures",
+                   "It scares them away from the ocean",
+                   "It makes them lose interest"
+                 ]
+               },
+               {
+                 "id": 18,
+                 "content": "In 'WackyTron and the Dream Machine', how do the dream challenges and puzzles symbolize the complexity of the characters' subconscious thoughts?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "The dreams are easy and meaningless",
+                   "The dreams don't symbolize anything",
+                   "They represent the multifaceted nature of their minds",
+                   "They confuse the characters"
+                 ]
+               },
+               {
+                 "id": 19,
+                 "content": "How do the magical artifacts enhance the character interactions and dynamics in 'WackyTron's Magical Artifacts'?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "They have no impact on character interactions",
+                   "They make characters fight",
+                   "Artifacts discourage teamwork",
+                   "Artifacts lead to collaborative problem-solving and teamwork"
+                 ]
+               },
+               {
+                 "id": 20,
+                 "content": "What impact does WackyTron's determination and adaptability have on overcoming challenges during his time-travel adventure in 'WackyTron's Time-Travel Tangle'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "He faces challenges with determination and learns to adapt in various time periods",
+                   "He gives up easily",
+                   "He avoids challenges",
+                   "He fails in every time period"
+                 ]
+               },
+               {
+                 "id": 21,
+                 "content": "How do Mizzy's problem-solving skills and leadership contribute to the group's success in navigating the enchanted labyrinth in 'WackyTron and the Enchanted Labyrinth'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Mizzy's skills guide the group through challenges and puzzles",
+                   "Mizzy has no impact on the story",
+                   "Mizzy makes the situation worse",
+                   "Mizzy is not part of the story"
+                 ]
+               },
+               {
+                 "id": 22,
+                 "content": "What lessons about teamwork and collaboration do WackyTron and his friends learn during their cardboard rocket adventure in 'WackyTron's Cosmic Quest'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They don't learn anything about teamwork",
+                   "They realize that working together leads to success",
+                   "Teamwork is not important",
+                   "They learn that they can achieve success individually"
+                 ]
+               },
+               {
+                 "id": 23,
+                 "content": "How does the carnival setting in 'WackyTron's Carnival Curiosity' create an atmosphere of mystery and suspense?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "The carnival is not mysterious",
+                   "The carnival has no impact on the atmosphere",
+                   "The unusual and thrilling elements of the carnival add to the sense of mystery",
+                   "The carnival makes everything predictable"
+                 ]
+               },
+               {
+                 "id": 24,
+                 "content": "What underlying themes of the importance of books and imagination are highlighted in 'WackyTron's Secret Library Adventure'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The adventure emphasizes the magic of books and the power of imagination",
+                   "Books and imagination are irrelevant",
+                   "Books are boring",
+                   "Imagination is not important"
+                 ]
+               },
+               {
+                 "id": 25,
+                 "content": "How does the resolution of the mystery in 'WackyTron's Haunted Puzzle Manor' reinforce the idea that persistence and teamwork lead to success?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "The mystery is never resolved",
+                   "The mystery is resolved by giving up",
+                   "The mystery is not important",
+                   "The characters work together to decipher puzzles and uncover the truth"
+                 ]
+               },
+               {
+                 "id": 26,
+                 "content": "What underlying themes of innovation and individuality are explored through WackyTron's participation in the Robot Olympics in 'WackyTron's Robot Olympics'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "There are no themes of innovation or individuality",
+                   "WackyTron copies others' moves",
+                   "WackyTron's unique approach and creativity stand out in the events",
+                   "WackyTron doesn't participate"
+                 ]
+               },
+               {
+                 "id": 27,
+                 "content": "How does the underwater exploration contribute to the characters' understanding of marine ecosystems and the need for environmental conservation in 'WackyTron's Underwater Odyssey'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The characters learn about marine ecosystems and the importance of conservation",
+                   "The characters don't learn anything",
+                   "The underwater exploration is irrelevant",
+                   "The underwater exploration is dangerous"
+                 ]
+               },
+               {
+                 "id": 28,
+                 "content": "How do the dream challenges and puzzles in 'WackyTron and the Dream Machine' mirror the characters' emotional struggles and creative thinking?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The dreams don't mirror anything",
+                   "The dream challenges symbolize emotional struggles and require creative thinking",
+                   "The dreams are too easy",
+                   "The dreams are nightmares"
+                 ]
+               },
+               {
+                 "id": 29,
+                 "content": "What impact do the magical artifacts have on the characters' problem-solving abilities and character growth in 'WackyTron's Magical Artifacts'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The magical artifacts challenge the characters to solve problems and grow",
+                   "The magical artifacts make everything easy",
+                   "The magical artifacts make the characters forget their problems",
+                   "The magical artifacts are irrelevant"
+                 ]
+               },
+               
+               {
+                 "id": 30,
+                 "content": "How does the concept of time travel in 'WackyTron's Time-Travel Tangle' allow the characters to explore different historical periods and cultures?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Time travel allows characters to experience different eras and cultures",
+                   "Time travel has no impact on exploration",
+                   "Time travel is not important in the story",
+                   "Time travel is confusing"
+                 ]
+               },
+               {
+                 "id": 31,
+                 "content": "In 'WackyTron and the Enchanted Labyrinth', how do the challenges posed by magical creatures and riddles relate to the characters' personal growth?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Challenges don't impact personal growth",
+                   "Overcoming challenges leads to the characters' personal growth",
+                   "Challenges hinder personal growth",
+                   "Challenges are irrelevant"
+                 ]
+               },
+               {
+                 "id": 32,
+                 "content": "What educational aspects of astronomy and space exploration are incorporated into 'WackyTron's Cosmic Quest'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Astronomy and space exploration concepts",
+                   "No educational aspects are included",
+                   "Art history",
+                   "Cooking techniques"
+                 ]
+               },
+               {
+                 "id": 33,
+                 "content": "In 'WackyTron's Carnival Curiosity', how does the group's ability to work together impact the unraveling of the mystery?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Working together helps solve the mystery",
+                   "Working together complicates the mystery",
+                   "Working together has no effect on the mystery",
+                   "Working together slows down the resolution"
+                 ]
+               },
+               {
+                 "id": 34,
+                 "content": "How does the interactive nature of the enchanted library in 'WackyTron's Secret Library Adventure' engage readers in the exploration of different story worlds?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The library is not interactive",
+                   "Readers engage by entering story worlds and experiencing adventures firsthand",
+                   "Readers are bored by the library",
+                   "Readers can't interact with the library"
+                 ]
+               },
+               {
+                 "id": 35,
+                 "content": "What does the theme of perseverance and determination teach readers through the characters' challenges in 'WackyTron's Haunted Puzzle Manor'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Perseverance and determination are not important themes",
+                   "Perseverance and determination make the challenges easy",
+                   "Perseverance and determination help overcome obstacles and solve mysteries",
+                   "Perseverance and determination are irrelevant"
+                 ]
+               },
+               {
+                 "id": 36,
+                 "content": "How does WackyTron's unique approach to the Robot Olympics in 'WackyTron's Robot Olympics' emphasize the importance of creativity and innovation?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "WackyTron's unique approach showcases creativity and innovation",
+                   "WackyTron's approach is boring",
+                   "WackyTron's approach is similar to others",
+                   "Creativity and innovation are not relevant"
+                 ]
+               },
+               {
+                 "id": 37,
+                 "content": "What significance does the underwater setting have on the characters' personal growth and sense of environmental responsibility in 'WackyTron's Underwater Odyssey'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The underwater setting has no impact",
+                   "The underwater setting contributes to personal growth and a sense of responsibility",
+                   "The underwater setting is scary",
+                   "The underwater setting is unrealistic"
+                 ]
+               },
+               {
+                 "id": 38,
+                 "content": "In 'WackyTron and the Dream Machine', how does the dream world challenge the characters' problem-solving skills and encourage creative thinking?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The dream world presents challenges that require problem-solving and creative thinking",
+                   "The dream world is straightforward",
+                   "The dream world is boring",
+                   "The dream world has no impact"
+                 ]
+               },
+               {
+                 "id": 39,
+                 "content": "How do the magical artifacts serve as metaphorical symbols that reflect the characters' strengths and vulnerabilities in 'WackyTron's Magical Artifacts'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "The magical artifacts have no symbolic significance",
+                   "The magical artifacts have negative meanings",
+                   "The magical artifacts represent different aspects of the characters",
+                   "The magical artifacts are irrelevant"
+                 ]
+               },
+               {
+                 "id": 40,
+                 "content": "What moral lesson is conveyed through the characters' experiences of facing challenges and adversity in 'WackyTron's Time-Travel Tangle'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Facing challenges and adversity leads to personal growth and development",
+                   "Facing challenges and adversity is pointless",
+                   "Facing challenges and adversity leads to failure",
+                   "Challenges and adversity are not addressed in the story"
+                 ]
+               },
+               {
+                 "id": 41,
+                 "content": "In 'WackyTron and the Enchanted Labyrinth', how does the labyrinth setting emphasize the themes of discovery and self-discovery?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The labyrinth setting has no impact on themes",
+                   "The labyrinth represents a journey of discovery and self-discovery",
+                   "The labyrinth is just a maze",
+                   "The labyrinth is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 42,
+                 "content": "How do the cardboard rocket adventure and imaginary space exploration contribute to the characters' understanding of teamwork and the value of cooperation in 'WackyTron's Cosmic Quest'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The adventure highlights teamwork and cooperation",
+                   "The adventure doesn't teach anything",
+                   "The adventure discourages teamwork",
+                   "The adventure focuses only on competition"
+                 ]
+               },
+               {
+                 "id": 43,
+                 "content": "What role does the mysterious atmosphere of the carnival play in 'WackyTron's Carnival Curiosity' in terms of creating suspense and tension?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "The carnival doesn't contribute to atmosphere",
+                   "The carnival is not mysterious",
+                   "The mysterious carnival adds suspense and tension to the story",
+                   "The carnival is just fun"
+                 ]
+               },
+               {
+                 "id": 44,
+                 "content": "How does 'WackyTron's Secret Library Adventure' promote the idea that imagination has the power to transport readers to magical worlds?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The adventure highlights the magical power of imagination",
+                   "The adventure doesn't involve imagination",
+                   "Imagination is irrelevant in the story",
+                   "Imagination is scary"
+                 ]
+               },
+               {
+                 "id": 45,
+                 "content": "What does the resolution of the mystery in 'WackyTron's Haunted Puzzle Manor' reveal about the importance of perseverance and determination in solving complex problems?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The resolution shows that perseverance and determination are not important",
+                   "The resolution demonstrates the significance of perseverance and determination in problem-solving",
+                   "The resolution is irrelevant to problem-solving",
+                   "The resolution is too simple"
+                 ]
+               },
+               {
+                 "id": 46,
+                 "content": "How does WackyTron's approach to the Robot Olympics differ from the other participants in 'WackyTron's Robot Olympics'?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "WackyTron doesn't approach the Robot Olympics",
+                   "WackyTron's approach is the same as others",
+                   "WackyTron's approach is better than others",
+                   "WackyTron's unique approach stands out and is distinct from others"
+                 ]
+               },
+               {
+                 "id": 47,
+                 "content": "What connections can be made between the underwater journey in 'WackyTron's Underwater Odyssey' and real-life efforts to explore and conserve marine environments?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "No connections are made between the story and real life",
+                   "The underwater journey is unrelated to real-life efforts",
+                   "The underwater journey reflects the importance of exploring and conserving marine environments",
+                   "The underwater journey is boring"
+                 ]
+               },
+               {
+                 "id": 48,
+                 "content": "How do the dream challenges in 'WackyTron and the Dream Machine' mirror the characters' emotional struggles and personal growth?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The dream challenges symbolize emotional struggles and contribute to personal growth",
+                   "The dream challenges are not related to emotions",
+                   "The dream challenges hinder personal growth",
+                   "The dream challenges are too easy"
+                 ]
+               },
+               {
+                 "id": 49,
+                 "content": "In 'WackyTron's Magical Artifacts', how do the characters' interactions with the magical artifacts reveal their strengths and weaknesses?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "The characters don't interact with the artifacts",
+                   "The interactions reveal the characters' strengths only",
+                   "The interactions reveal the characters' weaknesses only",
+                   "The interactions provide insight into both the characters' strengths and weaknesses"
+                 ]
+               },
+               {
+                 "id": 50,
+                 "content": "In 'WackyTron's Roller Rink Ruckus', how does Mizzy contribute to fixing the chaos caused by WackyTron's clumsiness?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Mizzy teams up with WackyTron to fix everything",
+                   "Mizzy gets angry at WackyTron",
+                   "Mizzy leaves the roller rink",
+                   "Mizzy laughs at the chaos"
+                 ]
+               },
+               {
+                 "id": 51,
+                 "content": "What lesson about planning and preparation do WackyTron and friends learn in 'WackyTron's Picnic Pandemonium'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Planning is not important",
+                   "Preparation is unnecessary",
+                   "Careful planning leads to a successful event",
+                   "Chaos is always fun"
+                 ]
+               },
+               {
+                 "id": 52,
+                 "content": "How do WackyTron's robotic arms become an unexpected advantage during mini-golfing in 'WackyTron's Mini Golf Mayhem'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They cause him to lose the game",
+                   "Through creative problem-solving",
+                   "By giving up",
+                   "By getting frustrated"
+                 ]
+               },
+               {
+                 "id": 53,
+                 "content": "What emotions do WackyTron and his friends experience when they release animals in 'WackyTron's Zoo Escapade'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Happiness and excitement",
+                   "Sadness and frustration",
+                   "Panic and urgency",
+                   "Indifference and boredom"
+                 ]
+               },
+               {
+                 "id": 54,
+                 "content": "How do WackyTron and his friends manage to turn arcade challenges into fun activities in 'WackyTron's Arcade Antics'?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "They give up and leave",
+                   "They cheat to win",
+                   "They play alone",
+                   "Through teamwork and determination"
+                 ]
+               },
+               {
+                 "id": 55,
+                 "content": "What life skills do WackyTron and his friends develop during the camping trip in 'WackyTron's Camping Caper'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Adaptability and embracing the unexpected",
+                   "Ignoring problems",
+                   "Avoiding challenges",
+                   "Being perfectly organized"
+                 ]
+               },
+               {
+                 "id": 56,
+                 "content": "How does WackyTron's creative approach to building sandcastles impact the beach day in 'WackyTron's Beach Bonanza'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "He builds traditional sandcastles",
+                   "His sandcastles create laughter and chaos",
+                   "He gives up building sandcastles",
+                   "He becomes upset"
+                 ]
+               },
+               {
+                 "id": 57,
+                 "content": "How do the friends use imaginative problem-solving to salvage the art museum visit in 'WackyTron's Art Museum Fiasco'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "They creatively solve the problems caused by WackyTron's clumsiness",
+                   "They leave the museum",
+                   "They ignore the problems",
+                   "They make more mess"
+                 ]
+               },
+               {
+                 "id": 58,
+                 "content": "What important lesson about scientific exploration do WackyTron and friends learn in 'WackyTron's Science Center Shenanigans'?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "Science is boring",
+                   "Science is easy",
+                   "Science is irrelevant",
+                   "Exploration and discovery are fun and educational"
+                 ]
+               },
+               {
+                 "id": 59,
+                 "content": "How does WackyTron's unique acting style contribute to the success of the play in 'WackyTron's Theater Troubles'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "He fails to impress anyone",
+                   "His unique style adds humor and entertainment",
+                   "He doesn't act",
+                   "He copies others' acting styles"
+                 ]
+               },
+               {
+                  "id": 60,
+                  "content": "How does the concept of time travel in 'WackyTron's Time-Travel Tangle' allow the characters to explore different historical periods and cultures?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Time travel allows characters to experience different eras and cultures",
+                    "Time travel has no impact on exploration",
+                    "Time travel is not important in the story",
+                    "Time travel is confusing"
+                  ]
+                },
+                {
+                  "id": 61,
+                  "content": "In 'WackyTron and the Enchanted Labyrinth', how do the challenges posed by magical creatures and riddles relate to the characters' personal growth?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Challenges don't impact personal growth",
+                    "Overcoming challenges leads to the characters' personal growth",
+                    "Challenges hinder personal growth",
+                    "Challenges are irrelevant"
+                  ]
+                },
+                {
+                  "id": 62,
+                  "content": "What educational aspects of astronomy and space exploration are incorporated into 'WackyTron's Cosmic Quest'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Astronomy and space exploration concepts",
+                    "No educational aspects are included",
+                    "Art history",
+                    "Cooking techniques"
+                  ]
+                },
+                {
+                  "id": 63,
+                  "content": "In 'WackyTron's Carnival Curiosity', how does the group's ability to work together impact the unraveling of the mystery?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Working together helps solve the mystery",
+                    "Working together complicates the mystery",
+                    "Working together has no effect on the mystery",
+                    "Working together slows down the resolution"
+                  ]
+                },
+                {
+                  "id": 64,
+                  "content": "How does the interactive nature of the enchanted library in 'WackyTron's Secret Library Adventure' engage readers in the exploration of different story worlds?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The library is not interactive",
+                    "Readers engage by entering story worlds and experiencing adventures firsthand",
+                    "Readers are bored by the library",
+                    "Readers can't interact with the library"
+                  ]
+                },
+                {
+                  "id": 65,
+                  "content": "What does the theme of perseverance and determination teach readers through the characters' challenges in 'WackyTron's Haunted Puzzle Manor'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Perseverance and determination are not important themes",
+                    "Perseverance and determination make the challenges easy",
+                    "Perseverance and determination help overcome obstacles and solve mysteries",
+                    "Perseverance and determination are irrelevant"
+                  ]
+                },
+                {
+                  "id": 66,
+                  "content": "How does WackyTron's unique approach to the Robot Olympics in 'WackyTron's Robot Olympics' emphasize the importance of creativity and innovation?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "WackyTron's unique approach showcases creativity and innovation",
+                    "WackyTron's approach is boring",
+                    "WackyTron's approach is similar to others",
+                    "Creativity and innovation are not relevant"
+                  ]
+                },
+                {
+                  "id": 67,
+                  "content": "What significance does the underwater setting have on the characters' personal growth and sense of environmental responsibility in 'WackyTron's Underwater Odyssey'?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The underwater setting has no impact",
+                    "The underwater setting contributes to personal growth and a sense of responsibility",
+                    "The underwater setting is scary",
+                    "The underwater setting is unrealistic"
+                  ]
+                },
+                {
+                  "id": 68,
+                  "content": "In 'WackyTron and the Dream Machine', how does the dream world challenge the characters' problem-solving skills and encourage creative thinking?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "The dream world presents challenges that require problem-solving and creative thinking",
+                    "The dream world is straightforward",
+                    "The dream world is boring",
+                    "The dream world has no impact"
+                  ]
+                },
+                {
+                  "id": 69,
+                  "content": "How do the magical artifacts serve as metaphorical symbols that reflect the characters' strengths and vulnerabilities in 'WackyTron's Magical Artifacts'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "The magical artifacts have no symbolic significance",
+                    "The magical artifacts have negative meanings",
+                    "The magical artifacts represent different aspects of the characters",
+                    "The magical artifacts are irrelevant"
+                  ]
+                },
+                {
+                  "id": 70,
+                  "content": "What moral lesson is conveyed through the characters' experiences of facing challenges and adversity in 'WackyTron's Time-Travel Tangle'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Facing challenges and adversity leads to personal growth and development",
+                    "Facing challenges and adversity is pointless",
+                    "Facing challenges and adversity leads to failure",
+                    "Challenges and adversity are not addressed in the story"
+                  ]
+                },
+                {
+                  "id": 71,
+                  "content": "In 'WackyTron and the Enchanted Labyrinth', how does the labyrinth setting emphasize the themes of discovery and self-discovery?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The labyrinth setting has no impact on themes",
+                    "The labyrinth represents a journey of discovery and self-discovery",
+                    "The labyrinth is just a maze",
+                    "The labyrinth is irrelevant to the story"
+                  ]
+                },
+                {
+                  "id": 72,
+                  "content": "How do the cardboard rocket adventure and imaginary space exploration contribute to the characters' understanding of teamwork and the value of cooperation in 'WackyTron's Cosmic Quest'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "The adventure highlights teamwork and cooperation",
+                    "The adventure doesn't teach anything",
+                    "The adventure discourages teamwork",
+                    "The adventure focuses only on competition"
+                  ]
+                },
+                {
+                  "id": 73,
+                  "content": "What role does the mysterious atmosphere of the carnival play in 'WackyTron's Carnival Curiosity' in terms of creating suspense and tension?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "The carnival doesn't contribute to atmosphere",
+                    "The carnival is not mysterious",
+                    "The mysterious carnival adds suspense and tension to the story",
+                    "The carnival is just fun"
+                  ]
+                },
+                {
+                  "id": 74,
+                  "content": "How does 'WackyTron's Secret Library Adventure' promote the idea that imagination has the power to transport readers to magical worlds?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "The adventure highlights the magical power of imagination",
+                    "The adventure doesn't involve imagination",
+                    "Imagination is irrelevant in the story",
+                    "Imagination is scary"
+                  ]
+                },
+                {
+                  "id": 75,
+                  "content": "What does the resolution of the mystery in 'WackyTron's Haunted Puzzle Manor' reveal about the importance of perseverance and determination in solving complex problems?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The resolution shows that perseverance and determination are not important",
+                    "The resolution demonstrates the significance of perseverance and determination in problem-solving",
+                    "The resolution is irrelevant to problem-solving",
+                    "The resolution is too simple"
+                  ]
+                },
+                {
+                  "id": 76,
+                  "content": "How does WackyTron's approach to the Robot Olympics differ from the other participants in 'WackyTron's Robot Olympics'?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "WackyTron doesn't approach the Robot Olympics",
+                    "WackyTron's approach is the same as others",
+                    "WackyTron's approach is better than others",
+                    "WackyTron's unique approach stands out and is distinct from others"
+                  ]
+                },
+                {
+                  "id": 77,
+                  "content": "What connections can be made between the underwater journey in 'WackyTron's Underwater Odyssey' and real-life efforts to explore and conserve marine environments?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "No connections are made between the story and real life",
+                    "The underwater journey is unrelated to real-life efforts",
+                    "The underwater journey reflects the importance of exploring and conserving marine environments",
+                    "The underwater journey is boring"
+                  ]
+                },
+                {
+                  "id": 78,
+                  "content": "How do the dream challenges in 'WackyTron and the Dream Machine' mirror the characters' emotional struggles and personal growth?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "The dream challenges symbolize emotional struggles and contribute to personal growth",
+                    "The dream challenges are not related to emotions",
+                    "The dream challenges hinder personal growth",
+                    "The dream challenges are too easy"
+                  ]
+                },
+                {
+                  "id": 79,
+                  "content": "In 'WackyTron's Magical Artifacts', how do the characters' interactions with the magical artifacts reveal their strengths and weaknesses?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "The characters don't interact with the artifacts",
+                    "The interactions reveal the characters' strengths only",
+                    "The interactions reveal the characters' weaknesses only",
+                    "The interactions provide insight into both the characters' strengths and weaknesses"
+                  ]
+                }
+               
+               
+               
+          ]
+      }
+       
+    }
+
+]

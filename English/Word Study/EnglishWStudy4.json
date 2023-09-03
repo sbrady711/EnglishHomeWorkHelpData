@@ -1,0 +1,607 @@
+
+[
+    {
+        "id": 3,
+        "category": "Word Study",
+        "description": "Grammer Writing and Reading ",
+      "content": {
+          "id": 0,
+          "teaching": [
+              {
+                                "id": 0,
+                                "topicTitle": "The Subject of a Sentence",
+                                "topicContent": "Teach students about the subject of a sentence as the main noun or pronoun that performs the action. Practice identifying subjects in sentences."
+                            },
+              {
+                  "id": 1,
+                  "topicTitle": "The Object of a Sentence",
+                  "topicContent": " Introduce the object of a sentence as the noun or pronoun that receives the action. Teach the difference between direct and indirect objects."
+              },
+              {
+                  "id": 2,
+                  "topicTitle": "The Subject and Object Pronouns",
+                  "topicContent": "Explain subject and object pronouns (I, you, he, she, it, we, they; me, you, him, her, it, us, them) and teach their usage in sentences."
+              },
+              
+              {
+                  "id": 3,
+                  "topicTitle": "Homophones 'Our' and 'Are'",
+                  "topicContent": "Teach the difference between homophones 'our' (belonging to us) and 'are' (present tense of 'be'). Practice using them correctly in sentences."
+          
+      },
+              {
+                          "id": 4,
+                          "topicTitle": "Homophones 'There', 'Their', and 'They're'",
+                          "topicContent": "Introduce homophones 'there' (location), 'their' (belonging to them), and 'they're' (contraction of 'they are'). Teach how to differentiate and use them properly."
+                      },
+              {
+                  "id": 5,
+                  "topicTitle": "Homophones 'Two', 'To', and 'Too'",
+                  "topicContent": "Teach the distinctions among homophones 'two' (the number 2), 'to' (preposition), and 'too' (meaning also or very). Provide examples and practice."
+              },
+              {
+                  "id": 6,
+                  "topicTitle": "Prefixes",
+                  "topicContent": "Introduce prefixes (e.g., un-, dis-, re-) and explain how they change the meaning of words. Provide examples and practice forming words with prefixes."
+              },
+              {
+                  "id": 7,
+                  "topicTitle": "Sentences and Phrases",
+                  "topicContent": "Review sentence structure and introduce phrases (groups of words that don't have both a subject and a verb). Teach the role of phrases in adding detail to sentences."
+        
+      },
+              {
+                          "id": 8,
+                          "topicTitle": "The Subject and Object of a Sentence",
+                          "topicContent": "Deepen understanding of subjects and objects by exploring their roles in more complex sentences. Practice identifying subjects and objects in various sentence structures."
+                      },
+              {
+                  "id": 9,
+                  "topicTitle": "Prefixes 2",
+                  "topicContent": "Continue learning about prefixes and introduce additional common prefixes. Discuss how prefixes can change the meaning of words."
+              },
+              {
+                  "id": 10,
+                  "topicTitle": "Contractions",
+                  "topicContent": "Build on the concept of contractions by introducing more contractions, including those with pronouns and verbs. Practice using contractions in writing."
+              },
+              {
+                          "id": 11,
+                          "topicTitle": "Suffixes (-er) and (-est)",
+                          "topicContent": "Introduce suffixes -er (comparative) and -est (superlative) and explain how they change the meaning of adjectives. Practice forming and using these suffixes."
+                      },
+              {
+                  "id": 12,
+                  "topicTitle": "Comparative and Superlatives 2",
+                  "topicContent": "Expand on the concept of comparative and superlative adjectives. Teach how irregular adjectives form their comparatives and superlatives."
+              },
+              {
+                  "id": 13,
+                  "topicTitle": "Interesting Words",
+                  "topicContent": "Explore vocabulary expansion by introducing synonyms and more descriptive words. Encourage students to use interesting words in their writing."
+              },
+              
+              {
+                                "id": 14,
+                                "topicTitle": "Homophones: 'Your', 'You're'",
+                                "topicContent": "Teach the distinction between homophones 'your' (belonging to you) and 'you're' (contraction of 'you are'). Practice using them correctly in sentences."
+                            },
+              {
+                  "id": 15,
+                  "topicTitle": "Homophones 'It's' and 'Its'",
+                  "topicContent": "Teach the difference between homophones 'it's' (contraction of 'it is') and 'its' (possessive form of 'it'). Practice using them correctly in sentences."
+        
+      },
+              {
+                  "id": 16,
+                  "topicTitle": "Interjection",
+                  "topicContent": "Build on the concept of contractions by introducing more contractions, including those with pronouns and verbs. Practice using contractions in writing."
+              },              {
+                  "id": 17,
+                  "topicTitle": "Antonyms",
+                  "topicContent": "Introduce antonyms as words with opposite meanings. Provide examples of antonym pairs and encourage students to identify and use them."
+              }
+              
+              
+              
+          ]
+          
+          
+          
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Word study knowledge to the test.",
+          "questions": [
+              {
+              "id": 0,
+               "content": "What is the suffix in the word 'hopeful'?",
+               "correctIndex": 1,
+               "answers": ["hope", "ful", "ly", "less"]
+             },
+             {
+               "id": 1,
+               "content": "Which of the following words has the prefix 'pre-'?",
+               "correctIndex": 2,
+               "answers": ["happy","usual", "prepare", "strong"]
+             },
+             {
+               "id": 2,
+               "content": "What is the plural form of 'person'?",
+               "correctIndex": 3,
+               "answers": ["persons", "peoples", "persones", "people"]
+             },
+             {
+               "id": 3,
+               "content": "What is the antonym for 'ancient'?",
+               "correctIndex": 3,
+               "answers": ["old", "moderate", "past", "young"]
+             },
+             {
+               "id": 4,
+               "content": "What part of speech is the word 'carefully'?",
+               "correctIndex": 2,
+               "answers": ["noun", "adjective", "adverb", "verb"]
+             },
+             {
+               "id": 5,
+               "content": "Which of the following is a compound word?",
+               "correctIndex": 0,
+               "answers": ["rainbow", "sunny", "snowy", "windy"]
+             },
+             {
+               "id": 6,
+               "content": "What is the correct order of the syllables in the word 'elephant'?",
+               "correctIndex": 0,
+               "answers": ["e-le-phant", "ele-phant", "el-e-phant", "elep-hant"]
+             },
+             {
+               "id": 7,
+               "content": "What does the prefix 'un-' mean in the word 'undo'?",
+               "correctIndex": 2,
+               "answers": ["not", "before", "reverse", "over"]
+             },
+             {
+               "id": 8,
+               "content": "What is the superlative form of the adjective 'tall'?",
+               "correctIndex": 1,
+               "answers": ["taller", "tallest", "more tall", "talliest"]
+             },
+             {
+               "id": 9,
+               "content": "What is the synonym for 'furious'?",
+               "correctIndex": 0,
+               "answers": ["angry", "calm", "happy", "shy"]
+             },
+             {
+               "id": 10,
+               "content": "What is the suffix in the word 'joyful'?",
+               "correctIndex": 1,
+               "answers": ["joy", "ful", "ly", "less"]
+             },
+             {
+               "id": 11,
+               "content": "Which of the following words has the prefix 'mid-'?",
+               "correctIndex": 2,
+               "answers": ["happy", "smile", "midday", "bright"]
+             },
+             {
+               "id": 12,
+               "content": "What is the plural form of 'man'?",
+               "correctIndex": 0,
+               "answers": ["men", "mans", "manes", "manen"]
+             },
+             {
+               "id": 13,
+               "content": "What is the antonym for 'narrow'?",
+               "correctIndex": 2,
+               "answers": ["wind", "thin", "broad", "small"]
+             },
+             {
+               "id": 14,
+               "content": "What part of speech is the word 'sound'?",
+               "correctIndex": 0,
+               "answers": ["noun", "adjective", "adverb", "verb"]
+             },
+             {
+               "id": 15,
+               "content": "Which of the following is a compound word?",
+               "correctIndex": 2,
+               "answers": ["bed", "home", "sunshine", "play"]
+             },
+             {
+               "id": 16,
+               "content": "What is the correct order of the syllables in the word 'chocolate'?",
+               "correctIndex": 0,
+               "answers": ["cho-co-late", "choco-late", "choc-o-late", "chocol-ate"]
+             },
+             {
+               "id": 17,
+               "content": "What does the prefix 're-' mean in the word 'return'?",
+               "correctIndex": 1,
+               "answers": ["not", "again", "after", "over"]
+             },
+             {
+               "id": 18,
+               "content": "What is the superlative form of the adjective 'quiet'?",
+               "correctIndex": 0,
+               "answers": ["quietest", "quieter", "more quiet", "quietiest"]
+             },
+             {
+               "id": 19,
+               "content": "What is the synonym for 'courageous'?",
+               "correctIndex": 2,
+               "answers": ["broad", "shy", "brave", "tired"]
+             },
+             {
+               "id": 20,
+               "content": "What is the suffix in the word 'fearless'?",
+               "correctIndex": 1,
+               "answers": ["fear", "less", "ly", "full"]
+             },
+             {
+               "id": 21,
+               "content": "Which of the following words has the prefix 'dis-'?",
+               "correctIndex": 0,
+               "answers": ["dislike", "unlike", "approve", "enjoy"]
+             },
+             {
+               "id": 22,
+               "content": "What is the plural form of 'knife'?",
+               "correctIndex": 3,
+               "answers": ["knifes", "knive", "knifs", "knives"]
+             },
+             {
+               "id": 23,
+               "content": "What is the antonym for 'clever'?",
+               "correctIndex": 2,
+               "answers": ["smart", "doom", "stupid", "wise"]
+             },
+             {
+               "id": 24,
+               "content": "What part of speech is the word 'loudly'?",
+               "correctIndex": 2,
+               "answers": ["noun", "adjective", "adverb", "verb"]
+             },
+             {
+               "id": 25,
+               "content": "Which of the following is a compound word?",
+               "correctIndex": 1,
+               "answers": ["rain", "starlight", "windy", "snowy"]
+             },
+             {
+               "id": 26,
+               "content": "What is the correct order of the syllables in the word 'fantastic'?",
+               "correctIndex": 2,
+               "answers": ["fant-as-tic", "fantas-tic", "fan-tas-tic", "fantas-tic"]
+             },
+              
+              {
+                "id": 27,
+                "content": "What is the subject of the sentence? 'The cat chased the mouse.'",
+                "correctIndex": 0,
+                "answers": ["The cat", "chased", "the mouse", "cat chased"]
+              },
+              {
+                "id": 28,
+                "content": "What is the object of the sentence? 'She gave him a gift.'",
+                "correctIndex": 2,
+                "answers": ["She", "gave him", "a gift", "gift"]
+              },
+              {
+                "id": 29,
+                "content": "Which is a subject pronoun?",
+                "correctIndex": 2,
+                "answers": ["mine", "yours", "he", "her"]
+              },
+              {
+                "id": 30,
+                "content": "Choose the correct homophone: 'We ____ going to the park tomorrow.'",
+                "correctIndex": 1,
+                "answers": ["our", "are", "hour", "ours"]
+              },
+              {
+                "id": 31,
+                "content": "Which homophone should be used here? '_____ car is red.'",
+                "correctIndex": 1,
+                "answers": ["There", "Their", "They're", "Thier"]
+              },
+              {
+                "id": 32,
+                "content": "Select the correct homophone: 'I want ____ cookies too.'",
+                "correctIndex": 0,
+                "answers": ["Two", "To", "Too", "Toos"]
+              },
+              {
+                "id": 33,
+                "content": "What does the prefix 'un-' mean in the word 'undo'?",
+                "correctIndex": 2,
+                "answers": ["not", "before", "reverse", "over"]
+              },
+              {
+                "id": 34,
+                "content": "What is a phrase?",
+                "correctIndex": 3,
+                "answers": ["A sentence with a subject and a verb.", "A short story.", "A long list of words.", "A group of words without both a subject and a verb."]
+              },
+              {
+                "id": 35,
+                "content": "Identify the subject of the sentence: 'The excited children played in the park.'",
+                "correctIndex": 2,
+                "answers": ["excited", "played", "children", "park"]
+              },
+              {
+                "id": 36,
+                "content": "Which of the following words has a prefix?",
+                "correctIndex": 1,
+                "answers": ["happy", "undo", "fast", "bright"]
+              },
+              {
+                "id": 37,
+                "content": "Which of the following sentences contains a contraction?",
+                "correctIndex": 2,
+                "answers": ["I love to read books.", "She is going to the store.", "I'll meet you later.", "They have a blue car."]
+              },
+              {
+                "id": 38,
+                "content": "What is the comparative form of the adjective 'big'?",
+                "correctIndex": 3,
+                "answers": ["bigly", "biggest", "more big", "bigger"]
+              },
+              {
+                "id": 39,
+                "content": "What is a synonym for 'joyful'?",
+                "correctIndex": 2,
+                "answers": ["sad", "angry", "happy", "loud"]
+              },
+              {
+                "id": 40,
+                "content": "Choose the correct homophone: '_____ dog is cute.'",
+                "correctIndex": 0,
+                "answers": ["Your", "You're", "Yours", "Your's"]
+              },
+              {
+                "id": 41,
+                "content": "Select the correct homophone: 'I don't think ____ going to rain today.'",
+                "correctIndex": 1,
+                "answers": ["It's", "Its", "It", "Ites"]
+              },
+              {
+                "id": 42,
+                "content": "What is an interjection?",
+                "correctIndex": 1,
+                "answers": ["A sentence that gives a command.", "A word or phrase that shows strong feeling.", "A question that seeks information.", "A statement of fact."]
+              },
+              {
+                "id": 43,
+                "content": "What is an antonym for 'happy'?",
+                "correctIndex": 2,
+                "answers": ["excited", "joyful", "sad", "funny"]
+              },
+              {
+                "id": 44,
+                "content": "Choose the correct homophone: '____ going to have a great time.'",
+                "correctIndex": 0,
+                "answers": ["We're", "Were", "Where", "Wher"]
+              },
+              {
+                "id": 45,
+                "content": "What is the suffix in the word 'nicest'?",
+                "correctIndex": 2,
+                "answers": ["nice", "st", "est", "nic"]
+              },
+              {
+                "id": 46,
+                "content": "What is the role of a phrase in a sentence?",
+                "correctIndex": 0,
+                "answers": ["To add detail to a sentence.", "To show action.", "To ask a question.", "To express emotion."]
+              },
+              {
+                "id": 47,
+                "content": "Identify the object of the sentence: 'She baked cookies for her friends.'",
+                "correctIndex": 3,
+                "answers": ["She", "baked", "cookies", "her friends"]
+              },
+              
+              {
+                "id": 48,
+                "content": "In the sentence 'The sun sets in the west.', what is the subject?",
+                "correctIndex": 0,
+                "answers": ["The sun", "sets", "in the west", "The sun sets"]
+              },
+              {
+                "id": 49,
+                "content": "Identify the indirect object in the sentence: 'She gave her sister a book.'",
+                "correctIndex": 1,
+                "answers": ["She", "her sister", "a book", "gave"]
+              },
+              {
+                "id": 50,
+                "content": "Which is an object pronoun?",
+                "correctIndex": 3,
+                "answers": ["I", "you", "he", "me"]
+              },
+              {
+                "id": 51,
+                "content": "Choose the correct homophone: '_____ coming to the party?'",
+                "correctIndex": 1,
+                "answers": ["Whose", "Who's", "Whom", "Who"]
+              },
+              {
+                "id": 52,
+                "content": "Which homophone should be used here? '_____ dog barks loudly.'",
+                "correctIndex": 1,
+                "answers": ["Its", "It's", "Its'", "It"]
+              },
+              {
+                "id": 53,
+                "content": "Select the correct homophone: 'She was ____ tired to continue.'",
+                "correctIndex": 1,
+                "answers": ["Two", "Too", "To", "Tow"]
+              },
+              {
+                "id": 54,
+                "content": "What does the prefix 'dis-' mean in the word 'dislike'?",
+                "correctIndex": 2,
+                "answers": ["against", "over", "not", "with"]
+              },
+              {
+                "id": 55,
+                "content": "Which of the following is a phrase?",
+                "correctIndex": 2,
+                "answers": ["He runs.", "Quickly runs.", "Running quickly.", "Ran quickly."]
+              },
+              {
+                "id": 56,
+                "content": "What is the subject of the sentence? 'Many colorful birds fly in the sky.'",
+                "correctIndex": 1,
+                "answers": ["Many colorful", "birds", "fly", "in the sky"]
+              },
+              {
+                "id": 57,
+                "content": "Which word has the prefix 're-'?",
+                "correctIndex": 0,
+                "answers": ["replay", "playful", "happy", "running"]
+              },
+              {
+                "id": 58,
+                "content": "In which sentence is a contraction used?",
+                "correctIndex": 3,
+                "answers": ["She is reading a book.", "I have a new toy.", "They were playing outside.", "We'll meet at the park."]
+              },
+              {
+                "id": 59,
+                "content": "What is the superlative form of 'good'?",
+                "correctIndex": 2,
+                "answers": ["goodest", "better", "best", "well"]
+              },
+              {
+                "id": 60,
+                "content": "What is a synonym for 'brave'?",
+                "correctIndex": 1,
+                "answers": ["scared", "courageous", "small", "quiet"]
+              },
+              {
+                "id": 61,
+                "content": "Choose the correct homophone: '____ going to have a great time.'",
+                "correctIndex": 0,
+                "answers": ["We're", "Were", "Where", "Wher"]
+              },
+              {
+                "id": 62,
+                "content": "What is the suffix in the word 'happily'?",
+                "correctIndex": 1,
+                "answers": ["happy", "ly", "happ", "ness"]
+              },
+              {
+                "id": 63,
+                "content": "What is the function of an interjection in a sentence?",
+                "correctIndex": 1,
+                "answers": ["To connect ideas.", "To express strong emotion.", "To show action.", "To ask a question."]
+              },
+              {
+                "id": 64,
+                "content": "What is an antonym for 'friendly'?",
+                "correctIndex": 3,
+                "answers": ["kind", "warm", "happy", "unfriendly"]
+              },
+              {
+                "id": 65,
+                "content": "Choose the correct homophone: '_____ shoes are new.'",
+                "correctIndex": 0,
+                "answers": ["Their", "They're", "There", "Theire"]
+              },
+              {
+                "id": 66,
+                "content": "What is the suffix in the word 'safest'?",
+                "correctIndex": 2,
+                "answers": ["safe", "st", "est", "saf"]
+              },
+              {
+                "id": 67,
+                "content": "What is the role of a phrase in a sentence?",
+                "correctIndex": 0,
+                "answers": ["To add detail to a sentence.", "To show action.", "To ask a question.", "To express emotion."]
+              },
+              {
+                "id": 68,
+                "content": "Identify the direct object in the sentence: 'She baked delicious cookies.'",
+                "correctIndex": 1,
+                "answers": ["She", "delicious cookies", "baked", "baked delicious"]
+              },
+              {
+                "id": 69,
+                "content": "What is a subject pronoun?",
+                "correctIndex": 3,
+                "answers": ["mine", "hers", "his", "we"]
+              },
+              {
+                "id": 70,
+                "content": "Choose the correct homophone: '____ books are on the shelf.'",
+                "correctIndex": 0,
+                "answers": ["Our", "Are", "Hour", "Ours"]
+              },
+              {
+                "id": 71,
+                "content": "Select the correct homophone: '_____ you going to the party?'",
+                "correctIndex": 1,
+                "answers": ["Whose", "Who's", "Whom", "Who"]
+              },
+              {
+                "id": 72,
+                "content": "Which homophone should be used here? '_____ car is red.'",
+                "correctIndex": 1,
+                "answers": ["Its", "It's", "Its'", "It"]
+              },
+              {
+                "id": 73,
+                "content": "What does the prefix 're-' mean in the word 'redo'?",
+                "correctIndex": 2,
+                "answers": ["against", "over", "again", "before"]
+              },
+              {
+                "id": 74,
+                "content": "Which of the following is a phrase?",
+                "correctIndex": 3,
+                "answers": ["He sings.", "Sings loudly.", "Sang beautifully.","Singing happily."]
+              },
+              {
+                "id": 75,
+                "content": "What is the subject of the sentence? 'The diligent students complete their homework.'",
+                "correctIndex": 0,
+                "answers": ["diligent students", "complete", "their homework", "The diligent"]
+              },
+              {
+                "id": 76,
+                "content": "Which word has the prefix 'pre-'?",
+                "correctIndex": 2,
+                "answers": ["happy", "unhappy", "preorder", "play"]
+              },
+              {
+                "id": 77,
+                "content": "In which sentence is a contraction used?",
+                "correctIndex": 1,
+                "answers": ["She will read a book.", "He's playing outside.", "They have a big house.", "I am drawing a picture."]
+              },
+              {
+                "id": 78,
+                "content": "What is the superlative form of 'bad'?",
+                "correctIndex": 0,
+                "answers": ["worst", "badder", "baddest", "worse"]
+              },
+              {
+                "id": 79,
+                "content": "What is a synonym for 'calm'?",
+                "correctIndex": 2,
+                "answers": ["happy", "angry", "peaceful", "loud"]
+              }
+              
+              
+          ]
+      }
+       
+    }
+
+]

@@ -1,0 +1,436 @@
+
+
+[
+    {
+        "id": 5,
+        "category": "Comprehension",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "WackyTron's Quantum Conundrum",
+                            "topicContent": "WackyTron and Mizzy get entangled in a quantum physics experiment, experiencing parallel realities. As they navigate alternate worlds, they gain insights into the interconnectedness of choices and consequences."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "WackyTron's Cryptic Chronicles",
+                            "topicContent": "A mysterious artifact sends WackyTron and Mizzy on a journey deciphering ancient symbols. Through historical puzzles and riddles, they unlock a hidden story that bridges the past and present."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "WackyTron's Social Media Scape",
+                            "topicContent": "WackyTron and Mizzy navigate the complexities of social media as they uncover a cyberbullying incident. Their experiences prompt discussions on digital etiquette, empathy, and responsible online behavior."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "WackyTron's Eco-Warriors",
+                            "topicContent": "WackyTron and Mizzy lead an eco-conscious movement in their community, raising awareness about environmental issues and inspiring positive change through educational initiatives and eco-friendly projects."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "WackyTron's Empowerment Quest",
+                            "topicContent": "WackyTron and Mizzy embark on a self-discovery journey, facing personal fears and doubts. Along the way, they learn to embrace their unique strengths, building resilience and self-confidence."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "WackyTron's Ethical Expedition",
+                            "topicContent": "WackyTron and Mizzy encounter a dilemma involving a lost wallet. As they explore the ethical nuances of their choices, they grapple with the concept of integrity and make decisions that reflect their values."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "WackyTron's Artistic Odyssey",
+                            "topicContent": "WackyTron and Mizzy delve into the world of art restoration, uncovering historical anecdotes behind masterpieces. Through their adventure, they explore artistic expression and cultural significance."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "WackyTron's Virtual Reality Voyage",
+                            "topicContent": "WackyTron and Mizzy experiment with virtual reality technology, leading to philosophical discussions about the boundaries between reality and illusion and the implications of technological advancements."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "WackyTron's Cosmic Legacy",
+                            "topicContent": "WackyTron and Mizzy explore the universe, discovering remnants of ancient civilizations. Through their discoveries, they ponder the universe's vastness, human history, and the quest for knowledge."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "WackyTron's Quest for Unity",
+                            "topicContent": "A cultural exchange program brings WackyTron and Mizzy together with peers from diverse backgrounds. As they learn about different cultures, they build bridges of understanding and promote global harmony."
+                        },
+                        
+                        {
+                                    "id": 11,
+                                    "topicTitle": "WackyTron's Cosmic Comic Caper",
+                                    "topicContent": "WackyTron and Mizzy accidentally step into a cosmic comic book, where they navigate through panels and meet quirky characters while learning valuable life lessons."
+                                }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Memeory skills of WackyTrons adventures to the test.",
+          "questions": [
+              
+              {
+                "id": 0,
+                "content": "In 'WackyTron's Quantum Conundrum', how do WackyTron and Mizzy's experiences in alternate realities contribute to their understanding of the interconnectedness of choices and consequences?",
+                "correctIndex": 1,
+                "answers": [
+                  "Their experiences in alternate realities have no impact on their understanding",
+                  "Their experiences in alternate realities contribute to their understanding of interconnectedness",
+                  "Their experiences in alternate realities contradict their understanding of interconnectedness",
+                  "Their experiences in alternate realities are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 1,
+                "content": "What role do historical puzzles and riddles play in unraveling the hidden story in 'WackyTron's Cryptic Chronicles', and how do they bridge the past and present?",
+                "correctIndex": 0,
+                "answers": [
+                  "Historical puzzles and riddles play a crucial role in unraveling the hidden story and bridging the past and present",
+                  "Historical puzzles and riddles have no impact on the story",
+                  "Historical puzzles and riddles hinder the story's progression",
+                  "Historical puzzles and riddles are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 2,
+                "content": "In 'WackyTron's Social Media Scape', how do WackyTron and Mizzy's experiences with cyberbullying prompt discussions on digital etiquette, empathy, and responsible online behavior?",
+                "correctIndex": 1,
+                "answers": [
+                  "Their experiences with cyberbullying have no impact on discussions about digital etiquette, empathy, and responsible online behavior",
+                  "Their experiences with cyberbullying prompt discussions on digital etiquette, empathy, and responsible online behavior",
+                  "Their experiences with cyberbullying contradict discussions about digital etiquette, empathy, and responsible online behavior",
+                  "Their experiences with cyberbullying are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 3,
+                "content": "How do WackyTron and Mizzy's educational initiatives and eco-friendly projects in 'WackyTron's Eco-Warriors' inspire positive change in their community?",
+                "correctIndex": 0,
+                "answers": [
+                  "Their educational initiatives and eco-friendly projects inspire positive change in their community",
+                  "Their initiatives have no impact on their community",
+                  "Their initiatives hinder positive change",
+                  "Their initiatives are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 4,
+                "content": "What personal growth and development milestones do WackyTron and Mizzy achieve during their self-discovery journey in 'WackyTron's Empowerment Quest'?",
+                "correctIndex": 1,
+                "answers": [
+                  "They achieve no personal growth or development milestones",
+                  "They achieve personal growth and development milestones during their self-discovery journey",
+                  "They regress in personal growth during their journey",
+                  "Their personal growth is irrelevant to the story"
+                ]
+              },
+              {
+                "id": 5,
+                "content": "How do WackyTron and Mizzy navigate the ethical nuances of the lost wallet dilemma in 'WackyTron's Ethical Expedition', and how does it reflect their understanding of integrity?",
+                "correctIndex": 0,
+                "answers": [
+                  "They navigate the ethical nuances of the dilemma, reflecting their understanding of integrity",
+                  "They navigate the dilemma without considering ethical nuances",
+                  "They ignore ethical considerations in their decision-making",
+                  "Their navigation of the dilemma is irrelevant to integrity"
+                ]
+              },
+              {
+                "id": 6,
+                "content": "In 'WackyTron's Artistic Odyssey', how does the exploration of art restoration uncover historical anecdotes and contribute to WackyTron and Mizzy's understanding of artistic expression?",
+                "correctIndex": 1,
+                "answers": [
+                  "Exploring art restoration has no impact on historical anecdotes or understanding of artistic expression",
+                  "Exploring art restoration uncovers historical anecdotes and contributes to understanding artistic expression",
+                  "Exploring art restoration contradicts historical anecdotes and artistic expression",
+                  "Exploring art restoration is irrelevant to the story"
+                ]
+              },
+              {
+                "id": 7,
+                "content": "How do WackyTron and Mizzy's philosophical discussions about virtual reality and technological advancements in 'WackyTron's Virtual Reality Voyage' challenge their perceptions of reality and illusion?",
+                "correctIndex": 0,
+                "answers": [
+                  "Their philosophical discussions challenge their perceptions of reality and illusion",
+                  "Their discussions have no impact on their perceptions",
+                  "Their discussions reinforce their perceptions",
+                  "Their discussions are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 8,
+                "content": "What significance do the remnants of ancient civilizations hold for WackyTron and Mizzy in 'WackyTron's Cosmic Legacy', and how do these discoveries prompt contemplation of the universe and human history?",
+                "correctIndex": 1,
+                "answers": [
+                  "The remnants of ancient civilizations have no significance for WackyTron and Mizzy",
+                  "The remnants of ancient civilizations hold significance and prompt contemplation of the universe and human history",
+                  "The remnants of ancient civilizations hinder their contemplation",
+                  "The remnants of ancient civilizations are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 9,
+                "content": "In 'WackyTron's Quest for Unity', how do WackyTron and Mizzy's experiences with peers from diverse backgrounds contribute to building bridges of understanding and promoting global harmony?",
+                "correctIndex": 0,
+                "answers": [
+                  "Their experiences with peers from diverse backgrounds contribute to building bridges of understanding and promoting global harmony",
+                  "Their experiences have no impact on understanding and global harmony",
+                  "Their experiences contradict understanding and global harmony",
+                  "Their experiences are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 10,
+                "content": "How do WackyTron and Mizzy navigate through panels and meet quirky characters while learning valuable life lessons in 'WackyTron's Cosmic Comic Caper'?",
+                "correctIndex": 1,
+                "answers": [
+                  "They navigate through panels without learning any life lessons",
+                  "They navigate through panels and meet quirky characters while learning valuable life lessons",
+                  "They navigate through panels but avoid meeting quirky characters",
+                  "Their navigation through panels is irrelevant to the story"
+                ]
+              },
+              {
+                 "id": 11,
+                 "content": "In 'WackyTron's Quantum Conundrum', what scientific concept forms the basis for WackyTron and Mizzy's experiences in alternate realities?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Gravity",
+                   "Friction",
+                   "Quantum physics",
+                   "Magnetism"
+                 ]
+               },
+               {
+                 "id": 12,
+                 "content": "How does the artifact in 'WackyTron's Cryptic Chronicles' influence WackyTron and Mizzy's perception of time?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "It accelerates time",
+                   "It warps time",
+                   "It stops time",
+                   "It reverses time"
+                 ]
+               },
+               {
+                 "id": 13,
+                 "content": "In 'WackyTron's Social Media Scape', what real-world issue do WackyTron and Mizzy address through their experiences?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Climate change",
+                   "Space exploration",
+                   "Cyberbullying",
+                   "World hunger"
+                 ]
+               },
+               {
+                 "id": 14,
+                 "content": "How do WackyTron and Mizzy's eco-friendly projects in 'WackyTron's Eco-Warriors' extend beyond their immediate community?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Their eco-friendly projects extend beyond their community",
+                   "Their eco-friendly projects only impact their community",
+                   "Their eco-friendly projects have no impact",
+                   "Their eco-friendly projects are irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 15,
+                 "content": "In 'WackyTron's Empowerment Quest', how does WackyTron initially perceive his own abilities?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "He perceives his abilities accurately",
+                   "He underestimates his abilities",
+                   "He overestimates his abilities",
+                   "He has no opinion about his abilities"
+                 ]
+               },
+               {
+                 "id": 16,
+                 "content": "What ethical dilemma do WackyTron and Mizzy face in 'WackyTron's Ethical Expedition', and how does their decision reflect their values?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "They face an ethical dilemma about sharing a secret",
+                   "They face an ethical dilemma about choosing a school project",
+                   "They face an ethical dilemma about a lost wallet",
+                   "They face an ethical dilemma about a science experiment"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "In 'WackyTron's Artistic Odyssey', what historical context do WackyTron and Mizzy learn about while exploring art restoration?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Historical context of space exploration",
+                   "Historical context of art and artists",
+                   "Historical context of ancient civilizations",
+                   "Historical context of technological advancements"
+                 ]
+               },
+               {
+                 "id": 18,
+                 "content": "How does the concept of virtual reality challenge WackyTron and Mizzy's understanding of the boundaries between reality and illusion in 'WackyTron's Virtual Reality Voyage'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The concept of virtual reality challenges their understanding of reality and illusion",
+                   "The concept of virtual reality reinforces their understanding",
+                   "The concept of virtual reality has no impact on their understanding",
+                   "The concept of virtual reality is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 19,
+                 "content": "What drives WackyTron and Mizzy's curiosity to explore the remnants of ancient civilizations in 'WackyTron's Cosmic Legacy'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "A desire for fame",
+                   "A thirst for knowledge and understanding",
+                   "A quest for treasure",
+                   "A need for adventure"
+                 ]
+               },
+               {
+                 "id": 20,
+                 "content": "In 'WackyTron's Quest for Unity', what challenges do WackyTron and Mizzy encounter during the cultural exchange program?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Challenges related to understanding and embracing diversity",
+                   "Challenges related to competition",
+                   "Challenges related to technology",
+                   "Challenges related to teamwork"
+                 ]
+               },
+               {
+                 "id": 21,
+                 "content": "How do WackyTron and Mizzy's actions in 'WackyTron's Cosmic Comic Caper' demonstrate their adaptability in unpredictable situations?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "Their actions do not demonstrate adaptability",
+                   "Their actions demonstrate reluctance",
+                   "Their actions demonstrate adaptability",
+                   "Their actions demonstrate stubbornness"
+                 ]
+               },
+               {
+                  "id": 22,
+                  "content": "In 'WackyTron's Quantum Conundrum', how do parallel realities affect WackyTron and Mizzy's understanding of choices?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Parallel realities lead them to abandon making choices",
+                    "Parallel realities make them disregard consequences",
+                    "Parallel realities highlight the significance of choices and outcomes",
+                    "Parallel realities confuse them about making choices"
+                  ]
+                },
+                {
+                  "id": 23,
+                  "content": "What significant role does deciphering ancient symbols play in 'WackyTron's Cryptic Chronicles'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Deciphering symbols uncovers a hidden story that bridges past and present",
+                    "Deciphering symbols creates a time-travel adventure",
+                    "Deciphering symbols has no relevance to the story",
+                    "Deciphering symbols leads to solving a crime"
+                  ]
+                },
+                {
+                  "id": 24,
+                  "content": "In 'WackyTron's Social Media Scape', what lesson do WackyTron and Mizzy learn about responsible online behavior?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "They learn that online behavior doesn't matter",
+                    "They learn that online behavior has no consequences",
+                    "They learn that online behavior is not important",
+                    "They learn that responsible online behavior is essential"
+                  ]
+                },
+                {
+                  "id": 25,
+                  "content": "How do WackyTron and Mizzy inspire positive change in their community in 'WackyTron's Eco-Warriors'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "They inspire change by encouraging littering",
+                    "They inspire change by promoting excessive energy use",
+                    "They inspire change through educational initiatives and eco-friendly projects",
+                    "They inspire change by ignoring environmental issues"
+                  ]
+                },
+                {
+                  "id": 26,
+                  "content": "What is the central theme of 'WackyTron's Empowerment Quest'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "The central theme is self-discovery, building resilience, and self-confidence",
+                    "The central theme is avoiding challenges",
+                    "The central theme is depending on others for empowerment",
+                    "The central theme is avoiding empowerment"
+                  ]
+                },
+                {
+                  "id": 27,
+                  "content": "What ethical decision do WackyTron and Mizzy face in 'WackyTron's Ethical Expedition'?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "They face an ethical decision about choosing a pet",
+                    "They face an ethical decision about watching a movie",
+                    "They face an ethical decision about ordering food",
+                    "They face an ethical decision about returning a lost wallet"
+                  ]
+                },
+                {
+                  "id": 28,
+                  "content": "What do WackyTron and Mizzy learn about cultural heritage in 'WackyTron's Artistic Odyssey'?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "They learn that cultural heritage is unimportant",
+                    "They learn that art has cultural significance and reflects historical narratives",
+                    "They learn that art has no connection to culture",
+                    "They learn that cultural heritage is irrelevant"
+                  ]
+                },
+                {
+                  "id": 29,
+                  "content": "How do the philosophical discussions in 'WackyTron's Virtual Reality Voyage' influence WackyTron and Mizzy's perspectives?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The discussions confirm their existing perspectives",
+                    "The discussions challenge their perspectives on reality and technology",
+                    "The discussions have no impact on their perspectives",
+                    "The discussions make them reject technology entirely"
+                  ]
+                },
+                {
+                  "id": 30,
+                  "content": "What existential questions arise from WackyTron and Mizzy's exploration of the universe in 'WackyTron's Cosmic Legacy'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Questions about human existence, the universe's origins, and the quest for knowledge",
+                    "Questions about entertainment",
+                    "Questions about food",
+                    "Questions about fashion"
+                  ]
+                },
+                {
+                  "id": 31,
+                  "content": "How does participating in the cultural exchange program impact WackyTron and Mizzy's perspectives on diversity?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "It reinforces their belief in homogeneity",
+                    "It has no impact on their perspectives",
+                    "It makes them uncomfortable with diversity",
+                    "It broadens their understanding and appreciation of diversity"
+                  ]
+                }
+               
+              
+          ]
+      }
+       
+    }
+
+]

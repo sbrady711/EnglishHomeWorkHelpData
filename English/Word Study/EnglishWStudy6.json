@@ -1,0 +1,853 @@
+
+[
+    {
+        "id": 5,
+        "category": "Word Study",
+        "description": "Grammer Writing and Reading ",
+      "content": {
+          "id": 0,
+          "teaching": [
+              {
+                                "id": 0,
+                                "topicTitle": "Parts of Speech and Parsing",
+                                "topicContent": " Introduce the various parts of speech (nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, interjections) and discuss parsing sentences to identify these parts."
+                            },
+              
+              {
+                  "id": 1,
+                  "topicTitle": "One Word: Different Parts of Speech",
+                  "topicContent": " Explore how a single word can function as different parts of speech based on its context. Teach how to identify these variations."
+              },
+              {
+                  "id": 2,
+                  "topicTitle": "Proofreading",
+                  "topicContent": "Introduce proofreading techniques to check for errors in writing. Teach students to identify and correct spelling, punctuation, and grammatical mistakes."
+        
+      },
+              {
+                  "id": 3,
+                  "topicTitle": "Noun Phrases as Subjects and Objects",
+                  "topicContent": "Explore how noun phrases can function as subjects and objects in sentences. Teach how to identify and use noun phrases effectively."
+              },
+              {
+                  "id": 4,
+                  "topicTitle": "Compound Subjects and Objects",
+                  "topicContent": "Teach compound subjects (two or more subjects) and compound objects (two or more objects) in sentences. Discuss their usage and agreement with verbs."
+              },
+              {
+                  "id": 5,
+                  "topicTitle": "Homophone Mix-ups",
+                  "topicContent": "Continue exploring homophones with additional pairs that are often confused. Discuss their meanings and practice differentiating their usage."
+              },
+              {
+                  "id": 6,
+                  "topicTitle": "Homographs and Homonyms",
+                  "topicContent": "Introduce homographs (words with the same spelling but different meanings) and homonyms (words that sound the same but have different meanings)."
+              },
+              {
+                  "id": 7,
+                  "topicTitle": "Homographs and Homonyms Understanding",
+                  "topicContent": "Deepen understanding of homographs and homonyms by discussing how context helps determine their meanings in sentences."
+              },
+     {
+                  "id": 8,
+                  "topicTitle": "Antonyms and Synonyms",
+                  "topicContent": "Review antonyms and synonyms. Teach how antonyms are opposite in meaning, while synonyms have similar meanings. Encourage vocabulary exploration."
+              },
+              {
+                  "id": 9,
+                  "topicTitle": "Definite and Indefinite Articles",
+                  "topicContent": " Introduce definite articles (the) and indefinite articles (a, an). Explain when and how to use these articles with nouns."
+              },
+              {
+                  "id": 10,
+                  "topicTitle": "Countable and Uncountable Nouns",
+                  "topicContent": "Teach the difference between countable (can be counted) and uncountable (cannot be counted individually) nouns. Discuss their usage and plural forms."
+              },
+              {
+                  "id": 11,
+                  "topicTitle": "Parts of Speech",
+                  "topicContent": "Review the various parts of speech and their functions in sentences. Provide examples and engage students in identifying each part of speech."
+      },
+        {
+                  "id": 12,
+                  "topicTitle": "Direct and Indirect Objects",
+                  "topicContent": "Introduce direct and indirect objects in sentences. Explain their roles and how they relate to verbs and subjects."
+              },
+        {
+                      "id": 13,
+                      "topicTitle": "Relative Clauses",
+                      "topicContent": "Introduce relative clauses (adjective clauses) and how they provide additional information about a noun. Teach how to identify and use them."
+                  },
+                  {
+                      "id": 14,
+                      "topicTitle": "Relative Clauses in Sentences",
+                      "topicContent": "Discuss how to integrate relative clauses into sentences. Provide examples and guide students in creating complex sentences with relative clauses."
+                  },
+                  {
+                      "id": 15,
+                      "topicTitle": "Coordinating Conjunctions",
+                      "topicContent": "Introduce coordinating conjunctions (and, but, or, so, for, yet, nor). Explain how they connect words, phrases, or clauses in sentences."
+                  },
+                  {
+                      "id": 16,
+                      "topicTitle": "The Active and Passive Voice",
+                      "topicContent": "Introduce the active and passive voice. Teach how the subject performs the action in the active voice and receives the action in the passive voice."
+                  },
+                  {
+                      "id": 17,
+                      "topicTitle": "The Passive Voice",
+                      "topicContent": "Further explore the passive voice, its formation, and its usage in sentences. Discuss how the passive voice can change sentence focus."
+          },
+        {
+                      "id": 18,
+                      "topicTitle": "Gerunds",
+                      "topicContent": "Introduce gerunds (verb forms ending in -ing) and how they function as nouns in sentences. Discuss their usage and provide examples."
+                  },
+                  {
+                      "id": 19,
+                      "topicTitle": "Idioms",
+                      "topicContent": "Explore idiomatic expressions (phrases with figurative meanings) and their usage in everyday language. Provide examples and discuss their meanings."
+                  },
+                  {
+                      "id": 20,
+                      "topicTitle": "Imperatives",
+                      "topicContent": "Teach imperative sentences (commands and requests) and how they are formed. Provide examples and practice creating imperative sentences."
+                  },
+                  {
+                      "id": 21,
+                      "topicTitle": "Using Paragraphs and Cohesion",
+                      "topicContent": "Discuss the importance of using paragraphs to organize writing. Teach how to achieve cohesion within and between paragraphs."
+                  },
+                  {
+                      "id": 22,
+                      "topicTitle": "Formal and Informal Writing",
+                      "topicContent": " Explore the differences between formal and informal writing styles. Discuss appropriate contexts for each style and provide examples."
+                  },
+                  {
+                      "id": 23,
+                      "topicTitle": "Homophone Mix-ups",
+                      "topicContent": "Continue exploring homophones with additional pairs that are often confused. Discuss their meanings and practice differentiating their usage."
+                  },
+                  {
+                      "id": 24,
+                      "topicTitle": "Antonyms and Synonyms",
+                      "topicContent": "Review antonyms and synonyms. Teach how antonyms are opposite in meaning, while synonyms have similar meanings. Encourage vocabulary exploration."
+                  },
+                  {
+                      "id": 25,
+                      "topicTitle": "Expository Writing",
+                      "topicContent": " Introduce expository writing and its purpose to inform or explain. Teach the structure of expository essays and provide guidance on creating clear and organized writing."
+                  }
+              
+              
+          ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Word study knowledge to the test.",
+          "questions": [
+              
+              {
+                 "id": 0,
+                 "content": "Identify the prefix in the word 'unfriendly'.",
+                 "correctIndex": 0,
+                 "answers": ["un", "friendly", "unfriend", "unf"]
+               },
+               {
+                 "id": 1,
+                 "content": "What is the superlative form of the adverb 'quickly'?",
+                 "correctIndex": 3,
+                 "answers": ["more quick", "quicklyest", "quickliester", "quickest"]
+               },
+               {
+                 "id": 2,
+                 "content": "What is the antonym for 'confident'?",
+                 "correctIndex": 1,
+                 "answers": ["strong", "doubtful", "happy", "certain"]
+               },
+               {
+                 "id": 3,
+                 "content": "In which sentence is the word 'where' used correctly?",
+                 "correctIndex": 0,
+                 "answers": ["Where are you going?", "I where a jacket.", "We wehre at the store.", "Where you there?"]
+               },
+               {
+                 "id": 4,
+                 "content": "Identify the object pronoun in the sentence: 'She gave him a present.'",
+                 "correctIndex": 2,
+                 "answers": ["She", "gave", "him", "present"]
+               },
+               {
+                 "id": 5,
+                 "content": "What is the correct usage of the homophone 'you're'?",
+                 "correctIndex": 0,
+                 "answers": ["You're going to love it.", "You're book is on the table.", "You're hat.", "They're coming over later."]
+               },
+               {
+                 "id": 6,
+                 "content": "What does the suffix '-al' turn a noun into?",
+                 "correctIndex": 2,
+                 "answers": ["a verb", "an adverb", "an adjective(culture = cultural)", "a pronoun"]
+               },
+               {
+                 "id": 7,
+                 "content": "Choose the correct adjective: 'His ____________ voice sounded soothing.'",
+                 "correctIndex": 3,
+                 "answers": ["sooth", "soothed", "soothe", "soothing"]
+               },
+               {
+                 "id": 8,
+                 "content": "What is the purpose of using ellipsis (...) in writing?",
+                 "correctIndex": 2,
+                 "answers": ["To indicate a question.", "To mark the end of a sentence.", "To show omitted words or create suspense.", "To emphasize a point."]
+               },
+               {
+                 "id": 9,
+                 "content": "What is the role of hyphens (-) in compound adjectives?",
+                 "correctIndex": 1,
+                 "answers": ["To separate independent clauses.", "To link words together.", "To connect nouns and verbs.", "To introduce a list."]
+               },
+               {
+                 "id": 10,
+                 "content": "Identify the comparative adjective in the sentence: 'She is taller than her brother.'",
+                 "correctIndex": 1,
+                 "answers": ["She", "taller", "than", "brother"]
+               },
+               {
+                 "id": 11,
+                 "content": "What is the role of an infinitive in a sentence?",
+                 "correctIndex": 0,
+                 "answers": ["To serve as the base form of a verb.", "To function as a subject.", "To act as an adverb.", "To introduce a dependent clause."]
+               },
+               {
+                 "id": 12,
+                 "content": "What is the prefix in the word 'submarine'?",
+                 "correctIndex": 2,
+                 "answers": ["subm", "marine", "sub", "submar"]
+               },
+               {
+                 "id": 13,
+                 "content": "Which sentence is a compound-complex sentence?",
+                 "correctIndex": 1,
+                 "answers": ["The sun shines brightly.", "She studied hard, and she aced the test.", "He walked to the store.", "We played games."]
+               },
+               {
+                 "id": 14,
+                 "content": "What is the synonym for 'intelligent'?",
+                 "correctIndex": 2,
+                 "answers": ["stupid", "dull", "smart", "lazy"]
+               },
+               {
+                 "id": 15,
+                 "content": "In the sentence 'He is reading a book that is very interesting.', which clause is the dependent clause?",
+                 "correctIndex": 1,
+                 "answers": ["He is reading", "that is very interesting", "a book", "He"]
+               },
+              
+              {
+                "id": 16,
+                "content": "Choose the correct interjection: '__________, I can't believe I won!'",
+                "correctIndex": 0,
+                "answers": ["Wow", "Hello", "My", "Ouch"]
+              },
+              {
+                "id": 17,
+                "content": "What is the superlative form of the adjective 'big'?",
+                "correctIndex": 3,
+                "answers": ["bigly", "biggiest", "biger", "biggest"]
+              },
+              {
+                "id": 18,
+                "content": "What is the plural form of the word 'man'?",
+                "correctIndex": 2,
+                "answers": ["mans", "manes", "men", "manses"]
+              },
+        
+        {
+        "id": 19,
+        "content": "Select the appropriate interjection for this exclamation: '__________, that was an amazing performance!'",
+        "correctIndex": 3,
+        "answers": ["Woo", "Ouch", "Hooray", "Bravo"]
+        },
+              {
+                "id": 20,
+                "content": "What is the superlative form of the adjective 'big'?",
+                "correctIndex": 1,
+                "answers": ["bigly", "biggest", "biger", "biggliest"]
+              },
+              {
+                "id": 21,
+                "content": "What is the plural form of the word 'man'?",
+                "correctIndex": 2,
+                "answers": ["mans", "manes", "men", "manses"]
+              },
+          
+              {
+                "id": 22,
+                "content": "Identify the part of speech for the word 'quickly' in the sentence: 'She runs quickly.'",
+                "correctIndex": 3,
+                "answers": ["Noun", "Verb", "Adjective", "Adverb"]
+              },
+           
+              {
+                "id": 23,
+                "content": "What is the purpose of proofreading in writing?",
+                "correctIndex": 3,
+                "answers": ["To make the text longer.", "To add more details.", "To make the writing formal.", "To correct errors."]
+              },
+              {
+                "id": 24,
+                "content": "Identify the noun phrase in the sentence: 'The big blue sky stretched above us.'",
+                "correctIndex": 0,
+                "answers": ["The big blue sky", "stretched", "above us", "The big"]
+              },
+          
+              {
+                "id": 25,
+                "content": "Choose the correct usage of the homophone 'to' in a sentence.",
+                "correctIndex": 0,
+                "answers": ["I'm going to the store.", "I saw the cat to times.", "He wants to much candy.", "They're going too the park."]
+              },
+              {
+                "id": 26,
+                "content": "What is the difference between homographs and homonyms?",
+                "correctIndex": 1,
+                "answers": ["Homographs are singular, and homonyms are plural.", "Homographs have the same spelling but different meanings, while homonyms sound the same but have different meanings.", "Homographs have opposite meanings, and homonyms have similar meanings.", "Homographs have the same meaning, and homonyms have different meanings."]
+              },
+              {
+                "id": 27,
+                "content": "Which of the following is an indefinite article?",
+                "correctIndex": 2,
+                "answers": ["the", "and", "a", "of"]
+              },
+          
+              {
+                "id": 28,
+                "content": "Identify the conjunction in the sentence: 'She wanted to go to the park, but it started raining.'",
+                "correctIndex": 2,
+                "answers": ["She", "wanted", "but", "raining"]
+              },
+              {
+                "id": 29,
+                "content": "What is the active voice of the sentence: 'The book was read by the teacher.'?",
+                "correctIndex": 0,
+                "answers": ["The teacher read the book.", "The teacher read the book was.", "The teacher was read by the book.", "The book was reading by the teacher."]
+              },
+              {
+                "id": 30,
+                "content": "Choose the correct usage of the gerund in a sentence.",
+                "correctIndex": 1,
+                "answers": ["He is enjoying to swim.", "Swimming is his favorite activity.", "The cat is sleeps.", "She loves to play the piano."]
+              },
+              {
+                "id": 31,
+                "content": "What is the purpose of using idiomatic expressions in writing?",
+                "correctIndex": 2,
+                "answers": ["To confuse the reader.", "To make the writing longer.", "To convey figurative meanings and add color to language.", "To sound formal."]
+              },
+              {
+                "id": 32,
+                "content": "Identify the imperative sentence: 'Please close the door.'",
+                "correctIndex": 2,
+                "answers": ["Please", "close", "Close the door", "the door"]
+              },
+              {
+                "id": 33,
+                "content": "What is the coordinating conjunction in the sentence: 'She is talented and hardworking.'",
+                "correctIndex": 0,
+                "answers": ["and", "She", "talented", "hardworking"]
+              },
+              {
+                "id": 34,
+                "content": "Choose the correct article for the noun 'apple':",
+                "correctIndex": 2,
+                "answers": ["The apple", "A apple", "An apple", "Of apple"]
+              },
+              {
+                "id": 35,
+                "content": "In the sentence 'The letter was written by Sarah.', what is the direct object?",
+                "correctIndex": 2,
+                "answers": ["The", "letter", "written by Sarah", "Sarah"]
+              },
+              {
+                "id": 36,
+                "content": "What is the role of relative clauses ('who','which etc) in sentences?",
+                "correctIndex": 3,
+                "answers": ["To express strong emotions.", "To give commands.", "To connect independent clauses.", "To provide additional information about a noun."]
+              },
+              {
+                "id": 37,
+                "content": "What is the plural form of the compound noun 'mother-in-law'?",
+                "correctIndex": 2,
+                "answers": ["mothers-in-law", "mother-in-laws", "mothers-in-laws", "mother-in-lawes"]
+              },
+              
+              {
+                "id": 38,
+                "content": "Identify the adverb in the sentence: 'They walked quietly through the forest.'",
+                "correctIndex": 1,
+                "answers": ["They walked", "quietly", "through the forest", "the forest"]
+              },
+           
+              {
+                "id": 39,
+                "content": "What is the purpose of using hyphens (-) in numbers?",
+                "correctIndex": 1,
+                "answers": ["To separate digits.", "To connect words in compound numbers e.g Twenty-four.", "To emphasize numbers.", "To create plural forms."]
+              },
+           
+              {
+                "id": 40,
+                "content": "Identify the conjunction in the sentence: 'She likes  ice cream and cake.'",
+                "correctIndex": 2,
+                "answers": ["She likes", "both", "and", "ice cream"]
+              },
+              {
+                "id": 41,
+                "content": "Choose the correct form of the adjective 'bad' for the sentence: 'The movie was __.'",
+                "correctIndex": 0,
+                "answers": ["bad", "worser", "worse", "badest"]
+              },
+              {
+                "id": 42,
+                "content": "What is the superlative form of the adjective 'tall'?",
+                "correctIndex": 3,
+                "answers": ["taller", "tallests", "tall", "tallest"]
+              },
+              {
+                "id": 43,
+                "content": "Identify the synonym for the word 'happy':",
+                "correctIndex": 1,
+                "answers": ["sad", "joyful", "angry", "fearful"]
+              },
+              {
+                "id": 44,
+                "content": "What is the antonym for the word 'expand'?",
+                "correctIndex": 0,
+                "answers": ["shrink", "grow", "increase", "enlarge"]
+              },
+              {
+                "id": 45,
+                "content": "Which of the following is a relative adverb?",
+                "correctIndex": 1,
+                "answers": ["He", "where", "quickly", "plays"]
+              },
+              {
+                "id": 46,
+                "content": "Identify the appositive phrase in the sentence: 'My friend Alex, a talented artist, painted this mural.'",
+                "correctIndex": 1,
+                "answers": ["My friend Alex", "a talented artist", "painted this mural", "My friend"]
+              },
+              {
+                "id": 47,
+                "content": "Choose the correct passive voice of the sentence: 'They are building a new school.'",
+                "correctIndex": 0,
+                "answers": ["A new school is being built by them.", "A new school being built are by them.", "A new school is building by them.", "They building a new school are."]
+              },
+              {
+                "id": 48,
+                "content": "What is the function of the coordinating conjunction 'but' in a sentence?",
+                "correctIndex": 2,
+                "answers": ["To show cause and effect.", "To indicate contrast.", "To join contrasting ideas.", "To add emphasis."]
+              },
+              {
+                "id": 49,
+                "content": "In the sentence 'She hopes to win the competition.', what is the infinitive phrase?",
+                "correctIndex": 2,
+                "answers": ["She hopes to", "win the competition", "to win", "hopes to win"]
+              },
+              {
+                "id": 50,
+                "content": "What is the function of idiomatic expressions in writing?",
+                "correctIndex": 2,
+                "answers": ["To make the writing more complex.", "To distract the reader.", "To convey figurative meanings in a creative way e.g 'Break a leg!'.", "To sound formal."]
+              },
+              {
+                "id": 51,
+                "content": "Identify the imperative sentence: 'Please pass the salt.'",
+                "correctIndex": 3,
+                "answers": ["Please pass", "the salt", "Please", "pass the salt"]
+              },
+              {
+                "id": 52,
+                "content": "Choose the correct coordinating conjunction for the sentence: 'She enjoys reading books, __ she also loves writing.'",
+                "correctIndex": 1,
+                "answers": ["are", "but", "do", "be"]
+              },
+              {
+                "id": 53,
+                "content": "What is the definite article for the noun 'ocean'?",
+                "correctIndex": 0,
+                "answers": ["The ocean", "They", "An ocean", "A ocean"]
+              },
+              {
+                "id": 54,
+                "content": "In the sentence 'He gave his sister a gift.', what is the direct object?",
+                "correctIndex": 2,
+                "answers": ["He", "gave", "a gift", "his sister"]
+              },
+              {
+                "id": 55,
+                "content": "Identify the relative clause in the sentence: 'The movie that won the award is now in theaters.'",
+                "correctIndex": 1,
+                "answers": ["The movie", "that won the award", "is now in theaters", "won the award"]
+              },
+              {
+                 "id": 56,
+                 "content": "Choose the correct antonym for the word 'brave':",
+                 "correctIndex": 1,
+                 "answers": ["strong", "cowardly", "bold", "fearless"]
+               },
+               {
+                 "id": 57,
+                 "content": "What is the superlative form of the adjective 'intelligent'?",
+                 "correctIndex": 1,
+                 "answers": ["intelligenter", "most intelligent", "most intelligently", "more intelligent"]
+               },
+               {
+                 "id": 58,
+                 "content": "Identify the adverbial phrase in the sentence: 'She sings with enthusiasm.'",
+                 "correctIndex": 1,
+                 "answers": ["She sings", "with enthusiasm", "enthusiasm", "sings with"]
+               },
+               {
+                 "id": 59,
+                 "content": "Choose the correct form of the verb 'be' for the sentence: 'They __ at the park yesterday.'",
+                 "correctIndex": 0,
+                 "answers": ["were", "is", "am", "are"]
+               },
+               {
+                 "id": 60,
+                 "content": "What is the function of parentheses () in writing?",
+                 "correctIndex": 2,
+                 "answers": ["To show contrast.", "To connect ideas.", "To provide additional information.", "To join clauses."]
+               },
+               {
+                 "id": 61,
+                 "content": "In the sentence 'My favorite color is blue.', what is the predicate nominative?",
+                 "correctIndex": 2,
+                 "answers": ["My favorite color", "is blue", "blue", "My color"]
+               },
+               {
+                 "id": 62,
+                 "content": "Identify the conjunction in the sentence: 'He wanted to go, but she stayed home.'",
+                 "correctIndex": 2,
+                 "answers": ["He wanted", "to go", "but", "she stayed"]
+               },
+               {
+                 "id": 63,
+                 "content": "Choose the correct form of the adjective 'far' for the sentence: 'It's the __ mountain.'",
+                 "correctIndex": 1,
+                 "answers": ["far", "farthest", "farrer", "more far"]
+               },
+               {
+                 "id": 64,
+                 "content": "What is the purpose of using parentheses () in a sentence?",
+                 "correctIndex": 0,
+                 "answers": ["To add extra information.", "To separate two independent clauses.", "To emphasize a point.", "To create a complex sentence."]
+               },
+               {
+                 "id": 65,
+                 "content": "Which of the following words is a conjunction?",
+                 "correctIndex": 3,
+                 "answers": ["Jumping", "Quickly", "Table", "Because"]
+               },
+               {
+                 "id": 66,
+                 "content": "In the sentence 'The cat chased the mouse.', what is the direct object?",
+                 "correctIndex": 2,
+                 "answers": ["The cat", "chased the mouse", "the mouse", "cat chased"]
+               },
+               {
+                 "id": 67,
+                 "content": "Choose the correct form of the adverb 'soon' for the sentence: 'She will arrive __.'",
+                 "correctIndex": 1,
+                 "answers": ["soonest", "soon", "soonly", "so"]
+               },
+               {
+                 "id": 68,
+                 "content": "Identify the appositive in the sentence: 'My teacher, Mrs. Johnson, is very kind.'",
+                 "correctIndex": 1,
+                 "answers": ["My teacher", "Mrs. Johnson", "is very kind", "My"]
+               },
+               {
+                 "id": 69,
+                 "content": "What is the function of a coordinating conjunction?",
+                 "correctIndex": 2,
+                 "answers": ["To show cause and effect.", "To provide additional information.", "To connect words, phrases, or clauses.", "To introduce a list."]
+               },
+               {
+                 "id": 70,
+                 "content": "Choose the correct plural form of the noun 'child':",
+                 "correctIndex": 0,
+                 "answers": ["children", "childs", "childes", "child's"]
+               },
+               {
+                 "id": 71,
+                 "content": "Identify the prepositional phrase in the sentence: 'The cat slept on the warm blanket.'",
+                 "correctIndex": 1,
+                 "answers": ["The cat slept", "on the warm blanket", "warm blanket", "the cat"]
+               },
+               {
+                 "id": 72,
+                 "content": "What is the antonym for the word 'begin'?",
+                 "correctIndex": 2,
+                 "answers": ["start", "initiate", "end", "commence"]
+               },
+               {
+                 "id": 73,
+                 "content": "In the sentence 'She loves ice cream.', what is the verb?",
+                 "correctIndex": 2,
+                 "answers": ["She loves", "ice cream", "loves", "She"]
+               },
+               {
+                 "id": 74,
+                 "content": "Choose the correct form of the adjective 'little' for the sentence: 'It was the __ piece of cake.'",
+                 "correctIndex": 3,
+                 "answers": ["littler", "littles", "little", "smallest"]
+               },
+               {
+                  "id": 75,
+                  "content": "What part of speech is the word 'quickly' in the sentence: 'She ran quickly to catch the bus.'?",
+                  "correctIndex": 1,
+                  "answers": ["Noun", "Adverb", "Verb", "Adjective"]
+                },
+                {
+                  "id": 76,
+                  "content": "Choose the correct plural form of the noun 'man':",
+                  "correctIndex": 0,
+                  "answers": ["men", "mans", "manes", "man's"]
+                },
+                {
+                  "id": 77,
+                  "content": "Identify the interjection in the sentence: 'Wow, that was an amazing performance!'",
+                  "correctIndex": 0,
+                  "answers": ["Wow", "that was an amazing performance", "amazing performance", "an"]
+                },
+                {
+                  "id": 78,
+                  "content": "What is the superlative form of the adjective 'beautiful'?",
+                  "correctIndex": 0,
+                  "answers": ["most beautiful", "beautifulest", "beautifuler", "beautifully"]
+                },
+                {
+                  "id": 79,
+                  "content": "In the sentence 'She enjoys painting and singing.', what is the conjunction?",
+                  "correctIndex": 2,
+                  "answers": ["She enjoys painting", "and singing", "and", "enjoys painting"]
+                },
+                {
+                  "id": 80,
+                  "content": "Choose the correct form of the adverb 'late' for the sentence: 'She will arrive __.'",
+                  "correctIndex": 1,
+                  "answers": ["late", "later", "latest", "lates"]
+                },
+                {
+                  "id": 81,
+                  "content": "Identify the indirect object in the sentence: 'He gave his sister a book.'",
+                  "correctIndex": 2,
+                  "answers": ["He gave", "his sister", "a book", "He"]
+                },
+                {
+                  "id": 82,
+                  "content": "What is the function of an interjection in a sentence?",
+                  "correctIndex": 1,
+                  "answers": ["To connect ideas.", "To express emotion or surprise.", "To provide additional information.", "To join clauses."]
+                },
+                {
+                  "id": 83,
+                  "content": "Choose the correct form of the adjective 'big' for the sentence: 'It's the __ mountain.'",
+                  "correctIndex": 1,
+                  "answers": ["big", "biggest", "biggier", "bigly"]
+                },
+                {
+                  "id": 84,
+                  "content": "What is the purpose of parentheses () in writing?",
+                  "correctIndex": 2,
+                  "answers": ["To show contrast.", "To indicate a question.", "To provide additional information.", "To create compound sentences."]
+                },
+                {
+                  "id": 85,
+                  "content": "In the sentence 'My favorite color is green.', what is the subject complement?",
+                  "correctIndex": 2,
+                  "answers": ["My favorite color", "is green", "green", "My color"]
+                },
+                {
+                  "id": 86,
+                  "content": "Identify the preposition in the sentence: 'The cat jumped over the fence.'",
+                  "correctIndex": 1,
+                  "answers": ["The cat jumped", "over the fence", "jumped over", "the cat"]
+                },
+                {
+                  "id": 87,
+                  "content": "Choose the correct form of the verb 'go' for the sentence: 'They __ to the park yesterday.'",
+                  "correctIndex": 0,
+                  "answers": ["went", "goes", "is going", "are going"]
+                },
+               
+                {
+                  "id": 88,
+                  "content": "Choose the correct form of the noun 'children' for the possessive form: 'The toy belongs to the __.'",
+                  "correctIndex": 3,
+                  "answers": ["childs", "childes", "child's", "child"]
+                },
+                {
+                  "id": 89,
+                  "content": "Identify the adjective clause in the sentence: 'The book that she recommended is fantastic.'",
+                  "correctIndex": 1,
+                  "answers": ["The book", "that she recommended", "is fantastic", "fantastic"]
+                },
+                {
+                  "id": 90,
+                  "content": "What is the antonym for the word 'happy'?",
+                  "correctIndex": 1,
+                  "answers": ["content", "sad", "joyful", "pleased"]
+                },
+                {
+                  "id": 91,
+                  "content": "In the sentence 'He swims in the pool.', what is the prepositional phrase?",
+                  "correctIndex": 1,
+                  "answers": ["He swims", "in the pool", "swims in", "the pool"]
+                },
+                {
+                  "id": 92,
+                  "content": "Choose the correct comparative form of the adjective 'tall' for the sentence: 'He is __ than his brother.'",
+                  "correctIndex": 0,
+                  "answers": ["taller", "more tall", "tallest", "talliest"]
+                },
+                {
+                   "id": 93,
+                   "content": "What part of speech is the word 'completed' in the sentence: 'She completed the task quickly and efficiently.'?",
+                   "correctIndex": 2,
+                   "answers": ["Noun", "Adverb", "Verb", "Adjective"]
+                 },
+                 {
+                   "id": 94,
+                   "content": "Choose the correct plural form of the noun 'woman':",
+                   "correctIndex": 3,
+                   "answers": ["woman's", "womans", "womanes", "women"]
+                 },
+                 {
+                   "id": 95,
+                   "content": "Identify the interjection in the sentence: 'Oh, I can't believe I won!'",
+                   "correctIndex": 0,
+                   "answers": ["Oh", "I can't believe I won", "believe I won", "can't believe"]
+                 },
+                 {
+                   "id": 96,
+                   "content": "What is the superlative form of the adjective 'friendly'?",
+                   "correctIndex": 2,
+                   "answers": ["friendlier", "most friendly", "friendliest", "friendlyer"]
+                 },
+                 {
+                   "id": 97,
+                   "content": "In the sentence 'She enjoys reading and writing.', what is the conjunction?",
+                   "correctIndex": 2,
+                   "answers": ["She enjoys reading", "and writing", "and", "enjoys reading"]
+                 },
+                 {
+                   "id": 98,
+                   "content": "Choose the correct form of the adverb 'early' for the sentence: 'She was here __.'",
+                   "correctIndex": 2,
+                   "answers": ["earliest", "early", "earlier", "earliests"]
+                 },
+                 {
+                   "id": 99,
+                   "content": "Identify the direct object in the sentence: 'She bought a new car.'",
+                   "correctIndex": 2,
+                   "answers": ["She bought", "a", "new car", "She"]
+                 },
+                 {
+                   "id": 100,
+                   "content": "What is the function of an interjection in a sentence?",
+                   "correctIndex": 1,
+                   "answers": ["To connect ideas.", "To express emotion or surprise.", "To provide additional information.", "To join clauses."]
+                 },
+                 {
+                   "id": 101,
+                   "content": "Choose the correct form of the adjective 'small' for the sentence: 'It's the __ bird.'",
+                   "correctIndex": 3,
+                   "answers": ["small", "smalliest", "smaller", "smallest"]
+                 },
+                 {
+                   "id": 102,
+                   "content": "What is the purpose of parentheses () in writing?",
+                   "correctIndex": 2,
+                   "answers": ["To show contrast.", "To indicate a question.", "To provide additional information.", "To create compound sentences."]
+                 },
+                 {
+                   "id": 103,
+                   "content": "In the sentence 'My favorite subject is science.', what is the subject complement?",
+                   "correctIndex": 2,
+                   "answers": ["My favorite subject", "is", "science", "My subject"]
+                 },
+                 {
+                   "id": 104,
+                   "content": "Identify the preposition in the sentence: 'The cat sleeps under the table.'",
+                   "correctIndex": 1,
+                   "answers": ["The cat sleeps", "under the table", "sleeps under", "the cat"]
+                 },
+                 {
+                   "id": 105,
+                   "content": "Choose the correct form of the verb 'study' for the sentence: 'They __ for the test yesterday.'",
+                   "correctIndex": 0,
+                   "answers": ["studied", "study", "studies", "are studying"]
+                 },
+                 {
+                   "id": 106,
+                   "content": "What is the function of a subordinating conjunction?",
+                   "correctIndex": 3,
+                   "answers": ["To connect words, phrases, or clauses.", "To introduce a list.", "To emphasize a point.", "To introduce a dependent clause."]
+                 },
+                 {
+                   "id": 107,
+                   "content": "Choose the correct form of the noun 'child' for the possessive form: 'The toy belongs to the __.'",
+                   "correctIndex": 3,
+                   "answers": ["childs", "childes", "child's", "child"]
+                 },
+                 {
+                   "id": 108,
+                   "content": "Identify the adjective in the sentence: 'The house that he built is magnificent.'",
+                   "correctIndex": 3,
+                   "answers": ["The house", "that he built", "is magnificent", "magnificent"]
+                 },
+                 {
+                   "id": 109,
+                   "content": "What is the antonym for the word 'brilliant'?",
+                   "correctIndex": 2,
+                   "answers": ["smart", "clever", "dull", "bright"]
+                 },
+                 {
+                   "id": 110,
+                   "content": "In the sentence 'She dances with grace.', what is the prepositional phrase?",
+                   "correctIndex": 1,
+                   "answers": ["She dances", "with grace", "dances with", "the grace"]
+                 },
+                 {
+                   "id": 111,
+                   "content": "Choose the correct comparative form of the adjective 'kind' for the sentence: 'She is __ than her friend.'",
+                   "correctIndex": 0,
+                   "answers": ["kinder", "most kind", "kindliest", "kinds"]
+                 },
+                 {
+                   "id": 112,
+                   "content": "What is the purpose of using parentheses () in a sentence?",
+                   "correctIndex": 0,
+                   "answers": ["To include extra information.", "To indicate a question.", "To provide emphasis.", "To create clarification."]
+                 },
+                 {
+                   "id": 113,
+                   "content": "In the sentence 'The dog barked loudly.', what is the adverb?",
+                   "correctIndex": 2,
+                   "answers": ["The", "dog", "loudly", "barked"]
+                 }
+                 
+          ]
+      }
+       
+    }
+
+]

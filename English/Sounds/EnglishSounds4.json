@@ -1,0 +1,1868 @@
+
+[
+    {
+        "id": 3,
+        "category": "Phonics",
+        "description": "Reading",
+        "content": {
+            "id": 0,
+            "teaching": [
+                {
+                    "id": 0,
+                    "topicTitle": "Ending Sounds Discrimination",
+                    "topicContent": "Introduce the concept of identifying and discriminating ending sounds in words. Engage students with activities that involve listening to words and identifying their final sounds, helping them recognize and distinguish between various ending sounds."
+                },
+                {
+                    "id": 1,
+                    "topicTitle": "Sound Position in Words",
+                    "topicContent": "Explain that sentences can be broken into words and words into syllables. Teach students about the concept of syllables and how to identify the position of sounds within words. Use engaging exercises to practice syllable segmentation and sound position awareness."
+                },
+                {
+                    "id": 2,
+                    "topicTitle": "Word in a Sentence",
+                    "topicContent": "Explore the relationship between words and sentences. Help students understand how words work together to form sentences, and how changing words can alter the meaning of a sentence. Engage in sentence-building activities to reinforce comprehension of word usage in context."
+                },
+                {
+                    "id": 3,
+                    "topicTitle": "Blending 2 Phonemes",
+                    "topicContent": "Introduce the skill of blending two phonemes together to form words. Guide students through activities where they listen to isolated phonemes and blend them to create simple words. Gradually increase the complexity of the phoneme blends as their proficiency improves."
+                },
+                {
+                    "id": 4,
+                    "topicTitle": "Segmenting Compound Words",
+                    "topicContent": "Explore compound words and their components. Teach students how to break down compound words into their individual parts and recognize their meanings. Engage in interactive exercises that involve identifying and segmenting compound words to enhance vocabulary and comprehension."
+                },
+                {
+                    "id": 5,
+                    "topicTitle": "Segmenting 3 Phonemes",
+                    "topicContent": "Extend phonemic awareness by focusing on segmenting three phonemes within words. Guide students through activities that require them to isolate and identify individual phonemes in various words. Practice segmenting skills with words of increasing complexity to strengthen their phonemic manipulation abilities."
+                }
+            ]
+        },
+        "test": {
+            "id": 0,
+            "image": "testSwift",
+            "time": "30 minutes",
+            "description": "Put your Phonics and letter sound knowledge to the test.",
+            "questions": [
+                
+                
+                 {
+                   "id": 0,
+                   "content": "In the sentence 'The sun shines brightly,' which word has two syllables?",
+                   "correctIndex": 2,
+                   "answers": ["sun", "shines", "brightly", "the"]
+                 },
+                 
+                 {
+                   "id": 1,
+                   "content": "In the compound word 'toothbrush,' what are the individual parts that make up the word?",
+                   "correctIndex": 0,
+                   "answers": ["tooth and brush", "tooth and bristle", "tooth and cleaner", "tooth and paste"]
+                 },
+           
+                 
+                 {
+                   "id": 2,
+                   "content": "In the sentence 'She plays the violin,' which word has the same sound of the 'ai' vowel sound?",
+                   "correctIndex": 1,
+                   "answers": ["She", "plays", "the", "violin"]
+                 },
+                 {
+                   "id": 3,
+                   "content": "What is the final sound in the word 'jump'?",
+                   "correctIndex": 2,
+                   "answers": ["/j/", "/u/", "/mp/", "/p/"]
+                 },
+                 {
+                   "id": 4,
+                   "content": "Which word has the soft 'c' sound like /s/?",
+                   "correctIndex": 1,
+                   "answers": ["cat", "cent", "car", "cup"]
+                 },
+                 
+                 
+                 {
+                   "id": 5,
+                   "content": "Which word does not contain the 'nd' final blend?",
+                   "correctIndex": 3,
+                   "answers": ["sand", "pond", "find", "think"]
+                 },
+            
+                 {
+                   "id": 6,
+                   "content": "In the sentence 'The boat sails gracefully,' what is the meaning of 'gracefully'?",
+                   "correctIndex": 3,
+                   "answers": ["quickly", "loudly", "happily", "elegantly"]
+                 },
+                 
+                 {
+                   "id": 7,
+                   "content": "In the word 'eleven,' what is the 'v' sound in the final position called?",
+                   "correctIndex": 0,
+                   "answers": ["final blend", "initial sound", "medial sound", "vowel team"]
+                 },
+                 {
+                   "id": 8,
+                   "content": "Which word has a silent 'gh'?",
+                   "correctIndex": 3,
+                   "answers": ["light", "height", "right", "through"]
+                 },
+                 
+                 {
+                   "id": 9,
+                   "content": "In the sentence 'They heard a loud sound,' what is the meaning of 'heard'?",
+                   "correctIndex": 0,
+                   "answers": ["listened", "saw", "touched", "felt"]
+                 },
+           
+                 
+                  {
+                    "id": 10,
+                    "content": "In the word 'stomach,' how many syllables are there?",
+                    "correctIndex": 3,
+                    "answers": ["4", "3", "1", "2"]
+                  },
+                  
+                  {
+                    "id": 11,
+                    "content": "In the sentence 'The crowd cheered loudly,' what is the final sound in 'cheered'?",
+                    "correctIndex": 1,
+                    "answers": ["/t/", "/d/", "/i/", "/z/"]
+                  },
+                  {
+                    "id": 12,
+                    "content": "What is the medial sound in the word 'danger'?",
+                    "correctIndex": 2,
+                    "answers": ["/d/", "/ei/", "/n/", "/r/"]
+                  },
+                  {
+                    "id": 13,
+                    "content": "Which word contains a vowel team?",
+                    "correctIndex": 2,
+                    "answers": ["ship", "crash", "dream", "splash"]
+                  },
+                  
+                  
+                  {
+                    "id": 14,
+                    "content": "Which word can be broken down into three syllables?",
+                    "correctIndex": 1,
+                    "answers": ["band", "elephant", "monkey", "apple"]
+                  },
+                  {
+                    "id": 15,
+                    "content": "In the sentence 'The train departed on time,' what is the initial sound in 'departed'?",
+                    "correctIndex": 0,
+                    "answers": ["/d/", "/p/", "/t/", "/ɪ/"]
+                  },
+                  {
+                    "id": 16,
+                    "content": "What is the first sound in the word 'splendid'?",
+                    "correctIndex": 3,
+                    "answers": ["/s/", "/p/", "/l/", "/spl/"]
+                  },
+                  
+                  {
+                    "id": 17,
+                    "content": "What is the final sound in the word 'conclude'?",
+                    "correctIndex": 3,
+                    "answers": ["/k/", "/e/", "/n/", "/d/"]
+                  },
+
+                  {
+                    "id": 18,
+                    "content": "In the word 'school,' what is the initial consonant blend?",
+                    "correctIndex": 0,
+                    "answers": ["sch", "sk", "sl", "sc"]
+                  },
+                  {
+                    "id": 19,
+                    "content": "What is the final sound in the word 'glide'?",
+                    "correctIndex": 2,
+                    "answers": ["/g/", "/l/", "/gl/", "/d/"]
+                  },
+                  {
+                    "id": 20,
+                    "content": "Which word contains the same 'ew' vowel sound?",
+                    "correctIndex": 3,
+                    "answers": ["caught", "taught", "thin", "soup"]
+                  },
+                  {
+                    "id": 21,
+                    "content": "What is the first sound you hear in the word 'globe'?",
+                    "correctIndex": 2,
+                    "answers": ["/g/", "/l/", "/ɡl/", "/b/"]
+                  },
+                  {
+                    "id": 22,
+                    "content": "In the sentence 'She chose a beautiful rose,' which word contains the same 'oa' vowel sound?",
+                    "correctIndex": 3,
+                    "answers": ["chose", "beautiful", "rose", "rose"]
+                  },
+                  {
+                    "id": 23,
+                    "content": "What is the final sound in the word 'laugh'?",
+                    "correctIndex": 1,
+                    "answers": ["/l/", "/f/", "/a/", "/g/"]
+                  },
+                  {
+                    "id": 24,
+                    "content": "Which word can be broken down into two syllables?",
+                    "correctIndex": 2,
+                    "answers": ["animal", "companion", "become", "community"]
+                  },
+             
+                  {
+                    "id": 25,
+                    "content": "What is the initial sound in the word 'swim'?",
+                    "correctIndex": 2,
+                    "answers": ["/s/", "/w/", "/sw/", "/m/"]
+                  },
+                  {
+                    "id": 26,
+                    "content": "In the word 'tangle,' what blend is present?",
+                    "correctIndex": 1,
+                    "answers": ["/n/", "/ng/", "/t/", "/l/"]
+                  },
+                  {
+                    "id": 27,
+                    "content": "Which word contains the 'ai' vowel team making the /ay/ sound?",
+                    "correctIndex": 0,
+                    "answers": ["mail", "ran", "play", "tall"]
+                  },
+                  {
+                    "id": 28,
+                    "content": "What sound is represented by the letters 'igh' in the word 'sigh'?",
+                    "correctIndex": 1,
+                    "answers": ["/at/", "/i_e/", "/aɪ/", "/ɡ/"]
+                  },
+                  {
+                    "id": 29,
+                    "content": "In the sentence 'The wind blew strongly,' what is the final sound in 'blew'?",
+                    "correctIndex": 3,
+                    "answers": ["/w/", "/bl blend/", "/l/", "/long u/"]
+                  },
+                  {
+                    "id": 30,
+                    "content": "Which word can be segmented into one syllables?",
+                    "correctIndex": 0,
+                    "answers": ["grape", "frowning", "superhero", "mentally"]
+                  },
+                  {
+                    "id": 31,
+                    "content": "What is the first sound in the word 'champion'?",
+                    "correctIndex": 1,
+                    "answers": ["/t", "/ch/", "/w/", "/ion/"]
+                  },
+                  {
+                    "id": 32,
+                    "content": "In the word 'night,' what is the final sound?",
+                    "correctIndex": 2,
+                    "answers": ["/ni/", "/ai/", "/t/", "/long i sound/"]
+                  },
+                  {
+                    "id": 33,
+                    "content": "Which word contains the  same 'ew' vowel sound ?",
+                    "correctIndex": 2,
+                    "answers": ["did", "private", "tune", "he"]
+                  },
+                  {
+                    "id": 34,
+                    "content": "What is the medial sound in the word 'brave'?",
+                    "correctIndex": 2,
+                    "answers": ["/b/", "/r/", "/long a/", "/v/"]
+                  },
+                  {
+                    "id": 35,
+                    "content": "In the sentence 'He looked over the wall,' what is the initial sound in 'looked'?",
+                    "correctIndex": 2,
+                    "answers": ["/h/", "/l/", "/ʊ/", "/k/"]
+                  },
+                  {
+                    "id": 36,
+                    "content": "What other sound is represented by the letters 'igh' '?",
+                    "correctIndex": 0,
+                    "answers": ["/i_e/", "/i/", "/aɪ/", "/f/"]
+                  },
+                  {
+                     "id": 37,
+                     "content": "Identify the word that contains a consonant blend in the beginning.",
+                     "correctIndex": 0,
+                     "answers": ["bright", "eye", "ocean", "use"]
+                   },
+                   {
+                     "id": 38,
+                     "content": "In the word 'splendid,' how many syllables are there?",
+                     "correctIndex": 2,
+                     "answers": ["3", "4","2", "1"]
+                   },
+                   {
+                     "id": 39,
+                     "content": "Which word ends with the same sound as 'sheep'?",
+                     "correctIndex": 1,
+                     "answers": ["key", "deep", "peek", "lap"]
+                   },
+                   {
+                     "id": 40,
+                     "content": "How many syllables are in the word 'beautifully'?",
+                     "correctIndex": 1,
+                     "answers": ["2", "3", "4", "5"]
+                   },
+                  
+                   {
+                     "id": 41,
+                     "content": "Which word contains the same sound as 'ai' vowel?",
+                     "correctIndex": 3,
+                     "answers": ["silly", "rhyme", "trial", "pay"]
+                   },
+                   {
+                     "id": 42,
+                     "content": "What is the final sound in the word 'breeze'?",
+                     "correctIndex": 1,
+                     "answers": ["/b/", "/z/", "/r/", "/e/"]
+                   },
+                   {
+                     "id": 43,
+                     "content": "Which word can be segmented into four syllables?",
+                     "correctIndex": 1,
+                     "answers": ["grape", "artifical", "climb", "giant"]
+                   },
+                   {
+                     "id": 44,
+                     "content": "In the word 'flame,' what is the medial sound?",
+                     "correctIndex": 2,
+                     "answers": ["/f/", "/l/", "/m/", "/long a sound/"]
+                   },
+                   {
+                     "id": 45,
+                     "content": "What is the initial sound in the word 'whisper'?",
+                     "correctIndex": 0,
+                     "answers": ["/w/", "/h/", "/ɪ/", "/s/"]
+                   },
+                   {
+                     "id": 46,
+                     "content": "In the sentence 'The forest is dangerous,' which word contains the 'or' sound?",
+                     "correctIndex": 0,
+                     "answers": ["forest", "dense", "is", "dɛns"]
+                   },
+                   {
+                     "id": 47,
+                     "content": "How many syllables are in the word 'elephant'?",
+                     "correctIndex": 0,
+                     "answers": ["3", "4", "5", "1"]
+                   },
+                
+                   {
+                     "id": 48,
+                     "content": "What sound is represented by the letters 'ea' in the word 'great'?",
+                     "correctIndex": 2,
+                     "answers": ["/i/", "/e/", "/long a sound/", "/p/"]
+                   },
+                   {
+                     "id": 49,
+                     "content": "Which word contains a silent letter?",
+                     "correctIndex": 1,
+                     "answers": ["listen", "knee", "fast", "sharp"]
+                   },
+                   {
+                     "id": 50,
+                     "content": "In the sentence 'The sun always sets in the west,' which word has a 2 syllables sound?",
+                     "correctIndex": 3,
+                     "answers": ["sun", "sets", "west", "always"]
+                   },
+                   {
+                     "id": 51,
+                     "content": "What is the medial sound in the word 'freight'?",
+                     "correctIndex": 2,
+                     "answers": ["/f/", "/r/", "/long i sound/", "/t/"]
+                   },
+                   {
+                     "id": 52,
+                     "content": "Identify the word with a silent 'w' at the beginning.",
+                     "correctIndex": 3,
+                     "answers": ["knee", "knife", "knock", "wrist"]
+                   },
+                   {
+                     "id": 53,
+                     "content": "In the word 'dolphin,' which sound is represented by the letters 'ph'?",
+                     "correctIndex": 0,
+                     "answers": ["/f/", "/d/", "/ɪ/", "/n/"]
+                   },
+          
+                   {
+                       "id": 54,
+                       "content": "Which word contains a vowel digraph that makes the /long o/ sound?",
+                       "correctIndex": 3,
+                       "answers": ["wait", "play", "find", "coat"]
+                     },
+                     {
+                       "id": 55,
+                       "content": "What sound is represented by the letters 'ough' in the word 'doughnut'?",
+                       "correctIndex": 1,
+                       "answers": ["/o/", "/long o sound/", "/d/", "/n/"]
+                     },
+                     {
+                       "id": 56,
+                       "content": "Identify the word with a prefix that means 'not.'",
+                       "correctIndex": 3,
+                       "answers": ["happy", "unhappy", "kind", "dislike"]
+                     },
+                     {
+                       "id": 57,
+                       "content": "What is the final sound in the word 'watch'?",
+                       "correctIndex": 2,
+                       "answers": ["/w/", "/ɑː/", "ch/", "/th/"]
+                     },
+                     {
+                       "id": 58,
+                       "content": "In the sentence 'The birds chirped loudly,' which word contains a vowel digraph?",
+                       "correctIndex": 2,
+                       "answers": ["birds", "chirped", "loudly", "vowel"]
+                     },
+                     {
+                       "id": 59,
+                       "content": "Which word contains a silent 'e' at the end?",
+                       "correctIndex": 0,
+                       "answers": ["time", "tip", "trim", "tiger"]
+                     },
+                     {
+                       "id": 60,
+                       "content": "How many syllables are in the word 'castle'?",
+                       "correctIndex": 3,
+                       "answers": ["4", "1", "3", "2"]
+                     },
+                     {
+                       "id": 61,
+                       "content": "What is the initial sound in the word 'knock'?",
+                       "correctIndex": 3,
+                       "answers": ["/c/", "/k/", "/l/", "/n/"]
+                     },
+                  
+                     {
+                       "id": 62,
+                       "content": "Which word has a consonant digraph at the beginning?",
+                       "correctIndex": 1,
+                       "answers": ["cat", "shoe", "fast", "round"]
+                     },
+                     {
+                       "id": 63,
+                       "content": "What sound is represented by the letters 'wr' in the word 'wrist'?",
+                       "correctIndex": 2,
+                       "answers": ["/w/", "/o/", "/r/", "/i/"]
+                     },
+                     
+                 
+                
+                     {
+                       "id": 64,
+                       "content": "How many syllables are in the word 'elevator'?",
+                       "correctIndex": 1,
+                       "answers": ["3", "4", "5", "6"]
+                     },
+                     {
+                       "id": 65,
+                       "content": "Which word contains the 'ie' vowel sound but spelled differently?",
+                       "correctIndex": 3,
+                       "answers": ["nook", "blue", "fit", "bright"]
+                     },
+                   
+                     {
+                       "id": 66,
+                       "content": "What sound is represented by the letters 'ea' in the word 'break'?",
+                       "correctIndex": 2,
+                       "answers": ["/iː/", "/e/", "/ay/", "/p/"]
+                     },
+                     {
+                       "id": 67,
+                       "content": "Which word contains a double consonant?",
+                       "correctIndex": 1,
+                       "answers": ["apple", "butter", "cherry", "orange"]
+                     },
+                     {
+                       "id": 68,
+                       "content": "In the sentence 'The chef prepared a feast,' what is the initial sound in 'feast'?",
+                       "correctIndex": 0,
+                       "answers": ["/f/", "/l/", "/e/", "/st/"]
+                     },
+                     {
+                       "id": 69,
+                       "content": "How many syllables are in the word 'garden'?",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 70,
+                       "content": "In the word 'happily,' how many syllables are there?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 71,
+                       "content": "Count the syllables in the word 'elephant.'",
+                       "correctIndex": 0,
+                       "answers": ["3", "4", "5", "6"]
+                     },
+                     {
+                       "id": 72,
+                       "content": "How many syllables are in the word 'chocolate'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "4", "3", "5"]
+                     },
+                     {
+                       "id": 73,
+                       "content": "In the word 'whisper,' how many syllables can you find?",
+                       "correctIndex": 0,
+                       "answers": ["2", "1", "3", "4"]
+                     },
+                     {
+                       "id": 74,
+                       "content": "Count the number of syllables in the word 'butterfly.'",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 75,
+                       "content": "How many syllables are in the word 'shoulder'?",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 76,
+                       "content": "In the word 'mountain,' count the syllables.",
+                       "correctIndex": 2,
+                       "answers": ["1", "3", "2", "5"]
+                     },
+                     {
+                       "id": 77,
+                       "content": "Count the syllables in the word 'fantastic.'",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 78,
+                       "content": "How many syllables are in the word 'elevate'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "4", "3", "5"]
+                     },
+                     {
+                       "id": 79,
+                       "content": "In the word 'celebrate,' count the syllables.",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 80,
+                       "content": "Count the syllables in the word 'adventure.'",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 81,
+                       "content": "How many syllables are in the word 'lady'?",
+                       "correctIndex": 3,
+                       "answers": ["1", "3", "4", "2"]
+                     },
+                     {
+                       "id": 82,
+                       "content": "In the word 'wonderful,' count the syllables.",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 83,
+                       "content": "Count the syllables in the word 'caterpillar.'",
+                       "correctIndex": 2,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 84,
+                       "content": "How many syllables are in the word 'sunflower'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 85,
+                       "content": "In the word 'holiday,' count the syllables.",
+                       "correctIndex": 1,
+                       "answers": ["2", "4", "3", "5"]
+                     },
+                     {
+                       "id": 86,
+                       "content": "Count the syllables in the word 'bolder.'",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 87,
+                       "content": "How many syllables are in the word 'magic'?",
+                       "correctIndex": 2,
+                       "answers": ["1", "3", "2", "5"]
+                     },
+                     {
+                       "id": 88,
+                       "content": "In the word 'celebration,' count the syllables.",
+                       "correctIndex": 2,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 89,
+                       "content": "How many syllables are in the word 'violin'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 90,
+                       "content": "In the word 'washing,' count the syllables.",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 91,
+                       "content": "Count the syllables in the word 'delicious.'",
+                       "correctIndex": 3,
+                       "answers": ["2", "5", "4", "3"]
+                     },
+                     {
+                       "id": 92,
+                       "content": "How many syllables are in the word 'champion'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 93,
+                       "content": "In the word 'marvelous,' count the syllables.",
+                       "correctIndex": 2,
+                       "answers": ["2", "1", "3", "5"]
+                     },
+                     {
+                       "id": 94,
+                       "content": "Count the syllables in the word 'adventure.'",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 95,
+                       "content": "How many syllables are in the word 'butterfly'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 96,
+                       "content": "In the word 'delight,' count the syllables.",
+                       "correctIndex": 2,
+                       "answers": ["1", "3", "2", "5"]
+                     },
+                     {
+                       "id": 97,
+                       "content": "Count the syllables in the word 'entertainment.'",
+                       "correctIndex": 4,
+                       "answers": ["2", "4", "3", "5"]
+                     },
+                     {
+                       "id": 98,
+                       "content": "How many syllables are in the word 'elephant'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 99,
+                       "content": "In the word 'curious,' count the syllables.",
+                       "correctIndex": 3,
+                       "answers": ["2", "1", "4", "3"]
+                     },
+                     {
+                       "id": 100,
+                       "content": "Count the syllables in the word 'capsule.'",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 101,
+                       "content": "How many syllables are in the word 'cupboard'?",
+                       "correctIndex": 3,
+                       "answers": ["1", "3", "4", "2"]
+                     },
+                     {
+                       "id": 102,
+                       "content": "In the word 'sunflower,' count the syllables.",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 103,
+                       "content": "Count the syllables in the word 'wonder.'",
+                       "correctIndex": 0,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 104,
+                       "content": "How many syllables are in the word 'captain'?",
+                       "correctIndex": 2,
+                       "answers": ["4", "3", "2", "5"]
+                     },
+                     {
+                       "id": 105,
+                       "content": "In the word 'alphabet,' count the syllables.",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 106,
+                       "content": "Count the syllables in the word 'sparkling.'",
+                       "correctIndex": 3,
+                       "answers": ["2", "1", "4", "3"]
+                     },
+                     {
+                       "id": 107,
+                       "content": "How many syllables are in the word 'delicate'?",
+                       "correctIndex": 1,
+                       "answers": ["2", "3", "4", "5"]
+                     },
+                     {
+                       "id": 108,
+                       "content": "In the word 'universe,' count the syllables.",
+                       "correctIndex": 2,
+                       "answers": ["2", "4", "3", "5"]
+                     },
+                     {
+                       "id": 109,
+                       "content": "Identify the word that contains a vowel digraph.",
+                       "correctIndex": 2,
+                       "answers": ["home", "elk", "ocean", "use"]
+                     },
+                     {
+                       "id": 110,
+                       "content": "Which word has a vowel digraph?",
+                       "correctIndex": 3,
+                       "answers": ["bright", "line", "orchard", "seat"]
+                     },
+                     {
+                       "id": 111,
+                       "content": "Select the word with a vowel digraph.",
+                       "correctIndex": 0,
+                       "answers": ["train", "troll", "card", "use"]
+                     },
+                     {
+                       "id": 112,
+                       "content": "Which word contains a vowel digraph?",
+                       "correctIndex": 3,
+                       "answers": ["plot", "evil", "project", "rain"]
+                     },
+                     {
+                       "id": 113,
+                       "content": "In which word do you find a vowel digraph?",
+                       "correctIndex": 1,
+                       "answers": ["clown", "eye", "move", "use"]
+                     },
+                     {
+                       "id": 114,
+                       "content": "Pick the word that has a vowel digraph.",
+                       "correctIndex": 2,
+                       "answers": ["live", "even", "breeze", "march"]
+                     },
+                     {
+                       "id": 115,
+                       "content": "Choose the word with a vowel digraph.",
+                       "correctIndex": 1,
+                       "answers": ["band", "fruit", "involve", "use"]
+                     },
+                     {
+                       "id": 116,
+                       "content": "Which word contains a vowel digraph?",
+                       "correctIndex": 3,
+                       "answers": ["tram", "old", "girl", "tree"]
+                     },
+                     {
+                       "id": 117,
+                       "content": "Spot the word that has a vowel digraph.",
+                       "correctIndex": 0,
+                       "answers": ["team", "oven", "moth", "use"]
+                     },
+                     {
+                       "id": 118,
+                       "content": "Point out the word with a vowel digraph.",
+                       "correctIndex": 2,
+                       "answers": ["gnome", "elf", "boat", "use"]
+                     },
+                     {
+                       "id": 119,
+                       "content": "Identify the word that contains a vowel digraph.",
+                       "correctIndex": 2,
+                       "answers": ["that", "not", "out", "will"]
+                     },
+                     {
+                       "id": 120,
+                       "content": "Which word has a vowel digraph?",
+                       "correctIndex": 2,
+                       "answers": ["instance", "remember", "train", "irregular"]
+                     },
+                     {
+                       "id": 121,
+                       "content": "Select the word with a vowel digraph.",
+                       "correctIndex": 0,
+                       "answers": ["chief", "shaky", "scroll", "lose"]
+                     },
+                     {
+                       "id": 122,
+                       "content": "Which word contains a vowel digraph?",
+                       "correctIndex": 3,
+                       "answers": ["use", "same", "letter", "meet"]
+                     },
+                     {
+                       "id": 123,
+                       "content": "In which word do you find a vowel digraph?",
+                       "correctIndex": 0,
+                       "answers": ["moon", "English", "find", "are"]
+                     },
+                     {
+                       "id": 124,
+                       "content": "Pick the word that has a vowel digraph.",
+                       "correctIndex": 1,
+                       "answers": ["find", "sound", "letter", "use"]
+                     },
+                     {
+                       "id": 125,
+                       "content": "Choose the word with a vowel digraph.",
+                       "correctIndex": 2,
+                       "answers": ["Summer", "common", "Autumn", "as"]
+                     },
+                     {
+                       "id": 126,
+                       "content": "Which word contains a vowel digraph?",
+                       "correctIndex": 3,
+                       "answers": ["red", "blot", "seven", "eight"]
+                     },
+                     {
+                       "id": 127,
+                       "content": "Spot the word that has a vowel digraph.",
+                       "correctIndex": 0,
+                       "answers": ["road", "wave", "man", "light"]
+                     },
+                     {
+                       "id": 128,
+                       "content": "Point out the word with a vowel digraph.",
+                       "correctIndex": 3,
+                       "answers": ["way", "spell", "shade", "read"]
+                     },
+                     {
+                       "id": 129,
+                       "content": "Identify the word that has a silent 'e' that transforms the vowel sound.",
+                       "correctIndex": 0,
+                       "answers": ["mole", "trip", "clam", "tent"]
+                     },
+                     {
+                       "id": 130,
+                       "content": "Pick the word where a silent 'e' causes the vowel to have a different sound.",
+                       "correctIndex": 0,
+                       "answers": ["name", "spin", "clue", "drip"]
+                     },
+                     {
+                       "id": 131,
+                       "content": "Which word contains a silent 'e' that influences the vowel to say its name?",
+                       "correctIndex": 2,
+                       "answers": ["moon", "snap", "bake", "drip"]
+                     },
+                     {
+                       "id": 132,
+                       "content": "Identify the word with a silent 'e' that alters the vowel sound.",
+                       "correctIndex": 3,
+                       "answers": ["out", "lip", "blue", "hide"]
+                     },
+                     {
+                       "id": 133,
+                       "content": "Choose the word where a silent 'e' affects the vowel's pronunciation.",
+                       "correctIndex": 1,
+                       "answers": ["steep", "cape", "snap", "drum"]
+                     },
+                     {
+                       "id": 134,
+                       "content": "In which word does the silent 'e' change the vowel to say its name?",
+                       "correctIndex": 3,
+                       "answers": ["sign", "trip", "clam", "gave"]
+                     },
+                     {
+                       "id": 135,
+                       "content": "Point out the word that features a silent 'e' impacting the vowel sound.",
+                       "correctIndex": 1,
+                       "answers": ["bright", "slime", "milk", "drum"]
+                     },
+                     {
+                       "id": 136,
+                       "content": "Which word contains a silent 'e' that influences the vowel to say its name?",
+                       "correctIndex": 2,
+                       "answers": ["bottle", "slap", "late", "spin"]
+                     },
+                     {
+                       "id": 137,
+                       "content": "Select the word that showcases the impact of a silent 'e' on the vowel sound.",
+                       "correctIndex": 0,
+                       "answers": ["tide", "trim", "cup", "spin"]
+                     },
+                     {
+                       "id": 138,
+                       "content": "In which word does the vowel's sound change due to a silent 'e'?",
+                       "correctIndex": 2,
+                       "answers": ["feel", "trip", "outside", "spin"]
+                     },
+                     {
+                        "id": 139,
+                        "content": "Which word does not have a silent 'e'?",
+                        "correctIndex": 0,
+                        "answers": ["clam", "stare", "glide", "flake"]
+                      },
+                      {
+                        "id": 140,
+                        "content": "Identify the word without a silent 'e' inside.",
+                        "correctIndex": 2,
+                        "answers": ["cave", "slide", "swamp", "tripe"]
+                      },
+                      {
+                        "id": 141,
+                        "content": "Point out the word that lacks a silent 'e' within it.",
+                        "correctIndex": 3,
+                        "answers": ["slope", "tide", "brave", "hilt"]
+                      },
+                      {
+                        "id": 142,
+                        "content": "Which word is free of a silent 'e'?",
+                        "correctIndex": 3,
+                        "answers": ["grape", "plume", "stake", "blow"]
+                      },
+                      {
+                        "id": 143,
+                        "content": "Choose the word that does not feature a silent 'e' within it.",
+                        "correctIndex": 0,
+                        "answers": ["word", "slide", "flame", "crave"]
+                      },
+                      {
+                        "id": 144,
+                        "content": "In which word is a silent 'e' absent?",
+                        "correctIndex": 0,
+                        "answers": ["smog", "slope", "flake", "tame"]
+                      },
+                      {
+                        "id": 145,
+                        "content": "Identify the word with no silent 'e' inside.",
+                        "correctIndex": 3,
+                        "answers": ["spare", "slice", "lobe", "crisp"]
+                      },
+                      {
+                        "id": 146,
+                        "content": "Select the word that does not include a silent 'e' within it.",
+                        "correctIndex": 1,
+                        "answers": ["love", "swamp", "flame", "hike"]
+                      },
+
+                      {
+                        "id": 147,
+                        "content": "Which word does not have a silent 'e'?",
+                        "correctIndex": 0,
+                        "answers": ["fool", "stare", "glide", "flake"]
+                      },
+                      {
+                        "id": 148,
+                        "content": "Identify the word without a silent 'e' inside.",
+                        "correctIndex": 2,
+                        "answers": ["care", "slide", "swamp", "time"]
+                      },
+                      {
+                        "id": 149,
+                        "content": "Point out the word that lacks a silent 'e' within it.",
+                        "correctIndex": 3,
+                        "answers": ["slope", "tide", "brave", "hid"]
+                      },
+                      {
+                        "id": 150,
+                        "content": "Which word is free of a silent 'e'?",
+                        "correctIndex": 1,
+                        "answers": ["grape", "eye", "stake", "brave"]
+                      },
+                      {
+                        "id": 151,
+                        "content": "Choose the word that does not feature a silent 'e' within it.",
+                        "correctIndex": 3,
+                        "answers": ["pride", "slide", "flame", "video"]
+                      },
+                      {
+                        "id": 152,
+                        "content": "In which word is a silent 'e' present?",
+                        "correctIndex": 2,
+                        "answers": ["smog", "stump", "flake", "top"]
+                      },
+                      {
+                        "id": 153,
+                        "content": "Identify the word with no silent 'e' inside.",
+                        "correctIndex": 2,
+                        "answers": ["stove", "slice", "loan", "crisp"]
+                      },
+                      {
+                        "id": 154,
+                        "content": "Select the word that does not include a silent 'e' within it.",
+                        "correctIndex": 0,
+                        "answers": ["eye", "lead", "flame", "hike"]
+                      },
+                      {
+                        "id": 155,
+                        "content": "In which word is there no silent 'e'?",
+                        "correctIndex": 3,
+                        "answers": ["glide", "stake", "tide", "clamp"]
+                      },
+                      {
+                        "id": 156,
+                        "content": "Identify the word with a silent 'e' inside.",
+                        "correctIndex": 3,
+                        "answers": ["load", "gliding", "swamp", "graze"]
+                      },
+                      {
+                        "id": 157,
+                        "content": "Point out the word that lacks a silent 'e' within it.",
+                        "correctIndex": 0,
+                        "answers": ["goat", "brave", "tame", "slice"]
+                      },
+                      {
+                        "id": 158,
+                        "content": "Which word has a silent 'e'?",
+                        "correctIndex": 1,
+                        "answers": ["stump", "grape", "smog", "grab"]
+                      },
+                      {
+                        "id": 159,
+                        "content": "Choose the word that does not feature a silent 'e' within it.",
+                        "correctIndex": 0,
+                        "answers": ["stump", "slide", "flame", "waves"]
+                      },
+                      {
+                        "id": 160,
+                        "content": "In which word is a silent 'e' absent?",
+                        "correctIndex": 2,
+                        "answers": ["tame", "stake", "smog", "hike"]
+                      },
+                      {
+                        "id": 161,
+                        "content": "Identify the word with no silent 'e' inside.",
+                        "correctIndex": 1,
+                        "answers": ["grape", "heat", "June", "slide"]
+                      },
+                      {
+                        "id": 162,
+                        "content": "Select the word that does not include a silent 'e' within it.",
+                        "correctIndex": 1,
+                        "answers": ["graze", "holly", "freeze", "inside"]
+                      },
+                      {
+                        "id": 163,
+                        "content": "In which word is there no silent 'e'?",
+                        "correctIndex": 0,
+                        "answers": ["clam", "glide", "hike", "tide"]
+                      },
+                      {
+                        "id": 164,
+                        "content": "Identify the word without a silent 'e' inside.",
+                        "correctIndex": 2,
+                        "answers": ["slide", "brave", "you", "give"]
+                      },
+                      {
+                        "id": 165,
+                        "content": "Point out the word that lacks a silent 'e' within it.",
+                        "correctIndex": 0,
+                        "answers": ["think", "slice", "tame", "flame"]
+                      },
+                      {
+                        "id": 166,
+                        "content": "Which word is free of a silent 'e'?",
+                        "correctIndex": 2,
+                        "answers": ["middle", "grape", "clap", "tame"]
+                      },
+                      {
+                        "id": 167,
+                        "content": "Identify the word that is accompanied by a silent 'e' inside.",
+                        "correctIndex": 1,
+                        "answers": ["swamp", "slide", "flint", "hill"]
+                      },
+                      {
+                        "id": 168,
+                        "content": "Point out the word that does contain a silent 'e' within it.",
+                        "correctIndex": 2,
+                        "answers": ["clam", "book", "glide", "cool"]
+                      },
+                      {
+                        "id": 169,
+                        "content": "Which word is lacking a silent 'e'?",
+                        "correctIndex": 0,
+                        "answers": ["classic", "flake", "brave", "tripe"]
+                      },
+                      {
+                        "id": 170,
+                        "content": "Choose the word that does not have a silent 'e' inside.",
+                        "correctIndex": 3,
+                        "answers": ["slope", "slice", "wine", "crisp"]
+                      },
+                      {
+                        "id": 171,
+                        "content": "In which word has a silent 'e'?",
+                        "correctIndex": 1,
+                        "answers": ["trip", "stake", "magic", "true"]
+                      },
+                      {
+                        "id": 172,
+                        "content": "Identify the word with a silent 'e' inside.",
+                        "correctIndex": 1,
+                        "answers": ["rush", "slide", "poor", "pour"]
+                      },
+                      {
+                         "id": 173,
+                         "content": "Which word contains a long 'I' sound?",
+                         "correctIndex": 0,
+                         "answers": ["pie", "fast", "dog", "hat"]
+                       },
+                       {
+                         "id": 174,
+                         "content": "Among these words, which one has a long 'I' sound?",
+                         "correctIndex": 3,
+                         "answers": ["June", "book", "run", "night"]
+                       },
+                       {
+                         "id": 175,
+                         "content": "Identify the word that contains a long 'I' sound.",
+                         "correctIndex": 2,
+                         "answers": ["flower", "fish", "tie", "tree"]
+                       },
+                       {
+                         "id": 176,
+                         "content": "Choose the word with a long 'A' sound.",
+                         "correctIndex": 3,
+                         "answers": ["light", "hill", "dog", "stay"]
+                       },
+                       {
+                         "id": 177,
+                         "content": "Which word is pronounced with a long 'I' sound?",
+                         "correctIndex": 2,
+                         "answers": ["seed", "lake", "sty", "dog"]
+                       },
+                       {
+                         "id": 178,
+                         "content": "Point out the word that has a long 'U' sound.",
+                         "correctIndex": 1,
+                         "answers": ["high", "few", "dog", "sock"]
+                       },
+                       {
+                         "id": 179,
+                         "content": "Select the word that contains a long 'O' sound.",
+                         "correctIndex": 2,
+                         "answers": ["bird", "light", "boat", "tree"]
+                       },
+                       {
+                         "id": 180,
+                         "content": "Which word contains the long 'I' sound?",
+                         "correctIndex": 0,
+                         "answers": ["sigh", "sand", "sock", "cat"]
+                       },
+                       {
+                         "id": 181,
+                         "content": "Among these words, which one has a long 'I' sound?",
+                         "correctIndex": 2,
+                         "answers": ["noon", "fast", "light", "bag"]
+                       },
+                       {
+                         "id": 182,
+                         "content": "Identify the word that has a long 'U' sound.",
+                         "correctIndex": 2,
+                         "answers": ["pie", "hat", "root", "dog"]
+                       },
+                       {
+                         "id": 183,
+                         "content": "Choose the word with a long 'I' sound.",
+                         "correctIndex": 2,
+                         "answers": ["fill", "fish", "tie", "tree"]
+                       },
+                       {
+                         "id": 184,
+                         "content": "Which word is pronounced with a long 'A' sound?",
+                         "correctIndex": 3,
+                         "answers": ["sight", "bag", "ding", "ray"]
+                       },
+                       {
+                         "id": 185,
+                         "content": "Point out the word that contains a long 'I' sound.",
+                         "correctIndex": 0,
+                         "answers": ["pie", "hill", "sock", "dog"]
+                       },
+                       {
+                         "id": 186,
+                         "content": "Select the word that has a long 'E' sound.",
+                         "correctIndex": 3,
+                         "answers": ["bird", "fast", "dog", "tree"]
+                       },
+                       {
+                         "id": 187,
+                         "content": "Which word contains a long 'I' sound?",
+                         "correctIndex": 2,
+                         "answers": ["high", "sand", "tie", "tree"]
+                       },
+                       {
+                         "id": 188,
+                         "content": "Choose the word with a long 'I' sound.",
+                         "correctIndex": 0,
+                         "answers": ["light", "lake", "meet", "cent"]
+                       },
+                       {
+                         "id": 189,
+                         "content": "Among these words, which one has a long 'A' sound?",
+                         "correctIndex": 3,
+                         "answers": ["pie", "fast", "cat", "ray"]
+                       },
+                       {
+                         "id": 190,
+                         "content": "Identify the word that has a long 'I' sound.",
+                         "correctIndex": 2,
+                         "answers": ["kit", "hit", "sight", "dig"]
+                       },
+                       {
+                         "id": 191,
+                         "content": "Point out the word that contains a long 'U' sound.",
+                         "correctIndex": 1,
+                         "answers": ["high", "book", "dog", "tree"]
+                       },
+                       {
+                         "id": 192,
+                         "content": "Select the word that has a long 'I' sound.",
+                         "correctIndex": 0,
+                         "answers": ["sight", "sand", "sock", "cat"]
+                       },                     {
+                         "id": 193,
+                         "content": "Which word has a long 'U' sound?",
+                         "correctIndex": 2,
+                         "answers": ["cake", "cat", "juice", "hill"]
+                       },
+                       {
+                         "id": 194,
+                         "content": "Identify the word with a long 'A' sound.",
+                         "correctIndex": 3,
+                         "answers": ["art", "fast", "hat", "paint"]
+                       },
+                       {
+                         "id": 195,
+                         "content": "Choose the word that contains a long 'A' sound.",
+                         "correctIndex": 2,
+                         "answers": ["plan", "bird", "steak", "sock"]
+                       },
+                       {
+                         "id": 196,
+                         "content": "In which word is there a long 'A' sound?",
+                         "correctIndex": 0,
+                         "answers": ["disobey", "frog", "sock", "run"]
+                       },
+                       {
+                         "id": 197,
+                         "content": "Point out the word with a long 'O' sound.",
+                         "correctIndex": 1,
+                         "answers": ["fast", "charcoal", "fish", "dog"]
+                       },
+                       {
+                         "id": 198,
+                         "content": "Select the word that has a long 'A' sound.",
+                         "correctIndex": 3,
+                         "answers": ["hat", "gap", "tram", "reindeer"]
+                       },
+                       {
+                         "id": 199,
+                         "content": "Which word is pronounced with a long 'A' sound?",
+                         "correctIndex": 0,
+                         "answers": ["survey", "tree", "cat", "ran"]
+                       },
+                       {
+                         "id": 200,
+                         "content": "Identify the word that has a long 'O' sound.",
+                         "correctIndex": 2,
+                         "answers": ["cake", "sand", "notice", "dog"]
+                       },
+                       {
+                         "id": 201,
+                         "content": "Choose the word that contains a long 'I' sound.",
+                         "correctIndex": 3,
+                         "answers": ["arrow", "fall", "snow", "bride"]
+                       },
+                       {
+                         "id": 202,
+                         "content": "In which word is there a long 'E' sound?",
+                         "correctIndex": 0,
+                         "answers": ["county", "frog", "sock", "run"]
+                       },
+                       {
+                         "id": 203,
+                         "content": "Point out the word with a long 'I' sound.",
+                         "correctIndex": 3,
+                         "answers": ["cake", "flag", "fish", "giant"]
+                       },
+                       {
+                         "id": 204,
+                         "content": "Select the word that has a long 'A' sound.",
+                         "correctIndex": 3,
+                         "answers": ["rib", "hat", "lack", "weigh"]
+                       },
+                       {
+                         "id": 205,
+                         "content": "Which word is pronounced with a long 'A' sound?",
+                         "correctIndex": 1,
+                         "answers": ["hat", "outbreak", "dog", "salt"]
+                       },
+                       {
+                         "id": 206,
+                         "content": "Identify the word that has a long 'E' sound.",
+                         "correctIndex": 2,
+                         "answers": ["lake", "sand", "hill", "dog"]
+                       },
+                       {
+                         "id": 207,
+                         "content": "Choose the word that contains a long 'A' sound.",
+                         "correctIndex": 0,
+                         "answers": ["city", "fast", "play", "bird"]
+                       },
+                       {
+                         "id": 208,
+                         "content": "In which word is there a long 'U' sound?",
+                         "correctIndex": 2,
+                         "answers": ["train", "frog", "uniform", "rain"]
+                       },
+                       {
+                         "id": 209,
+                         "content": "Point out the word with a long 'O' sound.",
+                         "correctIndex": 1,
+                         "answers": ["fast", "envelope", "fish", "dog"]
+                       },
+                       {
+                         "id": 210,
+                         "content": "Select the word that has a long 'I' sound.",
+                         "correctIndex": 1,
+                         "answers": ["cake", "magnet", "magnify", "tree"]
+                       },
+                       {
+                         "id": 211,
+                         "content": "Which word is pronounced with a long 'E' sound?",
+                         "correctIndex": 2,
+                         "answers": ["rain", "cat", "cookie", "hill"]
+                       },
+                       {
+                         "id": 212,
+                         "content": "Identify the word that has a long 'O' sound.",
+                         "correctIndex": 0,
+                         "answers": ["known", "play", "lake", "dog"]
+                       },
+                       {
+                           "id": 213,
+                           "content": "Among these words, which one has a long 'O' sound?",
+                           "correctIndex": 3,
+                           "answers": ["got", "hill", "dog", "meadow"]
+                         },
+                         {
+                           "id": 214,
+                           "content": "Choose the word with a long 'I' sound.",
+                           "correctIndex": 0,
+                           "answers": ["road", "fist", "tin", "tiptoe"]
+                         },
+                         {
+                           "id": 215,
+                           "content": "Select the word that contains a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["home", "queen", "multiply ", "sock"]
+                         },
+                         {
+                           "id": 216,
+                           "content": "Identify the word that has a long 'I' sound.",
+                           "correctIndex": 2,
+                           "answers": ["goat", "hill", "tonight", "cat"]
+                         },
+                         {
+                           "id": 217,
+                           "content": "Point out the word that has a long 'O' sound.",
+                           "correctIndex": 2,
+                           "answers": ["coat", "hill", "dog", "sock"]
+                         },
+                         {
+                           "id": 218,
+                           "content": "Which word contains a long 'U' sound?",
+                           "correctIndex": 1,
+                           "answers": ["toe", "renew", "boat", "gown"]
+                         },
+                         {
+                           "id": 219,
+                           "content": "Choose the word with a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["smooth", "hill", "half", "shot"]
+                         },
+                         {
+                           "id": 220,
+                           "content": "Identify the word that has a long 'O' sound.",
+                           "correctIndex": 3,
+                           "answers": ["home", "hill", "tie", "compose"]
+                         },
+                         {
+                           "id": 221,
+                           "content": "Among these words, which one has a long 'A' sound?",
+                           "correctIndex": 2,
+                           "answers": ["coat", "fast", "ate", "run"]
+                         },
+                         {
+                           "id": 222,
+                           "content": "Point out the word that has a long 'O' sound.",
+                           "correctIndex": 0,
+                           "answers": ["oboe", "hill", "vein", "dry"]
+                         },
+                         {
+                           "id": 223,
+                           "content": "Select the word that contains a long 'E' sound.",
+                           "correctIndex": 2,
+                           "answers": ["boat", "sand", "beach", "run"]
+                         },
+                         {
+                           "id": 224,
+                           "content": "Which word is pronounced with a long 'I' sound?",
+                           "correctIndex": 2,
+                           "answers": ["goat", "fast", "coat", "satisfy"]
+                         },
+                         {
+                           "id": 225,
+                           "content": "Choose the word with a long 'I' sound.",
+                           "correctIndex": 1,
+                           "answers": ["drying", "unite", "as", "sock"]
+                         },
+                         {
+                           "id": 226,
+                           "content": "Among these words, which one has a long 'E' sound?",
+                           "correctIndex": 3,
+                           "answers": ["row", "fast", "flashlight", "crazy"]
+                         },
+                         {
+                           "id": 227,
+                           "content": "Point out the word that has a long 'O' sound.",
+                           "correctIndex": 2,
+                           "answers": ["sky", "tight", "coast", "weight"]
+                         },
+                         {
+                           "id": 228,
+                           "content": "Select the word that contains a long 'I' sound.",
+                           "correctIndex": 3,
+                           "answers": ["road", "sand", "coastal", "highest"]
+                         },
+                         {
+                           "id": 229,
+                           "content": "Identify the word that has a long 'A' sound.",
+                           "correctIndex": 1,
+                           "answers": ["goat", "chain", "tie", "toast"]
+                         },
+                         {
+                           "id": 230,
+                           "content": "Choose the word with a long 'O' sound.",
+                           "correctIndex": 3,
+                           "answers": ["home", "fast", "dog", "mistletoe"]
+                         },
+                         {
+                           "id": 231,
+                           "content": "Select the word that contains a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["chewy", "sand", "boat", "run"]
+                         },
+                         {
+                           "id": 232,
+                           "content": "Among these words, which one has a long 'U' sound?",
+                           "correctIndex": 2,
+                           "answers": ["toe", "invite", "interview", "care"]
+                         },
+                         {
+                           "id": 233,
+                           "content": "Choose the word with a long 'I' sound.",
+                           "correctIndex": 3,
+                           "answers": ["road", "hill", "truce", "flight"]
+                         },
+                         {
+                           "id": 234,
+                           "content": "Select the word that contains a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["home", "mean", "boat", "argue"]
+                         },
+                         {
+                           "id": 235,
+                           "content": "Identify the word that has a long 'O' sound.",
+                           "correctIndex": 0,
+                           "answers": ["telescope", "hill", "tissue", "tonight"]
+                         },
+                         {
+                           "id": 236,
+                           "content": "Point out the word that has a long 'O' sound.",
+                           "correctIndex": 2,
+                           "answers": ["coat", "hill", "dog", "sock"]
+                         },
+                         {
+                           "id": 237,
+                           "content": "Which word contains a long 'O' sound?",
+                           "correctIndex": 1,
+                           "answers": ["only", "overload", "slight", "hype"]
+                         },
+                         {
+                           "id": 238,
+                           "content": "Choose the word with a long 'I' sound.",
+                           "correctIndex": 3,
+                           "answers": ["goat", "approach", "veil", "hairstyle"]
+                         },
+                         {
+                           "id": 239,
+                           "content": "Identify the word that has a long 'E' sound.",
+                           "correctIndex": 0,
+                           "answers": ["crazy", "doe", "tie", "cat"]
+                         },
+                         {
+                           "id": 240,
+                           "content": "Among these words, which one has a long 'O' sound?",
+                           "correctIndex": 3,
+                           "answers": ["schedule", "fast", "dog", "cold"]
+                         },
+                         {
+                           "id": 241,
+                           "content": "Point out the word that has a long 'U' sound.",
+                           "correctIndex": 1,
+                           "answers": ["toe", "tissue", "tie", "gown"]
+                         },
+                         {
+                           "id": 242,
+                           "content": "Select the word that contains a long 'E' sound.",
+                           "correctIndex": 2,
+                           "answers": ["boat", "blue", "memory", "ruin"]
+                         },
+                         {
+                           "id": 243,
+                           "content": "Which word contains a long 'U' sound?",
+                           "correctIndex": 0,
+                           "answers": ["fume", "eve", "candy", "sock"]
+                         },
+                         {
+                           "id": 244,
+                           "content": "Point out the word that has a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["glue", "neither", "tie", "cat"]
+                         },
+                         {
+                           "id": 245,
+                           "content": "Select the word with a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["fluke", "hill", "prairie", "sock"]
+                         },
+                         {
+                           "id": 246,
+                           "content": "Identify the word that has a long 'A' sound.",
+                           "correctIndex": 1,
+                           "answers": ["cute", "Asia", "tie", "mud"]
+                         },
+                         {
+                           "id": 247,
+                           "content": "Among these words, which one has a long 'E' sound?",
+                           "correctIndex": 2,
+                           "answers": ["fume", "beige", "jersey", "crayon"]
+                         },
+                         {
+                           "id": 248,
+                           "content": "Choose the word with a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["flume", "protein", "read", "foe"]
+                         },
+                         {
+                           "id": 249,
+                           "content": "Select the word that contains a long 'A' sound.",
+                           "correctIndex": 2,
+                           "answers": ["glue", "propose", "explain", "run"]
+                         },
+                         {
+                           "id": 250,
+                           "content": "Point out the word that has a long 'U' sound.",
+                           "correctIndex": 2,
+                           "answers": ["freestyle", "hill", "sewage", "cat"]
+                         },
+                         {
+                           "id": 251,
+                           "content": "Which word contains a long 'I' sound?",
+                           "correctIndex": 1,
+                           "answers": ["fume", "fight", "receive", "gum"]
+                         },
+                         {
+                           "id": 252,
+                           "content": "Choose the word with a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["glue", "teeth", "tie", "those"]
+                         },
+                         {
+                           "id": 253,
+                           "content": "Identify the word that has a long 'O' sound.",
+                           "correctIndex": 2,
+                           "answers": ["expose", "hilt", "alone", "sock"]
+                         },
+                         {
+                           "id": 254,
+                           "content": "Among these words, which one has a long 'O' sound?",
+                           "correctIndex": 3,
+                           "answers": ["fume", "sand", "cue", "yellow"]
+                         },
+                         {
+                           "id": 255,
+                           "content": "Point out the word that has a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["dune", "feel", "wrote", "shown"]
+                         },
+                         {
+                           "id": 256,
+                           "content": "Select the word that contains a long 'A' sound.",
+                           "correctIndex": 1,
+                           "answers": ["clue", "essay", "fellow", "ruin"]
+                         },
+                         {
+                           "id": 257,
+                           "content": "Choose the word with a long 'I' sound.",
+                           "correctIndex": 3,
+                           "answers": ["flume", "hill", "native", "July"]
+                         },
+                         {
+                           "id": 258,
+                           "content": "Identify the word that has a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["cure", "hill", "tie", "thyme"]
+                         },
+                         {
+                           "id": 259,
+                           "content": "Which word contains a long 'E' sound?",
+                           "correctIndex": 0,
+                           "answers": ["seem", "throat", "goes", "claim"]
+                         },
+                         {
+                           "id": 260,
+                           "content": "Among these words, which one has a long 'A' sound?",
+                           "correctIndex": 3,
+                           "answers": ["glue", "sand", "dream", "whale"]
+                         },
+                         {
+                           "id": 261,
+                           "content": "Point out the word that has a long 'I' sound.",
+                           "correctIndex": 2,
+                           "answers": ["fluke", "mayor", "deny", "cat"]
+                         },
+                         {
+                           "id": 262,
+                           "content": "Select the word that contains a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["cute", "fast", "dog", "run"]
+                         },
+                         {
+                           "id": 263,
+                           "content": "Choose the word with a long 'A' sound.",
+                           "correctIndex": 2,
+                           "answers": ["glue", "occupy", "mistake", "soak"]
+                         },
+                         {
+                           "id": 264,
+                           "content": "Identify the word that has a long 'E' sound.",
+                           "correctIndex": 3,
+                           "answers": ["fume", "butterfly", "tie", "meat"]
+                         },
+                         {
+                           "id": 265,
+                           "content": "Among these words, which one has a long 'E' sound?",
+                           "correctIndex": 2,
+                           "answers": ["clue", "beach", "shield", "sock"]
+                         },
+                         {
+                           "id": 266,
+                           "content": "Point out the word that has a long 'U' sound.",
+                           "correctIndex": 3,
+                           "answers": ["cocoa", "hill", "donkey", "knew"]
+                         },
+                         {
+                           "id": 267,
+                           "content": "Which word contains a long 'I' sound?",
+                           "correctIndex": 2,
+                           "answers": ["flume", "known", "describe", "run"]
+                         },
+                         {
+                           "id": 268,
+                           "content": "Choose the word with a long 'U' sound.",
+                           "correctIndex": 0,
+                           "answers": ["fume", "free", "tie", "mug"]
+                         },
+                         {
+                           "id": 269,
+                           "content": "Select the word that contains a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["glue", "fast", "dog", "thy"]
+                         },
+                         {
+                           "id": 270,
+                           "content": "Point out the word that has a long 'E' sound.",
+                           "correctIndex": 1,
+                           "answers": ["fluke", "Pete", "door", "sock"]
+                         },
+                         {
+                           "id": 271,
+                           "content": "Identify the word that has a long 'U' sound.",
+                           "correctIndex": 2,
+                           "answers": ["coffee", "sandwich", "cue", "mud"]
+                         },
+                         {
+                           "id": 272,
+                           "content": "Among these words, which one has a long 'A' sound?",
+                           "correctIndex": 2,
+                           "answers": ["glue", "hide", "chain", "run"]
+                         },
+                         {
+                            "id": 273,
+                            "content": "Which word contains a long 'U' sound?",
+                            "correctIndex": 0,
+                            "answers": ["music", "fast", "dog", "sock"]
+                          },
+                          {
+                            "id": 274,
+                            "content": "Point out the word that has a long 'O' sound.",
+                            "correctIndex": 3,
+                            "answers": ["cute", "telephone", "tie", "mud"]
+                          },
+                         
+                          {
+                            "id": 275,
+                            "content": "Point out the word that has a long 'U' sound.",
+                            "correctIndex": 0,
+                            "answers": ["student", "young", "pillow", "oat"]
+                          },
+                          {
+                            "id": 276,
+                            "content": "Which word contains a long 'U' sound?",
+                            "correctIndex": 0,
+                            "answers": ["future", "fast", "dog", "run"]
+                          },
+                          {
+                            "id": 277,
+                            "content": "Choose the word with a long 'i' sound.",
+                            "correctIndex": 2,
+                            "answers": ["tune", "school", "analyze", "sock"]
+                          },
+                          {
+                            "id": 278,
+                            "content": "Identify the word that has a long 'E' sound.",
+                            "correctIndex": 3,
+                            "answers": ["clue", "sight", "tie", "relief"]
+                          },
+                          {
+                            "id": 279,
+                            "content": "Among these words, which one has a long 'E' sound?",
+                            "correctIndex": 1,
+                            "answers": ["cute", "feet", "dog", "sock"]
+                          },
+                          {
+                            "id": 280,
+                            "content": "Point out the word that has a long 'I' sound.",
+                            "correctIndex": 2,
+                            "answers": ["future", "hill", "realize", "marry"]
+                          },
+                          {
+                            "id": 281,
+                            "content": "Select the word that contains a long 'A' sound.",
+                            "correctIndex": 2,
+                            "answers": ["clue", "eyesight", "birthday", "untie"]
+                          },
+                          {
+                            "id": 282,
+                            "content": "Choose the word with a long 'O' sound.",
+                            "correctIndex": 3,
+                            "answers": ["tune", "save", "tie", "cargo"]
+                          },
+                          {
+                            "id": 283,
+                            "content": "Identify the word that has a long 'E' sound.",
+                            "correctIndex": 2,
+                            "answers": ["music", "sand", "team", "sock"]
+                          },
+                          {
+                            "id": 284,
+                            "content": "Which word contains a long 'U' sound?",
+                            "correctIndex": 0,
+                            "answers": ["tune", "fast", "dog", "run"]
+                          },
+                          {
+                            "id": 285,
+                            "content": "Among these words, which one has a long 'A' sound?",
+                            "correctIndex": 3,
+                            "answers": ["clue", "early", "ding", "sleigh"]
+                          },
+                          {
+                            "id": 286,
+                            "content": "Point out the word that has a long 'I' sound.",
+                            "correctIndex": 2,
+                            "answers": ["cute", "sand", "myself", "cat"]
+                          },
+                          {
+                            "id": 287,
+                            "content": "Select the word that contains a long 'U' sound.",
+                            "correctIndex": 0,
+                            "answers": ["future", "fast", "dog", "run"]
+                          },
+                          {
+                            "id": 288,
+                            "content": "Choose the word with a long 'i' sound.",
+                            "correctIndex": 2,
+                            "answers": ["music", "hill", "nearby", "sock"]
+                          },
+                          {
+                            "id": 289,
+                            "content": "Identify the word that has a long 'E' sound.",
+                            "correctIndex": 1,
+                            "answers": ["tune", "wheel", "tie", "approach"]
+                          },
+                          {
+                            "id": 290,
+                            "content": "Among these words, which one has a long 'U' sound?",
+                            "correctIndex": 2,
+                            "answers": ["enzyme", "fast", "surely", "sock"]
+                          },
+                          {
+                            "id": 291,
+                            "content": "Point out the word that has a long 'O' sound.",
+                            "correctIndex": 3,
+                            "answers": ["future", "hill", "dog", "slow"]
+                          },
+                          {
+                            "id": 292,
+                            "content": "Which word contains a long 'U' sound?",
+                            "correctIndex": 3,
+                            "answers": ["maze", "below", "mighty", "root"]
+                          },
+                          {
+                            "id": 293,
+                            "content": "Choose the word with a long 'I' sound.",
+                            "correctIndex": 2,
+                            "answers": ["tune", "hill", "lime", "mug"]
+                          },
+                          {
+                            "id": 294,
+                            "content": "Identify the word that has a long 'E' sound.",
+                            "correctIndex": 2,
+                            "answers": ["clue", "sand", "each", "sock"]
+                          },
+                          {
+                            "id": 295,
+                            "content": "Among these words, which one has a long 'O' sound?",
+                            "correctIndex": 2,
+                            "answers": ["cute", "calories", "compose", "run"]
+                          },
+                          {
+                            "id": 296,
+                            "content": "Point out the word that has a long 'I' sound.",
+                            "correctIndex": 2,
+                            "answers": ["new", "hill", "classify", "cat"]
+                          },
+                          {
+                            "id": 297,
+                            "content": "Select the word that contains a long 'E' sound.",
+                            "correctIndex": 1,
+                            "answers": ["music", "really", "dog", "run"]
+                          }
+                      
+                     ]
+        }
+    }
+]
+

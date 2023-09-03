@@ -1,0 +1,530 @@
+
+
+[
+    {
+        "id": 1,
+        "category": "Comprehension",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "WackyTron's Roller Rink Ruckus",
+                            "topicContent": "WackyTron and his friends visit the roller rink for a day of fun. However, WackyTron's clumsiness leads to a comical series of events, turning the roller rink into a laughter-filled adventure."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "WackyTron's Picnic Pandemonium",
+                            "topicContent": "The gang plans a picnic in the park, but WackyTron's picnic prep goes haywire. From forgetting the food to mixing up games, they turn the day into a hilarious mess before saving the picnic."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "WackyTron's Mini Golf Mayhem",
+                            "topicContent": "WackyTron and friends go mini-golfing, but WackyTron's robotic arms can't seem to get the hang of the game. Through teamwork and encouragement, they turn WackyTron's 'misses' into unexpected successes."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "WackyTron's Zoo Escapade",
+                            "topicContent": "A field trip to the zoo becomes an exciting adventure as WackyTron accidentally releases some animals. With quick thinking and collaboration, the friends round up the animals and save the day."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "WackyTron's Arcade Antics",
+                            "topicContent": " The gang spends a day at the arcade, where WackyTron's clumsiness turns the games into hilarious challenges. Through teamwork and determination, they transform the day into a blast of fun."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "WackyTron's Camping Caper",
+                            "topicContent": "WackyTron and friends embark on a camping trip, but WackyTron's camping gear mishaps lead to a series of comic events. Together, they embrace the unexpected and find joy in the outdoors."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "WackyTron's Beach Bonanza",
+                            "topicContent": "A beach day filled with sandcastles and fun takes an unexpected turn when WackyTron's sandcastle-building efforts result in laughter and creative chaos by the shore."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "WackyTron's Art Museum Fiasco",
+                            "topicContent": "A class visit to the art museum becomes a wild adventure when WackyTron's clumsiness disrupts the exhibits. With imaginative problem-solving, they turn a potential disaster into a masterpiece of fun."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "WackyTron's Science Center Shenanigans",
+                            "topicContent": "A trip to the science center leads to hilarious experiments gone wrong as WackyTron's curious nature mixes with his clumsiness. Through exploration and discovery, they find laughter in science."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "WackyTron's Theater Troubles",
+                            "topicContent": "The gang decides to put on a play, and WackyTron's acting attempts create uproarious laughter during rehearsals. With support from his friends, WackyTron's unique style steals the show."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "WackyTron's Amusement Park Adventure",
+                            "topicContent": "A day at the amusement park turns into a series of slapstick mishaps as WackyTron navigates rides and attractions. With the gang by his side, they turn his clumsy escapades into a roller coaster of fun."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Manipulating Phonemes - Removing, Adding, Substituting Sounds",
+                            "topicContent": "Teach students to manipulate phonemes by removing, adding, or substituting sounds within words. Provide exercises to practice this skill."
+                        }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Memeory skills of WackyTrons adventures to the test.",
+               "questions": [
+                   {
+                     "id": 0,
+                     "content": "In 'WackyTron's Roller Rink Ruckus', how does WackyTron's clumsiness impact the roller rink?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "It turns the roller rink into a laughter-filled adventure",
+                       "It leads to serious accidents",
+                       "It makes everyone sad",
+                       "It disrupts the day"
+                     ]
+                   },
+                   {
+                     "id": 1,
+                     "content": "What problem does WackyTron face during the picnic in 'WackyTron's Picnic Pandemonium'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "Rain ruins the picnic",
+                       "Picnic prep goes haywire",
+                       "The gang forgets the games",
+                       "They run out of food"
+                     ]
+                   },
+                   {
+                     "id": 2,
+                     "content": "How do WackyTron and friends turn WackyTron's 'misses' into successes in 'WackyTron's Mini Golf Mayhem'?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "They quit the game",
+                       "They change the rules",
+                       "They ignore the misses",
+                       "They encourage and work together"
+                     ]
+                   },
+                   {
+                     "id": 3,
+                     "content": "What unexpected event occurs during the field trip in 'WackyTron's Zoo Escapade'?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "A treasure hunt",
+                       "A surprise test",
+                       "Animals are accidentally released",
+                       "The zoo closes early"
+                     ]
+                   },
+                   {
+                     "id": 4,
+                     "content": "How does WackyTron's clumsiness impact the arcade day in 'WackyTron's Arcade Antics'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "He wins all the games",
+                       "Games become hilarious challenges",
+                       "He gets banned from the arcade",
+                       "He refuses to play"
+                     ]
+                   },
+                   {
+                     "id": 5,
+                     "content": "What important lesson do WackyTron and friends learn in 'WackyTron's Camping Caper'?",
+                     "correctIndex": 0,
+                     "answers": [
+                       "To embrace the unexpected",
+                       "To avoid camping trips",
+                       "To always plan ahead",
+                       "To stay indoors"
+                     ]
+                   },
+                   {
+                     "id": 6,
+                     "content": "How does WackyTron's sandcastle-building lead to creative chaos in 'WackyTron's Beach Bonanza'?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "It ruins the beach",
+                       "It gets washed away",
+                       "It sparks laughter and chaos",
+                       "It creates a masterpiece"
+                     ]
+                   },
+                   {
+                     "id": 7,
+                     "content": "What does the gang's imaginative problem-solving achieve in 'WackyTron's Art Museum Fiasco'?",
+                     "correctIndex": 3,
+                     "answers": [
+                       "They get kicked out",
+                       "They destroy the art",
+                       "They create a new exhibit",
+                       "They turn disaster into fun"
+                     ]
+                   },
+                   {
+                     "id": 8,
+                     "content": "What is the focus of the trip to the science center in 'WackyTron's Science Center Shenanigans'?",
+                     "correctIndex": 1,
+                     "answers": [
+                       "Eating snacks",
+                       "Exploring and discovering",
+                       "Playing games",
+                       "Taking pictures"
+                     ]
+                   },
+                   {
+                     "id": 9,
+                     "content": "How does WackyTron's unique acting style impact the play in 'WackyTron's Theater Troubles'?",
+                     "correctIndex": 2,
+                     "answers": [
+                       "He forgets his lines",
+                       "He refuses to participate",
+                       "He steals the show with laughter",
+                       "He makes everyone angry"
+                     ]
+                   },
+                   
+                   {
+                      "id": 10,
+                      "content": "What creative solution do WackyTron and his friends come up with to fix the roller rink in 'WackyTron's Roller Rink Ruckus'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "They call for help",
+                        "They turn it into a laughter-filled adventure",
+                        "They leave the roller rink",
+                        "They ignore the mess"
+                      ]
+                    },
+                    {
+                      "id": 11,
+                      "content": "How do the friends manage to save the picnic in 'WackyTron's Picnic Pandemonium'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "They use their skills and teamwork",
+                        "They cancel the picnic",
+                        "They order food",
+                        "They leave the park"
+                      ]
+                    },
+                    {
+                      "id": 12,
+                      "content": "In 'WackyTron's Mini Golf Mayhem', what lesson do WackyTron and friends learn from his 'misses'?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "Winning is important",
+                        "Games are easy",
+                        "Failures can be turned into successes",
+                        "They should give up"
+                      ]
+                    },
+                    {
+                      "id": 13,
+                      "content": "What contributes to the excitement in 'WackyTron's Zoo Escapade'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "A calm and quiet field trip",
+                        "Accidentally releasing animals",
+                        "A visit to the aquarium",
+                        "A nap by the lake"
+                      ]
+                    },
+                    {
+                      "id": 14,
+                      "content": "How does WackyTron manage to turn the arcade challenges into fun in 'WackyTron's Arcade Antics'?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "He quits playing",
+                        "He cheats",
+                        "He gets angry",
+                        "He uses teamwork and determination"
+                      ]
+                    },
+                    {
+                      "id": 15,
+                      "content": "What does WackyTron's camping gear mishaps lead to in 'WackyTron's Camping Caper'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "A series of comic events",
+                        "A perfectly organized trip",
+                        "A disaster",
+                        "They cancel the trip"
+                      ]
+                    },
+                    {
+                      "id": 16,
+                      "content": "How do WackyTron and friends transform the beach day in 'WackyTron's Beach Bonanza'?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "They make sandcastles",
+                        "They stay indoors",
+                        "They refuse to play",
+                        "They turn chaos into creativity"
+                      ]
+                    },
+                    {
+                      "id": 17,
+                      "content": "What imaginative problem-solving strategy helps in 'WackyTron's Art Museum Fiasco'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Using their imagination",
+                        "Destroying the art",
+                        "Leaving the museum",
+                        "Ignoring the disaster"
+                      ]
+                    },
+                    {
+                      "id": 18,
+                      "content": "What do WackyTron and friends discover through exploration in 'WackyTron's Science Center Shenanigans'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "They discover hidden treasures",
+                        "They find laughter in science",
+                        "They become tired",
+                        "They learn nothing"
+                      ]
+                    },
+                    {
+                      "id": 19,
+                      "content": "How does WackyTron's unique style contribute to the play in 'WackyTron's Theater Troubles'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "It confuses the audience",
+                        "It brings laughter and uniqueness",
+                        "It disrupts the play",
+                        "It leads to a disaster"
+                      ]
+                    },
+                    {
+                       "id": 20,
+                       "content": "How does WackyTron's visit to the roller rink in 'WackyTron's Roller Rink Ruckus' turn into a series of comical events?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "It's a regular day at the roller rink",
+                         "The roller rink is closed",
+                         "His clumsiness leads to chaos",
+                         "They cancel the visit"
+                       ]
+                     },
+                     {
+                       "id": 21,
+                       "content": "In 'WackyTron's Picnic Pandemonium', what creative solution do the friends come up with to save the picnic?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "They cancel the picnic",
+                         "They eat inside",
+                         "They play games",
+                         "They turn mishaps into fun activities"
+                       ]
+                     },
+                     {
+                       "id": 22,
+                       "content": "How do WackyTron's 'misses' during mini-golfing in 'WackyTron's Mini Golf Mayhem' lead to unexpected successes?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "He gives up playing",
+                         "Through teamwork and encouragement",
+                         "By cheating",
+                         "By getting frustrated"
+                       ]
+                     },
+                     {
+                       "id": 23,
+                       "content": "What lesson do WackyTron and his friends learn in 'WackyTron's Zoo Escapade'?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "Zoos are boring",
+                         "Animals should be set free",
+                         "Accidents are not a big deal",
+                         "Quick thinking and collaboration can solve problems"
+                       ]
+                     },
+                     {
+                       "id": 24,
+                       "content": "How does WackyTron transform the arcade challenges into fun in 'WackyTron's Arcade Antics'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "He gives up",
+                         "He cheats",
+                         "Through teamwork and determination",
+                         "By playing alone"
+                       ]
+                     },
+                     {
+                       "id": 25,
+                       "content": "What unique experience does WackyTron and his friends have during the camping trip in 'WackyTron's Camping Caper'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "A series of comic events",
+                         "A perfectly organized trip",
+                         "A boring day",
+                         "A disaster"
+                       ]
+                     },
+                     {
+                       "id": 26,
+                       "content": "How do WackyTron and his friends turn WackyTron's sandcastle-building efforts into a fun experience in 'WackyTron's Beach Bonanza'?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "They give up building sandcastles",
+                         "They build serious sandcastles",
+                         "They stop playing",
+                         "They embrace chaos and creativity"
+                       ]
+                     },
+                     {
+                       "id": 27,
+                       "content": "In 'WackyTron's Art Museum Fiasco', how do the friends manage to transform the potential disaster into a masterpiece of fun?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "They ignore the disaster",
+                         "Imaginative problem-solving",
+                         "They hide from the problem",
+                         "They leave the museum"
+                       ]
+                     },
+                     {
+                       "id": 28,
+                       "content": "How do WackyTron and his friends find laughter in science in 'WackyTron's Science Center Shenanigans'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "They study quietly",
+                         "They avoid experiments",
+                         "Through exploration and discovery",
+                         "They ignore the science center"
+                       ]
+                     },
+                     {
+                       "id": 29,
+                       "content": "What makes WackyTron's acting style unique in 'WackyTron's Theater Troubles'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "He's a shy actor",
+                         "He's a great actor",
+                         "His unique style brings laughter and creativity",
+                         "He doesn't like acting"
+                       ]
+                     },
+                     {
+                       "id": 30,
+                       "content": "In 'WackyTron's Roller Rink Ruckus', how does Mizzy contribute to fixing the chaos caused by WackyTron's clumsiness?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "Mizzy teams up with WackyTron to fix everything",
+                         "Mizzy gets angry at WackyTron",
+                         "Mizzy leaves the roller rink",
+                         "Mizzy laughs at the chaos"
+                       ]
+                     },
+                     {
+                       "id": 31,
+                       "content": "What lesson about planning and preparation do WackyTron and friends learn in 'WackyTron's Picnic Pandemonium'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "Planning is not important",
+                         "Preparation is unnecessary",
+                         "Careful planning leads to a successful event",
+                         "Chaos is always fun"
+                       ]
+                     },
+                     {
+                       "id": 32,
+                       "content": "How do WackyTron's robotic arms become an unexpected advantage during mini-golfing in 'WackyTron's Mini Golf Mayhem'?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "They cause him to lose the game",
+                         "Through creative problem-solving",
+                         "By giving up",
+                         "By getting frustrated"
+                       ]
+                     },
+                     {
+                       "id": 33,
+                       "content": "What emotions do WackyTron and his friends experience when they release animals in 'WackyTron's Zoo Escapade'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "Happiness and excitement",
+                         "Sadness and frustration",
+                         "Panic and urgency",
+                         "Indifference and boredom"
+                       ]
+                     },
+                     {
+                       "id": 34,
+                       "content": "How do WackyTron and his friends manage to turn arcade challenges into fun activities in 'WackyTron's Arcade Antics'?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "They give up and leave",
+                         "They cheat to win",
+                         "They play alone",
+                         "Through teamwork and determination"
+                       ]
+                     },
+                     {
+                       "id": 35,
+                       "content": "What life skills do WackyTron and his friends develop during the camping trip in 'WackyTron's Camping Caper'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "Adaptability and embracing the unexpected",
+                         "Ignoring problems",
+                         "Avoiding challenges",
+                         "Being perfectly organized"
+                       ]
+                     },
+                     {
+                       "id": 36,
+                       "content": "How does WackyTron's creative approach to building sandcastles impact the beach day in 'WackyTron's Beach Bonanza'?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "He builds traditional sandcastles",
+                         "His sandcastles create laughter and chaos",
+                         "He gives up building sandcastles",
+                         "He becomes upset"
+                       ]
+                     },
+                     {
+                       "id": 37,
+                       "content": "How do the friends use imaginative problem-solving to salvage the art museum visit in 'WackyTron's Art Museum Fiasco'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "They creatively solve the problems caused by WackyTron's clumsiness",
+                         "They leave the museum",
+                         "They ignore the problems",
+                         "They make more mess"
+                       ]
+                     },
+                     {
+                       "id": 38,
+                       "content": "What important lesson about scientific exploration do WackyTron and friends learn in 'WackyTron's Science Center Shenanigans'?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "Science is boring",
+                         "Science is easy",
+                         "Science is irrelevant",
+                         "Exploration and discovery are fun and educational"
+                       ]
+                     },
+                     {
+                       "id": 39,
+                       "content": "How does WackyTron's unique acting style contribute to the success of the play in 'WackyTron's Theater Troubles'?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "He fails to impress anyone",
+                         "His unique style adds humor and entertainment",
+                         "He doesn't act",
+                         "He copies others' acting styles"
+                       ]
+                     }
+                   
+                   
+                   
+               ]
+           }
+    }
+
+]

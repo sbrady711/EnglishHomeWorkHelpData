@@ -1,0 +1,74 @@
+
+
+[
+    {
+        "id": 2,
+        "category": "Writing Gnere",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Narrative Writing",
+                            "topicContent": "Introduce the narrative genre and discuss its elements, such as characters, setting, plot, and conflict. Begin building vocabulary related to robots and technology."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Creating Characters",
+                            "topicContent": "Discuss character development and traits. Guide students in creating detailed descriptions of WackyTron, Mizzy, and ZacyTron, including their personalities, appearances, and roles in the story."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Building the Setting",
+                            "topicContent": "Teach students how to establish the story's setting. Encourage them to use descriptive language to create a vivid backdrop for the robot adventures."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Crafting a Plot",
+                            "topicContent": "Introduce the concept of the story's plot and its structure (beginning, middle, and end). Guide students in brainstorming ideas for WackyTron and Mizzy's adventures and encounters with ZacyTron."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "The Battle Begins",
+                            "topicContent": "each students about story conflict, particularly the clash between WackyTron, Mizzy, and ZacyTron. Discuss the importance of having a strong central conflict to drive the narrative."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Adding Dialogue",
+                            "topicContent": "Introduce dialogue and its purpose in storytelling. Provide examples of how robots like WackyTron and Mizzy might communicate and discuss using proper punctuation for dialogue."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Descriptive Language",
+                            "topicContent": "Teach students how to use descriptive language to enhance action scenes and build suspense. Discuss strong verbs, sensory details, and figurative language."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": " Building Suspense",
+                            "topicContent": "Discuss the narrative's rising action and climax. Guide students in crafting suspenseful scenes where WackyTron, Mizzy, and ZacyTron face off in a thrilling encounter."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Wrapping Up the Story",
+                            "topicContent": "Teach students how to provide a satisfying resolution to the conflict. Discuss how to tie up loose ends and bring closure to the narrative."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Writing a Conclusion",
+                            "topicContent": "Explain the concept of a story's conclusion and discuss how to provide a sense of continuation for WackyTron and Mizzy's future adventures."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Editing and Sharing",
+                            "topicContent": "Teach students the process of revising and editing their narrative for coherence, clarity, and proper grammar. Encourage them to share their robot adventure stories with peers."
+                        }
+                        
+                        
+                    ]
+                }
+       
+    }
+
+]

@@ -1,0 +1,414 @@
+
+
+[
+    {
+        "id": 4,
+        "category": "Comprehension",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "WackyTron's Quest for Empathy",
+                            "topicContent": "WackyTron and Mizzy encounter a new robot in school who seems distant. Through understanding and perseverance, they discover the robot's struggles and teach their classmates the importance of empathy."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "WackyTron's Cosmic Carnival Crusade",
+                            "topicContent": "WackyTron and Mizzy visit a cosmic carnival on a distant planet, where gravity-defying rides and alien treats lead to a day of laughter and unforgettable adventures."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "WackyTron and the Giggle Generator",
+                            "topicContent": "WackyTron invents a machine that spreads laughter, but ZackyTron tries to harness its power for mischief. WackyTron and Mizzy must outwit ZackyTron, ensuring only joyful giggles are unleashed."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "WackyTron's Jungle Jamboree",
+                            "topicContent": "During a jungle expedition, WackyTron and Mizzy befriend mischievous animals. Together, they embark on an uproarious adventure filled with jungle riddles and clever critters."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "WackyTron's Artistic Antics",
+                            "topicContent": "An art contest ignites WackyTron and Mizzy's creative spirit, resulting in a paint-splattering adventure as they explore various artistic styles and embrace their inner Picassos."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "WackyTron and the Quantum Quest",
+                            "topicContent": "A science experiment gone awry sends WackyTron and Mizzy on a wild adventure through different dimensions. With quick thinking and a dose of humor, they find their way back home."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "WackyTron's Mystery of the Missing Laughter",
+                            "topicContent": "The laughter in the city mysteriously disappears, leaving everyone in gloom. WackyTron and Mizzy embark on a side-splitting journey to track down the source of the missing mirth."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "WackyTron's Enchanted Invention Fair",
+                            "topicContent": "WackyTron and Mizzy enter an enchanted invention fair, where their quirky creations come to life. Amid the magical chaos, they learn the true magic lies in their friendship."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "WackyTron's Galactic Game Galore",
+                            "topicContent": "WackyTron and Mizzy find themselves in a cosmic arcade, where they must master an array of extraterrestrial games to rescue their captured friend from ZackyTron's clutches."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "WackyTron's Robot Revolution Reimagined",
+                            "topicContent": " ZackyTron reprograms robots to stage a chaotic uprising, but WackyTron and Mizzy lead the charge in a humorous rebellion that redefines the meaning of robot independence."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "WackyTron's Timeless Tale Tangle",
+                            "topicContent": "WackyTron and Mizzy stumble upon a book that transports them into classic fairy tales. They use their wit and creativity to navigate the tales, teaching the characters some modern fun along the way."
+                  
+                }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Memeory skills of WackyTrons adventures to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "How does the theme of empathy play a central role in 'WackyTron's Quest for Empathy', and what lessons do WackyTron and Mizzy learn about understanding others?",
+                "correctIndex": 0,
+                "answers": [
+                  "The theme of empathy is central to the story, and WackyTron and Mizzy learn about understanding others' struggles",
+                  "The theme of empathy has no relevance to the story",
+                  "The theme of empathy only leads to confusion",
+                  "The theme of empathy is irrelevant to understanding others"
+                ]
+              },
+              {
+                "id": 1,
+                "content": "In 'WackyTron's Cosmic Carnival Crusade', how do the gravity-defying rides and alien treats contribute to the story's sense of wonder and adventure?",
+                "correctIndex": 1,
+                "answers": [
+                  "The rides and treats have no impact on the sense of wonder and adventure",
+                  "The rides and treats enhance the sense of wonder and adventure",
+                  "The rides and treats make the story confusing",
+                  "The rides and treats are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 2,
+                "content": "What strategies do WackyTron and Mizzy employ to outwit ZackyTron and ensure only joyful giggles are unleashed in 'WackyTron and the Giggle Generator'?",
+                "correctIndex": 2,
+                "answers": [
+                  "They employ no strategies",
+                  "Their strategies have no impact on ZackyTron",
+                  "They employ strategies to outwit ZackyTron and ensure joyful giggles are unleashed",
+                  "Their strategies lead to more mischief"
+                ]
+              },
+              {
+                "id": 3,
+                "content": "How does the adventure in 'WackyTron's Jungle Jamboree' emphasize the importance of teamwork and creative problem-solving?",
+                "correctIndex": 0,
+                "answers": [
+                  "The adventure emphasizes teamwork and creative problem-solving",
+                  "The adventure has no impact on teamwork and creative problem-solving",
+                  "The adventure only highlights individual efforts",
+                  "The adventure is irrelevant to teamwork and creative problem-solving"
+                ]
+              },
+              {
+                "id": 4,
+                "content": "What is the significance of exploring various artistic styles in 'WackyTron's Artistic Antics', and how does it relate to WackyTron and Mizzy's personal growth?",
+                "correctIndex": 1,
+                "answers": [
+                  "Exploring artistic styles has no significance",
+                  "Exploring artistic styles relates to their personal growth as they embrace creativity",
+                  "Exploring artistic styles hinders their personal growth",
+                  "Exploring artistic styles is irrelevant to the story"
+                ]
+              },
+              {
+                "id": 5,
+                "content": "How do WackyTron and Mizzy's quick thinking and sense of humor aid them in navigating different dimensions in 'WackyTron and the Quantum Quest'?",
+                "correctIndex": 0,
+                "answers": [
+                  "Their quick thinking and sense of humor aid them in navigating different dimensions",
+                  "Their quick thinking and sense of humor have no impact on navigating different dimensions",
+                  "Their quick thinking and sense of humor confuse them",
+                  "Their quick thinking and sense of humor are irrelevant to the story"
+                ]
+              },
+              {
+                "id": 6,
+                "content": "In 'WackyTron's Mystery of the Missing Laughter', how do WackyTron and Mizzy's efforts to track down the missing mirth mirror their commitment to spreading joy?",
+                "correctIndex": 1,
+                "answers": [
+                  "Their efforts have no relation to spreading joy",
+                  "Their efforts to track down the missing mirth mirror their commitment to spreading joy",
+                  "Their efforts to track down the missing mirth contradict their commitment to spreading joy",
+                  "Their efforts have no impact on the story"
+                ]
+              },
+              {
+                "id": 7,
+                "content": "How does the enchanted invention fair in 'WackyTron's Enchanted Invention Fair' reflect the themes of magic and friendship?",
+                "correctIndex": 0,
+                "answers": [
+                  "The enchanted invention fair reflects the themes of magic and friendship",
+                  "The enchanted invention fair has no impact on the themes",
+                  "The enchanted invention fair contradicts the themes",
+                  "The enchanted invention fair is irrelevant to the story's themes"
+                ]
+              },
+              {
+                "id": 8,
+                "content": "What challenges do WackyTron and Mizzy face while mastering extraterrestrial games in 'WackyTron's Galactic Game Galore', and how do these challenges contribute to their character development?",
+                "correctIndex": 2,
+                "answers": [
+                  "They face challenges while mastering games, and these challenges contribute to their character development",
+                  "They face no challenges while mastering games",
+                  "They face challenges unrelated to character development",
+                  "They face challenges that hinder their character development"
+                ]
+              },
+              {
+                "id": 9,
+                "content": "In 'WackyTron's Robot Revolution Reimagined', how do WackyTron and Mizzy redefine the concept of robot independence through their rebellion against ZackyTron's chaos?",
+                "correctIndex": 0,
+                "answers": [
+                  "They redefine robot independence through their rebellion against ZackyTron's chaos",
+                  "They have no impact on robot independence",
+                  "They redefine robot independence through their cooperation with ZackyTron",
+                  "They redefine robot independence by surrendering to ZackyTron"
+                ]
+              },
+              {
+                "id": 10,
+                "content": "How do WackyTron and Mizzy's modern fun adaptations in classic fairy tales contribute to the theme of creativity and innovation in 'WackyTron's Timeless Tale Tangle'?",
+                "correctIndex": 1,
+                "answers": [
+                  "Their adaptations have no relevance to creativity and innovation",
+                  "Their adaptations contribute to the theme of creativity and innovation",
+                  "Their adaptations hinder the theme of creativity and innovation",
+                  "Their adaptations are irrelevant to the story's themes"
+                ]
+              },
+              
+              {
+                 "id": 11,
+                 "content": "How do WackyTron and Mizzy demonstrate resilience and determination when faced with challenges in 'WackyTron's Quest for Empathy'?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "They demonstrate no resilience and determination",
+                   "Their challenges have no impact on resilience and determination",
+                   "They demonstrate resilience and determination as they strive to understand and help the new robot",
+                   "They demonstrate resilience and determination by avoiding challenges"
+                 ]
+               },
+               {
+                 "id": 12,
+                 "content": "What emotions and experiences do WackyTron and Mizzy encounter while exploring the cosmic carnival in 'WackyTron's Cosmic Carnival Crusade'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "They encounter a range of emotions and experiences while exploring the cosmic carnival",
+                   "They encounter no emotions or experiences while exploring the cosmic carnival",
+                   "Emotions and experiences are irrelevant to the cosmic carnival",
+                   "They encounter only negative emotions while exploring the cosmic carnival"
+                 ]
+               },
+               {
+                 "id": 13,
+                 "content": "In 'WackyTron and the Giggle Generator', how do WackyTron and Mizzy demonstrate problem-solving skills when dealing with ZackyTron's mischief?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They demonstrate no problem-solving skills",
+                   "They demonstrate problem-solving skills when countering ZackyTron's mischief",
+                   "Problem-solving skills have no impact on ZackyTron's mischief",
+                   "They avoid problem-solving and let ZackyTron succeed"
+                 ]
+               },
+               {
+                 "id": 14,
+                 "content": "How does WackyTron and Mizzy's interaction with mischievous animals in 'WackyTron's Jungle Jamboree' reflect their ability to adapt to new situations?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Their interaction with mischievous animals reflects their ability to adapt to new situations",
+                   "Their interaction with animals has no impact on adaptability",
+                   "Their interaction with animals hinders their adaptability",
+                   "Their interaction with animals is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 15,
+                 "content": "What factors contribute to WackyTron and Mizzy's growth and self-expression in 'WackyTron's Artistic Antics' as they explore various artistic styles?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "No factors contribute to their growth and self-expression",
+                   "Their growth and self-expression have no relevance to the story",
+                   "Exploring various artistic styles contributes to their growth and self-expression",
+                   "Exploring artistic styles hinders their growth and self-expression"
+                 ]
+               },
+               {
+                 "id": 16,
+                 "content": "How do WackyTron and Mizzy's witty responses and adaptability help them navigate through different dimensions in 'WackyTron and the Quantum Quest'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Their witty responses and adaptability help them navigate through different dimensions",
+                   "Their witty responses and adaptability have no impact on navigation",
+                   "Their witty responses and adaptability confuse them",
+                   "Their witty responses and adaptability are irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "What strategies do WackyTron and Mizzy employ to bring back laughter in 'WackyTron's Mystery of the Missing Laughter', and how do these strategies reflect their problem-solving skills?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They employ no strategies to bring back laughter",
+                   "They employ strategies to bring back laughter, reflecting their problem-solving skills",
+                   "Strategies have no impact on laughter",
+                   "Strategies hinder their problem-solving skills"
+                 ]
+               },
+               {
+                 "id": 18,
+                 "content": "In 'WackyTron's Enchanted Invention Fair', how does the magical chaos at the fair symbolize the unpredictable nature of creativity?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The magical chaos symbolizes the unpredictable nature of creativity",
+                   "The magical chaos has no symbolic meaning",
+                   "The magical chaos contradicts creativity",
+                   "The magical chaos is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 19,
+                 "content": "What makes the new robot's struggles relatable to WackyTron and Mizzy in 'WackyTron's Quest for Empathy'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The new robot's struggles are relatable to WackyTron and Mizzy due to their shared experiences",
+                   "The new robot's struggles are irrelevant to WackyTron and Mizzy",
+                   "The new robot's struggles are unrelated to their shared experiences",
+                   "The new robot's struggles confuse WackyTron and Mizzy"
+                 ]
+               },
+               {
+                 "id": 20,
+                 "content": "How do WackyTron and Mizzy's interactions with different cosmic creatures shape their perspective on diversity in 'WackyTron's Cosmic Carnival Crusade'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Their interactions with cosmic creatures have no impact on their perspective",
+                   "Their interactions with cosmic creatures shape their perspective on diversity",
+                   "Their interactions with cosmic creatures have a negative impact on their perspective",
+                   "Their interactions with cosmic creatures are irrelevant to diversity"
+                 ]
+               },
+               {
+                 "id": 21,
+                 "content": "In 'WackyTron and the Giggle Generator', how does the concept of laughter as a powerful force play a role in the story's conflict?",
+                 "correctIndex": 2,
+                 "answers": [
+                   "The concept of laughter has no impact on the conflict",
+                   "The concept of laughter diminishes the conflict",
+                   "The concept of laughter is a powerful force that fuels the conflict",
+                   "The concept of laughter is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 22,
+                 "content": "What elements of friendship and teamwork do WackyTron and Mizzy learn from their interactions with mischievous animals in 'WackyTron's Jungle Jamboree'?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "They learn elements of friendship and teamwork from their interactions with mischievous animals",
+                   "They learn nothing about friendship and teamwork",
+                   "Friendship and teamwork are irrelevant to their interactions with animals",
+                   "Their interactions with animals hinder friendship and teamwork"
+                 ]
+               },
+               {
+                 "id": 23,
+                 "content": "How does the diverse range of artistic styles explored in 'WackyTron's Artistic Antics' contribute to the story's celebration of creativity?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "The diverse range of styles has no impact on creativity",
+                   "The diverse range of styles contributes to the story's celebration of creativity",
+                   "The diverse range of styles contradicts creativity",
+                   "The diverse range of styles is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 24,
+                 "content": "In 'WackyTron and the Quantum Quest', how do WackyTron and Mizzy's contrasting personalities aid them in solving challenges across different dimensions?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Their contrasting personalities aid them in solving challenges across dimensions",
+                   "Their personalities have no impact on solving challenges",
+                   "Their personalities hinder their problem-solving abilities",
+                   "Their personalities are irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 25,
+                 "content": "What role does humor play in 'WackyTron's Mystery of the Missing Laughter', and how does it affect the characters' journey to find the missing mirth?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Humor has no role in the story",
+                   "Humor lightens the story and affects the characters' journey to find the missing mirth",
+                   "Humor makes the story confusing",
+                   "Humor is irrelevant to the characters' journey"
+                 ]
+               },
+               {
+                 "id": 26,
+                 "content": "How does the enchanted invention fair in 'WackyTron's Enchanted Invention Fair' serve as a backdrop for the themes of imagination and innovation?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "The enchanted invention fair serves as a backdrop for the themes of imagination and innovation",
+                   "The enchanted invention fair has no impact on the themes",
+                   "The enchanted invention fair contradicts the themes",
+                   "The enchanted invention fair is irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 27,
+                 "content": "What strategies do WackyTron and Mizzy employ to overcome extraterrestrial game challenges in 'WackyTron's Galactic Game Galore', and how do these strategies reflect their determination?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "They employ no strategies to overcome game challenges",
+                   "They employ strategies to overcome challenges, reflecting their determination",
+                   "Strategies have no impact on challenges",
+                   "Strategies hinder their determination"
+                 ]
+               },
+               {
+                 "id": 28,
+                 "content": "In 'WackyTron's Robot Revolution Reimagined', how do WackyTron and Mizzy's interactions with reprogrammed robots symbolize the power of friendship to change perspectives?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "Their interactions with reprogrammed robots symbolize the power of friendship to change perspectives",
+                   "Their interactions have no symbolic meaning",
+                   "Their interactions contradict the power of friendship",
+                   "Their interactions are irrelevant to the story"
+                 ]
+               },
+               {
+                 "id": 29,
+                 "content": "How do WackyTron and Mizzy's modern fun adaptations in classic fairy tales challenge the conventional narratives and encourage critical thinking in 'WackyTron's Timeless Tale Tangle'?",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Their adaptations have no impact on conventional narratives and critical thinking",
+                   "Their adaptations challenge conventional narratives and encourage critical thinking",
+                   "Their adaptations reinforce conventional narratives",
+                   "Their adaptations are irrelevant to the story's themes"
+                 ]
+               }
+              
+              
+          ]
+      }
+       
+    }
+
+]

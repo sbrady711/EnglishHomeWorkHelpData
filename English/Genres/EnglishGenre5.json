@@ -1,0 +1,75 @@
+
+
+[
+    {
+        "id": 4,
+        "category": "Writing Gnere",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Explanation Writing",
+                            "topicContent": "Introduce the explanation genre and its purpose. Discuss the key features of an explanation, including clear sequencing, cause-and-effect relationships, and providing reasons."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Understanding Electricity",
+                            "topicContent": "Introduce the concept of electricity. Discuss terms like electrons, circuits, and conductors. Provide simple examples to help students grasp the basic concept."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "The Path of Electricity",
+                            "topicContent": "Teach students about closed and open circuits. Explain how electricity flows through a closed circuit and the components required, such as wires, switches, and bulbs."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Generating Electricity",
+                            "topicContent": "Explain different methods of generating electricity, such as using generators, batteries, and solar panels. Discuss the role of power plants in providing electricity to homes and industries."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Conductors and Insulators",
+                            "topicContent": "Teach students about materials that conduct and insulate electricity. Discuss how conductors allow electricity to flow while insulators block its flow."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Understanding Voltage and Current",
+                            "topicContent": "Introduce the concepts of voltage and current. Discuss how voltage drives the flow of current and how devices are designed to handle different levels."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Staying Safe with Electricity",
+                            "topicContent": " Discuss safety precautions when dealing with electricity. Teach students about electrical hazards, the importance of grounding, and using circuit breakers."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": " Switches and Circuits",
+                            "topicContent": " Explain the role of switches in controlling the flow of electricity. Discuss series and parallel circuits, demonstrating how they work differently."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Transforming and Transmitting Electricity",
+                            "topicContent": "Teach students about transformers and how they adjust voltage for transmission. Explain how electricity is transmitted from power plants to homes through substations."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "  Electrical Devices",
+                            "topicContent": "Discuss various electrical devices used in everyday life, such as light bulbs, appliances, and gadgets. Explain how they function based on the principles of electricity."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Explaining How Electricity Works",
+                            "topicContent": "Guide students through the process of writing an explanation piece on 'How Does Electricity Work?' Discuss how to organize their writing, use cause-and-effect transitions, and provide clear reasons."
+                        }
+                        
+                        
+                        
+                        
+                    ]
+                }
+    }
+
+]

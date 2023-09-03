@@ -1,0 +1,73 @@
+
+
+[
+    {
+        "id": 1,
+        "category": "Writing Genre",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Procedural Writing",
+                            "topicContent": "  Introduce the concept of procedural writing and its purpose. Discuss how instructions and guides fall under this genre. Begin building vocabulary related to dental care."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Identifying Sequencing",
+                            "topicContent": "Emphasize the importance of clear sequencing in procedural writing. Present examples of step-by-step guides and ask students to identify the correct order of steps."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Vocabulary for Dental Care",
+                            "topicContent": " Introduce vocabulary related to dental hygiene, including toothbrush, toothpaste, floss, mouthwash, etc. Discuss how precise language is vital in procedural writing."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Planning the Procedure",
+                            "topicContent": "Explain the significance of planning before writing. Guide students in planning the procedure for brushing teeth, breaking it down into distinct steps. Use graphic organizers to help them structure their thoughts."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Writing an Introduction",
+                            "topicContent": "Teach students how to craft an engaging introduction for their procedure. Share examples of opening sentences and discuss how to set the context for the dental care process."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Sequencing the Steps",
+                            "topicContent": "Guide students to write each step of the teeth brushing process in a logical sequence. Discuss the importance of using time-order words to guide readers through the steps."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Adding Descriptive Details",
+                            "topicContent": "Explain the significance of adding descriptive details to each step. Teach students how to use adjectives and adverbs to provide specific and clear instructions."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Giving Clear Directions",
+                            "topicContent": "Introduce imperative verbs (command verbs) commonly used in procedural writing. Discuss how starting each step with an imperative verb enhances clarity."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Providing Time References",
+                            "topicContent": "Teach students how to include time references in their instructions. Discuss the importance of specifying how long each step should take during teeth brushing."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Writing a Conclusion",
+                            "topicContent": "Explain how to conclude the procedural piece. Discuss how to summarize the process of brushing teeth and offer final tips or reminders."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Editing and Sharing",
+                            "topicContent": "Teach students the process of revising and editing their writing for clarity and accuracy. Focus on checking for capitalization, punctuation, and spelling errors. After editing, students can share their procedural pieces with peers."
+                        }
+                        
+                    ]
+                }
+       
+    }
+
+]

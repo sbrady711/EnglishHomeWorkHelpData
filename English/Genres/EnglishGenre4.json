@@ -1,0 +1,76 @@
+
+
+[
+    {
+        "id": 3,
+        "category": "Writing Gnere",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Report Writing",
+                            "topicContent": "Introduce the report genre and its purpose. Discuss the key features of a report, such as headings, subheadings, facts, and organized information."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Choosing a Favorite Animal",
+                            "topicContent": "Guide students in choosing their favorite animal for the report. Discuss the importance of selecting an animal they are passionate about and familiar with."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Gathering Information",
+                            "topicContent": "Teach students how to gather information about their chosen animal from reliable sources. Introduce note-taking strategies and emphasize the importance of accurate information."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Sorting Facts into Categories",
+                            "topicContent": "Discuss how to organize information into categories such as appearance, habitat, diet, behavior, and fun facts. Teach students how to create headings and subheadings."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Writing your Animal",
+                            "topicContent": "Teach students how to write an engaging introduction that introduces their favorite animal and captures the reader's interest."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Describing Appearance and Habitat",
+                            "topicContent": "Guide students in writing detailed paragraphs about their animal's appearance and habitat. Encourage them to use descriptive language."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Exploring Diet and Behavior",
+                            "topicContent": "Teach students how to write paragraphs about their animal's diet and behavior. Discuss how to include interesting facts and examples."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Adding Fun Facts",
+                            "topicContent": " Introduce the concept of including fun facts that make the report engaging and unique. Guide students in adding intriguing details about their animal."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Writing a Conclusion",
+                            "topicContent": "Discuss the purpose of a conclusion in a report. Teach students how to summarize the main points and leave the reader with a final thought."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": " Editing and Revising",
+                            "topicContent": "Teach students how to revise and edit their report for clarity, coherence, and grammar. Discuss the importance of proofreading and making improvements."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": " Presenting Your Report",
+                            "topicContent": "Discuss different ways to present the report, such as reading it aloud, creating visual aids, or using technology. Encourage students to share their reports with the class or in small groups."
+                        }
+                        
+                        
+                        
+                        
+                    ]
+                }
+       
+    }
+
+]

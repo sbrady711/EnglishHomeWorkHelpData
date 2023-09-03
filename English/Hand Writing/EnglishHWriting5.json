@@ -1,0 +1,1038 @@
+
+[
+    {
+        "id": 4,
+        "category": "Hand Writing ",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": " Introduction to the Letter 'c'",
+                            "topicContent": "Introduce the cursive letter 'c' and its unique features. Discuss the concept of the 'Curly Caterpillar' family.Engage students in discussions about words that start with the letter 'c.'"
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Forming the Letter 'c' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'c.' Emphasize the proper shape, starting point, and direction.Provide opportunities for students to trace and write 'c' independently."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Forming the Letter 'c' - Part 2",
+                            "topicContent": "Guide students in practicing the formation of the letter 'c.' Emphasize the proper shape, starting point, and direction. Provide opportunities for students to trace and write 'c' independently."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Introduction to the Letter 'a'",
+                            "topicContent": "Introduce the formation of the cursive letter 'a.'Discuss the characteristics of 'a' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 'a.'"
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": " Forming the Letter 'a' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'a.'Emphasize the proper shape and connections of 'a.' Provide opportunities for students to trace and write 'a' independently."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Forming the Letter 'a' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'a.' Include exercises that involve joining 'a' to other letters. Discuss words and phrases that feature the letter 'a.'"
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Introduction to the Letter 'd'",
+                            "topicContent": "Introduce the formation of the cursive letter 'd.'Discuss the unique features of 'd' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 'd.'"
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": " Forming the Letter 'd' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'd.'Emphasize the proper shape, starting point, and direction.Provide opportunities for students to trace and write 'd' independently."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": " Forming the Letter 'd' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'd.'Include exercises that involve joining 'd' to other letters. Discuss words and phrases that feature the letter 'd.'"
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Introduction to the Letter 'e'",
+                            "topicContent": "Introduce the formation of the cursive letter 'e.' Discuss the characteristics of 'e' within the 'Curly Caterpillar' family. Engage students in identifying words that contain the letter 'e.'"
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Forming the Letter 'e' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'e.'  Emphasize the unique shape and connections of 'e.'  Provide opportunities for students to trace and write 'e' independently."
+                  
+                },
+                {
+                            "id": 11,
+                            "topicTitle": "Forming the Letter 'e' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'e.'Include exercises that involve joining 'e' to other letters. Discuss words and phrases that feature the letter 'e.'"
+                        },
+                        {
+                            "id": 12,
+                            "topicTitle": "Introduction to the Letter 's'",
+                            "topicContent": "Introduce the formation of the cursive letter 's.'Discuss the characteristics of 's' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 's.'"
+                        },
+                        {
+                            "id": 13,
+                            "topicTitle": "Forming the Letter 's' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 's.'Emphasize the proper shape and fluid motion of 's.' Provide opportunities for students to trace and write 's' independently."
+                        },
+                        {
+                            "id": 14,
+                            "topicTitle": "Forming the Letter 's' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 's.' Include exercises that involve joining 's' to other letters.Discuss words and phrases that feature the letter 's.'"
+                        },
+                        {
+                            "id": 15,
+                            "topicTitle": "Introduction to the Letter 'g'",
+                            "topicContent": "Introduce the formation of the cursive letter 'g.' Discuss the unique features of 'g' within the 'Curly Caterpillar' family.    Engage students in identifying words that contain the letter 'g'."
+                        },
+                        {
+                            "id": 16,
+                            "topicTitle": "Forming the Letter 'g' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'g.' Emphasize the proper shape and connections of 'g.'Provide opportunities for students to trace and write 'g' independently."
+                    
+                },
+                {
+                            "id": 17,
+                            "topicTitle": "Forming the Letter 'g' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'g.'Include exercises that involve joining 'g' to other letters.    Discuss words and phrases that feature the letter 'g.'"
+                        },
+                        {
+                            "id": 18,
+                            "topicTitle": "Introduction to the Letter 'f'",
+                            "topicContent": "Introduce the formation of the cursive letter 'f.' Discuss the characteristics of 'f' within the 'Curly Caterpillar' family.Engage students in identifying words that contain the letter 'f.'"
+                        },
+                        {
+                            "id": 19,
+                            "topicTitle": "Forming the Letter 'f' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'f.'Emphasize the unique shape and connections of 'f.'Provide opportunities for students to trace and write 'f' independently."
+                        },
+                        {
+                            "id": 20,
+                            "topicTitle": "Forming the Letter 'f' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'f.' Include exercises that involve joining 'f' to other letters. Discuss words and phrases that feature the letter 'f.'"
+                        },
+                        {
+                            "id": 21,
+                            "topicTitle": " Introduction to the Letter 'q'",
+                            "topicContent": "Introduce the formation of the cursive letter 'q.'Discuss the unique features of 'q' within the 'Curly Caterpillar' family.Encourage students to identify words that contain the letter 'q.'"
+                        },
+                {
+                            "id": 22,
+                            "topicTitle": "Forming the Letter 'q' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'q.'Emphasize the proper shape and connections of 'q.' Provide opportunities for students to trace and write 'q' independently."
+                        },
+                        {
+                            "id": 23,
+                            "topicTitle": "Forming the Letter 'q' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'q.'Include exercises that involve joining 'q' to other letters. Discuss words and phrases that feature the letter 'q.'"
+                        },
+                        {
+                            "id": 24,
+                            "topicTitle": "Introduction to the Letter 'o'",
+                            "topicContent": "Introduce the formation of the cursive letter 'o.'Discuss the characteristics of 'o' within the 'Curly Caterpillar' family. Engage students in identifying words that contain the letter 'o.'"
+                        },
+                        {
+                            "id": 25,
+                            "topicTitle": "Forming the Letter 'o' - Part 1",
+                            "topicContent": "Guide students in practicing the formation of the letter 'o.'Emphasize the unique shape and connections of 'o.'Provide opportunities for students to trace and write 'o' independently."
+                        },
+                        {
+                            "id": 26,
+                            "topicTitle": "Forming the Letter 'o' - Part 2",
+                            "topicContent": "Continue practicing the formation of the letter 'o.'Include exercises that involve joining 'o' to other letters. Discuss words and phrases that feature the letter 'o.'"
+                     
+                }
+                    ]
+      },
+"test": {
+"id": 0,
+"image": "testSwift",
+"time": "30 minutes",
+"description": "Put your Phonics and letter sound knowledge to the test.",
+"questions": [
+    {
+         "id": 0,
+         "content": "Write the letter 'a'",
+         "correctIndex": 0,
+         "answers": ["a", "b", "c", "d"]
+     },
+     {
+         "id": 1,
+         "content": "Write the letter 'b'",
+         "correctIndex": 1,
+         "answers": ["a", "b", "c", "d"]
+     },
+     {
+         "id": 2,
+         "content": "Write the letter 'c'",
+         "correctIndex": 2,
+         "answers": ["a", "b", "c", "d"]
+     },
+     {
+         "id": 3,
+         "content": "Write the letter 'd'",
+         "correctIndex": 3,
+         "answers": ["a", "b", "c", "d"]
+     },
+     {
+         "id": 4,
+         "content": "Write the letter 'e'",
+         "correctIndex": 0,
+         "answers": ["e", "f", "g", "h"]
+     },
+     {
+         "id": 5,
+         "content": "Write the letter 'f'",
+         "correctIndex": 1,
+         "answers": ["e", "f", "g", "h"]
+     },
+     {
+         "id": 6,
+         "content": "Write the letter 'g'",
+         "correctIndex": 2,
+         "answers": ["e", "f", "g", "h"]
+     },
+     {
+         "id": 7,
+         "content": "Write the letter 'h'",
+         "correctIndex": 3,
+         "answers": ["e", "f", "g", "h"]
+     },
+     {
+         "id": 8,
+         "content": "Write the letter 'i'",
+         "correctIndex": 1,
+         "answers": ["h", "i", "j", "k"]
+     },
+     {
+         "id": 9,
+         "content": "Write the letter 'j'",
+         "correctIndex": 2,
+         "answers": ["h", "i", "j", "k"]
+     },
+     {
+         "id": 10,
+         "content": "Write the letter 'k'",
+         "correctIndex": 3,
+         "answers": ["h", "i", "j", "k"]
+     },
+     {
+         "id": 11,
+         "content": "Write the letter 'l'",
+         "correctIndex": 0,
+         "answers": ["l", "m", "n", "o"]
+     },
+     {
+         "id": 12,
+         "content": "Write the letter 'm'",
+         "correctIndex": 1,
+         "answers": ["l", "m", "n", "o"]
+     },
+     {
+         "id": 13,
+         "content": "Write the letter 'n'",
+         "correctIndex": 2,
+         "answers": ["l", "m", "n", "o"]
+     },
+     {
+         "id": 14,
+         "content": "Write the letter 'o'",
+         "correctIndex": 3,
+         "answers": ["l", "m", "n", "o"]
+     },
+     {
+         "id": 15,
+         "content": "Write the letter 'p'",
+         "correctIndex": 0,
+         "answers": ["p", "q", "r", "s"]
+     },
+     {
+         "id": 16,
+         "content": "Write the letter 'q'",
+         "correctIndex": 1,
+         "answers": ["p", "q", "r", "s"]
+     },
+     {
+         "id": 17,
+         "content": "Write the letter 'r'",
+         "correctIndex": 2,
+         "answers": ["p", "q", "r", "s"]
+     },
+     {
+         "id": 18,
+         "content": "Write the letter 's'",
+         "correctIndex": 3,
+         "answers": ["p", "q", "r", "s"]
+     },
+     {
+         "id": 19,
+         "content": "Write the letter 't'",
+         "correctIndex": 0,
+         "answers": ["t", "u", "v", "w"]
+     },
+     {
+         "id": 20,
+         "content": "Write the letter 'u'",
+         "correctIndex": 1,
+         "answers": ["t", "u", "v", "w"]
+     },
+     {
+         "id": 21,
+         "content": "Write the letter 'v'",
+         "correctIndex": 2,
+         "answers": ["t", "u", "v", "w"]
+     },
+     {
+         "id": 22,
+         "content": "Write the letter 'w'",
+         "correctIndex": 3,
+         "answers": ["t", "u", "v", "w"]
+     },
+     {
+         "id": 23,
+         "content": "Write the letter 'x'",
+         "correctIndex": 0,
+         "answers": ["x", "y", "z", "A"]
+     },
+     {
+         "id": 24,
+         "content": "Write the letter 'y'",
+         "correctIndex": 1,
+         "answers": ["x", "y", "z", "A"]
+     },
+     {
+         "id": 25,
+         "content": "Write the letter 'z'",
+         "correctIndex": 2,
+         "answers": ["x", "y", "z", "A"]
+     },
+     {
+         "id": 26,
+         "content": "Write the letter 'A'",
+         "correctIndex": 3,
+         "answers": ["x", "y", "z", "A"]
+     },
+     {
+         "id": 27,
+         "content": "Write the letter 'B'",
+         "correctIndex": 0,
+         "answers": ["B", "C", "D", "E"]
+     },
+     {
+         "id": 28,
+         "content": "Write the letter 'C'",
+         "correctIndex": 1,
+         "answers": ["B", "C", "D", "E"]
+     },
+     {
+         "id": 29,
+         "content": "Write the letter 'D'",
+         "correctIndex": 2,
+         "answers": ["B", "C", "D", "E"]
+     },
+     {
+         "id": 30,
+         "content": "Write the letter 'E'",
+         "correctIndex": 3,
+         "answers": ["B", "C", "D", "E"]
+     },
+     {
+         "id": 31,
+         "content": "Write the letter 'F'",
+         "correctIndex": 0,
+         "answers": ["F", "G", "H", "I"]
+     },
+     {
+         "id": 32,
+         "content": "Write the letter 'G'",
+         "correctIndex": 1,
+         "answers": ["F", "G", "H", "I"]
+     },
+     {
+         "id": 33,
+         "content": "Write the letter 'H'",
+         "correctIndex": 2,
+         "answers": ["F", "G", "H", "I"]
+     },
+     {
+         "id": 34,
+         "content": "Write the letter 'I'",
+         "correctIndex": 3,
+         "answers": ["F", "G", "H", "I"]
+     },
+     {
+         "id": 35,
+         "content": "Write the letter 'J'",
+         "correctIndex": 0,
+         "answers": ["J", "K", "L", "M"]
+     },
+     {
+         "id": 36,
+         "content": "Write the letter 'K'",
+         "correctIndex": 1,
+         "answers": ["J", "K", "L", "M"]
+     },
+     {
+         "id": 37,
+         "content": "Write the letter 'L'",
+         "correctIndex": 2,
+         "answers": ["J", "K", "L", "M"]
+     },
+     {
+         "id": 38,
+         "content": "Write the letter 'M'",
+         "correctIndex": 3,
+         "answers": ["J", "K", "L", "M"]
+     },
+     {
+         "id": 39,
+         "content": "Write the letter 'N'",
+         "correctIndex": 0,
+         "answers": ["N", "O", "P", "Q"]
+     },
+     {
+         "id": 40,
+         "content": "Write the letter 'O'",
+         "correctIndex": 1,
+         "answers": ["N", "O", "P", "Q"]
+     },
+     {
+         "id": 41,
+         "content": "Write the letter 'P'",
+         "correctIndex": 2,
+         "answers": ["N", "O", "P", "Q"]
+     },
+     {
+         "id": 42,
+         "content": "Write the letter 'Q'",
+         "correctIndex": 3,
+         "answers": ["N", "O", "P", "Q"]
+     },
+     {
+         "id": 43,
+         "content": "Write the letter 'R'",
+         "correctIndex": 0,
+         "answers": ["R", "S", "T", "U"]
+     },
+     {
+         "id": 44,
+         "content": "Write the letter 'S'",
+         "correctIndex": 1,
+         "answers": ["R", "S", "T", "U"]
+     },
+     {
+         "id": 45,
+         "content": "Write the letter 'T'",
+         "correctIndex": 2,
+         "answers": ["R", "S", "T", "U"]
+     },
+     {
+         "id": 46,
+         "content": "Write the letter 'U'",
+         "correctIndex": 3,
+         "answers": ["R", "S", "T", "U"]
+     },
+     {
+         "id": 47,
+         "content": "Write the letter 'V'",
+         "correctIndex": 0,
+         "answers": ["V", "W", "X", "Y"]
+     },
+     {
+         "id": 48,
+         "content": "Write the letter 'W'",
+         "correctIndex": 1,
+         "answers": ["V", "W", "X", "Y"]
+     },
+     {
+         "id": 49,
+         "content": "Write the letter 'X'",
+         "correctIndex": 2,
+         "answers": ["V", "W", "X", "Y"]
+     },
+     {
+         "id": 50,
+         "content": "Write the letter 'Y'",
+         "correctIndex": 3,
+         "answers": ["V", "W", "X", "Y"]
+     },
+     {
+         "id": 51,
+         "content": "Write the letter 'Z'",
+         "correctIndex": 0,
+         "answers": ["Z", "A", "B", "C"]
+     },
+     {
+         "id": 52,
+         "content": "Write the word 'cap'",
+         "correctIndex": 0,
+         "answers": ["cap", "pin", "bat", "sit"]
+     },
+     {
+         "id": 53,
+         "content": "Write the word 'pin'",
+         "correctIndex": 1,
+         "answers": ["cap", "pin", "bat", "sit"]
+     },
+     {
+         "id": 54,
+         "content": "Write the word 'bat'",
+         "correctIndex": 2,
+         "answers": ["cap", "pin", "bat", "sit"]
+     },
+     {
+         "id": 55,
+         "content": "Write the word 'sit'",
+         "correctIndex": 3,
+         "answers": ["cap", "pin", "bat", "sit"]
+     },
+     {
+         "id": 56,
+         "content": "Write the word 'hop'",
+         "correctIndex": 0,
+         "answers": ["hop", "win", "not", "rob"]
+     },
+     {
+         "id": 57,
+         "content": "Write the word 'win'",
+         "correctIndex": 1,
+         "answers": ["hop", "win", "not", "rob"]
+     },
+     {
+         "id": 58,
+         "content": "Write the word 'not'",
+         "correctIndex": 2,
+         "answers": ["hop", "win", "not", "rob"]
+     },
+     {
+         "id": 59,
+         "content": "Write the word 'rob'",
+         "correctIndex": 3,
+         "answers": ["hop", "win", "not", "rob"]
+     },
+     {
+         "id": 60,
+         "content": "Write the word 'cut'",
+         "correctIndex": 0,
+         "answers": ["cut", "mop", "rag", "forg"]
+     },
+     {
+         "id": 61,
+         "content": "Write the word 'mop'",
+         "correctIndex": 1,
+         "answers": ["cut", "mop", "rag", "forg"]
+     },
+     {
+         "id": 62,
+         "content": "Write the word 'rag'",
+         "correctIndex": 2,
+         "answers": ["cut", "mop", "rag", "forg"]
+     },
+     {
+         "id": 63,
+         "content": "Write the word 'for'",
+         "correctIndex": 3,
+         "answers": ["cut", "mop", "rag", "forg"]
+     },
+     {
+         "id": 64,
+         "content": "Write the word 'pet'",
+         "correctIndex": 0,
+         "answers": ["Pet", "Job", "tub", "mod"]
+     },
+     {
+         "id": 65,
+         "content": "Write the word 'job'",
+         "correctIndex": 1,
+         "answers": ["Pet", "Job", "tub", "mod"]
+     },
+     {
+         "id": 66,
+         "content": "Write the word 'tub'",
+         "correctIndex": 2,
+         "answers": ["Pet", "Job", "tub", "mod"]
+     },
+     {
+         "id": 67,
+         "content": "Write the word 'mouse'",
+         "correctIndex": 3,
+         "answers": ["Pet", "Job", "tub", "mod"]
+     },
+     {
+         "id": 68,
+         "content": "Write the word 'rod'",
+         "correctIndex": 0,
+         "answers": ["rod", "wag", "cub", "Georg"]
+     },
+     {
+         "id": 69,
+         "content": "Write the word 'wag'",
+         "correctIndex": 1,
+         "answers": ["rod", "wag", "cub", "Georg"]
+     },
+     {
+         "id": 70,
+         "content": "Write the word 'cub'",
+         "correctIndex": 2,
+         "answers": ["rod", "wag", "cub", "Georg"]
+     },
+     {
+         "id": 71,
+         "content": "Write the word 'George'",
+         "correctIndex": 3,
+         "answers": ["rod", "wag", "cub", "Georg"]
+     },
+     {
+         "id": 72,
+         "content": "Write the word 'rat'",
+         "correctIndex": 0,
+         "answers": ["rat", "gat", "hug", "nod"]
+     },
+     {
+         "id": 73,
+         "content": "Write the word 'gate'",
+         "correctIndex": 1,
+         "answers": ["rat", "gat", "hug", "nod"]
+     },
+     {
+         "id": 74,
+         "content": "Write the word 'hug'",
+         "correctIndex": 2,
+         "answers": ["rat", "gat", "hug", "nod"]
+     },
+     {
+         "id": 75,
+         "content": "Write the word 'nod'",
+         "correctIndex": 3,
+         "answers": ["rat", "gat", "hug", "nod"]
+     },
+     {
+         "id": 76,
+         "content": "Write the word 'tub'",
+         "correctIndex": 0,
+         "answers": ["tub", "lif", "ton", "hop"]
+     },
+     {
+         "id": 77,
+         "content": "Write the word 'life'",
+         "correctIndex": 1,
+         "answers": ["tub", "lif", "ton", "hop"]
+     },
+     {
+         "id": 78,
+         "content": "Write the word 'tone'",
+         "correctIndex": 2,
+         "answers": ["tub", "lif", "ton", "hop"]
+     },
+     {
+         "id": 79,
+         "content": "Write the word 'hope'",
+         "correctIndex": 3,
+         "answers": ["tub", "lif", "ton", "hop"]
+     },
+     {
+         "id": 80,
+         "content": "Write the word 'cape'",
+         "correctIndex": 0,
+         "answers": ["cap", "pin", "man", "tap"]
+     },
+     {
+         "id": 81,
+         "content": "Write the word 'pin'",
+         "correctIndex": 1,
+         "answers": ["cap", "pin", "man", "tap"]
+     },
+     {
+         "id": 82,
+         "content": "Write the word 'man'",
+         "correctIndex": 2,
+         "answers": ["cap", "pin", "man", "tap"]
+     },
+     {
+         "id": 83,
+         "content": "Write the word 'tape'",
+         "correctIndex": 3,
+         "answers": ["cap", "pin", "man", "tap"]
+     },
+     {
+         "id": 84,
+         "content": "Write the word 'rob'",
+         "correctIndex": 0,
+         "answers": ["rob", "kit", "dot", "mop"]
+     },
+     {
+         "id": 85,
+         "content": "Write the word 'kit'",
+         "correctIndex": 1,
+         "answers": ["rob", "kit", "dot", "mop"]
+     },
+     {
+         "id": 86,
+         "content": "Write the word 'dot'",
+         "correctIndex": 2,
+         "answers": ["rob", "kit", "dot", "mop"]
+     },
+     {
+         "id": 87,
+         "content": "Write the word 'mop'",
+         "correctIndex": 3,
+         "answers": ["rob", "kit", "dot", "mop"]
+     },
+     {
+         "id": 88,
+         "content": "Write the word 'can'",
+         "correctIndex": 0,
+         "answers": ["Pet", "rod", "run", "cut"]
+     },
+     {
+         "id": 89,
+         "content": "Write the word 'rod'",
+         "correctIndex": 1,
+         "answers": ["Pet", "rod", "run", "cut"]
+     },
+     {
+         "id": 90,
+         "content": "Write the word 'run'",
+         "correctIndex": 2,
+         "answers": ["Pet", "rod", "run", "cut"]
+     },
+     {
+         "id": 91,
+         "content": "Write the word 'cut'",
+         "correctIndex": 3,
+         "answers": ["Pet", "rod", "run", "cut"]
+     },
+     {
+         "id": 92,
+         "content": "Write the word 'pain'",
+         "correctIndex": 0,
+         "answers": ["pan", "badg", "win", "gat"]
+     },
+     {
+         "id": 93,
+         "content": "Write the word 'badge'",
+         "correctIndex": 1,
+         "answers": ["pan", "badg", "win", "gat"]
+     },
+     {
+         "id": 94,
+         "content": "Write the word 'win'",
+         "correctIndex": 2,
+         "answers": ["pan", "badg", "win", "gat"]
+     },
+     {
+         "id": 95,
+         "content": "Write the word 'gate'",
+         "correctIndex": 3,
+         "answers": ["pan", "badg", "win", "gat"]
+     },
+     {
+         "id": 96,
+         "content": "Write the word 'note'",
+         "correctIndex": 0,
+         "answers": ["not", "plan", "tim", "ros"]
+     },
+     {
+         "id": 97,
+         "content": "Write the word 'plan'",
+         "correctIndex": 1,
+         "answers": ["not", "plan", "tim", "ros"]
+     },
+     {
+         "id": 98,
+         "content": "Write the word 'time'",
+         "correctIndex": 2,
+         "answers": ["not", "plan", "tim", "ros"]
+     },
+     {
+         "id": 99,
+         "content": "Write the word 'rose'",
+         "correctIndex": 3,
+         "answers": ["not", "plan", "tim", "ros"]
+     },
+     {
+         "id": 100,
+         "content": "Write the word 'win'",
+         "correctIndex": 0,
+         "answers": ["win", "fat", "spin", "trip"]
+     },
+     {
+         "id": 101,
+         "content": "Write the word 'fat'",
+         "correctIndex": 1,
+         "answers": ["win", "fat", "spin", "trip"]
+     },
+     {
+         "id": 102,
+         "content": "Write the word 'spin'",
+         "correctIndex": 2,
+         "answers": ["win", "fat", "spin", "trip"]
+     },
+     {
+         "id": 103,
+         "content": "Write the word 'trip'",
+         "correctIndex": 3,
+         "answers": ["win", "fat", "spin", "trip"]
+     },
+     {
+         "id": 104,
+         "content": "Write the word 'hope'",
+         "correctIndex": 0,
+         "answers": ["hop", "tun", "cut", "lin"]
+     },
+     {
+         "id": 105,
+         "content": "Write the word 'tun'",
+         "correctIndex": 1,
+         "answers": ["hop", "tun", "cut", "lin"]
+     },
+     {
+         "id": 106,
+         "content": "Write the word 'cut'",
+         "correctIndex": 2,
+         "answers": ["hop", "tun", "cut", "lin"]
+     },
+     {
+         "id": 107,
+         "content": "Write the word 'line'",
+         "correctIndex": 3,
+         "answers": ["hop", "tun", "cut", "lin"]
+     },
+     {
+         "id": 108,
+         "content": "Write the word 'rat'",
+         "correctIndex": 0,
+         "answers": ["rat", "hug", "tub", "ton"]
+     },
+     {
+         "id": 109,
+         "content": "Write the word 'hug'",
+         "correctIndex": 1,
+         "answers": ["rat", "hug", "tub", "ton"]
+     },
+     {
+         "id": 110,
+         "content": "Write the word 'tube'",
+         "correctIndex": 2,
+         "answers": ["rat", "hug", "tub", "ton"]
+     },
+     {
+         "id": 111,
+         "content": "Write the word 'tone'",
+         "correctIndex": 3,
+         "answers": ["rat", "hug", "tub", "ton"]
+     },
+     {
+         "id": 112,
+         "content": "Write the word 'hope'",
+         "correctIndex": 0,
+         "answers": ["hop", "cap", "pin", "man"]
+     },
+     {
+         "id": 113,
+         "content": "Write the word 'cape'",
+         "correctIndex": 1,
+         "answers": ["hop", "cap", "pin", "man"]
+     },
+     {
+         "id": 114,
+         "content": "Write the word 'pine'",
+         "correctIndex": 2,
+         "answers": ["hop", "cap", "pin", "man"]
+     },
+     {
+         "id": 115,
+         "content": "Write the word 'mane'",
+         "correctIndex": 3,
+         "answers": ["hop", "cap", "pin", "man"]
+     },
+     {
+         "id": 116,
+         "content": "Write the word 'tape'",
+         "correctIndex": 0,
+         "answers": ["tap", "rob", "kit", "dot"]
+     },
+     {
+         "id": 117,
+         "content": "Write the word 'robe'",
+         "correctIndex": 1,
+         "answers": ["tap", "rob", "kit", "dot"]
+     },
+     {
+         "id": 118,
+         "content": "Write the word 'kite'",
+         "correctIndex": 2,
+         "answers": ["tap", "rob", "kit", "dot"]
+     },
+     {
+         "id": 119,
+         "content": "Write the word 'done'",
+         "correctIndex": 3,
+         "answers": ["tap", "rob", "kit", "dot"]
+     },
+     {
+         "id": 120,
+         "content": "Write the word 'mole'",
+         "correctIndex": 0,
+         "answers": ["mop", "Pet", "rod", "run"]
+     },
+     {
+         "id": 121,
+         "content": "Write the word 'Peter'",
+         "correctIndex": 1,
+         "answers": ["mop", "Pet", "rod", "run"]
+     },
+     {
+         "id": 122,
+         "content": "Write the word 'rode'",
+         "correctIndex": 2,
+         "answers": ["mop", "Pet", "rod", "run"]
+     },
+     {
+         "id": 123,
+         "content": "Write the word 'run'",
+         "correctIndex": 3,
+         "answers": ["mop", "Pet", "rod", "run"]
+     },
+     {
+         "id": 124,
+         "content": "Write the word 'cold'",
+         "correctIndex": 0,
+         "answers": ["cut", "pan", "win", "gat"]
+     },
+     {
+         "id": 125,
+         "content": "Write the word 'place'",
+         "correctIndex": 1,
+         "answers": ["cut", "pan", "win", "gat"]
+     },
+     {
+         "id": 126,
+         "content": "Write the word 'wine'",
+         "correctIndex": 2,
+         "answers": ["cut", "pan", "win", "gat"]
+     },
+     {
+         "id": 127,
+         "content": "Write the word 'gave'",
+         "correctIndex": 3,
+         "answers": ["cut", "pan", "win", "gat"]
+     },
+     {
+         "id": 128,
+         "content": "Write the word 'tilt'",
+         "correctIndex": 0,
+         "answers": ["tin", "pan", "gam", "hug"]
+     },
+     {
+         "id": 129,
+         "content": "Write the word 'pie'",
+         "correctIndex": 1,
+         "answers": ["tin", "pan", "gam", "hug"]
+     },
+     {
+         "id": 130,
+         "content": "Write the word 'doctor'",
+         "correctIndex": 2,
+         "answers": ["tin", "pan", "gam", "hug"]
+     },
+     {
+         "id": 131,
+         "content": "Write the word 'huge'",
+         "correctIndex": 3,
+         "answers": ["tin", "pan", "gam", "hug"]
+     },
+     {
+         "id": 132,
+         "content": "Write the word 'fine'",
+         "correctIndex": 0,
+         "answers": ["fin", "hat", "mad", "sit"]
+     },
+     {
+         "id": 133,
+         "content": "Write the word 'hate'",
+         "correctIndex": 1,
+         "answers": ["fin", "hat", "mad", "sit"]
+     },
+     {
+         "id": 134,
+         "content": "Write the word 'made'",
+         "correctIndex": 2,
+         "answers": ["fin", "hat", "mad", "sit"]
+     },
+     {
+         "id": 135,
+         "content": "Write the word 'site'",
+         "correctIndex": 3,
+         "answers": ["fin", "hat", "mad", "sit"]
+     },
+     {
+         "id": 136,
+         "content": "Write the word 'tape'",
+         "correctIndex": 0,
+         "answers": ["tap", "log", "pin", "fin"]
+     },
+     {
+         "id": 137,
+         "content": "Write the word 'long'",
+         "correctIndex": 1,
+         "answers": ["tap", "log", "pin", "fin"]
+     },
+     {
+         "id": 138,
+         "content": "Write the word 'pine'",
+         "correctIndex": 2,
+         "answers": ["tap", "log", "pin", "fin"]
+     },
+     {
+         "id": 139,
+         "content": "Write the word 'fine'",
+         "correctIndex": 3,
+         "answers": ["tap", "log", "pin", "fin"]
+     },
+     {
+         "id": 140,
+         "content": "Write the word 'still'",
+         "correctIndex": 0,
+         "answers": ["win", "pan", "Pop", "rip"]
+     },
+     {
+         "id": 141,
+         "content": "Write the word 'glass'",
+         "correctIndex": 1,
+         "answers": ["win", "pan", "Pop", "rip"]
+     },
+     {
+         "id": 142,
+         "content": "Write the word 'cup'",
+         "correctIndex": 2,
+         "answers": ["win", "pan", "Pop", "rip"]
+     },
+     {
+         "id": 143,
+         "content": "Write the word 'ripe'",
+         "correctIndex": 3,
+         "answers": ["win", "pan", "Pop", "rip"]
+     },
+     {
+         "id": 144,
+         "content": "Write the word 'bull'",
+         "correctIndex": 0,
+         "answers": ["hop"]
+     }
+     ]
+     
+     
+     
+     
+     
+
+}
+      
+    }
+
+]

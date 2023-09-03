@@ -1,0 +1,667 @@
+
+[
+    {
+        "id": 3,
+        "category": "Segmenting and Syllables",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+          "teaching": [
+              
+              {
+                                "id": 0,
+                                "topicTitle": "Ending Sounds Discrimination",
+                                "topicContent": "Introduce the concept of distinguishing and recognizing ending sounds in words. Engage students in activities that involve identifying and differentiating sounds at the end of words. Use auditory exercises and familiar words to enhance their discrimination skills."
+                            },
+                            {
+                                "id": 1,
+                                "topicTitle": "Sound position in words",
+                                "topicContent": "Explain that sentences can be broken down into words, and words can be further segmented into syllables. Teach students how to identify the number of syllables in a word and discuss how different sounds appear at the beginning, middle, and end of words."
+                            },
+                            {
+                                "id": 2,
+                                "topicTitle": "Word in a Sentence",
+                                "topicContent": "Explore the concept of words within sentences. Teach students how to identify individual words in sentences and provide examples of how sentences can be composed of different words with distinct meanings."
+                            },
+                            {
+                                "id": 3,
+                                "topicTitle": "Blending 2 phonemes",
+                                "topicContent": "Guide students in blending two phonemes to form words. Provide examples of common phoneme pairs and engage students in interactive activities to blend sounds together to create recognizable words."
+                            },
+                            {
+                                "id": 4,
+                                "topicTitle": "Segmenting Compound words ",
+                                "topicContent": "Introduce the skill of segmenting compound words into their individual components. Teach students how to identify and separate the different words that make up compound words. Provide practice with examples."
+                        
+                    },
+                            {
+                                        "id": 5,
+                                        "topicTitle": "Segmenting 3 Phonemes",
+                                        "topicContent": "Progress to segmenting words with three phonemes. Teach students how to identify and isolate individual phonemes in words with three sounds. Use visual aids and interactive exercises to reinforce this skill."
+                                    },
+                            
+                           
+                            {
+                                "id": 6,
+                                "topicTitle": "Medial Phoneme Substitution/Manipulation",
+                                "topicContent": "Introduce the concept of substituting or manipulating phonemes within the middle of words. Teach students how changing the middle sound of a word can create a new word. Provide examples and interactive practice."
+                            },
+                            {
+                                "id": 7,
+                                "topicTitle": "Switching Syllables",
+                                "topicContent": "Explore the idea of switching syllables within words. Teach students how changing the order of syllables can lead to different words. Engage students in exercises that involve switching syllables to create new words."
+                            }
+              
+              
+              
+              
+              
+          ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Reading strategy knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "Select the word that contains a blend of two consonants at the beginning.",
+                 "correctIndex": 0,
+                 "answers": ["Blast", "Sand", "Dog", "Jump"]
+               },
+               {
+                 "id": 1,
+                 "content": "How many syllables are in the word 'football'?",
+                 "correctIndex": 1,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 2,
+                 "content": "Which word has the same ending sound as 'bright'?",
+                 "correctIndex": 0,
+                 "answers": ["Flight", "Star", "Dog", "Leaf"]
+               },
+               {
+                 "id": 3,
+                 "content": "Select the word that contains the sound 'sh' like in 'ship'.",
+                 "correctIndex": 3,
+                 "answers": ["Cake", "Star", "Dog", "Ship"]
+               },
+               {
+                 "id": 4,
+                 "content": "How many syllables are in the word 'personality'?",
+                 "correctIndex": 3,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 5,
+                 "content": "Which word starts with the same sound as 'spark'?",
+                 "correctIndex": 0,
+                 "answers": ["Sparkle", "Jump", "Star", "Desk"]
+               },
+               {
+                 "id": 6,
+                 "content": "Select the word that contains the sound 'ch' like in 'chase'.",
+                 "correctIndex": 0,
+                 "answers": ["Chase", "Star", "Dog", "Leaf"]
+               },
+               {
+                 "id": 7,
+                 "content": "How many syllables are in the word 'wondrous'?",
+                 "correctIndex": 2,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 8,
+                 "content": "Select the word that shares the identical ending sound as 'candle'.",
+                 "correctIndex": 0,
+                 "answers": ["Marble", "Star", "River", "Jump"]
+               },
+               {
+                 "id": 9,
+                 "content": "Select the word that contains a vowel digraph.",
+                 "correctIndex": 2,
+                 "answers": ["Chain", "Star", "Boat", "Jump"]
+               },
+               {
+                 "id": 10,
+                 "content": "How many syllables are in the word 'adventure'?",
+                 "correctIndex": 2,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               
+               {
+                 "id": 11,
+                 "content": "Select the word that contains the sound 'th'.",
+                 "correctIndex": 3,
+                 "answers": ["Cake", "Star", "Dog", "Thorn"]
+               },
+               {
+                 "id": 12,
+                 "content": "How many syllables are in the word 'curious'?",
+                 "correctIndex": 2,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 13,
+                 "content": "Which word has the same ending sound as 'cake'?",
+                 "correctIndex": 0,
+                 "answers": ["Lake", "Star", "Book", "Jump"]
+               },
+               {
+                 "id": 14,
+                 "content": "How many syllables are in the word 'spectacular'?",
+                 "correctIndex": 3,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 15,
+                 "content": "Select the word that has the same middle sound as 'note'.",
+                 "correctIndex": 1,
+                 "answers": ["Cake", "coat", "Dog", "Star"]
+               },
+               {
+                 "id": 16,
+                 "content": "How many syllables are in the word 'intriguing'?",
+                 "correctIndex": 2,
+                 "answers": ["1", "2", "3", "4"]
+               },
+               {
+                 "id": 17,
+                 "content": "Which word starts with the same sound as 'frog'?",
+                 "correctIndex": 2,
+                 "answers": ["For", "Star", "Frown", "Desk"]
+               },
+               {
+                 "id": 18,
+                 "content": "Select the word that contains the long 'o' sound  like in 'moon'.",
+                 "correctIndex": 1,
+                 "answers": ["Cake", "tube", "Dog", "Star"]
+               },
+               
+               {
+                  "id": 19,
+                  "content": "Select the word that contains a blend of three consonants at the beginning.",
+                  "correctIndex": 0,
+                  "answers": ["Splash", "Star", "Dog", "Jump"]
+                },
+                {
+                  "id": 20,
+                  "content": "How many syllables are in the word 'magnificent'?",
+                  "correctIndex": 3,
+                  "answers": ["1", "2", "3", "4"]
+                },
+                {
+                  "id": 21,
+                  "content": "Which word has the same ending sound as 'globe'?",
+                  "correctIndex": 0,
+                  "answers": ["robe", "Star", "Dog", "Jump"]
+                },
+                {
+                  "id": 22,
+                  "content": "Select the word that contains the sound 'th' like in 'thin'.",
+                  "correctIndex": 0,
+                  "answers": ["This", "Star", "Dog", "Jump"]
+                },
+                {
+                  "id": 23,
+                  "content": "How many syllables are in the word 'extravagant'?",
+                  "correctIndex": 3,
+                  "answers": ["1", "2", "3", "4"]
+                },
+                {
+                  "id": 24,
+                  "content": "Which word has the same middle sound as 'whale'?",
+                  "correctIndex": 0,
+                  "answers": ["saint", "Star", "Jump", "Desk"]
+                },
+                {
+                  "id": 25,
+                  "content": "Select the word that contains the sound 'ow' like in 'grow'.",
+                  "correctIndex": 2,
+                  "answers": ["Cake", "Star", "poem", "Jump"]
+                },
+                {
+                  "id": 26,
+                  "content": "How many syllables are in the word 'believable'?",
+                  "correctIndex": 3,
+                  "answers": ["1", "2", "3", "4"]
+                },
+                {
+                  "id": 27,
+                  "content": "Which word has the same middle sound as 'tape'?",
+                  "correctIndex": 0,
+                  "answers": ["Cake", "cap", "Dog", "Star"]
+                },
+                {
+                  "id": 28,
+                  "content": "Select the word that contains a vowel digraph.",
+                  "correctIndex": 0,
+                  "answers": ["Road", "Star", "Dog", "Jump"]
+                },
+                {
+                  "id": 29,
+                  "content": "How many syllables are in the word 'complicated'?",
+                  "correctIndex": 0,
+                  "answers": ["4", "1", "2", "3"]
+                },
+                {
+                  "id": 30,
+                  "content": "Which word starts with the same sound as 'kite'?",
+                  "correctIndex": 2,
+                  "answers": ["Star", "Jump", "Knight", "Desk"]
+                },
+                {
+                  "id": 31,
+                  "content": "Select the word that contains a similiar sound to 'ea' like in 'beach'.",
+                  "correctIndex": 1,
+                  "answers": ["Cake", "Leek", "Dog", "Star"]
+                },
+                {
+                  "id": 32,
+                  "content": "How many syllables are in the word 'unforgettable'?",
+                  "correctIndex": 1,
+                  "answers": ["2", "5", "3", "4"]
+                },
+                {
+                  "id": 33,
+                  "content": "Which word has a similiar medial sound as 'sail'?",
+                  "correctIndex": 0,
+                  "answers": ["Cake", "clay", "Tuesday", "Jump"]
+                },
+                {
+                  "id": 34,
+                  "content": "Select the word that contains the sound 'igh' like in 'light'.",
+                  "correctIndex": 1,
+                  "answers": ["Cake", "Light", "Dog", "Star"]
+                },
+                {
+                  "id": 35,
+                  "content": "How many syllables are in the word 'craddle'?",
+                  "correctIndex": 1,
+                  "answers": ["1", "2", "3", "4"]
+                },
+                {
+                  "id": 36,
+                  "content": "Which word starts with a similar sound as 'plum'?",
+                  "correctIndex": 2,
+                  "answers": ["Star", "Jump", "Crumb", "Desk"]
+                },
+                {
+                  "id": 37,
+                  "content": "Select the word that contains the similar sound to 'oo' like in 'book'.",
+                  "correctIndex": 2,
+                  "answers": ["Cake", "Star", "rude", "Jump"]
+                },
+                {
+                  "id": 38,
+                  "content": "How many syllables are in the word 'uncharted'?",
+                  "correctIndex": 2,
+                  "answers": ["1", "2", "3", "4"]
+                },
+                {
+                   "id": 39,
+                   "content": "Which word contains a consonant blend at the beginning?",
+                   "correctIndex": 0,
+                   "answers": ["Sprint", "Star", "Dog", "Jump"]
+                 },
+                 {
+                   "id": 40,
+                   "content": "How many syllables are in the word 'competition'?",
+                   "correctIndex": 3,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 41,
+                   "content": "Which word has the same medial sound like 'brave'?",
+                   "correctIndex": 1,
+                   "answers": ["Great", "Stare", "Dodge", "Jump"]
+                 },
+                 {
+                   "id": 42,
+                   "content": "Select the word that contains the sound 'ch' like in 'chat'.",
+                   "correctIndex": 0,
+                   "answers": ["Catch", "Star", "Dog", "Jump"]
+                 },
+                 {
+                   "id": 43,
+                   "content": "How many syllables are in the word 'generation'?",
+                   "correctIndex": 3,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 44,
+                   "content": "Which word starts with the same sound as 'giant'?",
+                   "correctIndex": 2,
+                   "answers": ["String", "Star", "Jump", "Desk"]
+                 },
+                 {
+                   "id": 45,
+                   "content": "Select the word that contains the similar sound to 'ai' like in 'train'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "Plane", "Jump"]
+                 },
+                 {
+                   "id": 46,
+                   "content": "How many syllables are in the word 'exhaust'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 47,
+                   "content": "Which word has the same middle sound as 'mice'?",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "prime", "Dog", "Star"]
+                 },
+                 {
+                   "id": 48,
+                   "content": "Select the word that contains the similar sound of 'ow' like in 'crow'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "cone", "Jump"]
+                 },
+                 {
+                   "id": 49,
+                   "content": "How many syllables are in the word 'advantage'?",
+                   "correctIndex": 2,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 50,
+                   "content": "Which word starts with the same sound as 'feather'?",
+                   "correctIndex": 2,
+                   "answers": ["Star", "Jump", "Feature", "Desk"]
+                 },
+                 {
+                   "id": 51,
+                   "content": "Select the word that contains the sound 'ea' like in 'leaf'.",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "brief", "Dog", "Star"]
+                 },
+                 {
+                   "id": 52,
+                   "content": "How many syllables are in the word 'cartridge'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 53,
+                   "content": "Which word has the same medial sound as 'shine'?",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "Prime", "Jump"]
+                 },
+                 {
+                   "id": 54,
+                   "content": "Select the word that contains the sound of 'oa' like in 'coat'.",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "prone", "Dart", "Stare"]
+                 },
+                 {
+                   "id": 55,
+                   "content": "How many syllables are in the word 'closed'?",
+                   "correctIndex": 0,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 56,
+                   "content": "Which word starts with the same sound as 'spider'?",
+                   "correctIndex": 2,
+                   "answers": ["Star", "Jump", "Spark", "Desk"]
+                 },
+                 {
+                   "id": 57,
+                   "content": "Select the word that makes the sound 'oo' like in 'moon'.",
+                   "correctIndex": 3,
+                   "answers": ["Cake", "Star", "Moat", "Tune"]
+                 },
+                 {
+                   "id": 58,
+                   "content": "How many syllables are in the word 'xylophone'?",
+                   "correctIndex": 2,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 59,
+                   "content": "Select the word that makes the sound 'igh' like in 'night'.",
+                   "correctIndex": 0,
+                   "answers": ["nine", "Star", "Nan", "Jump"]
+                 },
+                 {
+                   "id": 60,
+                   "content": "How many syllables are in the word 'complicated'?",
+                   "correctIndex": 3,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 61,
+                   "content": "Which word has the same middle sound as 'flute'?",
+                   "correctIndex": 3,
+                   "answers": ["Cake", "Flu", "Dog", "Soon"]
+                 },
+                 {
+                   "id": 62,
+                   "content": "Select the word that mkes the sound 'ow' like in 'grow'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "Gloat", "Grow"]
+                 },
+                 {
+                   "id": 63,
+                   "content": "How many syllables are in the word 'extravaganza'?",
+                   "correctIndex": 0,
+                   "answers": ["5", "2", "3", "4"]
+                 },
+                 {
+                   "id": 64,
+                   "content": "Which word starts with the same sound as 'whale'?",
+                   "correctIndex": 1,
+                   "answers": ["Star", "Weight", "Jump", "Desk"]
+                 },
+                 {
+                   "id": 65,
+                   "content": "Select the word that makes the sound 'oy' like in 'toy'.",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "Soil", "Dog", "Star"]
+                 },
+                 {
+                   "id": 66,
+                   "content": "How many syllables are in the word 'generally'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "4", "3", "2"]
+                 },
+                 {
+                   "id": 67,
+                   "content": "Which word has the same medial sound as 'lake'?",
+                   "correctIndex": 2,
+                   "answers": ["Calm", "Star", "Spain", "Lake"]
+                 },
+                 {
+                   "id": 68,
+                   "content": "Select the word that makes the sound 'oo' like in 'food'.",
+                   "correctIndex": 3,
+                   "answers": ["Cast", "Food", "Dog", "Prune"]
+                 },
+                 {
+                   "id": 69,
+                   "content": "How many syllables are in the word 'Strong'?",
+                   "correctIndex": 5,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 70,
+                   "content": "Which word starts with the same sound as 'phone'?",
+                   "correctIndex": 3,
+                   "answers": ["Star", "Jump", "Butterfly", "font"]
+                 },
+                 {
+                   "id": 71,
+                   "content": "Select the word that makes the sound 'ey' like in 'money'.",
+                   "correctIndex": 2,
+                   "answers": ["Money", "Cake", "Ugly", "Star"]
+                 },
+                 {
+                   "id": 72,
+                   "content": "How many syllables are in the word 'Breadth'?",
+                   "correctIndex": 2,
+                   "answers": ["3", "2", "1", "4"]
+                 },
+                 {
+                   "id": 73,
+                   "content": "Which word has the same middle sound as 'swim'?",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "Trim", "Dog", "Star"]
+                 },
+                 {
+                   "id": 74,
+                   "content": "Select the word that contains the sound 'ei' like in 'rein'.",
+                   "correctIndex":3,
+                   "answers": ["Love", "Star", "Dog", "Lane"]
+                 },
+                 {
+                   "id": 75,
+                   "content": "How many syllables are in the word 'Twelfth'?",
+                   "correctIndex": 3,
+                   "answers": ["5", "2", "3", "1"]
+                 },
+                 {
+                   "id": 76,
+                   "content": "Which word starts with the same sound as 'deep'?",
+                   "correctIndex": 1,
+                   "answers": ["Zebra", "cheap", "Jump", "Desk"]
+                 },
+                 {
+                   "id": 77,
+                   "content": "Select the word that makes the sound 'ue' like in 'blue'.",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "Crew", "Dog", "Star"]
+                 },
+                 {
+                   "id": 78,
+                   "content": "How many syllables are in the word 'incredible'?",
+                   "correctIndex": 3,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 79,
+                   "content": "Which word has the same ending sound as 'sail'?",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "pale", "Jump"]
+                 },
+                 {
+                   "id": 80,
+                   "content": "How many syllables are in the word 'Answer'?",
+                   "correctIndex": 3,
+                   "answers": ["3", "2", "4", "1"]
+                 },
+                 {
+                   "id": 81,
+                   "content": "Select the word that makes the sound 'oa' like in 'boat'.",
+                   "correctIndex": 0,
+                   "answers": ["Lonely", "Star", "Dog", "Bot"]
+                 },
+                 {
+                   "id": 82,
+                   "content": "Which word starts with the same sound as 'circle'?",
+                   "correctIndex": 1,
+                   "answers": ["Star", "Service", "Jump", "Desk"]
+                 },
+                 {
+                   "id": 83,
+                   "content": "Select the word that makes the sound 'ai' like in 'trait'.",
+                   "correctIndex": 1,
+                   "answers": ["Cart", "Praying", "Dog", "Star"]
+                 },
+                 {
+                   "id": 84,
+                   "content": "How many syllables are in the word 'captivating'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "4", "3", "2"]
+                 },
+                 {
+                   "id": 85,
+                   "content": "Which word has the same middle sound as 'stamp'?",
+                   "correctIndex": 0,
+                   "answers": ["Ham", "Cake", "Lame", "Crime"]
+                 },
+                 {
+                   "id": 86,
+                   "content": "Select the word that makes the sound 'oo' like in 'moon'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "calm", "Crude", "engine"]
+                 },
+                 {
+                   "id": 87,
+                   "content": "How many syllables are in the word 'world'?",
+                   "correctIndex": 0,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 88,
+                   "content": "Which word has the same medial sound as 'kite'?",
+                   "correctIndex": 0,
+                   "answers": ["Knight", "Star", "Jump", "Desk"]
+                 },
+                 {
+                   "id": 89,
+                   "content": "Select the word that makes the sound 'ew' like in 'few'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "true", "Dog"]
+                 },
+                 {
+                   "id": 90,
+                   "content": "How many syllables are in the word 'biggest'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 91,
+                   "content": "Which word has the same ending sound as 'rain'?",
+                   "correctIndex": 3,
+                   "answers": ["Use", "Star", "Rat", "Same"]
+                 },
+                 {
+                   "id": 92,
+                   "content": "Select the word that makes the sound 'ee' like in 'bee'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "Stream", "Dog"]
+                 },
+                 {
+                   "id": 93,
+                   "content": "How many syllables are in the word 'Streets'?",
+                   "correctIndex": 2,
+                   "answers": ["3", "2", "1", "4"]
+                 },
+                 {
+                   "id": 94,
+                   "content": "Which word has the same sound as 'cherry'?",
+                   "correctIndex": 2,
+                   "answers": ["Star", "Jump", "Lurcher", "Desk"]
+                 },
+                 {
+                   "id": 95,
+                   "content": "Select the word that contains the sound 'oe' like in 'shoe'.",
+                   "correctIndex": 0,
+                   "answers": ["Shoot", "Cake", "Glow", "Star"]
+                 },
+                 {
+                   "id": 96,
+                   "content": "How many syllables are in the word 'machine'?",
+                   "correctIndex": 1,
+                   "answers": ["1", "2", "3", "4"]
+                 },
+                 {
+                   "id": 97,
+                   "content": "Which word has the same middle sound as 'plant'?",
+                   "correctIndex": 1,
+                   "answers": ["Cake", "badge", "Dog", "Star"]
+                 },
+                 {
+                   "id": 98,
+                   "content": "Select the word that makes the sound 'oa' like in 'cloak'.",
+                   "correctIndex": 2,
+                   "answers": ["Cake", "Star", "Crow", "Dog"]
+                 }          ]
+      }
+       
+    }
+
+]

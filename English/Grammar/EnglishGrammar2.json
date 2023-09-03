@@ -1,0 +1,785 @@
+
+[
+    {
+        "id": 1,
+        "category": "Grammer",
+        "description": "Strand units: Reading and writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          
+                        
+                        {
+                            "id": 0,
+                            "topicTitle": "Speech Marks",
+                            "topicContent": " Introduce speech marks (quotation marks) and their usage in writing. Explain how to correctly punctuate dialogue within sentences and paragraphs."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Questions",
+                            "topicContent": "Explore different types of questions (who, what, where, when, why, how) and teach students how to form questions correctly. Practice turning statements into questions."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Commas",
+                            "topicContent": " Introduce the use of commas in lists and to separate items within sentences. Teach when and how to use commas appropriately to improve sentence clarity."
+                    
+                },
+                {
+                            "id": 3,
+                            "topicTitle": "Exclamation",
+                            "topicContent": "Teach about exclamation marks and their purpose in expressing strong emotions or excitement. Practice using exclamation marks in appropriate contexts."
+                        },
+                      
+                        {
+                            "id": 4,
+                            "topicTitle": "Proper Nouns",
+                            "topicContent": "Review common and proper nouns, focusing on proper nouns as names of specific people, places, and things. Practice capitalizing proper nouns."
+                        },
+                        {
+                            "id": 5,
+                            "topicTitle": "Adjectives",
+                            "topicContent": "Deepen the understanding of adjectives by exploring how they describe nouns. Teach about the order of multiple adjectives in a sentence."
+                        },
+                     
+                        {
+                            "id": 6,
+                            "topicTitle": "Possessive Adjectives",
+                            "topicContent": "Introduce possessive adjectives (my, your, his, her, its, our, their) and how they show ownership or possession. Practice using possessive adjectives in sentences."
+                  
+                },
+   
+                        {
+                            "id": 7,
+                            "topicTitle": "Adverbs",
+                            "topicContent": "Build on the concept of adverbs by explaining how they modify verbs, adjectives, and other adverbs. Practice using adverbs to add detail to sentences."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Verb 'to be' (Present)",
+                            "topicContent": "Introduce the verb 'to be' in the present tense (am, is, are) and teach its usage in sentences to describe states of being."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Regular Past Tense",
+                            "topicContent": "Explain how regular verbs form the past tense by adding -ed to the base form. Provide examples and practice using past tense verbs."
+                    
+                },
+                {
+                            "id": 10,
+                            "topicTitle": "Irregular Past Tense",
+                            "topicContent": " Introduce irregular past tense verbs that don't follow the regular -ed pattern. Help students memorize common irregular verbs and their past tense forms."
+                        },
+                   
+                   
+                        {
+                            "id": 11,
+                            "topicTitle": "Verb 'to be' (Past)",
+                            "topicContent": "Introduce the past tense forms of the verb 'to be' (was, were) and teach their usage in sentences."
+                        },
+                       
+                {
+                            "id": 12,
+                            "topicTitle": "Conjunctions",
+                            "topicContent": "Introduce conjunctions (and, but, or, so) and their role in connecting words, phrases, or clauses. Teach how conjunctions can enhance sentence structure."
+                        },
+                {
+                          "id": 13,
+                          "topicTitle": "Perfect Tenses: Past, Present, Future",
+                          "topicContent": "Introduce perfect tenses (e.g., present perfect, past perfect, future perfect) and explain how they describe actions completed before a certain time."
+                      },
+                {
+                    "id": 14,
+                    "topicTitle": "Wrap up",
+                    "topicContent": "Make use of all Grammer lessons in reading and writing."
+                }
+                
+                        
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Grammar knowledge to the test.",
+          "questions": [
+              {
+                 "id": 0,
+                 "content": "Which punctuation mark is used to indicate dialogue in a sentence?",
+                 "correctIndex": 2,
+                 "answers": ["Period", "Exclamation mark", "Speech marks", "Question mark"]
+               },
+               {
+                 "id": 1,
+                 "content": "Form a question from the statement: 'She likes ice cream.'",
+                 "correctIndex": 1,
+                 "answers": ["Likes she ice cream?", "She likes ice cream?", "Ice cream likes she?", "She likes ice cream!"]
+               },
+        
+               {
+                 "id": 2,
+                 "content": "Which sentence uses an exclamation mark correctly?",
+                 "correctIndex": 3,
+                 "answers": [
+                   "The cat sleeps quietly",
+                   "I like pizza and pasta",
+                   "They went to the park",
+                   "What a beautiful day!"
+                 ]
+               },
+               {
+                 "id": 3,
+                 "content": "Which word is a proper noun in the sentence 'John went to Paris for vacation.'?",
+                 "correctIndex": 0,
+                 "answers": ["John", "went", "Paris", "vacation"]
+               },
+               {
+                 "id": 4,
+                 "content": "Identify the adjective in the sentence: 'The blue balloon floated away.'",
+                 "correctIndex": 1,
+                 "answers": ["The", "blue", "balloon", "floated"]
+               },
+               {
+                 "id": 5,
+                 "content": "Choose the correct possessive adjective for the sentence: 'This is ___ book.'",
+                 "correctIndex": 3,
+                 "answers": ["me", "he", "she", "my"]
+               },
+               {
+                 "id": 6,
+                 "content": "What type of word is 'quickly' in the sentence 'She quickly finished her homework.'?",
+                 "correctIndex": 2,
+                 "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+               },
+               {
+                 "id": 7,
+                 "content": "What is the present tense form of the verb 'to be' for 'I'?",
+                 "correctIndex": 0,
+                 "answers": ["Am", "Is", "Are", "Were"]
+               },
+               {
+                 "id": 8,
+                 "content": "Form the past tense of the verb 'walk' for 'they'.",
+                 "correctIndex": 0,
+                 "answers": ["Walked", "Walking", "Walks", "Walker"]
+               },
+               {
+                 "id": 9,
+                 "content": "Choose the irregular past tense form of the verb 'go'.",
+                 "correctIndex": 2,
+                 "answers": ["Gone", "Goed", "Went", "Going"]
+               },
+               {
+                 "id": 10,
+                 "content": "What is the past tense form of the verb 'to be' for 'he'?",
+                 "correctIndex": 0,
+                 "answers": ["Was", "Is", "Were", "Am"]
+               },
+               {
+                 "id": 11,
+                 "content": "Identify the conjunction in the sentence: 'She wanted ice cream, but they had none.'",
+                 "correctIndex": 1,
+                 "answers": ["She", "but", "wanted", "none"]
+               },
+               {
+                 "id": 12,
+                 "content": "Which perfect tense describes an action completed before a certain time in the future?",
+                 "correctIndex": 2,
+                 "answers": ["Present perfect", "Past perfect", "Future perfect", "Perfect continuous"]
+               },
+               {
+                 "id": 13,
+                 "content": "What type of sentence is 'Wow, that's amazing!'?",
+                 "correctIndex": 0,
+                 "answers": ["Exclamation", "Question", "Statement", "Command"]
+               },
+               {
+                 "id": 14,
+                 "content": "What is the possessive adjective for 'they'?",
+                 "correctIndex": 3,
+                 "answers": ["Me", "He", "She", "Their"]
+               },
+               {
+                 "id": 15,
+                 "content": "In the sentence 'She sang beautifully.', what is the adverb?",
+                 "correctIndex": 2,
+                 "answers": ["She", "sang", "beautifully", "beauty"]
+               },
+               {
+                 "id": 16,
+                 "content": "Form a question from the statement: 'They were playing soccer.'",
+                 "correctIndex": 1,
+                 "answers": [
+                   "Playing they soccer were?",
+                   "Were they playing soccer?",
+                   "Soccer they playing were?",
+                   "They were playing soccer?"
+                 ]
+               },
+               {
+                 "id": 17,
+                 "content": "Choose the correct punctuation for the sentence: 'I can't wait for the party'",
+                 "correctIndex": 3,
+                 "answers": [
+                   "I can't wait for the party.",
+                   "I can't wait for the party",
+                   "I cant wait for the party",
+                   "I can't wait for the party!"
+                 ]
+               },
+               {
+                 "id": 18,
+                 "content": "What is the purpose of speech marks (quotation marks) in writing?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "To indicate spoken words or dialogue",
+                   "To show possession",
+                   "To join two sentences",
+                   "To describe verbs"
+                 ]
+               },
+             
+               {
+                 "id": 19,
+                 "content": "Which punctuation mark is used at the end of a command sentence?",
+                 "correctIndex": 2,
+                 "answers": ["Period", "Exclamation mark", "Full stop", "Comma"]
+               },
+               {
+                 "id": 20,
+                 "content": "Form a question using the words: 'you', 'going', 'to', 'the park?'",
+                 "correctIndex": 0,
+                 "answers": ["Are you going to the park?", "You are going to the park?", "Going are you to the park?", "Are going the park?"]
+               },
+          
+               {
+                 "id": 21,
+                 "content": "Choose the correct punctuation usage: 'I can't believe it ____'",
+                 "correctIndex": 0,
+                 "answers": ["I can't believe it!", "I can't believe it", "I can't believe it?", "I can't believe it."]
+               },
+               {
+                 "id": 22,
+                 "content": "Which word is a common noun in the sentence 'He chased the mouse.'?",
+                 "correctIndex": 3,
+                 "answers": ["The", "chased", "the", "mouse"]
+               },
+               {
+                 "id": 23,
+                 "content": "Identify the adjective in the sentence: 'She wore a pretty dress to the party.'",
+                 "correctIndex": 2,
+                 "answers": ["wore", "a", "pretty", "party"]
+               },
+               {
+                 "id": 24,
+                 "content": "Choose the correct possessive adjective for the sentence: 'This is ___ book.'",
+                 "correctIndex": 3,
+                 "answers": ["me", "he", "she", "our"]
+               },
+               {
+                 "id": 25,
+                 "content": "What type of word is 'quickly' in the sentence 'She ran quickly to catch the bus.'?",
+                 "correctIndex": 2,
+                 "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+               },
+               {
+                 "id": 26,
+                 "content": "What is the present tense form of the verb 'to be' for 'they'?",
+                 "correctIndex": 2,
+                 "answers": ["Am", "Is", "Are", "Were"]
+               },
+               {
+                 "id": 27,
+                 "content": "Form the past tense of the verb 'jump' for 'she'.",
+                 "correctIndex": 0,
+                 "answers": ["Jumped", "Jumping", "Jumps", "Jump"]
+               },
+               {
+                 "id": 28,
+                 "content": "Choose the irregular past tense form of the verb 'swim'.",
+                 "correctIndex": 3,
+                 "answers": ["Swum", "Swiming", "Swimmed", "Swam"]
+               },
+               {
+                 "id": 29,
+                 "content": "What is the past tense form of the verb 'to be' for 'we'?",
+                 "correctIndex": 0,
+                 "answers": ["Were", "Is", "Was", "Am"]
+               },
+               {
+                 "id": 30,
+                 "content": "Identify the conjunction in the sentence: 'He wanted to go swimming but it was raining.'",
+                 "correctIndex": 1,
+                 "answers": ["He", "but", "wanted", "swimming"]
+               },
+               {
+                 "id": 31,
+                 "content": "Which perfect tense describes an action completed before a certain time in the past?",
+                 "correctIndex": 1,
+                 "answers": ["Present perfect", "Past perfect", "Future perfect", "Perfect continuous"]
+               },
+               {
+                 "id": 32,
+                 "content": "What type of sentence is 'Happy birthday!'?",
+                 "correctIndex": 0,
+                 "answers": ["Exclamation", "Question", "Statement", "Command"]
+               },
+               {
+                 "id": 33,
+                 "content": "What is the possessive adjective for 'I'?",
+                 "correctIndex": 3,
+                 "answers": ["Me", "He", "She", "My"]
+               },
+               {
+                 "id": 34,
+                 "content": "Choose the correct punctuation for the sentence: 'I can't believe you did that'",
+                 "correctIndex": 0,
+                 "answers": [
+                   "I can't believe you did that.",
+                   "I can't believe you did that",
+                   "I cant believe you did that",
+                   "I can't believe you did that!"
+                 ]
+               },
+               {
+                 "id": 35,
+                 "content": "Which word is a proper noun in the sentence 'Jessica lives in town.'?",
+                 "correctIndex": 3,
+                 "answers": ["lives", "in", "town", "Jessica"]
+               },
+               {
+                 "id": 36,
+                 "content": "What is the function of an exclamation mark in writing?",
+                 "correctIndex": 0,
+                 "answers": [
+                   "To show strong emotions or excitement",
+                   "To indicate possession",
+                   "To join two sentences",
+                   "To describe adverbs"
+                 ]
+               },
+               {
+                 "id": 37,
+                 "content": "Identify the adjective in the sentence: 'The brave firefighter rescued the kitten.'",
+                 "correctIndex": 1,
+                 "answers": ["The", "brave", "firefighter", "kitten"]
+               },
+              
+              {
+                "id": 38,
+                "content": "Which word is a conjunction in the sentence: 'She wanted to read a book or play outside.'?",
+                "correctIndex": 2,
+                "answers": ["She", "wanted", "or", "book"]
+              },
+              {
+                "id": 39,
+                "content": "Form a question using the words: 'do', 'you', 'like', 'to', 'swim?'",
+                "correctIndex": 0,
+                "answers": ["Do you like to swim?", "You do like swim?", "Do like you to swim?", "You like to swim do?"]
+              },
+              {
+                "id": 40,
+                "content": "What is the purpose of using quotation marks (speech marks) in writing?",
+                "correctIndex": 1,
+                "answers": [
+                  "To show possession",
+                  "To indicate spoken words or dialogue",
+                  "To connect phrases",
+                  "To mark the end of a sentence"
+                ]
+              },
+              {
+                "id": 41,
+                "content": "Choose the correct possessive adjective for the sentence: 'This is ___ favorite color.'",
+                "correctIndex": 1,
+                "answers": ["me", "my", "mine", "I"]
+              },
+              {
+                "id": 42,
+                "content": "What type of sentence is 'May I have a cookie, please?'?",
+                "correctIndex": 3,
+                "answers": ["Exclamation", "Question", "Statement", "Request"]
+              },
+              {
+                "id": 43,
+                "content": "Identify the adverb in the sentence: 'She danced gracefully and elegantly.'",
+                "correctIndex": 1,
+                "answers": ["She", "gracefully", "and", "danced"]
+              },
+              {
+                "id": 44,
+                "content": "Which verb correctly completes the sentence: 'They _____ swimming in the pool yesterday.'?",
+                "correctIndex": 3,
+                "answers": ["enjoy", "enjoying", "enjoys", "enjoyed"]
+              },
+              {
+                "id": 45,
+                "content": "Form the past tense of the verb 'eat' for 'I'.",
+                "correctIndex": 0,
+                "answers": ["Ate", "Eating", "Ating", "Eat"]
+              },
+              {
+                "id": 46,
+                "content": "What is the past tense of the verb 'run'?",
+                "correctIndex": 1,
+                "answers": ["Ranning", "Ran", "Runned", "Running"]
+              },
+              {
+                "id": 47,
+                "content": "What type of word is 'furiously ' in the sentence 'She ran qfuriously to catch the bus.'?",
+                "correctIndex": 2,
+                "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+              },
+              {
+                "id": 48,
+                "content": "Choose the correct punctuation for the sentence: 'Wow that was amazing'",
+                "correctIndex": 2,
+                "answers": [
+                  "Wow that was amazing",
+                  "wow that was amazing.",
+                  "Wow, that was amazing.",
+                  "Wow that, was amazing"
+                ]
+              },
+              {
+                "id": 49,
+                "content": "Identify the adjective in the sentence: 'The big, blue balloon floated away.'",
+                "correctIndex": 2,
+                "answers": ["The", "away", "blue", "balloon"]
+              },
+              {
+                "id": 50,
+                "content": "Which perfect tense describes an action that will be completed before a certain time in the future?",
+                "correctIndex": 2,
+                "answers": ["Present perfect", "Past perfect", "Future perfect", "Perfect continuous"]
+              },
+              {
+                "id": 51,
+                "content": "What is the function of the conjunction 'so' in a sentence?",
+                "correctIndex": 0,
+                "answers": [
+                  "To show cause and effect",
+                  "To connect two sentences",
+                  "To express a question",
+                  "To describe a noun"
+                ]
+              },
+              {
+                "id": 52,
+                "content": "Form a question using the words: 'she', 'go', 'to', 'the park?'",
+                "correctIndex": 1,
+                "answers": ["She go to the park?", "Does she go to the park?", "To the park she go?", "She to the park go?"]
+              },
+              {
+                "id": 53,
+                "content": "Choose the correct possessive adjective for the sentence: 'Is this ___ book?'",
+                "correctIndex": 0,
+                "answers": ["your", "you're", "yours", "you"]
+              },
+              {
+                "id": 54,
+                "content": "What is the past tense of the verb 'sing'?",
+                "correctIndex": 0,
+                "answers": ["Sang", "Sung", "Singed", "Singing"]
+              },
+              {
+                "id": 55,
+                "content": "Identify the conjunction in the sentence: 'She wanted to play games, but it started raining.'",
+                "correctIndex": 2,
+                "answers": ["She", "games", "but", "started"]
+              },
+              {
+                "id": 56,
+                "content": "Which word is a proper noun in the sentence 'Mr. Johnson teaches at Central Elementary School.'?",
+                "correctIndex": 1,
+                "answers": ["Mr.", "Mr.Johnson", "teaches", "at"]
+              },
+              {
+                "id": 57,
+                "content": "What type of sentence is 'Be careful on the icy road!'?",
+                "correctIndex": 0,
+                "answers": ["Exclamation", "Question", "Statement", "Request"]
+              },
+              {
+                "id": 58,
+                "content": "Choose the correct punctuation for the sentence",
+                "correctIndex": 2,
+                "answers": [
+                  "my favorite colors are red blue and green",
+                  "My Favorite colors are red, blue and green",
+                  "My favorite colors are red, blue, and green.",
+                  "My, favorite colors are red, blue, green"
+                ]
+              },
+              {
+              "id": 59,
+              "content": "What type of word is 'happily' in the sentence 'He sang a song happily.'?",
+              "correctIndex": 2,
+              "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+              },
+              {
+                "id": 60,
+                "content": "Identify the verb 'to be' (present) in the sentence: 'They are playing in the garden.'",
+                "correctIndex": 1,
+                "answers": ["They", "are", "playing", "in"]
+              },
+              {
+                "id": 61,
+                "content": "What is the past tense of the verb 'swim'?",
+                "correctIndex": 1,
+                "answers": ["Swum", "Swam", "Swimming", "Swime"]
+              },
+              {
+                "id": 62,
+                "content": "Which word is an adjective in the sentence 'The fluffy cat napped on the couch.'?",
+                "correctIndex": 0,
+                "answers": ["The", "fluffy", "cat", "napped"]
+              },
+              {
+                "id": 63,
+                "content": "Form a question using the words: 'you', 'eat','strawberries' 'for', 'breakfast?'",
+                "correctIndex": 0,
+                "answers": ["You eat strawberries for breakfast?", "Eat you for breakfast?", "You for breakfast eat?", "For breakfast you eat?"]
+              },
+              {
+                "id": 64,
+                "content": "Identify the irregular past tense verb in the sentence: 'She rode her bike to the park.'",
+                "correctIndex": 1,
+                "answers": ["She", "rode", "her", "park"]
+              },
+              {
+                "id": 65,
+                "content": "What is the purpose of using an exclamation mark in a sentence?",
+                "correctIndex": 2,
+                "answers": [
+                  "To show possession",
+                  "To indicate a question",
+                  "To express strong emotions or excitement",
+                  "To connect phrases"
+                ]
+              },
+              {
+                "id": 66,
+                "content": "Choose the correct pronoun for the sentence: 'John and ____ are best friends.'",
+                "correctIndex": 0,
+                "answers": ["him", "he", "they", "his"]
+              },
+              {
+                "id": 67,
+                "content": "What is the function of the conjunction 'and' in a sentence?",
+                "correctIndex": 1,
+                "answers": [
+                  "To show cause and effect",
+                  "To connect words, phrases, or clauses",
+                  "To express a question",
+                  "To describe a noun"
+                ]
+              },
+              {
+                "id": 68,
+                "content": "Form a question using the words: 'he', 'go','will' 'to', 'the store?'",
+                "correctIndex": 1,
+                "answers": ["Go he to the store?", "Will he go to the store?", "Does he go to the store?", "He to go the store?"]
+              },
+              {
+                "id": 69,
+                "content": "Which perfect tense describes an action completed before a specific past time?",
+                "correctIndex": 1,
+                "answers": ["Present perfect", "Past perfect", "Future perfect", "Perfect continuous"]
+              },
+              {
+                "id": 70,
+                "content": "Identify the proper noun in the sentence: 'We visited the Statue of Liberty in New York City.'",
+                "correctIndex": 3,
+                "answers": ["We", "visited", "the", "Statue of Liberty"]
+              },
+              {
+                "id": 71,
+                "content": "What type of sentence is 'Be sure to wear a warm coat.'?",
+                "correctIndex": 3,
+                "answers": ["Exclamation", "Question", "Statement", "Command"]
+              },
+              {
+                "id": 72,
+                "content": "Choose the correct possessive adjective for the sentence: 'Is this ___ new bicycle?'",
+                "correctIndex": 1,
+                "answers": ["me", "your", "him", "hers"]
+              },
+              {
+                "id": 73,
+                "content": "What is the plural form of the word 'child'?",
+                "correctIndex": 2,
+                "answers": ["Childs", "Childen", "Children", "Childes"]
+              },
+              {
+                "id": 74,
+                "content": "Identify the verb 'to be' (past) in the sentence: 'They were excited about the school trip.'",
+                "correctIndex": 1,
+                "answers": ["They", "were", "excited", "about"]
+              },
+              {
+                "id": 75,
+                "content": "What punctuation mark should be used at the end of a command sentence?",
+                "correctIndex": 1,
+                "answers": ["Full stop", "Exclamation mark", "Question mark", "Comma"]
+              },
+              {
+                "id": 76,
+                "content": "What does the conjunction 'so' indicate in a sentence?",
+                "correctIndex": 2,
+                "answers": [
+                  "Addition",
+                  "Contrast",
+                  "Cause and effect",
+                  "Time sequence"
+                ]
+              },
+              {
+                "id": 77,
+                "content": "Form a question using the words: 'they', 'do', 'play', 'basketball?'",
+                "correctIndex": 0,
+                "answers": ["Do they play basketball?", "They do play basketball?", "Play they do basketball?", "They basketball play do?"]
+              },
+              {
+                "id": 78,
+                "content": "Identify the adjective in the sentence: 'The brave knight rescued the princess from the tower.'",
+                "correctIndex": 1,
+                "answers": ["The", "brave", "knight", "rescued"]
+              },
+              {
+                "id": 79,
+                "content": "Choose the correct possessive pronoun for the sentence: 'Is this ____ book?'",
+                "correctIndex": 2,
+                "answers": ["mine", "yours", "his", "hers"]
+              },
+              {
+                "id": 80,
+                "content": "What type of sentence is 'How exciting are the fireworks?'?",
+                "correctIndex": 1,
+                "answers": ["Exclamation", "Question", "Statement", "Command"]
+              },
+              {
+                "id": 81,
+                "content": "Which punctuation mark is used to separate items in a list?",
+                "correctIndex": 1,
+                "answers": ["Exclamation mark", "Comma", "Semicolon", "Colon"]
+              },
+              {
+                "id": 82,
+                "content": "Form a question using the words: 'Does''she', 'swim', 'in', 'the pool?'",
+                "correctIndex": 2,
+                "answers": ["She swim in the pool?", "Swim she in the pool?", "Does she swim in the pool?", "Does she swim in the pool?"]
+              },
+              {
+                "id": 83,
+                "content": "Identify the conjunction in the sentence: 'I wanted to go to the park, but it started raining.'",
+                "correctIndex": 1,
+                "answers": [ "park", "but", "it", "started"]
+              },
+              {
+                "id": 84,
+                "content": "What is the past tense of the verb 'eat'?",
+                "correctIndex": 1,
+                "answers": ["Eaten", "Ate", "Eating", "Eats"]
+              },
+              {
+                "id": 85,
+                "content": "Choose the correct verb 'to be' (present) for the sentence: 'The flowers ____ beautiful.'",
+                "correctIndex": 2,
+                "answers": ["am", "is", "are", "be"]
+              },
+              {
+                "id": 86,
+                "content": "Which word is a conjunction in the sentence: 'She will visit her grandparents and play games.'",
+                "correctIndex": 2,
+                "answers": ["She", "will", "and", "play"]
+              },
+              {
+                "id": 87,
+                "content": "What is the purpose of using quotation marks in writing?",
+                "correctIndex": 1,
+                "answers": [
+                  "To show possession",
+                  "To indicate spoken words",
+                  "To form questions",
+                  "To connect phrases"
+                ]
+              },
+              {
+                "id": 88,
+                "content": "Identify the adverb in the sentence: 'She sings beautifully.'",
+                "correctIndex": 2,
+                "answers": ["She", "sings", "beautifully", "he"]
+              },
+              {
+                "id": 89,
+                "content": "What is the plural form of the word 'man'?",
+                "correctIndex": 2,
+                "answers": ["Mans", "Mens", "Men", "Manes"]
+              },
+              {
+                "id": 90,
+                "content": "Form a command sentence using the words: 'your', 'room', 'clean'.",
+                "correctIndex": 1,
+                "answers": ["Your room clean!", "Clean your room!", "Room clean your!", "Clean room your!"]
+              },
+              {
+                "id": 91,
+                "content": "Identify the verb 'to be' (past) in the sentence: 'They were happy to see their friends.'",
+                "correctIndex": 1,
+                "answers": ["They", "were", "happy", "to"]
+              },
+              {
+                "id": 92,
+                "content": "What does the adverb 'soon' indicate in a sentence?",
+                "correctIndex": 0,
+                "answers": ["Time", "Location", "What", "Manner"]
+              },
+              {
+                "id": 93,
+                "content": "Choose the correct adjective for the sentence: 'The sky was ____ during the sunset.'",
+                "correctIndex": 3,
+                "answers": ["soon", "happy", "fly", "beautiful"]
+              },
+              {
+                "id": 94,
+                "content": "What is the purpose of using an exclamation mark in writing?",
+                "correctIndex": 0,
+                "answers": [
+                  "To show strong emotion or excitement",
+                  "To form a question",
+                  "To indicate possession",
+                  "To connect ideas"
+                ]
+              },
+              {
+                "id": 95,
+                "content": "Identify the noun in the sentence: 'The curious cat explored the garden.'",
+                "correctIndex": 1,
+                "answers": ["The", "cat", "explored", "the"]
+              },
+              {
+                "id": 96,
+                "content": "Which word is a proper noun in the sentence: 'Fiona visited Paris during summer.'",
+                "correctIndex": 0,
+                "answers": ["Fiona", "visited", "Paris", "during"]
+              },
+              {
+                "id": 97,
+                "content": "Form a statement using the words: 'play', 'afternoon', 'this', 'in', 'the park'.",
+                "correctIndex": 1,
+                "answers": ["Afternoon this in the park play.", "Play in the park this afternoon.", "In the park play afternoon.", "Play the park in afternoon."]
+              }
+              
+              
+              
+              
+              
+              
+              
+          ]
+      }
+       
+    }
+
+]

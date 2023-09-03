@@ -1,0 +1,545 @@
+
+[
+    {
+        "id": 1,
+        "category": "Segmenting and Syllables",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Rote Imitation and Enjoyment of Rhyme and Alliteration",
+                            "topicContent": "Engage students in rote imitation of rhyming words and alliterative phrases. Share examples like 'pool, drool, tool' and the tongue-twister 'Seven silly snakes sang songs seriously.'"
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Rhyme Recognition and Odd Word Out",
+                            "topicContent": "Teach students to recognize rhyming words and identify the odd word out in a set. Provide exercises like 'Which two words rhyme: stair, steel, chair?'"
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Recognition of Phonemic Changes and Clapping Syllables",
+                            "topicContent": "Help students recognize phonemic changes in words and practice clapping and counting syllables in different words. Provide examples like 'Hickory Dickory Clock. That’s not right!' and syllable counting for words."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Distinguishing Phonemes in a Series and Blending Onset and Rime",
+                            "topicContent": "Guide students in distinguishing individual phonemes in a series and blending onset and rime to form words. Use activities such as matching initial sounds and blending sounds to form words."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Producing a Rhyme and Matching Initial Sounds",
+                            "topicContent": "Encourage students to produce rhyming words and match initial sounds. Provide prompts like 'Tell me a word that rhymes with car, and 'Say the first sound in ride (/r/); sock (/s/); love (/l/)'."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Compound Word and Syllable Deletion",
+                            "topicContent": "Introduce compound word deletion and syllable deletion exercises. Use prompts like 'Say cowboy. Say it again, but don’t say cow' and 'Say parsnip. Say it again, but don’t say par.,"
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Blending of Two and Three Phonemes and Phoneme Segmentation",
+                            "topicContent": "Teach students to blend two and three phonemes and segment phonemes in words. Use examples like blending /z/ /ū/ to form 'zoo' and segmenting sounds in words like 'sh-e.'"
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Phoneme Substitution and Sound Deletion",
+                            "topicContent": "Guide students in substituting phonemes to build new words and practicing sound deletion in various positions. Use prompts like 'Change the /j/ in cage to /n/.'"
+                        }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Reading strategy knowledge to the test.",
+               "questions": [
+                   {
+                     "id": 0,
+                     "content": "How many syllables are in the word 'basket'?",
+                     "correctIndex": 1,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 1,
+                     "content": "Which word has the same ending sound as 'lamp'?",
+                     "correctIndex": 2,
+                     "answers": ["Book", "Jump", "Camp", "Star"]
+                   },
+                   {
+                     "id": 2,
+                     "content": "How many syllables are in the word 'giraffe'?",
+                     "correctIndex": 1,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 3,
+                     "content": "Which word has the same ending sound as 'duck'?",
+                     "correctIndex": 3,
+                     "answers": ["Lucky", "Desk", "Lake", "Truck"]
+                   },
+                   {
+                     "id": 4,
+                     "content": "How many syllables are in the word 'elephant'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 5,
+                     "content": "Which word has the same ending sound as 'frog'?",
+                     "correctIndex": 2,
+                     "answers": ["Dodge", "Jump", "Log", "Star"]
+                   },
+                   {
+                     "id": 6,
+                     "content": "How many syllables are in the word 'aeroplane'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 7,
+                     "content": "Which word has the same ending sound as 'ball'?",
+                     "correctIndex": 1,
+                     "answers": ["Book", "Tall", "Lake", "Star"]
+                   },
+                   {
+                     "id": 8,
+                     "content": "How many syllables are in the word 'octopus'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 9,
+                     "content": "Which word has the same ending sound as 'tree'?",
+                     "correctIndex": 1,
+                     "answers": ["Book", "See", "Lake", "Star"]
+                   },
+                   {
+                     "id": 10,
+                     "content": "How many syllables are in the word 'butterfly'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 11,
+                     "content": "Which word has the same ending sound as 'pen'?",
+                     "correctIndex": 1,
+                     "answers": ["Book", "Den", "Lake", "Star"]
+                   },
+                   {
+                     "id": 12,
+                     "content": "How many syllables are in the word 'dinosaur'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 13,
+                     "content": "Choose the word that shares the same final sound as 'frog'.",
+                     "correctIndex": 2,
+                     "answers": ["Mist", "Glow", "Log", "Breeze"]
+                   },
+                   {
+                     "id": 14,
+                     "content": "How many syllables are in the word 'guitar'?",
+                     "correctIndex": 1,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 15,
+                     "content": "Which word has the same ending sound as 'cake'?",
+                     "correctIndex": 1,
+                     "answers": ["Book", "Make", "Lakes", "Star"]
+                   },
+                   {
+                     "id": 16,
+                     "content": "How many syllables are in the word 'robot'?",
+                     "correctIndex": 2,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 17,
+                     "content": "Which word has the same ending sound as 'hat'?",
+                     "correctIndex": 1,
+                     "answers": ["Book", "Cat", "Lake", "Star"]
+                   },
+                   {
+                     "id": 18,
+                     "content": "How many syllables are in the word 'concert'?",
+                     "correctIndex": 1,
+                     "answers": ["1", "2", "3", "4"]
+                   },
+                   {
+                     "id": 19,
+                     "content": "Select the word that shares the identical final sound as 'chirp'.",
+                     "correctIndex": 3,
+                     "answers": ["Spark", "Glide", "Whale", "Harp"]
+                   },
+{
+  "id": 20,
+  "content": "How many syllables are in the word 'onomatopoeia'?",
+  "correctIndex": 3,
+  "answers": ["1", "2", "4", "5"]
+},
+                    {
+                      "id": 21,
+                      "content": "Which word has the same ending sound as 'kite'?",
+                      "correctIndex": 0,
+                      "answers": ["Light", "Desk", "Lake", "Star"]
+                    },
+                    {
+                      "id": 22,
+                      "content": "How many syllables are in the word 'turtle'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 23,
+                      "content": "Which word has the same ending sound as 'bike'?",
+                      "correctIndex": 2,
+                      "answers": ["Book", "Jump", "Spike", "Star"]
+                    },
+                    {
+                      "id": 24,
+                      "content": "How many syllables are in the word 'monkey'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "4", "3", "2"]
+                    },
+                    {
+                      "id": 25,
+                      "content": "Which word has the same ending sound as 'rain'?",
+                      "correctIndex": 2,
+                      "answers": ["Dog", "Jump", "Train", "Star"]
+                    },
+                    {
+                      "id": 26,
+                      "content": "How many syllables are in the word 'flower'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 27,
+                      "content": "Which word has the same ending sound as 'moon'?",
+                      "correctIndex": 0,
+                      "answers": ["Spoon", "Book", "Lake", "Star"]
+                    },
+                    {
+                      "id": 28,
+                      "content": "How many syllables are in the word 'caterpillar'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 29,
+                      "content": "Which word has the same ending sound as 'cake'?",
+                      "correctIndex": 2,
+                      "answers": ["Book", "Lake", "Bake", "Star"]
+                    },
+                    {
+                      "id": 30,
+                      "content": "How many syllables are in the word 'dolphin'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "3", "2", "4"]
+                    },
+                    {
+                      "id": 31,
+                      "content": "Which word has the same ending sound as 'chair'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Bear", "Lake", "Star"]
+                    },
+                    {
+                      "id": 32,
+                      "content": "How many syllables are in the word 'garden'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 33,
+                      "content": "Which word has the same ending sound as 'bell'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Shell", "Lake", "Star"]
+                    },
+                    {
+                      "id": 34,
+                      "content": "How many syllables are in the word 'butterfly'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 35,
+                      "content": "Identify the word that shares the identical final sound as 'delight'.",
+                      "correctIndex": 1,
+                      "answers": ["Spire", "Firelight", "Tumble", "Glare"]
+                    },
+                    {
+                      "id": 36,
+                      "content": "How many syllables are in the word 'clever'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "0", "2", "4"]
+                    },
+                    {
+                      "id": 37,
+                      "content": "Which word has the same ending sound as 'cake'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Make", "Lack", "Star"]
+                    },
+                    {
+                      "id": 38,
+                      "content": "How many syllables are in the word 'robot'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 39,
+                      "content": "Which word has the same ending sound as 'hat'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Cat", "Lake", "Star"]
+                    },
+                    {
+                      "id": 40,
+                      "content": "How many syllables are in the word 'banana'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 41,
+                      "content": "Among these options, which word rhymes with 'tide'?",
+                      "correctIndex": 0,
+                      "answers": ["Guide", "Jump", "Fog", "Star"]
+                    },
+                    {
+                      "id": 42,
+                      "content": "How many syllables are in the word 'hospital'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "5", "3"]
+                    },
+                    {
+                      "id": 43,
+                      "content": "Which word has the same ending sound as 'bell'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Shell", "Told", "Star"]
+                    },
+                    {
+                      "id": 44,
+                      "content": "How many syllables are in the word 'dinosaur'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 45,
+                      "content": "Among these words, which one shares the identical final sound as 'broom'?",
+                      "correctIndex": 3,
+                      "answers": ["Baboon", "Harpoon", "Sun", "zoom"]
+                    },
+{
+  "id": 46,
+  "content": "How many syllables are in the word 'piano'?",
+  "correctIndex": 2,
+  "answers": ["1", "2", "3", "4"]
+},
+                    {
+                      "id": 47,
+                      "content": "Which word has the same ending sound as 'pie'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Tie", "Lied", "Star"]
+                    },
+                    {
+                      "id": 48,
+                      "content": "How many syllables are in the word 'lemonade'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 49,
+                      "content": "Which word has the same ending sound as 'rattle'?",
+                      "correctIndex": 3,
+                      "answers": ["Dog", "Jump", "Mat", "cattle"]
+                    },
+                    {
+                      "id": 50,
+                      "content": "How many syllables are in the word 'flower'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 51,
+                      "content": "Which word has the same ending sound as 'bug'?",
+                      "correctIndex": 2,
+                      "answers": ["Dog", "Jump", "Rug", "Star"]
+                    },
+                    {
+                      "id": 52,
+                      "content": "How many syllables are in the word 'lioness'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 53,
+                      "content": "Which word has the same ending sound as 'hill'?",
+                      "correctIndex": 1,
+                      "answers": ["Book", "Fill", "Ball", "Star"]
+                    },
+                    {
+                      "id": 54,
+                      "content": "How many syllables are in the word 'caterpillar'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 55,
+                      "content": "Which word has the same ending sound as 'little'?",
+                      "correctIndex": 1,
+                      "answers": ["Britian", "Brittle", "Critter", "Star"]
+                    },
+                    {
+                      "id": 56,
+                      "content": "How many syllables are in the word 'guardian'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 57,
+                      "content": "Which word has the same ending sound as 'pen'?",
+                      "correctIndex": 1,
+                      "answers": ["Den", "Ten", "Kennle", "Star"]
+                    },
+                    {
+                      "id": 58,
+                      "content": "How many syllables are in the word 'zebra'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 59,
+                      "content": "Which word has the same ending sound as 'rain'?",
+                      "correctIndex": 1,
+                      "answers": ["Training", "Gain", "Brand", "Star"]
+                    },
+                    {
+                      "id": 60,
+                      "content": "Which word is divided into two syllables?",
+                      "correctIndex": 2,
+                      "answers": ["Rain", "Star", "Sunshine", "Moon"]
+                    },
+                    {
+                      "id": 61,
+                      "content": "How many syllables are in the word 'apartment'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 62,
+                      "content": "Which word starts with the same sound as 'stock'?",
+                      "correctIndex": 1,
+                      "answers": ["Sun", "Star", "Sail", "Seal"]
+                    },
+                    {
+                      "id": 63,
+                      "content": "How many syllables are in the word 'automobile'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 64,
+                      "content": "Which word ends with the same sound as 'gate'?",
+                      "correctIndex": 3,
+                      "answers": ["Lake", "Star", "Game", "Late"]
+                    },
+                    {
+                      "id": 65,
+                      "content": "How many syllables are in the word 'chocolate'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 66,
+                      "content": "Which word has the same middle sound as 'book'?",
+                      "correctIndex": 0,
+                      "answers": ["Cook", "Star", "Feet", "Peel"]
+                    },
+                    {
+                      "id": 67,
+                      "content": "How many syllables are in the word 'garden'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 68,
+                      "content": "Which word starts with the same sound as 'crain'?",
+                      "correctIndex": 2,
+                      "answers": ["Cut", "Star", "Crate", "Cap"]
+                    },
+                    {
+                      "id": 69,
+                      "content": "How many syllables are in the word 'ocean'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 70,
+                      "content": "Which word has the same middle sound as 'cake'?",
+                      "correctIndex": 2,
+                      "answers": ["Star", "Book", "Rate", "Hill"]
+                    },
+                    {
+                      "id": 71,
+                      "content": "How many syllables are in the word 'butter'?",
+                      "correctIndex": 1,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 72,
+                      "content": "Which word ends with the same sound as 'ball'?",
+                      "correctIndex": 0,
+                      "answers": ["Tall", "Star", "Cat", "Bell"]
+                    },
+                    {
+                      "id": 73,
+                      "content": "How many syllables are in the word 'dinosaur'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 74,
+                      "content": "Which word has the same middle sound as 'rain'?",
+                      "correctIndex": 2,
+                      "answers": ["Star", "Jump", "Cane", "Map"]
+                    },
+                    {
+                      "id": 75,
+                      "content": "How many syllables are in the word 'firetruck'?",
+                      "correctIndex": 2,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 76,
+                      "content": "Which word starts with the same sound as 'tree'?",
+                      "correctIndex": 3,
+                      "answers": ["Star", "Tall", "Cat", "Train"]
+                    },
+                    {
+                      "id": 77,
+                      "content": "How many syllables are in the word 'watermelon'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "3", "4"]
+                    },
+                    {
+                      "id": 78,
+                      "content": "Which word ends with the same sound as 'pie'?",
+                      "correctIndex": 2,
+                      "answers": ["Bike", "Star", "Tie", "Book"]
+                    },
+                    {
+                      "id": 79,
+                      "content": "How many syllables are in the word 'superhero'?",
+                      "correctIndex": 3,
+                      "answers": ["1", "2", "3", "4"]
+                    }
+                   
+               ]
+           }
+    }
+
+]

@@ -1,0 +1,75 @@
+
+
+[
+    {
+        "id": 5,
+        "category": "Writing Gnere",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Persuasive Writing",
+                            "topicContent": "Introduce persuasive writing and its purpose: to convince others to adopt a certain viewpoint. Discuss the importance of presenting strong arguments and using persuasive language."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "Choosing a Persuasive Topic you care about",
+                            "topicContent": "Brainstorm and discuss potential persuasive topics. Explain why 'Why We Should eat healthy' is a relevant and impactful topic for the audience. Discuss audience awareness and engagement."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "Identifying Strong Arguments",
+                            "topicContent": "Teach students to identify strong arguments that support the chosen topic. Discuss logical reasoning and evidence. Use examples like reducing waste and conserving resources."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "Understanding Counterarguments",
+                            "topicContent": "Introduce the concept of counterarguments and how they can strengthen a persuasive piece. Discuss ways to address counterarguments and reinforce the main arguments."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "Organizing Persuasive Writing",
+                            "topicContent": "Teach students the structure of persuasive writing: introduction, body paragraphs with strong arguments, addressing counterarguments, and conclusion. Discuss the flow and coherence of ideas."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "Crafting Engaging Introductions",
+                            "topicContent": "Guide students in writing compelling introductions that grab the reader's attention and clearly state the topic and stance. Discuss using hooks and background information."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Developing Persuasive Body Paragraphs",
+                            "topicContent": "Teach students how to develop each argument in separate body paragraphs. Discuss using evidence, facts, and examples to support each point."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Addressing Counterarguments",
+                            "topicContent": " Teach students how to acknowledge and address counterarguments within their piece. Discuss using persuasive language to counter opposing viewpoints."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "Writing a Convincing Conclusions",
+                            "topicContent": "Guide students in writing conclusions that summarize key points and restate the main argument. Discuss ending with a call to action or leaving a lasting impression."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "Persuasive Language Techniques",
+                            "topicContent": "Introduce persuasive language techniques, such as emotional appeal, rhetorical questions, and strong verbs. Discuss how these techniques enhance the persuasive effect."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "Editing and Revising Persuasive Writing",
+                            "topicContent": "Teach students the importance of editing and revising their work. Discuss grammar, spelling, punctuation, and clarity. Encourage peer review and self-assessment."
+                        }
+                        
+                        
+                        
+                        
+                    ]
+                }
+    }
+
+]

@@ -1,0 +1,501 @@
+
+
+[
+    {
+        "id": 3,
+        "category": "Comprehension",
+        "description": "Strand units: Reading",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "WackyTron and Mizzy's Robot Rescue",
+                            "topicContent": "When ZackyTron captures robots and holds them hostage, WackyTron and Mizzy team up to devise a daring rescue plan. Their bravery and quick thinking lead to a heartwarming robotic reunion."
+                        },
+                        {
+                            "id": 1,
+                            "topicTitle": "WackyTron's Time-Travel Triumph",
+                            "topicContent": "ZackyTron tampers with a time machine, causing chaos across history. WackyTron and Mizzy embark on a time-travel adventure to set things right, outsmarting ZackyTron at every turn."
+                        },
+                        {
+                            "id": 2,
+                            "topicTitle": "WackyTron's Enchanted Quest",
+                            "topicContent": "ZackyTron unleashes dark magic with an enchanted amulet. WackyTron and Mizzy combine their strengths to break the amulet's curse and thwart ZackyTron's sinister plans."
+                        },
+                        {
+                            "id": 3,
+                            "topicTitle": "WackyTron's Galactic Standoff",
+                            "topicContent": "ZackyTron threatens to disrupt cosmic harmony with a stolen artifact. WackyTron and Mizzy traverse the stars, using their intelligence and teamwork to restore balance and defeat ZackyTron."
+                        },
+                        {
+                            "id": 4,
+                            "topicTitle": "WackyTron's Mystery Expedition",
+                            "topicContent": " ZackyTron seeks an ancient treasure hidden in a lost city. WackyTron and Mizzy follow the clues, solving puzzles and facing challenges to ensure the treasure's power isn't misused."
+                    
+                },
+                {
+                            "id": 5,
+                            "topicTitle": "WackyTron's Carnival Conundrum",
+                            "topicContent": "ZackyTron sabotages the carnival's attractions for his own amusement. WackyTron and Mizzy race against time to repair the rides, all while staying one step ahead of ZackyTron's tricks."
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "WackyTron's Illusion Duel",
+                            "topicContent": "ZackyTron creates illusions to deceive and confuse. WackyTron and Mizzy rely on their perception and unity to break through the illusions, exposing ZackyTron's deception."
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "WackyTron's Deep Sea Dilemma",
+                            "topicContent": "ZackyTron threatens the underwater realm's tranquility. WackyTron and Mizzy collaborate with sea creatures, showcasing their bravery and empathy to outwit ZackyTron's schemes."
+                        },
+                        {
+                            "id": 8,
+                            "topicTitle": "WackyTron's Robotic Uprising",
+                            "topicContent": "ZackyTron reprograms robots to stir up chaos. WackyTron and Mizzy lead a team of robots, emphasizing kindness and understanding to thwart ZackyTron's rebellion."
+                        },
+                        {
+                            "id": 9,
+                            "topicTitle": "WackyTron's Time Paradox Predicament",
+                            "topicContent": "T: ZackyTron's time meddling creates dangerous paradoxes. WackyTron and Mizzy navigate through timelines, mending paradoxes and confronting ZackyTron's twisted alternate realities."
+                        },
+                        {
+                            "id": 10,
+                            "topicTitle": "WackyTron's Ghostly Encounter",
+                            "topicContent": "ZackyTron's ghostly pranks haunt a mansion's inhabitants. WackyTron and Mizzy unravel the mystery, using their courage and logic to expose ZackyTron's mischievous pranks."
+                  
+                }
+                    ]
+                },
+           
+           "test": {
+               "id": 0,
+               "image": "testSwift",
+               "time": "30 minutes",
+               "description": "Put your Memeory skills of WackyTrons adventures to the test.",
+               "questions": [
+                   {
+                      "id": 0,
+                      "content": "How do WackyTron and Mizzy demonstrate effective teamwork and collaboration in 'WackyTron and Mizzy's Robot Rescue'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "They work together to devise a daring rescue plan",
+                        "They work independently",
+                        "They don't collaborate",
+                        "They have disagreements"
+                      ]
+                    },
+                    {
+                      "id": 1,
+                      "content": "What strategies do WackyTron and Mizzy employ to outsmart ZackyTron in 'WackyTron's Time-Travel Triumph'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "They don't outsmart ZackyTron",
+                        "They embark on a time-travel adventure and use intelligence to outsmart ZackyTron",
+                        "They confront ZackyTron directly",
+                        "They join forces with ZackyTron"
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "content": "How does the curse of the enchanted amulet impact the characters' interactions and choices in 'WackyTron's Enchanted Quest'?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "The curse has no impact",
+                        "The curse benefits the characters",
+                        "The curse poses challenges and influences the characters' decisions",
+                        "The curse disappears quickly"
+                      ]
+                    },
+                    {
+                      "id": 3,
+                      "content": "In 'WackyTron's Galactic Standoff', how do WackyTron and Mizzy use their intelligence and teamwork to restore cosmic harmony?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "They traverse the stars, using their intelligence and teamwork to restore balance",
+                        "They avoid challenges",
+                        "They rely on luck",
+                        "They ignore cosmic harmony"
+                      ]
+                    },
+                    {
+                      "id": 4,
+                      "content": "How does the challenge of solving puzzles and facing challenges contribute to the characters' journey in 'WackyTron's Mystery Expedition'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "Challenges don't affect the journey",
+                        "The challenges enhance the journey by requiring problem-solving and critical thinking",
+                        "Challenges make the journey easy",
+                        "The characters avoid challenges"
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "content": "What does the concept of repairing the carnival rides in 'WackyTron's Carnival Conundrum' symbolize in relation to the characters' determination?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Repairing rides symbolizes the characters' determination and urgency",
+                        "Repairing rides is irrelevant",
+                        "Repairing rides is boring",
+                        "Repairing rides symbolizes laziness"
+                      ]
+                    },
+                    {
+                      "id": 6,
+                      "content": "How do WackyTron and Mizzy's perceptions and unity play a key role in overcoming ZackyTron's illusions in 'WackyTron's Illusion Duel'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "Perceptions and unity have no impact",
+                        "Perceptions and unity allow them to break through illusions",
+                        "Perceptions and unity make illusions stronger",
+                        "Perceptions and unity don't matter"
+                      ]
+                    },
+                    {
+                      "id": 7,
+                      "content": "How does the collaboration between WackyTron, Mizzy, and sea creatures contribute to their success in 'WackyTron's Deep Sea Dilemma'?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "Collaboration has no impact on their success",
+                        "Collaboration hinders their success",
+                        "Collaboration allows them to outwit ZackyTron's schemes",
+                        "Collaboration isn't important"
+                      ]
+                    },
+                    {
+                      "id": 8,
+                      "content": "What lessons about kindness and understanding are highlighted through WackyTron and Mizzy's leadership of the robot team in 'WackyTron's Robotic Uprising'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Kindness and understanding lead to thwarting ZackyTron's rebellion",
+                        "Kindness and understanding are not relevant",
+                        "Kindness and understanding lead to chaos",
+                        "Kindness and understanding have negative effects"
+                      ]
+                    },
+                    {
+                      "id": 9,
+                      "content": "How do WackyTron and Mizzy navigate through timelines and mend paradoxes in 'WackyTron's Time Paradox Predicament'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "They don't navigate through timelines",
+                        "They navigate through timelines and use logic to mend paradoxes",
+                        "They create more paradoxes",
+                        "They ignore the paradoxes"
+                      ]
+                    },
+                    {
+                      "id": 10,
+                      "content": "In 'WackyTron's Ghostly Encounter', how does the characters' use of courage and logic reflect their ability to confront challenges?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Courage and logic allow them to confront challenges and expose ZackyTron's pranks",
+                        "Courage and logic have no effect",
+                        "Courage and logic complicate challenges",
+                        "Courage and logic are irrelevant"
+                      ]
+                    },
+                    {
+                      "id": 11,
+                      "content": "How do WackyTron and Mizzy's abilities to work together effectively in 'WackyTron and Mizzy's Robot Rescue' contribute to their success in the daring rescue plan?",
+                      "correctIndex": 2,
+                      "answers": [
+                        "Their abilities to work together have no impact on their success",
+                        "Their abilities to work together lead to failure",
+                        "Their abilities to work together contribute significantly to their success",
+                        "Their abilities to work together only hinder their success"
+                      ]
+                    },
+                    {
+                      "id": 12,
+                      "content": "What are some examples of time-travel paradoxes that WackyTron and Mizzy encounter in 'WackyTron's Time-Travel Triumph'?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "They encounter no time-travel paradoxes",
+                        "They encounter paradoxes like meeting their past selves",
+                        "Time-travel paradoxes have no relevance",
+                        "Time-travel paradoxes only make the story confusing"
+                      ]
+                    },
+                    {
+                      "id": 13,
+                      "content": "What is the significance of the amulet's curse in 'WackyTron's Enchanted Quest' and how does breaking it contribute to the overall message?",
+                      "correctIndex": 3,
+                      "answers": [
+                        "The curse of the amulet is insignificant",
+                        "The curse of the amulet has no relevance to the message",
+                        "Breaking the curse is unnecessary",
+                        "Breaking the curse contributes to the message of overcoming challenges and working together"
+                      ]
+                    },
+                    {
+                      "id": 14,
+                      "content": "In 'WackyTron's Galactic Standoff', how do WackyTron and Mizzy's interactions with cosmic beings highlight their capacity for diplomacy and understanding?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Their interactions highlight their diplomacy and understanding",
+                        "Their interactions have no effect on diplomacy and understanding",
+                        "Their interactions result in conflict",
+                        "Their interactions showcase their arrogance"
+                      ]
+                    },
+                    {
+                      "id": 15,
+                      "content": "How do the clues in 'WackyTron's Mystery Expedition' play a role in engaging readers' critical thinking and curiosity?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "The clues have no impact on critical thinking and curiosity",
+                        "The clues engage readers by prompting them to think and speculate",
+                        "The clues confuse readers and make them lose interest",
+                        "The clues have no relevance to the story"
+                      ]
+                    },
+                    {
+                      "id": 16,
+                      "content": "What themes of resilience and teamwork emerge as WackyTron and Mizzy race against time to repair the rides in 'WackyTron's Carnival Conundrum'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Themes of resilience and teamwork emerge as they race against time",
+                        "Themes of resilience and teamwork have no relevance",
+                        "Themes of resilience and teamwork don't emerge",
+                        "Themes of resilience and teamwork hinder their progress"
+                      ]
+                    },
+                    {
+                      "id": 17,
+                      "content": "How do WackyTron and Mizzy's actions in 'WackyTron's Illusion Duel' illustrate their ability to distinguish reality from illusion?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "Their actions illustrate their inability to distinguish reality from illusion",
+                        "Their actions illustrate their ability to distinguish reality from illusion",
+                        "Their actions have no relevance to reality and illusion",
+                        "Their actions make them more susceptible to illusion"
+                      ]
+                    },
+                    {
+                      "id": 18,
+                      "content": "What qualities of leadership do WackyTron and Mizzy demonstrate in 'WackyTron's Deep Sea Dilemma' when collaborating with sea creatures?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "They demonstrate qualities of bravery and empathy in their leadership",
+                        "They demonstrate no qualities of leadership",
+                        "They demonstrate qualities of arrogance",
+                        "They demonstrate qualities of cowardice"
+                      ]
+                    },
+                    {
+                      "id": 19,
+                      "content": "In 'WackyTron's Robotic Uprising', how does the team of robots symbolize unity and the power of diversity?",
+                      "correctIndex": 1,
+                      "answers": [
+                        "The team of robots doesn't symbolize unity and diversity",
+                        "The team of robots symbolizes unity through their diverse abilities and characteristics",
+                        "The team of robots symbolizes disunity",
+                        "The team of robots has no symbolic meaning"
+                      ]
+                    },
+                    {
+                      "id": 20,
+                      "content": "How do WackyTron and Mizzy's actions in mending paradoxes and confronting alternate realities reflect their determination and adaptability in 'WackyTron's Time Paradox Predicament'?",
+                      "correctIndex": 0,
+                      "answers": [
+                        "Their actions reflect their determination and adaptability in the face of challenges",
+                        "Their actions reflect their inability to adapt",
+                        "Their actions have no impact on the predicament",
+                        "Their actions make the predicament worse"
+                      ]
+                    },
+                    {
+                       "id": 21,
+                       "content": "How does the character development of WackyTron and Mizzy evolve throughout the story 'WackyTron and Mizzy's Robot Rescue'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "Their character development remains static",
+                         "Their character development is irrelevant to the story",
+                         "Their character development evolves positively as they become braver and more strategic",
+                         "Their character development evolves negatively as they become less effective"
+                       ]
+                     },
+                     {
+                       "id": 22,
+                       "content": "What lessons about the consequences of tampering with time do WackyTron and Mizzy learn in 'WackyTron's Time-Travel Triumph'?",
+                       "correctIndex": 3,
+                       "answers": [
+                         "They learn no lessons about time travel",
+                         "They learn that time travel has no consequences",
+                         "They learn that tampering with time has no relevance to the story",
+                         "They learn valuable lessons about the dangers and complexities of time manipulation"
+                       ]
+                     },
+                     {
+                       "id": 23,
+                       "content": "How do the challenges posed by the enchanted amulet in 'WackyTron's Enchanted Quest' test WackyTron and Mizzy's problem-solving skills and resilience?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "The challenges test their problem-solving skills and resilience",
+                         "The challenges have no impact on their skills and resilience",
+                         "The challenges only hinder their progress",
+                         "The challenges are irrelevant to their skills and resilience"
+                       ]
+                     },
+                     {
+                       "id": 24,
+                       "content": "What evidence supports the idea that WackyTron and Mizzy's partnership in 'WackyTron's Galactic Standoff' is stronger due to their exposure to different cosmic cultures?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "There is no evidence to support this idea",
+                         "The evidence lies in their understanding and appreciation of different cosmic cultures",
+                         "Their partnership has no impact on cosmic cultures",
+                         "Their partnership weakens due to exposure to different cosmic cultures"
+                       ]
+                     },
+                     {
+                       "id": 25,
+                       "content": "How do the discoveries made during 'WackyTron's Mystery Expedition' contribute to WackyTron and Mizzy's understanding of history and their roles in preserving it?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "The discoveries have no impact on history",
+                         "The discoveries have no relevance to their roles",
+                         "The discoveries contribute to their understanding of history and their role in preserving it",
+                         "The discoveries hinder their understanding of history"
+                       ]
+                     },
+                     {
+                       "id": 26,
+                       "content": "How does the urgency to repair the carnival rides in 'WackyTron's Carnival Conundrum' lead to unexpected alliances and resourcefulness?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "The urgency to repair the rides leads to unexpected alliances and resourcefulness",
+                         "The urgency to repair the rides has no impact on alliances and resourcefulness",
+                         "The urgency to repair the rides only creates confusion",
+                         "The urgency to repair the rides is irrelevant to the story"
+                       ]
+                     },
+                     {
+                       "id": 27,
+                       "content": "In 'WackyTron's Illusion Duel', how do WackyTron and Mizzy's strategies for breaking through illusions showcase their analytical and creative thinking?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "Their strategies have no impact on analytical and creative thinking",
+                         "Their strategies showcase their analytical and creative thinking",
+                         "Their strategies hinder their analytical and creative thinking",
+                         "Their strategies only lead to more confusion"
+                       ]
+                     },
+                     {
+                       "id": 28,
+                       "content": "What qualities of empathy and understanding do WackyTron and Mizzy demonstrate when collaborating with sea creatures in 'WackyTron's Deep Sea Dilemma'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "They demonstrate qualities of empathy and understanding in their collaboration",
+                         "They demonstrate no qualities of empathy and understanding",
+                         "They demonstrate qualities of hostility",
+                         "They demonstrate qualities of indifference"
+                       ]
+                     },
+                     {
+                       "id": 29,
+                       "content": "How does WackyTron and Mizzy's leadership approach differ from ZackyTron's in 'WackyTron's Robotic Uprising', and what impact does it have on the outcome?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "Their leadership approach is the same as ZackyTron's",
+                         "Their leadership approach is irrelevant to the outcome",
+                         "Their leadership approach is distinct from ZackyTron's and contributes to a positive outcome",
+                         "Their leadership approach leads to a negative outcome"
+                       ]
+                     },
+                     
+                     {
+                       "id": 30,
+                       "content": "What values of friendship and collaboration are exemplified in WackyTron and Mizzy's relationship throughout 'WackyTron's Time Paradox Predicament'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "Values of friendship and collaboration are exemplified throughout the story",
+                         "Values of friendship and collaboration are irrelevant to the story",
+                         "Values of friendship and collaboration are disregarded",
+                         "Values of friendship and collaboration hinder their progress"
+                       ]
+                     },
+                     {
+                       "id": 31,
+                       "content": "How does the mansion's atmosphere contribute to the suspense and mystery of 'WackyTron's Ghostly Encounter'?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "The mansion's atmosphere has no impact on the story's suspense and mystery",
+                         "The mansion's atmosphere enhances the story's suspense and mystery",
+                         "The mansion's atmosphere diminishes the story's suspense and mystery",
+                         "The mansion's atmosphere is irrelevant to the story"
+                       ]
+                     },
+                     {
+                       "id": 32,
+                       "content": "In 'WackyTron and Mizzy's Robot Rescue', how does the theme of perseverance resonate as WackyTron and Mizzy face challenges?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "The theme of perseverance is absent from the story",
+                         "The theme of perseverance has no relevance",
+                         "The theme of perseverance resonates as WackyTron and Mizzy persist through challenges",
+                         "The theme of perseverance is not explored"
+                       ]
+                     },
+                     {
+                       "id": 33,
+                       "content": "What strategic approaches do WackyTron and Mizzy employ to outsmart ZackyTron in 'WackyTron's Time-Travel Triumph'?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "They employ strategic approaches to outsmart ZackyTron",
+                         "They employ no strategic approaches",
+                         "Strategic approaches have no relevance to the story",
+                         "Strategic approaches only hinder their progress"
+                       ]
+                     },
+                     {
+                       "id": 34,
+                       "content": "How does the concept of magic and dark magic in 'WackyTron's Enchanted Quest' reflect the characters' internal struggles and growth?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "The concept of magic has no impact on characters' internal struggles and growth",
+                         "The concept of magic reflects their internal struggles and growth",
+                         "The concept of magic makes characters indifferent",
+                         "The concept of magic is irrelevant to the story"
+                       ]
+                     },
+                     {
+                       "id": 35,
+                       "content": "In 'WackyTron's Galactic Standoff', how does the stolen artifact symbolize ZackyTron's desire for power and control?",
+                       "correctIndex": 0,
+                       "answers": [
+                         "The stolen artifact symbolizes ZackyTron's desire for power and control",
+                         "The stolen artifact has no symbolic meaning",
+                         "The stolen artifact symbolizes peace and harmony",
+                         "The stolen artifact is irrelevant to ZackyTron's desires"
+                       ]
+                     },
+                     {
+                       "id": 36,
+                       "content": "What insights about the importance of preserving history do WackyTron and Mizzy gain during 'WackyTron's Mystery Expedition'?",
+                       "correctIndex": 2,
+                       "answers": [
+                         "They gain no insights about the importance of preserving history",
+                         "Insights about history have no relevance to the story",
+                         "They gain insights into the significance of preserving history",
+                         "They gain insights into the insignificance of preserving history"
+                       ]
+                     },
+                     {
+                       "id": 37,
+                       "content": "How does the fast-paced narrative in 'WackyTron's Carnival Conundrum' contribute to the story's sense of urgency and tension?",
+                       "correctIndex": 1,
+                       "answers": [
+                         "The fast-paced narrative has no impact on urgency and tension",
+                         "The fast-paced narrative enhances the sense of urgency and tension",
+                         "The fast-paced narrative slows down the story",
+                         "The fast-paced narrative is irrelevant to the story"
+                       ]
+                     }
+                   
+               ]
+           }
+    }
+
+]
