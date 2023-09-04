@@ -182,7 +182,7 @@
                    "id": 7,
                    "content": "What is the sound of the letters 'ou' in the word 'cloud'?",
                    "correctIndex": 1,
-                   "answers": ["/aʊ/", "/aʊɪ/", "/u/", "/oʊ/"]
+                   "answers": ["/o/", "/ow/", "/u/", "/oʊ/"]
                  },
                  {
                    "id": 8,
@@ -317,7 +317,7 @@
                      "id": 27,
                      "content": "Count the syllables in the word 'jungle.'",
                      "correctIndex": 2,
-                     "answers": [1, 2, 3, 4]
+                     "answers": ["1", "2", "3", "4"]
                    },
                    {
                      "id": 28,
@@ -467,7 +467,7 @@
                       "id": 52,
                       "content": "Count the syllables in the word 'volunteer.'",
                       "correctIndex": 0,
-                      "answers": [3, 4, 5, 6]
+                      "answers": ["3", "4", "5", "6"]
                     },
                     {
                       "id": 53,
@@ -1556,3 +1556,4 @@
     }
 
 ]
+
