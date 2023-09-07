@@ -154,186 +154,1591 @@
 "time": "30 minutes",
 "description": "Put your Phonics and letter sound knowledge to the test.",
 "questions": [
-         {
-                       "id": 0,
-                       "content": "Write an explanation of how photosynthesis works in plants. Describe the process, including the role of sunlight, carbon dioxide, and water.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 1,
-                       "content": "Explain the life cycle of a butterfly. Describe the stages it goes through from egg to adult butterfly.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 2,
-                       "content": "Write an explanation of the water cycle. Describe how water evaporates, forms clouds, and returns to the Earth as precipitation.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 3,
-                       "content": "Explain the process of how a seed grows into a plant. Include information about germination, root growth, and leaf development.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 4,
-                       "content": "Describe the concept of food chains in ecosystems. Explain how energy is transferred from one organism to another.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 5,
-                       "content": "Write an explanation of the rock cycle. Describe how rocks can change from one type to another over time.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 6,
-                       "content": "Explain how simple machines work, such as levers, pulleys, and inclined planes. Provide examples of each type of simple machine in everyday life.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 7,
-                       "content": "Describe the process of pollination in plants. Explain how pollen is transferred from one flower to another and its role in plant reproduction.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 8,
-                       "content": "Write an explanation of the water purification process. Describe how water is treated to make it safe for drinking.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                       "id": 9,
-                       "content": "Explain the concept of sound waves and how we hear. Describe how sound travels through different mediums and reaches our ears.",
-                       "correctIndex": 0,
-                       "answers": ["a", "b", "c", "d"]
-                   },
-                   {
-                             "id": 10,
-                             "content": "Explain how the seasons change throughout the year. Describe the reasons for the different seasons and their impact on weather and nature.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 11,
-                             "content": "Write an explanation of the water purification process. Describe how water is treated to make it safe for drinking.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 12,
-                             "content": "Explain the concept of recycling and its importance for the environment. Describe the recycling process and its benefits.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 13,
-                             "content": "Describe the life cycle of a frog. Explain how a frog transforms from an egg to a tadpole, then to a froglet, and finally into an adult frog.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 14,
-                             "content": "Explain the concept of gravity and its role in keeping objects on Earth. Describe how gravity affects the motion of objects.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 15,
-                             "content": "Write an explanation of the life cycle of a plant, from seed to mature plant. Describe the stages and the role of sunlight, water, and nutrients.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 16,
-                             "content": "Explain how different forms of energy, such as heat, light, and sound, are produced and how they can be transformed from one form to another.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 17,
-                             "content": "Describe the process of metamorphosis in butterflies. Explain how a caterpillar transforms into a chrysalis and then emerges as a butterfly.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 18,
-                             "content": "Explain the concept of tides in the ocean and their connection to the gravitational pull of the moon. Describe how high and low tides occur.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                             "id": 19,
-                             "content": "Write an explanation of the water cycle, focusing on the processes of evaporation, condensation, and precipitation. Describe how water moves through the atmosphere and on Earth.",
-                             "correctIndex": 0,
-                             "answers": ["a", "b", "c", "d"]
-                         },
-                         {
-                                  "id": 20,
-                                  "content": "Explain the process of making paper from trees. Describe the steps involved, from harvesting the trees to producing the final paper product.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 21,
-                                  "content": "Write an explanation of how a rainbow is formed in the sky. Describe the scientific principles behind the creation of a rainbow.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 22,
-                                  "content": "Explain the process of digestion in the human body. Describe how food is broken down and absorbed to provide energy and nutrients.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 23,
-                                  "content": "Describe the life cycle of a honeybee. Explain how bees go from egg to larva, pupa, and adult bee, and their roles within the hive.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 24,
-                                  "content": "Explain the concept of renewable energy sources like wind and solar power. Describe how these sources generate electricity and their environmental benefits.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 25,
-                                  "content": "Write an explanation of the life cycle of a star, from birth to death. Describe the stages, including the formation of a supernova or black hole.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 26,
-                                  "content": "Explain the process of photosynthesis in plants. Describe how plants use sunlight, carbon dioxide, and water to produce oxygen and glucose.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 27,
-                                  "content": "Describe the concept of ecosystems and their components, including producers, consumers, and decomposers. Explain how energy flows through ecosystems.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 28,
-                                  "content": "Explain the process of fossilization and how fossils are formed. Describe how fossils provide insights into Earth's history and ancient life forms.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              },
-                              {
-                                  "id": 29,
-                                  "content": "Write an explanation of how GPS navigation systems work. Describe how satellites, receivers, and triangulation enable accurate positioning and navigation.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                              }
+          
+    {
+      "id": 0,
+      "content": "Write the word 'action'.",
+      "correctIndex": 0,
+      "answers": ["action", "movement", "activity", "deed"]
+    },
+    {
+      "id": 1,
+      "content": "Write the word 'actually'.",
+      "correctIndex": 0,
+      "answers": ["actually", "truly", "indeed", "genuinely"]
+    },
+    {
+      "id": 2,
+      "content": "Write the word 'adjective'.",
+      "correctIndex": 0,
+      "answers": ["adjective", "descriptive word", "modifier", "descriptor"]
+    },
+    {
+      "id": 3,
+      "content": "Write the word 'afraid'.",
+      "correctIndex": 0,
+      "answers": ["afraid", "fearful", "scared", "terrified"]
+    },
+    {
+      "id": 4,
+      "content": "Write the word 'agreed'.",
+      "correctIndex": 0,
+      "answers": ["agreed", "concurred", "accepted", "consented"]
+    },
+    {
+      "id": 5,
+      "content": "Write the word 'ahead'.",
+      "correctIndex": 0,
+      "answers": ["ahead", "in front", "forward", "preceding"]
+    },
+    {
+      "id": 6,
+      "content": "Write the word 'allow'.",
+      "correctIndex": 0,
+      "answers": ["allow", "permit", "authorize", "grant"]
+    },
+    {
+      "id": 7,
+      "content": "Write the word 'apple'.",
+      "correctIndex": 0,
+      "answers": ["apple", "fruit", "pomaceous fruit", "orchard"]
+    },
+    {
+      "id": 8,
+      "content": "Write the word 'arrived'.",
+      "correctIndex": 0,
+      "answers": ["arrived", "reached", "came", "landed"]
+    },
+    {
+      "id": 9,
+      "content": "Write the word 'born'.",
+      "correctIndex": 0,
+      "answers": ["born", "delivered", "brought into the world", "created"]
+    },
+    {
+      "id": 10,
+      "content": "Write the word 'bought'.",
+      "correctIndex": 0,
+      "answers": ["bought", "purchased", "acquired", "procured"]
+    },
+    {
+      "id": 11,
+      "content": "Write the word 'British'.",
+      "correctIndex": 0,
+      "answers": ["British", "UK", "English", "Briton"]
+    },
+    {
+      "id": 12,
+      "content": "Write the word 'capital'.",
+      "correctIndex": 0,
+      "answers": ["capital", "city", "metropolis", "financial center"]
+    },
+    {
+      "id": 13,
+      "content": "Write the word 'church'.",
+      "correctIndex": 0,
+      "answers": ["church", "religious building", "temple", "sanctuary"]
+    },
+    {
+      "id": 14,
+      "content": "Write the word 'column'.",
+      "correctIndex": 0,
+      "answers": ["column", "pillar", "post", "shaft"]
+    },
+    {
+      "id": 15,
+      "content": "Write the word 'company'.",
+      "correctIndex": 0,
+      "answers": ["company", "firm", "business", "corporation"]
+    },
+    {
+      "id": 16,
+      "content": "Write the word 'conditions'.",
+      "correctIndex": 0,
+      "answers": ["conditions", "circumstances", "situations", "states"]
+    },
+    {
+      "id": 17,
+      "content": "Write the word 'corn'.",
+      "correctIndex": 0,
+      "answers": ["corn", "maize", "cereal", "grain"]
+    },
+    {
+      "id": 18,
+      "content": "Write the word 'cotton'.",
+      "correctIndex": 0,
+      "answers": ["cotton", "fabric", "textile", "material"]
+    },
+    {
+      "id": 19,
+      "content": "Write the word 'cows'.",
+      "correctIndex": 0,
+      "answers": ["cows", "cattle", "bovines", "livestock"]
+    },
+    {
+      "id": 20,
+      "content": "Write the word 'create'.",
+      "correctIndex": 0,
+      "answers": ["create", "generate", "produce", "make"]
+    },
+    {
+      "id": 21,
+      "content": "Write the word 'deal'.",
+      "correctIndex": 0,
+      "answers": ["deal", "transaction", "agreement", "bargain"]
+    },
+    {
+      "id": 22,
+      "content": "Write the word 'determine'.",
+      "correctIndex": 0,
+      "answers": ["determine", "ascertain", "decide", "resolve"]
+    },
+    {
+      "id": 23,
+      "content": "Write the word 'difficult'.",
+      "correctIndex": 0,
+      "answers": ["difficult", "challenging", "hard", "tough"]
+    },
+    {
+      "id": 24,
+      "content": "Write the word 'division'.",
+      "correctIndex": 0,
+      "answers": ["division", "separation", "part", "segment"]
+    },
+    {
+      "id": 25,
+      "content": "Write the word 'effect'.",
+      "correctIndex": 0,
+      "answers": ["effect", "impact", "result", "consequence"]
+    },
+    {
+      "id": 26,
+      "content": "Write the word 'entire'.",
+      "correctIndex": 0,
+      "answers": ["entire", "whole", "complete", "total"]
+    },
+    {
+      "id": 27,
+      "content": "Write the word 'especially'.",
+      "correctIndex": 0,
+      "answers": ["especially", "particularly", "specifically", "notably"]
+    },
+    {
+      "id": 28,
+      "content": "Write the word 'evening'.",
+      "correctIndex": 0,
+      "answers": ["evening", "night", "dusk", "twilight"]
+    },
+    {
+      "id": 29,
+      "content": "Write the word 'experience'.",
+      "correctIndex": 0,
+      "answers": ["experience", "encounter", "knowledge", "expertise"]
+    },
+    {
+      "id": 30,
+      "content": "Write the word 'factories'.",
+      "correctIndex": 0,
+      "answers": ["factories", "plants", "manufacturing", "production"]
+    },
+    {
+      "id": 31,
+      "content": "Write the word 'fair'.",
+      "correctIndex": 0,
+      "answers": ["fair", "just", "equitable", "impartial"]
+    },
+    {
+      "id": 32,
+      "content": "Write the word 'fear'.",
+      "correctIndex": 0,
+      "answers": ["fear", "dread", "terror", "anxiety"]
+    },
+    {
+      "id": 33,
+      "content": "Write the word 'fig'.",
+      "correctIndex": 0,
+      "answers": ["fig", "fruit", "Ficus", "treat"]
+    },
+    {
+      "id": 34,
+      "content": "Write the word 'forward'.",
+      "correctIndex": 0,
+      "answers": ["forward", "ahead", "onward", "progressive"]
+    },
+    {
+      "id": 35,
+      "content": "Write the word 'France'.",
+      "correctIndex": 0,
+      "answers": ["France", "French Republic", "country", "nation"]
+    },
+    {
+      "id": 36,
+      "content": "Write the word 'fresh'.",
+      "correctIndex": 0,
+      "answers": ["fresh", "new", "recent", "crisp"]
+    },
+    {
+      "id": 37,
+      "content": "Write the word 'Greek'.",
+      "correctIndex": 0,
+      "answers": ["Greek", "Hellenic", "Greece", "Hellas"]
+    },
+    {
+      "id": 38,
+      "content": "Write the word 'gun'.",
+      "correctIndex": 0,
+      "answers": ["gun", "firearm", "weapon", "rifle"]
+    },
+    {
+      "id": 39,
+      "content": "Write the word 'huge'.",
+      "correctIndex": 0,
+      "answers": ["huge", "enormous", "massive", "gigantic"]
+    },
+    {
+      "id": 40,
+      "content": "Write the word 'led'.",
+      "correctIndex": 0,
+      "answers": ["led", "guided", "directed", "controlled"]
+    },
+    {
+      "id": 41,
+      "content": "Write the word 'level'.",
+      "correctIndex": 0,
+      "answers": ["level", "degree", "standard", "tier"]
+    },
+    {
+      "id": 42,
+      "content": "Write the word 'located'.",
+      "correctIndex": 0,
+      "answers": ["located", "situated", "positioned", "placed"]
+    },
+    {
+      "id": 43,
+      "content": "Write the word 'march'.",
+      "correctIndex": 0,
+      "answers": ["march", "walk", "advance", "progress"]
+    },
+    {
+      "id": 44,
+      "content": "Write the word 'match'.",
+      "correctIndex": 0,
+      "answers": ["match", "contest", "competition", "game"]
+    },
+    {
+      "id": 45,
+      "content": "Write the word 'molecules'.",
+      "correctIndex": 0,
+      "answers": ["molecules", "particles", "atoms", "substances"]
+    },
+    {
+      "id": 46,
+      "content": "Write the word 'northern'.",
+      "correctIndex": 0,
+      "answers": ["northern", "north", "upper", "northerly"]
+    },
+    {
+      "id": 47,
+      "content": "Write the word 'nose'.",
+      "correctIndex": 0,
+      "answers": ["nose", "nasal organ", "sniffer", "proboscis"]
+    },
+    {
+      "id": 48,
+      "content": "Write the word 'office'.",
+      "correctIndex": 0,
+      "answers": ["office", "workplace", "bureau", "employment"]
+    },
+    {
+      "id": 49,
+      "content": "Write the word 'opposite'.",
+      "correctIndex": 0,
+      "answers": ["opposite", "contrary", "reverse", "antithetical"]
+    },
+    {
+      "id": 50,
+      "content": "Write the word 'oxygen'.",
+      "correctIndex": 0,
+      "answers": ["oxygen", "O2", "element", "gas"]
+    },
+    {
+      "id": 51,
+      "content": "Write the word 'prepared'.",
+      "correctIndex": 0,
+      "answers": ["prepared", "ready", "organized", "arranged"]
+    },
+    {
+      "id": 52,
+      "content": "Write the word 'printed'.",
+      "correctIndex": 0,
+      "answers": ["printed", "published", "impressed", "engraved"]
+    },
+    {
+      "id": 53,
+      "content": "Write the word 'radio'.",
+      "correctIndex": 0,
+      "answers": ["radio", "broadcast", "transmission", "wireless"]
+    },
+    {
+      "id": 54,
+      "content": "Write the word 'repeated'.",
+      "correctIndex": 0,
+      "answers": ["repeated", "recurrent", "recurring", "iterative"]
+    },
+    {
+      "id": 55,
+      "content": "Write the word 'rope'.",
+      "correctIndex": 0,
+      "answers": ["rope", "cord", "line", "twine"]
+    },
+    {
+      "id": 56,
+      "content": "Write the word 'rose'.",
+      "correctIndex": 0,
+      "answers": ["rose", "flower", "blossom", "bloom"]
+    },
+    {
+      "id": 57,
+      "content": "Write the word 'score'.",
+      "correctIndex": 0,
+      "answers": ["score", "points", "result", "tally"]
+    },
+    {
+      "id": 58,
+      "content": "Write the word 'seat'.",
+      "correctIndex": 0,
+      "answers": ["seat", "chair", "bench", "place"]
+    },
+    {
+      "id": 59,
+      "content": "Write the word 'settled'.",
+      "correctIndex": 0,
+      "answers": ["settled", "established", "resolved", "fixed"]
+    },
+    {
+      "id": 60,
+      "content": "Write the word 'shoes'.",
+      "correctIndex": 0,
+      "answers": ["shoes", "footwear", "sandals", "boots"]
+    },
+    {
+      "id": 61,
+      "content": "Write the word 'shop'.",
+      "correctIndex": 0,
+      "answers": ["shop", "store", "boutique", "marketplace"]
+    },
+    {
+      "id": 62,
+      "content": "Write the word 'similar'.",
+      "correctIndex": 0,
+      "answers": ["similar", "alike", "resembling", "analogous"]
+    },
+    {
+      "id": 63,
+      "content": "Write the word 'sir'.",
+      "correctIndex": 0,
+      "answers": ["sir", "gentleman", "mister", "sire"]
+    },
+    {
+      "id": 64,
+      "content": "Write the word 'sister'.",
+      "correctIndex": 0,
+      "answers": ["sister", "female sibling", "kin", "relative"]
+    },
+    {
+      "id": 65,
+      "content": "Write the word 'smell'.",
+      "correctIndex": 0,
+      "answers": ["smell", "odor", "scent", "fragrance"]
+    },
+    {
+      "id": 66,
+      "content": "Write the word 'solution'.",
+      "correctIndex": 0,
+      "answers": ["solution", "answer", "resolution", "remedy"]
+    },
+    {
+      "id": 67,
+      "content": "Write the word 'southern'.",
+      "correctIndex": 0,
+      "answers": ["southern", "south", "southerly", "southeastern"]
+    },
+    {
+      "id": 68,
+      "content": "Write the word 'steel'.",
+      "correctIndex": 0,
+      "answers": ["steel", "metal", "iron", "alloy"]
+    },
+    {
+      "id": 69,
+      "content": "Write the word 'stretched'.",
+      "correctIndex": 0,
+      "answers": ["stretched", "extended", "lengthened", "pulled"]
+    },
+    {
+      "id": 70,
+      "content": "Write the word 'substances'.",
+      "correctIndex": 0,
+      "answers": ["substances", "matter", "materials", "elements"]
+    },
+    {
+      "id": 71,
+      "content": "Write the word 'suffix'.",
+      "correctIndex": 0,
+      "answers": ["suffix", "ending", "addition", "termination"]
+    },
+    {
+      "id": 72,
+      "content": "Write the word 'sugar'.",
+      "correctIndex": 0,
+      "answers": ["sugar", "sweetener", "sucrose", "crystalline"]
+    },
+    {
+      "id": 73,
+      "content": "Write the word 'tools'.",
+      "correctIndex": 0,
+      "answers": ["tools", "equipment", "instruments", "utensils"]
+    },
+    {
+      "id": 74,
+      "content": "Write the word 'total'.",
+      "correctIndex": 0,
+      "answers": ["total", "sum", "aggregate", "entirety"]
+    },
+    {
+      "id": 75,
+      "content": "Write the word 'underline'.",
+      "correctIndex": 0,
+      "answers": ["underline", "underscore", "highlight", "emphasize"]
+    },
+    {
+      "id": 76,
+      "content": "Write the word 'various'.",
+      "correctIndex": 0,
+      "answers": ["various", "different", "diverse", "numerous"]
+    },
+    {
+      "id": 77,
+      "content": "Write the word 'view'.",
+      "correctIndex": 0,
+      "answers": ["view", "perspective", "outlook", "vantage point"]
+    },
+    {
+      "id": 78,
+      "content": "Write the word 'Washington'.",
+      "correctIndex": 0,
+      "answers": ["Washington", "capital", "DC", "US capital"]
+    },
+    {
+      "id": 79,
+      "content": "Write the word 'western'.",
+      "correctIndex": 0,
+      "answers": ["western", "west", "occidental", "westerly"]
+    },
+    {
+      "id": 80,
+      "content": "Write the word 'win'.",
+      "correctIndex": 0,
+      "answers": ["win", "victory", "triumph", "success"]
+    },
+    {
+      "id": 81,
+      "content": "Write the word 'women'.",
+      "correctIndex": 0,
+      "answers": ["women", "females", "ladies", "girls"]
+    },
+    {
+      "id": 82,
+      "content": "Write the word 'workers'.",
+      "correctIndex": 0,
+      "answers": ["workers", "employees", "laborers", "staff"]
+    },
+    {
+      "id": 83,
+      "content": "Write the word 'wrong'.",
+      "correctIndex": 0,
+      "answers": ["wrong", "incorrect", "inaccurate", "mistaken"]
+    },
+    {
+      "id": 84,
+      "content": "Write the word 'yellow'.",
+      "correctIndex": 0,
+      "answers": ["yellow", "color", "hue", "golden"]
+    },
+    {
+      "id": 85,
+      "content": "Write the word 'swift'.",
+      "correctIndex": 0,
+      "answers": ["swift", "fast", "quick", "speedy"]
+    },
+    {
+      "id": 86,
+      "content": "Write the word 'specific'.",
+      "correctIndex": 0,
+      "answers": ["specific", "particular", "precise", "detailed"]
+    },
+    {
+      "id": 87,
+      "content": "Write the word 'semicolon'.",
+      "correctIndex": 0,
+      "answers": ["semicolon", "punctuation", "mark", "grammar"]
+    },
+    {
+      "id": 88,
+      "content": "Write the word 'defensive'.",
+      "correctIndex": 0,
+      "answers": ["defensive", "protective", "guarding", "shielding"]
+    },
+    {
+      "id": 89,
+      "content": "Write the word 'umbrella'.",
+      "correctIndex": 0,
+      "answers": ["umbrella", "parasol", "canopy", "shelter"]
+    },
+    {
+      "id": 90,
+      "content": "Write the word 'anteater'.",
+      "correctIndex": 0,
+      "answers": ["anteater", "mammal", "insectivore", "creature"]
+    },
+    {
+      "id": 91,
+      "content": "Write the word 'pouring'.",
+      "correctIndex": 0,
+      "answers": ["pouring", "raining", "precipitating", "streaming"]
+    },
+    {
+      "id": 92,
+      "content": "Write the word 'experiment'.",
+      "correctIndex": 0,
+      "answers": ["experiment", "test", "trial", "research"]
+    },
+    {
+      "id": 93,
+      "content": "Write the word 'evacuees'.",
+      "correctIndex": 0,
+      "answers": ["evacuees", "refugees", "displaced", "migrants"]
+    },
+    {
+      "id": 94,
+      "content": "Write the word 'flicker'.",
+      "correctIndex": 0,
+      "answers": ["flicker", "blink", "twinkle", "spark"]
+    },
+    {
+      "id": 95,
+      "content": "Write the word 'abundant'.",
+      "correctIndex": 0,
+      "answers": ["abundant", "plentiful", "ample", "profuse"]
+    },
+    {
+      "id": 96,
+      "content": "Write the word 'bookmobile'.",
+      "correctIndex": 0,
+      "answers": ["bookmobile", "library on wheels", "mobile library", "book van"]
+    },
+    {
+      "id": 97,
+      "content": "Write the word 'performance'.",
+      "correctIndex": 0,
+      "answers": ["performance", "presentation", "show", "exhibition"]
+    },
+    {
+      "id": 98,
+      "content": "Write the word 'gelatinous'.",
+      "correctIndex": 0,
+      "answers": ["gelatinous", "jelly-like", "viscous", "slimy"]
+    },
+    {
+      "id": 99,
+      "content": "Write the word 'bitcoin'.",
+      "correctIndex": 0,
+      "answers": ["bitcoin", "cryptocurrency", "digital currency", "crypto"]
+    },
+    {
+       "id": 100,
+       "content": "Write the word 'musician'.",
+       "correctIndex": 0,
+       "answers": ["musician", "artist", "performer", "singer"]
+     },
+     {
+       "id": 101,
+       "content": "Write the word 'malign'.",
+       "correctIndex": 0,
+       "answers": ["malign", "defame", "slander", "vilify"]
+     },
+     {
+       "id": 102,
+       "content": "Write the word 'handle'.",
+       "correctIndex": 0,
+       "answers": ["handle", "grip", "hold", "grasp"]
+     },
+     {
+       "id": 103,
+       "content": "Write the word 'innocent'.",
+       "correctIndex": 0,
+       "answers": ["innocent", "guiltless", "pure", "blameless"]
+     },
+     {
+       "id": 104,
+       "content": "Write the word 'monkeys'.",
+       "correctIndex": 0,
+       "answers": ["monkeys", "primates", "apes", "chimpanzees"]
+     },
+     {
+       "id": 105,
+       "content": "Write the word 'malleable'.",
+       "correctIndex": 0,
+       "answers": ["malleable", "flexible", "pliable", "adaptable"]
+     },
+     {
+       "id": 106,
+       "content": "Write the word 'Honolulu'.",
+       "correctIndex": 0,
+       "answers": ["Honolulu", "Hawaii", "capital", "city"]
+     },
+     {
+       "id": 107,
+       "content": "Write the word 'patient'.",
+       "correctIndex": 0,
+       "answers": ["patient", "client", "medical", "individual"]
+     },
+     {
+       "id": 108,
+       "content": "Write the word 'neutron'.",
+       "correctIndex": 0,
+       "answers": ["neutron", "atomic", "particle", "nuclear"]
+     },
+     {
+       "id": 109,
+       "content": "Write the word 'silhouette'.",
+       "correctIndex": 0,
+       "answers": ["silhouette", "outline", "profile", "shape"]
+     },
+     {
+       "id": 110,
+       "content": "Write the word 'pulpit'.",
+       "correctIndex": 0,
+       "answers": ["pulpit", "podium", "lectern", "platform"]
+     },
+     {
+       "id": 111,
+       "content": "Write the word 'incompetent'.",
+       "correctIndex": 0,
+       "answers": ["incompetent", "unqualified", "inept", "incapable"]
+     },
+     {
+       "id": 112,
+       "content": "Write the word 'intertidal'.",
+       "correctIndex": 0,
+       "answers": ["intertidal", "coastal", "shoreline", "seashore"]
+     },
+     {
+       "id": 113,
+       "content": "Write the word 'congeniality'.",
+       "correctIndex": 0,
+       "answers": ["congeniality", "friendliness", "warmth", "cordiality"]
+     },
+     {
+       "id": 114,
+       "content": "Write the word 'hologram'.",
+       "correctIndex": 0,
+       "answers": ["hologram", "3D image", "projection", "virtual"]
+     },
+     {
+       "id": 115,
+       "content": "Write the word 'medusa'.",
+       "correctIndex": 0,
+       "answers": ["medusa", "jellyfish", "tentacles", "creature"]
+     },
+     {
+       "id": 116,
+       "content": "Write the word 'literally'.",
+       "correctIndex": 0,
+       "answers": ["literally", "actually", "truly", "verbatim"]
+     },
+     {
+       "id": 117,
+       "content": "Write the word 'chimpanzee'.",
+       "correctIndex": 0,
+       "answers": ["chimpanzee", "ape", "primate", "animal"]
+     },
+     {
+       "id": 118,
+       "content": "Write the word 'azalea'.",
+       "correctIndex": 0,
+       "answers": ["azalea", "flower", "blossom", "plant"]
+     },
+     {
+       "id": 119,
+       "content": "Write the word 'quantum'.",
+       "correctIndex": 0,
+       "answers": ["quantum", "physics", "particle", "mechanics"]
+     },
+     {
+       "id": 120,
+       "content": "Write the word 'bulletin'.",
+       "correctIndex": 0,
+       "answers": ["bulletin", "announcement", "notice", "report"]
+     },
+     {
+       "id": 121,
+       "content": "Write the word 'committee'.",
+       "correctIndex": 0,
+       "answers": ["committee", "council", "board", "group"]
+     },
+     {
+       "id": 122,
+       "content": "Write the word 'nausea'.",
+       "correctIndex": 0,
+       "answers": ["nausea", "queasiness", "sickness", "vomiting"]
+     },
+     {
+       "id": 123,
+       "content": "Write the word 'invertebrate'.",
+       "correctIndex": 0,
+       "answers": ["invertebrate", "animal", "spineless", "creature"]
+     },
+     {
+       "id": 124,
+       "content": "Write the word 'mathematics'.",
+       "correctIndex": 0,
+       "answers": ["mathematics", "math", "numbers", "calculation"]
+     },
+     {
+       "id": 125,
+       "content": "Write the word 'especially'.",
+       "correctIndex": 0,
+       "answers": ["especially", "particularly", "specifically", "notably"]
+     },
+     {
+       "id": 126,
+       "content": "Write the word 'persuade'.",
+       "correctIndex": 0,
+       "answers": ["persuade", "convince", "influence", "coax"]
+     },
+     {
+       "id": 127,
+       "content": "Write the word 'vegetable'.",
+       "correctIndex": 0,
+       "answers": ["vegetable", "plant", "produce", "green"]
+     },
+     {
+       "id": 128,
+       "content": "Write the word 'polyester'.",
+       "correctIndex": 0,
+       "answers": ["polyester", "fabric", "synthetic", "material"]
+     },
+     {
+       "id": 129,
+       "content": "Write the word 'spatula'.",
+       "correctIndex": 0,
+       "answers": ["spatula", "kitchen", "utensil", "tool"]
+     },
+     {
+       "id": 130,
+       "content": "Write the word 'poisonous'.",
+       "correctIndex": 0,
+       "answers": ["poisonous", "toxic", "venomous", "deadly"]
+     },
+     {
+       "id": 131,
+       "content": "Write the word 'aerospace'.",
+       "correctIndex": 0,
+       "answers": ["aerospace", "aviation", "space", "industry"]
+     },
+     {
+       "id": 132,
+       "content": "Write the word 'gymnastics'.",
+       "correctIndex": 0,
+       "answers": ["gymnastics", "sport", "athletics", "exercise"]
+     },
+     {
+       "id": 133,
+       "content": "Write the word 'horizontal'.",
+       "correctIndex": 0,
+       "answers": ["horizontal", "level", "flat", "parallel"]
+     },
+     {
+       "id": 134,
+       "content": "Write the word 'boulevard'.",
+       "correctIndex": 0,
+       "answers": ["boulevard", "street", "avenue", "road"]
+     },
+     {
+       "id": 135,
+       "content": "Write the word 'fortune'.",
+       "correctIndex": 0,
+       "answers": ["fortune", "wealth", "luck", "prosperity"]
+     },
+     {
+       "id": 136,
+       "content": "Write the word 'expectorant'.",
+       "correctIndex": 0,
+       "answers": ["expectorant", "medicine", "cough", "remedy"]
+     },
+     {
+       "id": 137,
+       "content": "Write the word 'Tasmanian'.",
+       "correctIndex": 0,
+       "answers": ["Tasmanian", "Australia", "island", "state"]
+     },
+     {
+       "id": 138,
+       "content": "Write the word 'acoustic'.",
+       "correctIndex": 0,
+       "answers": ["acoustic", "sound", "audio", "noise"]
+     },
+     {
+       "id": 139,
+       "content": "Write the word 'oracle'.",
+       "correctIndex": 0,
+       "answers": ["oracle", "prophet", "seer", "visionary"]
+     },
+     {
+       "id": 140,
+       "content": "Write the word 'tortoise'.",
+       "correctIndex": 0,
+       "answers": ["tortoise", "turtle", "reptile", "slow-moving"]
+     },
+     {
+       "id": 141,
+       "content": "Write the word 'optician'.",
+       "correctIndex": 0,
+       "answers": ["optician", "eyeglasses", "lenses", "vision"]
+     },
+     {
+       "id": 142,
+       "content": "Write the word 'solitude'.",
+       "correctIndex": 0,
+       "answers": ["solitude", "isolation", "loneliness", "seclusion"]
+     },
+     {
+       "id": 143,
+       "content": "Write the word 'anoint'.",
+       "correctIndex": 0,
+       "answers": ["anoint", "bless", "consecrate", "sacred"]
+     },
+     {
+       "id": 144,
+       "content": "Write the word 'amiably'.",
+       "correctIndex": 0,
+       "answers": ["amiably", "pleasantly", "friendly", "cordially"]
+     },
+     {
+       "id": 145,
+       "content": "Write the word 'perpetrator'.",
+       "correctIndex": 0,
+       "answers": ["perpetrator", "culprit", "offender", "criminal"]
+     },
+     {
+       "id": 146,
+       "content": "Write the word 'prosthetic'.",
+       "correctIndex": 0,
+       "answers": ["prosthetic", "artificial", "replacement", "limb"]
+     },
+     {
+       "id": 147,
+       "content": "Write the word 'partridge'.",
+       "correctIndex": 0,
+       "answers": ["partridge", "bird", "game", "feathered"]
+     },
+     {
+       "id": 148,
+       "content": "Write the word 'orchestra'.",
+       "correctIndex": 0,
+       "answers": ["orchestra", "music", "ensemble", "symphony"]
+     },
+     {
+       "id": 149,
+       "content": "Write the word 'embroidery'.",
+       "correctIndex": 0,
+       "answers": ["embroidery", "needlework", "stitching", "decorative"]
+     },
+     {
+       "id": 150,
+       "content": "Write the word 'claustrophobic'.",
+       "correctIndex": 0,
+       "answers": ["claustrophobic", "fearful", "anxious", "confined"]
+     },
+     {
+       "id": 151,
+       "content": "Write the word 'contagious'.",
+       "correctIndex": 0,
+       "answers": ["contagious", "infectious", "spreadable", "communicable"]
+     },
+     {
+       "id": 152,
+       "content": "Write the word 'fluorescent'.",
+       "correctIndex": 0,
+       "answers": ["fluorescent", "bright", "glowing", "luminous"]
+     },
+     {
+       "id": 153,
+       "content": "Write the word 'orchids'.",
+       "correctIndex": 0,
+       "answers": ["orchids", "flowers", "plants", "blooms"]
+     },
+     {
+       "id": 154,
+       "content": "Write the word 'composure'.",
+       "correctIndex": 0,
+       "answers": ["composure", "calmness", "serenity", "poise"]
+     },
+     {
+       "id": 155,
+       "content": "Write the word 'agog'.",
+       "correctIndex": 0,
+       "answers": ["agog", "excited", "enthusiastic", "eager"]
+     },
+     {
+       "id": 156,
+       "content": "Write the word 'alien'.",
+       "correctIndex": 0,
+       "answers": ["alien", "extraterrestrial", "foreign", "otherworldly"]
+     },
+     {
+       "id": 157,
+       "content": "Write the word 'alley'.",
+       "correctIndex": 0,
+       "answers": ["alley", "narrow street", "passageway", "lane"]
+     },
+     {
+       "id": 158,
+       "content": "Write the word 'awful'.",
+       "correctIndex": 0,
+       "answers": ["awful", "terrible", "dreadful", "horrible"]
+     },
+     {
+       "id": 159,
+       "content": "Write the word 'blanket'.",
+       "correctIndex": 0,
+       "answers": ["blanket", "cover", "quilt", "throw"]
+     },
+     {
+       "id": 160,
+       "content": "Write the word 'boxcar'.",
+       "correctIndex": 0,
+       "answers": ["boxcar", "freight car", "railway car", "train"]
+     },
+     {
+       "id": 161,
+       "content": "Write the word 'breeze'.",
+       "correctIndex": 0,
+       "answers": ["breeze", "wind", "gentle wind", "breeziness"]
+     },
+     {
+       "id": 162,
+       "content": "Write the word 'button'.",
+       "correctIndex": 0,
+       "answers": ["button", "fastener", "clasp", "closure"]
+     },
+     {
+       "id": 163,
+       "content": "Write the word 'cartoon'.",
+       "correctIndex": 0,
+       "answers": ["cartoon", "animation", "comic", "caricature"]
+     },
+     {
+       "id": 164,
+       "content": "Write the word 'complete'.",
+       "correctIndex": 0,
+       "answers": ["complete", "finish", "accomplish", "conclude"]
+     },
+     {
+       "id": 165,
+       "content": "Write the word 'cosmic'.",
+       "correctIndex": 0,
+       "answers": ["cosmic", "universe", "space", "galactic"]
+     },
+     {
+       "id": 166,
+       "content": "Write the word 'darling'.",
+       "correctIndex": 0,
+       "answers": ["darling", "beloved", "dear", "sweetheart"]
+     },
+     {
+       "id": 167,
+       "content": "Write the word 'diaper'.",
+       "correctIndex": 0,
+       "answers": ["diaper", "nappy", "baby's bottom", "absorbent garment"]
+     },
+     {
+       "id": 168,
+       "content": "Write the word 'dumplings'.",
+       "correctIndex": 0,
+       "answers": ["dumplings", "dough", "filled", "steamed"]
+     },
+     {
+       "id": 169,
+       "content": "Write the word 'escape'.",
+       "correctIndex": 0,
+       "answers": ["escape", "flee", "evade", "run away"]
+     },
+     {
+       "id": 170,
+       "content": "Write the word 'fancy'.",
+       "correctIndex": 0,
+       "answers": ["fancy", "imagine", "envision", "picture"]
+     },
+     {
+       "id": 171,
+       "content": "Write the word 'fetch'.",
+       "correctIndex": 0,
+       "answers": ["fetch", "retrieve", "bring", "get"]
+     },
+     {
+       "id": 172,
+       "content": "Write the word 'harvest'.",
+       "correctIndex": 0,
+       "answers": ["harvest", "crop", "gather", "reap"]
+     },
+     {
+       "id": 173,
+       "content": "Write the word 'hushed'.",
+       "correctIndex": 0,
+       "answers": ["hushed", "quiet", "silent", "muted"]
+     },
+     {
+       "id": 174,
+       "content": "Write the word 'hutch'.",
+       "correctIndex": 0,
+       "answers": ["hutch", "cage", "enclosure", "pen"]
+     },
+     {
+       "id": 175,
+       "content": "Write the word 'illness'.",
+       "correctIndex": 0,
+       "answers": ["illness", "sickness", "disease", "ailment"]
+     },
+     {
+       "id": 176,
+       "content": "Write the word 'impact'.",
+       "correctIndex": 0,
+       "answers": ["impact", "effect", "influence", "result"]
+     },
+     {
+       "id": 177,
+       "content": "Write the word 'jacket'.",
+       "correctIndex": 0,
+       "answers": ["jacket", "coat", "outerwear", "garment"]
+     },
+     {
+       "id": 178,
+       "content": "Write the word 'liberty'.",
+       "correctIndex": 0,
+       "answers": ["liberty", "freedom", "independence", "autonomy"]
+     },
+     {
+       "id": 179,
+       "content": "Write the word 'lizard'.",
+       "correctIndex": 0,
+       "answers": ["lizard", "reptile", "salamander", "creature"]
+     },
+     {
+       "id": 180,
+       "content": "Write the word 'lukewarm'.",
+       "correctIndex": 0,
+       "answers": ["lukewarm", "tepid", "warmish", "cool"]
+     },
+     {
+       "id": 181,
+       "content": "Write the word 'manner'.",
+       "correctIndex": 0,
+       "answers": ["manner", "way", "behavior", "conduct"]
+     },
+     {
+       "id": 182,
+       "content": "Write the word 'muster'.",
+       "correctIndex": 0,
+       "answers": ["muster", "assemble", "gather", "rally"]
+     },
+     {
+       "id": 183,
+       "content": "Write the word 'nannies'.",
+       "correctIndex": 0,
+       "answers": ["nannies", "babysitters", "childcare providers", "nursemaids"]
+     },
+     {
+       "id": 184,
+       "content": "Write the word 'narrow'.",
+       "correctIndex": 0,
+       "answers": ["narrow", "thin", "slender", "tight"]
+     },
+     {
+       "id": 185,
+       "content": "Write the word 'nutmeg'.",
+       "correctIndex": 0,
+       "answers": ["nutmeg", "spice", "flavoring", "seasoning"]
+     },
+     {
+       "id": 186,
+       "content": "Write the word 'padlock'.",
+       "correctIndex": 0,
+       "answers": ["padlock", "lock", "security", "fastener"]
+     },
+     {
+       "id": 187,
+       "content": "Write the word 'perhaps'.",
+       "correctIndex": 0,
+       "answers": ["perhaps", "maybe", "possibly", "potentially"]
+     },
+     {
+       "id": 188,
+       "content": "Write the word 'pesky'.",
+       "correctIndex": 0,
+       "answers": ["pesky", "annoying", "irritating", "bothersome"]
+     },
+     {
+       "id": 189,
+       "content": "Write the word 'pirate'.",
+       "correctIndex": 0,
+       "answers": ["pirate", "buccaneer", "privateer", "raider"]
+     },
+     {
+       "id": 190,
+       "content": "Write the word 'promise'.",
+       "correctIndex": 0,
+       "answers": ["promise", "pledge", "commitment", "vow"]
+     },
+     {
+       "id": 191,
+       "content": "Write the word 'rafters'.",
+       "correctIndex": 0,
+       "answers": ["rafters", "beams", "ceiling", "support"]
+     },
+     {
+       "id": 192,
+       "content": "Write the word 'rambling'.",
+       "correctIndex": 0,
+       "answers": ["rambling", "wandering", "roaming", "meandering"]
+     },
+     {
+       "id": 193,
+       "content": "Write the word 'return'.",
+       "correctIndex": 0,
+       "answers": ["return", "come back", "go back", "revert"]
+     },
+     {
+       "id": 194,
+       "content": "Write the word 'rinse'.",
+       "correctIndex": 0,
+       "answers": ["rinse", "wash", "cleanse", "flush"]
+     },
+     {
+       "id": 195,
+       "content": "Write the word 'roar'.",
+       "correctIndex": 0,
+       "answers": ["roar", "loud noise", "thunder", "bellow"]
+     },
+     {
+       "id": 196,
+       "content": "Write the word 'rodents'.",
+       "correctIndex": 0,
+       "answers": ["rodents", "mice", "rats", "squirrels"]
+     },
+     {
+       "id": 197,
+       "content": "Write the word 'scraped'.",
+       "correctIndex": 0,
+       "answers": ["scraped", "grated", "scratched", "abraded"]
+     },
+     {
+       "id": 198,
+       "content": "Write the word 'shudder'.",
+       "correctIndex": 0,
+       "answers": ["shudder", "tremble", "shiver", "quiver"]
+     },
+     {
+       "id": 199,
+       "content": "Write the word 'sprinkle'.",
+       "correctIndex": 0,
+       "answers": ["sprinkle", "scatter", "strew", "disperse"]
+     },
+     {
+       "id": 200,
+       "content": "Write the word 'standoff'.",
+       "correctIndex": 0,
+       "answers": ["standoff", "deadlock", "stalemate", "impasse"]
+     },
+     {
+       "id": 201,
+       "content": "Write the word 'tablet'.",
+       "correctIndex": 0,
+       "answers": ["tablet", "pill", "medication", "capsule"]
+     },
+     {
+       "id": 202,
+       "content": "Write the word 'thorn'.",
+       "correctIndex": 0,
+       "answers": ["thorn", "spike", "prickle", "barb"]
+     },
+     {
+       "id": 203,
+       "content": "Write the word 'thrilling'.",
+       "correctIndex": 0,
+       "answers": ["thrilling", "exciting", "exhilarating", "electrifying"]
+     },
+     {
+       "id": 204,
+       "content": "Write the word 'transporting'.",
+       "correctIndex": 0,
+       "answers": ["transporting", "carrying", "conveying", "transferring"]
+     },
+     {
+       "id": 205,
+       "content": "Write the word 'vanish'.",
+       "correctIndex": 0,
+       "answers": ["vanish", "disappear", "evaporate", "fade"]
+     },
+     {
+       "id": 206,
+       "content": "Write the word 'violet'.",
+       "correctIndex": 0,
+       "answers": ["violet", "purple", "lavender", "lilac"]
+     },
+     {
+       "id": 207,
+       "content": "Write the word 'voices'.",
+       "correctIndex": 0,
+       "answers": ["voices", "sounds", "speech", "utterance"]
+     },
+     {
+       "id": 208,
+       "content": "Write the word 'welcome'.",
+       "correctIndex": 0,
+       "answers": ["welcome", "greet", "receive", "host"]
+     },
+     {
+       "id": 209,
+       "content": "Write the word 'zone'.",
+       "correctIndex": 0,
+       "answers": ["zone", "area", "region", "territory"]
+     },
+     {
+       "id": 210,
+       "content": "Write the word 'angry'.",
+       "correctIndex": 0,
+       "answers": ["angry", "mad", "irritated", "furious"]
+     },
+     {
+       "id": 211,
+       "content": "Write the word 'banners'.",
+       "correctIndex": 0,
+       "answers": ["banners", "flags", "standards", "streamers"]
+     },
+     {
+       "id": 212,
+       "content": "Write the word 'billow'.",
+       "correctIndex": 0,
+       "answers": ["billow", "swell", "surge", "ripple"]
+     },
+     {
+       "id": 213,
+       "content": "Write the word 'bison'.",
+       "correctIndex": 0,
+       "answers": ["bison", "buffalo", "mammal", "herd"]
+     },
+     {
+       "id": 214,
+       "content": "Write the word 'bounce'.",
+       "correctIndex": 0,
+       "answers": ["bounce", "spring", "rebound", "jump"]
+     },
+     {
+       "id": 215,
+       "content": "Write the word 'carrying'.",
+       "correctIndex": 0,
+       "answers": ["carrying", "transporting", "conveying", "bearing"]
+     },
+     {
+       "id": 216,
+       "content": "Write the word 'chick'.",
+       "correctIndex": 0,
+       "answers": ["chick", "baby bird", "hatchling", "fledgling"]
+     },
+     {
+       "id": 217,
+       "content": "Write the word 'choose'.",
+       "correctIndex": 0,
+       "answers": ["choose", "select", "pick", "decide"]
+     },
+     {
+       "id": 218,
+       "content": "Write the word 'coin'.",
+       "correctIndex": 0,
+       "answers": ["coin", "currency", "money", "cash"]
+     },
+     {
+       "id": 219,
+       "content": "Write the word 'copy'.",
+       "correctIndex": 0,
+       "answers": ["copy", "duplicate", "reproduce", "imitate"]
+     },
+     {
+       "id": 220,
+       "content": "Write the word 'corner'.",
+       "correctIndex": 0,
+       "answers": ["corner", "edge", "intersection", "juncture"]
+     },
+     {
+       "id": 221,
+       "content": "Write the word 'cottage'.",
+       "correctIndex": 0,
+       "answers": ["cottage", "cabin", "house", "bungalow"]
+     },
+     {
+       "id": 222,
+       "content": "Write the word 'countless'.",
+       "correctIndex": 0,
+       "answers": ["countless", "innumerable", "numerous", "endless"]
+     },
+     {
+       "id": 223,
+       "content": "Write the word 'cradle'.",
+       "correctIndex": 0,
+       "answers": ["cradle", "cot", "bassinet", "crib"]
+     },
+     {
+       "id": 224,
+       "content": "Write the word 'dangerous'.",
+       "correctIndex": 0,
+       "answers": ["dangerous", "hazardous", "risky", "perilous"]
+     },
+     {
+       "id": 225,
+       "content": "Write the word 'decide'.",
+       "correctIndex": 0,
+       "answers": ["decide", "determine", "choose", "resolve"]
+     },
+     {
+       "id": 226,
+       "content": "Write the word 'degree'.",
+       "correctIndex": 0,
+       "answers": ["degree", "level", "extent", "grade"]
+     },
+     {
+       "id": 227,
+       "content": "Write the word 'divide'.",
+       "correctIndex": 0,
+       "answers": ["divide", "split", "separate", "part"]
+     },
+     {
+       "id": 228,
+       "content": "Write the word 'drain'.",
+       "correctIndex": 0,
+       "answers": ["drain", "empty", "void", "remove"]
+     },
+     {
+       "id": 229,
+       "content": "Write the word 'earlier'.",
+       "correctIndex": 0,
+       "answers": ["earlier", "before", "prior", "previously"]
+     },
+     {
+       "id": 230,
+       "content": "Write the word 'evening'.",
+       "correctIndex": 0,
+       "answers": ["evening", "night", "dusk", "twilight"]
+     },
+     {
+       "id": 231,
+       "content": "Write the word 'famous'.",
+       "correctIndex": 0,
+       "answers": ["famous", "renowned", "celebrated", "notable"]
+     },
+     {
+       "id": 232,
+       "content": "Write the word 'fear'.",
+       "correctIndex": 0,
+       "answers": ["fear", "dread", "anxiety", "apprehension"]
+     },
+     {
+       "id": 233,
+       "content": "Write the word 'feather'.",
+       "correctIndex": 0,
+       "answers": ["feather", "plume", "quill", "down"]
+     },
+     {
+       "id": 234,
+       "content": "Write the word 'firefly'.",
+       "correctIndex": 0,
+       "answers": ["firefly", "glowworm", "lightning bug", "luminous beetle"]
+     },
+     {
+       "id": 235,
+       "content": "Write the word 'helmet'.",
+       "correctIndex": 0,
+       "answers": ["helmet", "headgear", "protective headwear", "casque"]
+     },
+     {
+       "id": 236,
+       "content": "Write the word 'humor'.",
+       "correctIndex": 0,
+       "answers": ["humor", "comedy", "wit", "funniness"]
+     },
+     {
+       "id": 237,
+       "content": "Write the word 'meeting'.",
+       "correctIndex": 0,
+       "answers": ["meeting", "conference", "gathering", "assembly"]
+     },
+     {
+       "id": 238,
+       "content": "Write the word 'oncoming'.",
+       "correctIndex": 0,
+       "answers": ["oncoming", "approaching", "incoming", "forthcoming"]
+     },
+     {
+       "id": 239,
+       "content": "Write the word 'pastry'.",
+       "correctIndex": 0,
+       "answers": ["pastry", "baked goods", "dessert", "patisserie"]
+     },
+     {
+       "id": 240,
+       "content": "Write the word 'pluck'.",
+       "correctIndex": 0,
+       "answers": ["pluck", "pluck out", "extract", "pull"]
+     },
+     {
+       "id": 241,
+       "content": "Write the word 'ponytail'.",
+       "correctIndex": 0,
+       "answers": ["ponytail", "hairstyle", "hairdo", "braid"]
+     },
+     {
+       "id": 242,
+       "content": "Write the word 'posh'.",
+       "correctIndex": 0,
+       "answers": ["posh", "elegant", "stylish", "luxurious"]
+     },
+     {
+       "id": 243,
+       "content": "Write the word 'rallies'.",
+       "correctIndex": 0,
+       "answers": ["rallies", "gatherings", "protests", "demonstrations"]
+     },
+     {
+       "id": 244,
+       "content": "Write the word 'record'.",
+       "correctIndex": 0,
+       "answers": ["record", "document", "register", "archive"]
+     },
+     {
+       "id": 245,
+       "content": "Write the word 'rubble'.",
+       "correctIndex": 0,
+       "answers": ["rubble", "debris", "ruins", "wreckage"]
+     },
+     {
+       "id": 246,
+       "content": "Write the word 'serious'.",
+       "correctIndex": 0,
+       "answers": ["serious", "grave", "solemn", "earnest"]
+     },
+     {
+       "id": 247,
+       "content": "Write the word 'spoken'.",
+       "correctIndex": 0,
+       "answers": ["spoken", "said", "voiced", "uttered"]
+     },
+     {
+       "id": 248,
+       "content": "Write the word 'strange'.",
+       "correctIndex": 0,
+       "answers": ["strange", "unusual", "odd", "peculiar"]
+     },
+     {
+       "id": 249,
+       "content": "Write the word 'studied'.",
+       "correctIndex": 0,
+       "answers": ["studied", "examined", "analyzed", "investigated"]
+     },
+     {
+       "id": 250,
+       "content": "Write the word 'teeter'.",
+       "correctIndex": 0,
+       "answers": ["teeter", "wobble", "totter", "rock"]
+     },
+     {
+       "id": 251,
+       "content": "Write the word 'tennis'.",
+       "correctIndex": 0,
+       "answers": ["tennis", "racquet sport", "court game", "ping-pong"]
+     },
+     {
+       "id": 252,
+       "content": "Write the word 'thirty'.",
+       "correctIndex": 0,
+       "answers": ["thirty", "30", "thirtieth", "three tens"]
+     },
+     {
+       "id": 253,
+       "content": "Write the word 'toga'.",
+       "correctIndex": 0,
+       "answers": ["toga", "robe", "garment", "attire"]
+     },
+     {
+       "id": 254,
+       "content": "Write the word 'tumbling'.",
+       "correctIndex": 0,
+       "answers": ["tumbling", "acrobatics", "gymnastics", "somersaults"]
+     },
+     {
+       "id": 255,
+       "content": "Write the word 'understand'.",
+       "correctIndex": 0,
+       "answers": ["understand", "comprehend", "grasp", "fathom"]
+     },
+     {
+       "id": 256,
+       "content": "Write the word 'useless'.",
+       "correctIndex": 0,
+       "answers": ["useless", "worthless", "futile", "ineffective"]
+     },
+     {
+       "id": 257,
+       "content": "Write the word 'wait'.",
+       "correctIndex": 0,
+       "answers": ["wait", "pause", "delay", "linger"]
+     },
+     {
+       "id": 258,
+       "content": "Write the word 'weight'.",
+       "correctIndex": 0,
+       "answers": ["weight", "mass", "heaviness", "burden"]
+     },
+     {
+       "id": 259,
+       "content": "Write the word 'wife'.",
+       "correctIndex": 0,
+       "answers": ["wife", "spouse", "partner", "mate"]
+     },
+     {
+       "id": 260,
+       "content": "Write the word 'window'.",
+       "correctIndex": 0,
+       "answers": ["window", "pane", "glass", "opening"]
+     },
+     {
+       "id": 261,
+       "content": "Write the word 'wisdom'.",
+       "correctIndex": 0,
+       "answers": ["wisdom", "knowledge", "understanding", "insight"]
+     },
+     {
+       "id": 262,
+       "content": "Write the word 'wonder'.",
+       "correctIndex": 0,
+       "answers": ["wonder", "amazement", "astonishment", "admiration"]
+     },
+     {
+       "id": 263,
+       "content": "Write the word 'wood'.",
+       "correctIndex": 0,
+       "answers": ["wood", "timber", "lumber", "plank"]
+     }
      ]
      
      
