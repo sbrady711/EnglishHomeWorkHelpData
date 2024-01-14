@@ -1,5 +1,6 @@
 
 
+
 [
     {
         "id": 3,
@@ -11,60 +12,27 @@
           {
                             "id": 0,
                             "topicTitle": "Introduction to Report Writing",
-                            "topicContent": "Introduce the report genre and its purpose. Discuss the key features of a report, such as headings, subheadings, facts, and organized information."
-                        },
+                            "topicContent": "Introduce the report genre and its purpose. Discuss the key features of a report, such as headings, subheadings, facts, and organized information.",
+              "video": "https://api-files.sproutvideo.com/file/ea90d1b5191ce5c463/0838e489a12ca2ed/1080.mp4"                         },
                         {
                             "id": 1,
-                            "topicTitle": "Choosing a Favorite Animal",
-                            "topicContent": "Guide students in choosing their favorite animal for the report. Discuss the importance of selecting an animal they are passionate about and familiar with."
+                            "topicTitle": "Choosing a Favourite Animal and Gather Information and Sorting Facts into Categories",
+                            "topicContent": "Guide students in choosing their favorite animal for the report. Discuss the importance of selecting an animal they are passionate about and familiar with.Gather accurate Information",
+                            "video": "https://api-files.sproutvideo.com/file/0690d1b5191ee4c38f/6dacadec680cd347/1080.mp4"
                         },
                         {
                             "id": 2,
-                            "topicTitle": "Gathering Information",
-                            "topicContent": "Teach students how to gather information about their chosen animal from reliable sources. Introduce note-taking strategies and emphasize the importance of accurate information."
-                        },
+                            "topicTitle": "Information Report Conclusion",
+                   "topicContent": "Learn how to effectively conclude an information report.",
+                   "video": "https://api-files.sproutvideo.com/file/d390d1b5191ee7c15a/32df366ee71005b0/1080.mp4"
+
+                   },
                         {
                             "id": 3,
-                            "topicTitle": "Sorting Facts into Categories",
-                            "topicContent": "Discuss how to organize information into categories such as appearance, habitat, diet, behavior, and fun facts. Teach students how to create headings and subheadings."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Writing your Animal",
-                            "topicContent": "Teach students how to write an engaging introduction that introduces their favorite animal and captures the reader's interest."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Describing Appearance and Habitat",
-                            "topicContent": "Guide students in writing detailed paragraphs about their animal's appearance and habitat. Encourage them to use descriptive language."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Exploring Diet and Behavior",
-                            "topicContent": "Teach students how to write paragraphs about their animal's diet and behavior. Discuss how to include interesting facts and examples."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": "Adding Fun Facts",
-                            "topicContent": " Introduce the concept of including fun facts that make the report engaging and unique. Guide students in adding intriguing details about their animal."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Writing a Conclusion",
-                            "topicContent": "Discuss the purpose of a conclusion in a report. Teach students how to summarize the main points and leave the reader with a final thought."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": " Editing and Revising",
-                            "topicContent": "Teach students how to revise and edit their report for clarity, coherence, and grammar. Discuss the importance of proofreading and making improvements."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": " Presenting Your Report",
-                            "topicContent": "Discuss different ways to present the report, such as reading it aloud, creating visual aids, or using technology. Encourage students to share their reports with the class or in small groups."
+                            "topicTitle": "Conjunctions",
+                            "topicContent": "Explore the joining of words and phrases in sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d1b51818e7c65a/79ae59a21b7d957c/1080.mp4"
                         }
-                        
                         
                         
                         
@@ -76,7 +44,8 @@
           "time": "30 minutes",
           "description": "Put your Phonics and letter sound knowledge to the test.",
           "questions": [
-                   {
+              
+              {
                    "id": 0,
                    "content": "Write a report about your favorite animal. Include sections on its appearance, habitat, diet, behavior, and interesting facts.",
                    "correctIndex": 0,
@@ -258,7 +227,8 @@
                           "correctIndex": 0,
                           "answers": ["a", "b", "c", "d"]
                       }
-               ]
+              
+          ]
                
                
                
