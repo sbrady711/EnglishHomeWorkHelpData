@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 5,
@@ -8,207 +9,134 @@
           "id": 0,
       "teaching": [
          
-                       
                         {
                             "id": 0,
-                            "topicTitle": "Simple and Continuous Tenses",
-                            "topicContent": "Review simple and continuous verb tenses (past, present, future). Explain their differences and provide examples to illustrate when to use each tense."
+                            "topicTitle": "Verb 'To have': Past, Present, Future",
+                            "topicContent": "Expand on the verb 'to have' by covering its usage in different tenses.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d1b71d1de3cbcd/466cce05c6d7b9bb/1080.mp4"
                         },
+                        
                         {
                             "id": 1,
-                            "topicTitle": "Verb 'To have': Past, Present, Future",
-                            "topicContent": "Expand on the verb 'to have' by covering its usage in different tenses. Provide examples and practice forming sentences with this verb."
+                            "topicTitle": "Adverbs of Manner",
+                            "topicContent": "Introduction to adverbs of manner and examine how they describe how an action is performed.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d1b71c1be6c25a/12ca228f911105aa/1440.mp4"
                         },
+                     
                         {
                             "id": 2,
-                            "topicTitle": "Past Participles (1): Regular",
-                            "topicContent": " Introduce regular past participles and how they are used in forming various tenses. Teach the rules for forming regular past participles."
-                    
-                },
-                {
+                            "topicTitle": "Adverbs of Time and Frequency",
+                            "topicContent": "Explore adverbs of time (when) and adverbs of frequency (how often).",
+                            "video": "https://api-files.sproutvideo.com/file/0690d1b71c1ae6c28f/d57f53e1112cb126/1080.mp4"
+                        },
+                        {
                             "id": 3,
-                            "topicTitle": "Perfect Tenses: Past, Present, Future",
-                            "topicContent": "Teach perfect tenses (past perfect, present perfect, future perfect) and explain how they express actions that are completed before a certain time."
+                            "topicTitle": "Adverbs of Degree ",
+                            "topicContent": "Discuss adverbs of degree (how much) and adverbs of place (where) in sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d1b71c1aebcf8f/2abf67ae3d2ea1af/1080.mp4"
                         },
+                        
+          
                         {
-                            "id": 4,
-                            "topicTitle": "Contractions and the Verb 'To have'",
-                            "topicContent": "Explore contractions involving the verb 'to have.' Teach how contractions are formed and how they change when combined with the verb 'have.'"
-                        },
-                        {
+                                      "id": 4,
+                                      "topicTitle": "Modal Adverbs",
+                                      "topicContent": "Discuss modal adverbs (e.g., certainly, definitely, probably) that indicate the degree of possibility or certainty expressed by modal verbs.",
+                                      "video": "https://api-files.sproutvideo.com/file/4490d1b71c19e5c8cd/ee67b548b51fa286/1080.mp4"
+                                      
+                                  },
+                        
+                        
+             
+                {
                             "id": 5,
-                            "topicTitle": "Past Participles (2): Irregular",
-                            "topicContent": "Cover irregular past participles and their usage in forming verb tenses. Discuss commonly used irregular verbs and their corresponding past participles."
+                            "topicTitle": "Phrasal Verbs",
+                            "topicContent": "Introduction phrasal verbs (verbs combined with prepositions or adverbs) and discuss their meanings and usage.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d1b71c18e3c6f0/f74d6d0e38ff773c/1080.mp4"
                         },
-                        {
-                            "id": 6,
-                            "topicTitle": "Identifying Verb Tenses",
-                            "topicContent": "Provide exercises to practice identifying different verb tenses in sentences. Encourage students to pay attention to time markers and context."
-                        },
+                
+                             {
+                                 "id": 6,
+                                 "topicTitle": "Transitive and Intransitive Verbs",
+                                 "topicContent": "Explain the difference between transitive verbs (require direct objects) and intransitive verbs (do not require direct objects).",
+                                 "video": "https://api-files.sproutvideo.com/file/a790d1b71c1fe1c52e/739e09eeee86eb89/1440.mp4"
+                             },
+                     
                         {
                             "id": 7,
-                            "topicTitle": "Adverb Placement",
-                            "topicContent": "Teach the proper placement of adverbs in sentences. Explain where adverbs should be positioned for clarity and emphasis."
-                        },
-                        
-                {
-                            "id": 8,
-                            "topicTitle": "Prepositions",
-                            "topicContent": "Review prepositions and their role in showing relationships between words in a sentence. Provide examples and practice identifying prepositions."
+                            "topicTitle": "Making Verbs from Nouns and Adjectives",
+                            "topicContent": "Learn how to form verbs from nouns and adjectives using suffixes.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d1b71c1ee4c063/b0f4b32e5c5e3c34/1080.mp4"
+                            
+                    
                         },
                         {
-                            "id": 9,
-                            "topicTitle": "Prepositional Phrases",
-                            "topicContent": "Deepen understanding of prepositional phrases and how they function in sentences. Discuss how prepositional phrases can act as adjectives or adverbs."
+                            "id": 8,
+                            "topicTitle": "Interjection",
+                            "topicContent": "Explore Interjections.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d1b71c1ee2c1f0/0e89da1b2198551c/1080.mp4"
                         },
-                        
+            
+            
+                
+           {
+                       "id": 9,
+                       "topicTitle": "Writing Adjectives in the Correct Order",
+                       "topicContent": "An exercises for students to practice arranging adjectives in the correct order when describing nouns.",
+                       "video": "https://api-files.sproutvideo.com/file/a790d1b71c1eeecb2e/15d4f8c3a212e05d/1080.mp4"
+                   },
+                  
                         {
                             "id": 10,
-                            "topicTitle": "Transitive and Intransitive Verbs",
-                            "topicContent": "Explain the difference between transitive verbs (require direct objects) and intransitive verbs (do not require direct objects). Provide examples of both types."
+                            "topicTitle": "Prepositional Phrases as Adverbs and Adjectives",
+                            "topicContent": "Reinforcement understanding of prepositional phrases as adverbs.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d1b71c1ce6cf98/8c99d37108b6a843/1080.mp4"
                         },
+             
+             
+             
+              
                         {
                             "id": 11,
-                            "topicTitle": "Prepositional Phrases as Adverbs",
-                            "topicContent": "Discuss how prepositional phrases can function as adverbs in sentences. Teach students to identify adverbial prepositional phrases."
-                    
-                },
-                {
-                            "id": 12,
-                            "topicTitle": "Phrasal Verbs",
-                            "topicContent": "Introduce phrasal verbs (verbs combined with prepositions or adverbs) and discuss their meanings and usage. Provide examples and practice using phrasal verbs."
+                            "topicTitle": "Semicolons, Colons and Compound Sentences",
+                            "topicContent": "Learn the usage of semicolons to connect related independent clauses in compound sentences. Discuss the rules and provide examples.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d1b71c13e9c063/4b9a8d2da2c01523/1080.mp4"
                         },
+       
+                        {
+                            "id": 12,
+                            "topicTitle": "Subordinating Conjunctions",
+                            "topicContent": "Explore subordinating conjunctions (although, because, since, if, when, etc.) and how they create complex sentences by connecting dependent and independent clauses.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d1b71c13e2cd25/c2f98a1df1311593/1080.mp4"
+                            
+                        },
+            
+             
+                        
                         {
                             "id": 13,
-                            "topicTitle": "More Phrasal Verbs",
-                            "topicContent": "Extend the exploration of phrasal verbs by introducing additional examples and discussing their nuances in different contexts."
+                            "topicTitle": "Verbs, 'To Do': Past, Present, Future, Contractions and Questions and Statements",
+                            "topicContent": "Cover the verb 'to do' and its usage in different tenses.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d1b71313e5c65a/9df35512ed512b4e/1440.mp4"
                         },
                         {
                             "id": 14,
-                            "topicTitle": "Making Verbs from Nouns and Adjectives",
-                            "topicContent": "Teach how to form verbs from nouns and adjectives using suffixes. Provide examples and practice creating verbs from different word forms."
+                            "topicTitle": "Verbs, 'To be': Past, Present, Future, Contractions and Questions and Statements",
+                            "topicContent": "Cover the verb 'to do' and its usage in different tenses.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d1b71313e5c525/ec1a902fc4776c84/1080.mp4"
                         },
+                      
                         {
                             "id": 15,
-                            "topicTitle": "Nouns and Verbs: (-ce), (-se), (cy), (-sy)",
-                            "topicContent": "Explore nouns and verbs that share common endings like -ce, -se, -cy, and -sy. Teach how these endings affect word meanings and usage."
+                            "topicTitle": "Modal Verbs",
+                            "topicContent": "Introduction to modal verbs (can, could, may, might, must, shall, should, will, would) and their functions in expressing possibility, necessity, and more.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d1b7131cefc1f0/342b2d097d399f55/1080.mp4"
                         },
                         {
                             "id": 16,
-                            "topicTitle": "Adjectives Order",
-                            "topicContent": "Discuss the proper order of multiple adjectives when describing a noun. Teach the general order of adjectives and exceptions."
-                        },
-                {
-                            "id": 17,
-                            "topicTitle": "Writing Adjectives in the Correct Order",
-                            "topicContent": " Provide exercises for students to practice arranging adjectives in the correct order when describing nouns."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Adverbs of Manner",
-                            "topicContent": "Introduce adverbs of manner and explain how they describe how an action is performed. Provide examples and practice using adverbs of manner."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Adverbs of Degree and Place (1)",
-                            "topicContent": "Discuss adverbs of degree (how much) and adverbs of place (where) in sentences. Teach their usage and the placement of adverbs in sentences."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Adverbs of Time and Frequency",
-                            "topicContent": "Explore adverbs of time (when) and adverbs of frequency (how often). Teach their usage and provide examples in different sentence structures."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Adverbs Describing Other Adverbs",
-                            "topicContent": "Introduce adverbs that describe other adverbs, indicating how they modify the degree or manner of the action. Provide examples and practice."
-                     
-                },
-                {
-                            "id": 22,
-                            "topicTitle": "Adverbs Describing Adjectives",
-                            "topicContent": "Teach adverbs that describe adjectives, emphasizing the intensity or degree of the adjective's quality. Discuss their usage and provide examples."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Irregular Plurals",
-                            "topicContent": "Review irregular plurals and provide examples of nouns that form their plurals in irregular ways. Practice identifying and using irregular plurals."
-                        },
-                        
-                      
-                        {
-                            "id": 24,
-                            "topicTitle": "Linking Verbs: 'To Be'",
-                            "topicContent": "Explore linking verbs, specifically the verb 'to be.' Discuss how linking verbs connect the subject to its complement."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Prepositional Phrases as Adverbs",
-                            "topicContent": "Reinforce understanding of prepositional phrases as adverbs. Teach how prepositional phrases provide additional information about actions."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Prepositional Phrases as Adjectives",
-                            "topicContent": "Reinforce understanding of prepositional phrases as adjectives. Teach how prepositional phrases modify nouns."
-                },
-              
-                        {
-                            "id": 27,
-                            "topicTitle": "Semicolons and Compound Sentences",
-                            "topicContent": "Teach the usage of semicolons to connect related independent clauses in compound sentences. Discuss the rules and provide examples."
-                        },
-               {
-                            "id": 28,
-                            "topicTitle": "Colons in Sentences",
-                            "topicContent": " Introduce the usage of colons to introduce lists, explanations, and quotations. Discuss where to place colons in sentences.."
-                        },
-                        {
-                            "id": 29,
-                            "topicTitle": "Subordinating Conjunctions",
-                            "topicContent": "Explore subordinating conjunctions (although, because, since, if, when, etc.) and how they create complex sentences by connecting dependent and independent clauses."
-                        },
-                        {
-                            "id": 30,
-                            "topicTitle": "Complex Sentences",
-                            "topicContent": "Teach complex sentences composed of independent and dependent clauses. Discuss how to combine clauses using subordinating conjunctions."
-                        },
-                        {
-                            "id": 31,
-                            "topicTitle": "Simple, Compound, and Complex Sentences",
-                            "topicContent": "Review the three sentence types: simple, compound, and complex. Explain their structures and provide examples of each."
-                  },
-                {
-                            "id": 32,
-                            "topicTitle": "Adverbials",
-                            "topicContent": "Introduce adverbials (adverbs, adverb phrases, adverb clauses) and how they provide information about actions, time, place, and manner."
-                        },
-                        
-                        {
-                            "id": 33,
-                            "topicTitle": "Verbs 'To Do': Past, Present, Future",
-                            "topicContent": "Cover the verb 'to do' and its usage in different tenses. Provide examples and practice forming sentences with this auxiliary verb."
-                        },
-                 {
-                            "id": 34,
-                            "topicTitle": "Statements and the Verb 'To Do'",
-                            "topicContent": "Discuss how the verb 'to do' is used in making statements. Teach how 'do' and 'does' are used to form affirmative statements."
-                        },
-                        {
-                            "id": 35,
-                            "topicTitle": "Questions and the Verb 'To Do'",
-                            "topicContent": "Teach how the verb 'to do' is used to form questions. Discuss the inversion of the subject and 'do' or 'does' in questions."
-                        },
-                        {
-                            "id": 36,
-                            "topicTitle": "Modal Verbs",
-                            "topicContent": "Introduce modal verbs (can, could, may, might, must, shall, should, will, would) and their functions in expressing possibility, necessity, and more."
-                        },
-              {
-                            "id": 37,
-                            "topicTitle": "Modal Adverbs",
-                            "topicContent": "Discuss modal adverbs (e.g., certainly, definitely, probably) that indicate the degree of possibility or certainty expressed by modal verbs."
+                            "topicTitle": "Conditional tense",
+                            "topicContent": "Introduction to the conditional tense.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d1b71216e7c325/54cacf5471feddd3/1080.mp4"
                         }
-                        
                         
                     ]
                 },
@@ -463,9 +391,9 @@
                 {
                   "id": 22,
                   "content": "Identify the noun phrase in the sentence: 'The old wooden table in the corner is my favorite.'",
-                  "correctIndex": 2,
+                  "correctIndex": 0,
                   "answers": [
-                    "The old",
+                    "The old wooden",
                     "in the corner",
                     "my favorite",
                     "wooden table"
@@ -518,10 +446,10 @@
                 {
                   "id": 27,
                   "content": "What is the function of the word 'because' in the sentence: 'She stayed home because it was raining.'",
-                  "correctIndex": 0,
+                  "correctIndex": 1,
                   "answers": [
+                    "Subordinating",
                     "Subordinating conjunction",
-                    "Adverb",
                     "Direct object",
                     "Preposition"
                   ]
@@ -529,12 +457,12 @@
                 {
                   "id": 28,
                   "content": "Identify the adverbial phrase in the sentence: 'After finishing his meal, he went for a walk.'",
-                  "correctIndex": 0,
+                  "correctIndex": 3,
                   "answers": [
-                    "After finishing his meal",
+                    "After ",
                     "he went",
                     "for a walk",
-                    "After"
+                    "After finishing his meal"
                   ]
                 },
                 {
@@ -551,10 +479,10 @@
                 {
                   "id": 30,
                   "content": "Choose the correct form of the verb 'can' to complete the sentence: 'She _____ swim very well.'",
-                  "correctIndex": 0,
+                  "correctIndex": 1,
                   "answers": [
+                    "cans",
                     "can",
-                    "could",
                     "may",
                     "might"
                   ]
@@ -629,12 +557,12 @@
                 {
                    "id": 37,
                    "content": "Which of the following sentences uses the past perfect continuous tense correctly?",
-                   "correctIndex": 1,
+                   "correctIndex": 3,
                    "answers": [
                      "She is baking a cake for two hours.",
-                     "They had been studying all night.",
+                     "They have been studying all night.",
                      "He will be sleeping tomorrow.",
-                     "I am writing a letter now."
+                     "They had been studying all night."
                    ]
                  },
                  {
@@ -661,8 +589,8 @@
                  },
                  {
                    "id": 40,
-                   "content": "Identify the noun phrase in the sentence: 'The old wooden table in the corner is my favorite.'",
-                   "correctIndex": 2,
+                   "content": "Identify the adverbial phrase in the sentence: 'The old bouncy ball in the corner is my favorite.'",
+                   "correctIndex": 1,
                    "answers": [
                      "The old",
                      "in the corner",
@@ -685,12 +613,12 @@
                  {
                    "id": 42,
                    "content": "Identify the adjective clause in the sentence: 'The book that she gave me is fantastic.'",
-                   "correctIndex": 0,
+                   "correctIndex": 3,
                    "answers": [
-                     "that she gave me",
+                     "she gave me",
                      "The book",
                      "is fantastic",
-                     "that"
+                     "that she gave me"
                    ]
                  },
                
@@ -727,41 +655,31 @@
                      "After"
                    ]
                  },
+                 
                  {
                    "id": 46,
-                   "content": "Which sentence correctly uses an adverbial clause of time?",
-                   "correctIndex": 2,
-                   "answers": [
-                     "She speaks loudly.",
-                     "He ate the cake quickly.",
-                     "When the sun sets, the stars appear.",
-                     "The dog barks fiercely."
-                   ]
-                 },
-                 {
-                   "id": 47,
                    "content": "Choose the correct form of the verb 'can' to complete the sentence: 'She _____ swim very well.'",
                    "correctIndex": 0,
                    "answers": [
                      "can't",
                      "could",
-                     "may",
+                     "cans",
                      "might"
                    ]
                  },
                  {
-                   "id": 48,
+                   "id": 47,
                    "content": "Identify the correct order of adverbs to describe the action: 'She  couldn't sing the song ____________.'",
-                   "correctIndex": 1,
+                   "correctIndex": 3,
                    "answers": [
                      "good",
-                     "well",
+                     "welly",
                      "goodly",
-                     "wellly"
+                     "well"
                    ]
                  },
                  {
-                   "id": 49,
+                   "id": 48,
                    "content": "What is the function of the word 'if' in the sentence: 'If it rains, we'll stay indoors.'",
                    "correctIndex": 2,
                    "answers": [
@@ -772,7 +690,7 @@
                    ]
                  },
                  {
-                   "id": 50,
+                   "id": 49,
                    "content": "Identify the modal verb in the sentence: 'You could eat your vegetables.'",
                    "correctIndex": 0,
                    "answers": [
@@ -783,18 +701,18 @@
                    ]
                  },
                  {
-                 "id": 51,
-                 "content": "Select the sentence with the appropriate use of a modal adverb:",
-                 "correctIndex": 0,
+                 "id": 50,
+                 "content": "Select the sentence with the appropriate use of a adverb of degree in the exclamation",
+                 "correctIndex": 3,
                  "answers": [
                  "She might possibly join us later.",
                  "Certainly, she might join us later.",
                  "She might join us definitely later.",
-                 "Definitely she might join us later."
+                 "Definitely ,He will join us later!"
                  ]
                  },
                  {
-                   "id": 52,
+                   "id": 51,
                    "content": "What type of verb is 'become' in the sentence: 'She became a vet.'",
                    "correctIndex": 0,
                    "answers": [
@@ -805,7 +723,7 @@
                    ]
                  },
                  {
-                 "id": 53,
+                 "id": 52,
                  "content": "Find the phrasal verb in the given sentence: 'He carried out the experiment in the laboratory.'",
                  "correctIndex": 0,
                  "answers": [
@@ -816,7 +734,7 @@
                  ]
                  },
                  {
-                   "id": 54,
+                   "id": 53,
                    "content": "Choose the correct form of the verb 'to have' for the pronoun 'we' in the future perfect tense:",
                    "correctIndex": 2,
                    "answers": [
@@ -828,7 +746,7 @@
                  },
                  
                  {
-                   "id": 55,
+                   "id": 54,
                    "content": "Identify the correct form of the verb 'to be' in the future perfect tense: She _____ finished her project.",
                    "correctIndex": 1,
                    "answers": [
@@ -839,7 +757,7 @@
                    ]
                  },
                  {
-                   "id": 56,
+                   "id": 55,
                    "content": "Choose the sentence with the correct use of a gerund phrase:",
                    "correctIndex": 0,
                    "answers": [
@@ -850,7 +768,7 @@
                    ]
                  },
                  {
-                   "id": 57,
+                   "id": 56,
                    "content": "What type of sentence is this: 'Could you please pass the salt?'",
                    "correctIndex": 0,
                    "answers": [
@@ -861,7 +779,7 @@
                    ]
                  },
                  {
-                   "id": 58,
+                   "id": 57,
                    "content": "Identify the noun clause in the sentence: 'I wonder what time it is.'",
                    "correctIndex": 1,
                    "answers": [
@@ -872,7 +790,7 @@
                    ]
                  },
                  {
-                   "id": 59,
+                   "id": 58,
                    "content": "Select the correct adverb to complete the sentence: 'She speaks English ________.'",
                    "correctIndex": 1,
                    "answers": [
@@ -883,18 +801,18 @@
                    ]
                  },
                  {
-                   "id": 60,
+                   "id": 59,
                    "content": "In which sentence is the verb 'shall' used correctly to express a future action?",
                    "correctIndex": 3,
                    "answers": [
                      "He shall go to the park yesterday.",
                      "You shall read a book tomorrow.",
-                     "She shall finished her work now.",
+                     "She shall finished her work earlier.",
                      "They shall visit their grandparents next week."
                    ]
                  },
                  {
-                   "id": 61,
+                   "id": 60,
                    "content": "Choose the correct sentence that uses an adverbial phrase of time:",
                    "correctIndex": 1,
                    "answers": [
@@ -905,7 +823,7 @@
                    ]
                  },
                  {
-                   "id": 62,
+                   "id": 61,
                    "content": "What is the purpose of the semicolon in the sentence: 'She loves the beach; however, she dislikes swimming.'",
                    "correctIndex": 0,
                    "answers": [
@@ -916,7 +834,7 @@
                    ]
                  },
                  {
-                   "id": 63,
+                   "id": 62,
                    "content": "Select the sentence with the correct use of a modal verb:",
                    "correctIndex": 2,
                    "answers": [
@@ -927,7 +845,7 @@
                    ]
                  },
                  {
-                   "id": 64,
+                   "id": 63,
                    "content": "Identify the phrasal verb in the sentence: 'She put off studying until the last minute.'",
                    "correctIndex": 0,
                    "answers": [
@@ -938,7 +856,7 @@
                    ]
                  },
                  {
-                   "id": 65,
+                   "id": 64,
                    "content": "Choose the correct adverbial clause of reason in the sentence: 'She succeeded because she worked hard.'",
                    "correctIndex": 2,
                    "answers": [
@@ -949,7 +867,7 @@
                    ]
                  },
                  {
-                   "id": 66,
+                   "id": 65,
                    "content": "What is the function of the word 'when' in the sentence: 'He reads when he has free time.'",
                    "correctIndex": 1,
                    "answers": [
@@ -960,7 +878,7 @@
                    ]
                  },
                  {
-                   "id": 67,
+                   "id": 66,
                    "content": "Select the correct sentence that uses an adverbial prepositional phrase:",
                    "correctIndex": 3,
                    "answers": [
@@ -971,7 +889,7 @@
                    ]
                  },
                  {
-                   "id": 68,
+                   "id": 67,
                    "content": "What is the proper use of the colon in the sentence: 'She had three favorite colors: blue, green, and purple.'",
                    "correctIndex": 0,
                    "answers": [
@@ -982,7 +900,7 @@
                    ]
                  },
                  {
-                   "id": 69,
+                   "id": 68,
                    "content": "Identify the irregular plural noun:",
                    "correctIndex": 1,
                    "answers": [
@@ -993,7 +911,7 @@
                    ]
                  },
                  {
-                   "id": 70,
+                   "id": 69,
                    "content": "Choose the correct verb form to complete the sentence: 'She _____ a book last night.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1004,7 +922,7 @@
                    ]
                  },
                  {
-                   "id": 71,
+                   "id": 70,
                    "content": "In which sentence is the verb 'may' used to express permission?",
                    "correctIndex": 0,
                    "answers": [
@@ -1015,7 +933,7 @@
                    ]
                  },
                  {
-                   "id": 72,
+                   "id": 71,
                    "content": "What is the role of the subordinating conjunction 'if' in the sentence: 'We'll go to the beach if the weather is nice.'",
                    "correctIndex": 3,
                    "answers": [
@@ -1026,7 +944,7 @@
                    ]
                  },
                  {
-                   "id": 73,
+                   "id": 72,
                    "content": "Choose the sentence with the correct use of a transitive verb:",
                    "correctIndex": 2,
                    "answers": [
@@ -1037,7 +955,7 @@
                    ]
                  },
                  {
-                   "id": 74,
+                   "id": 73,
                    "content": "Identify the adverb of manner in the sentence: 'She sings quietly.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1048,7 +966,7 @@
                    ]
                  },
                  {
-                   "id": 75,
+                   "id": 74,
                    "content": "Which of the following sentences contains an abstract noun?",
                    "correctIndex": 2,
                    "answers": [
@@ -1059,18 +977,18 @@
                    ]
                  },
                  {
-                   "id": 76,
+                   "id": 75,
                    "content": "Identify the correct form of the verb 'to be' in the present continuous tense: They _____ playing in the park.",
                    "correctIndex": 1,
                    "answers": [
-                     "are",
+                     "arm",
                      "are",
                      "is",
                      "was"
                    ]
                  },
                  {
-                   "id": 77,
+                   "id": 76,
                    "content": "Choose the correct sentence that uses a perfect continuous tense:",
                    "correctIndex": 3,
                    "answers": [
@@ -1081,7 +999,7 @@
                    ]
                  },
                  {
-                   "id": 78,
+                   "id": 77,
                    "content": "What is the purpose of the adverbial phrase in the sentence: 'They swam with great enthusiasm.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1092,7 +1010,7 @@
                    ]
                  },
                  {
-                   "id": 79,
+                   "id": 78,
                    "content": "In which sentence is the verb 'must' used correctly to express necessity?",
                    "correctIndex": 2,
                    "answers": [
@@ -1103,7 +1021,7 @@
                    ]
                  },
                  {
-                   "id": 80,
+                   "id": 79,
                    "content": "Identify the correct sentence that uses an adverb clause of condition:",
                    "correctIndex": 0,
                    "answers": [
@@ -1114,18 +1032,18 @@
                    ]
                  },
                  {
-                   "id": 81,
+                   "id": 80,
                    "content": "Choose the sentence with the correct use of a modal adverb:",
-                   "correctIndex": 1,
+                   "correctIndex": 2,
                    "answers": [
                      "She definitely sings well.",
                      "He quickly reads the book.",
-                     "They might danced at the party.",
+                     "They could have danced at the party.",
                      "I will did my homework."
                    ]
                  },
                  {
-                   "id": 82,
+                   "id": 81,
                    "content": "Identify the phrasal verb in the sentence: 'He took off his shoes.'",
                    "correctIndex": 0,
                    "answers": [
@@ -1136,7 +1054,7 @@
                    ]
                  },
                  {
-                   "id": 83,
+                   "id": 82,
                    "content": "What type of sentence is this: 'How incredible the view is!'",
                    "correctIndex": 2,
                    "answers": [
@@ -1146,19 +1064,9 @@
                      "Imperative"
                    ]
                  },
+                 
                  {
-                   "id": 84,
-                   "content": "Choose the correct sentence that uses an adjective derived from a noun:",
-                   "correctIndex": 1,
-                   "answers": [
-                     "She reads quick.",
-                     "He is a fast runner.",
-                     "They swam quickly.",
-                     "I danced graceful."
-                   ]
-                 },
-                 {
-                   "id": 85,
+                   "id": 83,
                    "content": "Identify the subordinating conjunction in the sentence: 'Although it was raining, they went for a walk.'",
                    "correctIndex": 0,
                    "answers": [
@@ -1169,7 +1077,7 @@
                    ]
                  },
                  {
-                 "id": 86,
+                 "id": 84,
                  "content": "Pick the sentence where a transitive verb is used correctly:",
                  "correctIndex": 2,
                  "answers": [
@@ -1180,7 +1088,7 @@
                  ]
                  },
                  {
-                   "id": 87,
+                   "id": 85,
                    "content": "What is the function of the word 'because' in the sentence: 'They stayed indoors because it was raining.'",
                    "correctIndex": 3,
                    "answers": [
@@ -1191,7 +1099,7 @@
                    ]
                  },
                  {
-                   "id": 88,
+                   "id": 86,
                    "content": "Identify the adverb of degree in the sentence: 'She almost won the race.'",
                    "correctIndex": 0,
                    "answers": [
@@ -1202,7 +1110,7 @@
                    ]
                  },
                  {
-                   "id": 89,
+                   "id": 87,
                    "content": "Choose the sentence with the correct use of a gerund as the subject:",
                    "correctIndex": 2,
                    "answers": [
@@ -1213,7 +1121,7 @@
                    ]
                  },
                  {
-                   "id": 90,
+                   "id": 88,
                    "content": "What is the role of the adverbial phrase in the sentence: 'She sang with joy.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1224,7 +1132,7 @@
                    ]
                  },
                  {
-                   "id": 91,
+                   "id": 89,
                    "content": "In which sentence is the verb 'could' used correctly to express possibility?",
                    "correctIndex": 0,
                    "answers": [
@@ -1235,7 +1143,7 @@
                    ]
                  },
                  {
-                   "id": 92,
+                   "id": 90,
                    "content": "Choose the correct sentence that uses a participle phrase:",
                    "correctIndex": 3,
                    "answers": [
@@ -1246,7 +1154,7 @@
                    ]
                  },
                  {
-                   "id": 93,
+                   "id": 91,
                    "content": "Identify the verb in the sentence: 'The cat chased the mouse.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1257,7 +1165,7 @@
                    ]
                  },
                  {
-                   "id": 94,
+                   "id": 92,
                    "content": "What is the function of the word 'while' in the sentence: 'They played games while waiting for the rain to stop.'",
                    "correctIndex": 3,
                    "answers": [
@@ -1268,7 +1176,7 @@
                    ]
                  },
                  {
-                   "id": 95,
+                   "id": 93,
                    "content": "Choose the correct sentence that uses an adjective clause:",
                    "correctIndex": 2,
                    "answers": [
@@ -1279,7 +1187,7 @@
                    ]
                  },
                  {
-                   "id": 96,
+                   "id": 94,
                    "content": "Identify the main verb in the sentence: 'He has been studying for hours.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1290,7 +1198,7 @@
                    ]
                  },
                  {
-                   "id": 97,
+                   "id": 95,
                    "content": "Which sentence uses an adverb of time correctly?",
                    "correctIndex": 3,
                    "answers": [
@@ -1301,7 +1209,7 @@
                    ]
                  },
                  {
-                   "id": 98,
+                   "id": 96,
                    "content": "Identify the phrasal verb in the sentence: 'She took off her coat.'",
                    "correctIndex": 2,
                    "answers": [
@@ -1312,7 +1220,7 @@
                    ]
                  },
                  {
-                   "id": 99,
+                   "id": 97,
                    "content": "What type of sentence is this: 'May I borrow your pen?'",
                    "correctIndex": 0,
                    "answers": [
@@ -1323,7 +1231,7 @@
                    ]
                  },
                  {
-                   "id": 100,
+                   "id": 98,
                    "content": "Choose the sentence with the correct use of a modal verb:",
                    "correctIndex": 0,
                    "answers": [
@@ -1334,18 +1242,18 @@
                    ]
                  },
                  {
-                 "id": 101,
+                 "id": 99,
                  "content": "Select the sentence where the verb 'may' is used correctly to indicate possibility:",
                  "correctIndex": 3,
                  "answers": [
                  "He must eat his vegetables.",
-                 "I may go to the park?",
+                 "I mays go to the park?",
                  "They should clean their room.",
                  "I may complete my assignment by tomorrow."
                  ]
                  },
                  {
-                   "id": 102,
+                   "id": 100,
                    "content": "Identify the subordinating conjunction in the sentence: 'Since it was a holiday, they went on a trip.'",
                    "correctIndex": 0,
                    "answers": [
@@ -1356,7 +1264,7 @@
                    ]
                  },
                  {
-                   "id": 103,
+                   "id": 101,
                    "content": "Choose the sentence with the correct use of a gerund as the object of a preposition:",
                    "correctIndex": 1,
                    "answers": [
@@ -1367,7 +1275,7 @@
                    ]
                  },
                  {
-                   "id": 104,
+                   "id": 102,
                    "content": "What is the role of the word 'although' in the sentence: 'Although it was cold, they went for a walk.'",
                    "correctIndex": 3,
                    "answers": [
@@ -1378,7 +1286,7 @@
                    ]
                  },
                  {
-                   "id": 105,
+                   "id": 103,
                    "content": "Identify the adverb of manner in the sentence: 'She sang beautifully.'",
                    "correctIndex": 0,
                    "answers": [
@@ -1389,7 +1297,7 @@
                    ]
                  },
                  {
-                   "id": 106,
+                   "id": 104,
                    "content": "Choose the correct sentence that uses an adverb clause of place:",
                    "correctIndex": 2,
                    "answers": [
@@ -1400,7 +1308,7 @@
                    ]
                  },
                  {
-                   "id": 107,
+                   "id": 105,
                    "content": "What is the function of the word 'because' in the sentence: 'They stayed indoors because it was raining.'",
                    "correctIndex": 3,
                    "answers": [
@@ -1411,7 +1319,7 @@
                    ]
                  },
                  {
-                   "id": 108,
+                   "id": 106,
                    "content": "Identify the verb in the sentence: 'He quickly solved the puzzle.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1422,7 +1330,7 @@
                    ]
                  },
                  {
-                   "id": 109,
+                   "id": 107,
                    "content": "What is the purpose of the adverbial phrase in the sentence: 'She worked diligently to complete the project.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1433,7 +1341,7 @@
                    ]
                  },
                  {
-                 "id": 110,
+                 "id": 108,
                  "content": "Which of these sentences correctly employs an adjective derived from a noun?",
                  "correctIndex": 1,
                  "answers": [
@@ -1444,7 +1352,7 @@
                  ]
                  },
                  {
-                   "id": 111,
+                   "id": 109,
                    "content": "Identify the main verb in the sentence: 'They have completed their assignments.'",
                    "correctIndex": 1,
                    "answers": [
@@ -1456,7 +1364,7 @@
                  },
                  
                  {
-                    "id": 112,
+                    "id": 110,
                     "content": "Identify the gerund in the sentence: 'Swimming is her favorite activity.'",
                     "correctIndex": 0,
                     "answers": [
@@ -1465,833 +1373,7 @@
                       "her favorite activity",
                       "favorite activity"
                     ]
-                  },
-                  {
-                    "id": 113,
-                    "content": "Which sentence uses an adverb clause of reason?",
-                    "correctIndex": 2,
-                    "answers": [
-                      "She dances gracefully.",
-                      "He runs fast.",
-                      "Since it's raining, we'll stay indoors.",
-                      "They played soccer yesterday."
-                    ]
-                  },
-                  {
-                    "id": 114,
-                    "content": "Identify the conjunction in the sentence: 'He is both intelligent and hardworking.'",
-                    "correctIndex": 0,
-                    "answers": [
-                      "both",
-                      "He is",
-                      "intelligent and hardworking",
-                      "and hardworking"
-                    ]
-                  },
-                  {
-                    "id": 115,
-                    "content": "Choose the sentence with the correct use of a participle phrase:",
-                    "correctIndex": 1,
-                    "answers": [
-                      "She will went to the park.",
-                      "Walking along the beach, she found seashells.",
-                      "They danced beautifully.",
-                      "He quickly reads the book."
-                    ]
-                  },
-                  {
-                    "id": 116,
-                    "content": "What is the role of the word 'unless' in the sentence: 'Unless you study, you won't pass the test.'",
-                    "correctIndex": 3,
-                    "answers": [
-                      "Subject",
-                      "Object",
-                      "Verb",
-                      "Subordinating conjunction"
-                    ]
-                  },
-                  {
-                    "id": 117,
-                    "content": "Identify the verb phrase in the sentence: 'They have been working on the project for days.'",
-                    "correctIndex": 1,
-                    "answers": [
-                      "They have",
-                      "have been working",
-                      "on the project",
-                      "for days"
-                    ]
-                  },
-                  {
-                    "id": 118,
-                    "content": "In which sentence is the verb 'may' used correctly to express permission?",
-                    "correctIndex": 0,
-                    "answers": [
-                      "May I go to the bathroom?",
-                      "He must eats his vegetables.",
-                      "They must clean their room.",
-                      "I may finish my homework tomorrow."
-                    ]
-                  },
-                  {
-                    "id": 119,
-                    "content": "Choose the sentence with the correct use of a modal adverb:",
-                    "correctIndex": 2,
-                    "answers": [
-                      "She can sings well.",
-                      "He quickly reads the book.",
-                      "Certainly, they will be there.",
-                      "They might danced at the party."
-                    ]
-                  },
-                  {
-                    "id": 120,
-                    "content": "Identify the verb in the sentence: 'She will be traveling to Paris next week.'",
-                    "correctIndex": 1,
-                    "answers": [
-                      "She",
-                      "will be traveling",
-                      "to Paris",
-                      "next week"
-                    ]
-                  },
-                  {
-                    "id": 121,
-                    "content": "What is the function of the infinitive phrase in the sentence: 'To learn a new language requires dedication.'",
-                    "correctIndex": 0,
-                    "answers": [
-                      "Subject",
-                      "Object",
-                      "Verb",
-                      "Prepositional phrase"
-                    ]
-                  },
-                  {
-                    "id": 122,
-                    "content": "Identify the adjective clause in the sentence: 'The book that you recommended is excellent.'",
-                    "correctIndex": 0,
-                    "answers": [
-                      "that you recommended",
-                      "The book",
-                      "is excellent",
-                      "you recommended"
-                    ]
-                  },
-                  {
-                    "id": 123,
-                    "content": "Choose the sentence with the correct use of a phrasal verb:",
-                    "correctIndex": 1,
-                    "answers": [
-                      "She reads quickly.",
-                      "He looks forward to the weekend.",
-                      "He eats breakfast.",
-                      "They swam in the pool."
-                    ]
-                  },
-                  {
-                    "id": 124,
-                    "content": "What type of sentence is this: 'What a beautiful painting!'",
-                    "correctIndex": 2,
-                    "answers": [
-                      "Interrogative",
-                      "Declarative",
-                      "Exclamatory",
-                      "Imperative"
-                    ]
-                  },
-                  {
-                    "id": 125,
-                    "content": "Identify the appositive phrase in the sentence: 'My friend, a talented musician, will perform tonight.'",
-                    "correctIndex": 1,
-                    "answers": [
-                      "My friend",
-                      "a talented musician",
-                      "will perform tonight",
-                      "talented musician"
-                    ]
-                  },
-                  {
-                    "id": 126,
-                    "content": "Which sentence uses an adjective derived from a verb?",
-                    "correctIndex": 1,
-                    "answers": [
-                      "She reads quick.",
-                      "His excited response was contagious.",
-                      "They swam quickly.",
-                      "I danced graceful."
-                    ]
-                  },
-                  {
-                    "id": 127,
-                    "content": "Identify the main verb in the sentence: 'They are attending the concert.'",
-                    "correctIndex": 1,
-                    "answers": [
-                      "They",
-                      "are attending",
-                      "the concert",
-                      "attending"
-                    ]
-                  },
-                  {
-                    "id": 128,
-                    "content": "What is the purpose of the adverbial clause in the sentence: 'While the rain poured, they stayed indoors.'",
-                    "correctIndex": 0,
-                    "answers": [
-                      "Describing when they stayed indoors",
-                      "Connecting independent clauses",
-                      "Indicating possession",
-                      "Separating nouns and verbs"
-                    ]
-                  },
-                  {
-                      "id": 129,
-                      "content": "What is the object of the preposition in the sentence: 'She sat beside the fireplace.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "She",
-                        "beside",
-                        "the fireplace",
-                        "sat"
-                      ]
-                    },
-                    {
-                      "id": 130,
-                      "content": "Choose the correct sentence with parallel structure:",
-                      "correctIndex": 3,
-                      "answers": [
-                        "She likes to run, swimming, and to bike.",
-                        "He enjoys reading, and to play basketball.",
-                        "They were excited about the party and going to a movie.",
-                        "She likes to run, swim, and bike."
-                      ]
-                    },
-                    {
-                      "id": 131,
-                      "content": "Identify the word that is an adjective in the sentence: 'The sky was clear and blue.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "sky",
-                        "was clear",
-                        "and",
-                        "clear and blue"
-                      ]
-                    },
-                    {
-                      "id": 132,
-                      "content": "What type of sentence is this: 'Please pass the salt.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Interrogative",
-                        "Declarative",
-                        "Exclamatory",
-                        "Imperative"
-                      ]
-                    },
-                    {
-                      "id": 134,
-                      "content": "Choose the sentence with the correct use of a comparative adjective:",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She runs more faster than him.",
-                        "Her painting is better than mine.",
-                        "They played good in the game.",
-                        "He sings beautifully."
-                      ]
-                    },
-                    {
-                      "id": 135,
-                      "content": "What is the function of the infinitive phrase in the sentence: 'To succeed in life is his goal.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Prepositional phrase"
-                      ]
-                    },
-                    {
-                      "id": 136,
-                      "content": "Identify the adverb in the sentence: 'She speaks softly.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "She speaks",
-                        "softly speak",
-                        "softly",
-                        "She"
-                      ]
-                    },
-                    {
-                      "id": 137,
-                      "content": "Which sentence correctly uses the past perfect tense?",
-                      "correctIndex": 3,
-                      "answers": [
-                        "He will had finished his work.",
-                        "They is already gone home.",
-                        "She haven't seen the movie.",
-                        "She had read the book before watching the movie."
-                      ]
-                    },
-                    {
-                      "id": 138,
-                      "content": "Identify the compound subject in the sentence: 'Apples and oranges are my favorite fruits.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Apples and oranges",
-                        "are my favorite fruits",
-                        "Apples",
-                        "oranges"
-                      ]
-                    },
-                    {
-                      "id": 139,
-                      "content": "What is the role of the word 'because' in the sentence: 'She was happy because she won the award.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Subordinating conjunction"
-                      ]
-                    },
-                    {
-                      "id": 140,
-                      "content": "Choose the sentence with the correct use of a modal verb:",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She might sings well.",
-                        "He can play the guitar.",
-                        "Certain, they should be there.",
-                        "They danced at the party."
-                      ]
-                    },
-                    {
-                      "id": 141,
-                      "content": "Identify the participle in the sentence: 'The smiling girl waved at us.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "smiling",
-                        "The smiling girl",
-                        "waved at us",
-                        "at us"
-                      ]
-                    },
-                    {
-                      "id": 142,
-                      "content": "Which sentence uses a conjunction to combine independent clauses?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She reads books and paints.",
-                        "He wanted to go, but it started raining.",
-                        "The cat is cute and playful.",
-                        "They enjoyed the movie, and they went home."
-                      ]
-                    },
-                    {
-                      "id": 143,
-                      "content": "Identify the adjective in the sentence: 'The old castle stood on the hill.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "old",
-                        "castle",
-                        "stood on the hill",
-                        "hill"
-                      ]
-                    },
-                    {
-                      "id": 144,
-                      "content": "What type of sentence is this: 'How delicious the cake is!'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "Interrogative",
-                        "Declarative",
-                        "Exclamatory",
-                        "Imperative"
-                      ]
-                    },
-                    {
-                      "id": 145,
-                      "content": "Identify the verb in the sentence: 'He should have finished his homework.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "He should",
-                        "have finished",
-                        "his homework",
-                        "finished"
-                      ]
-                    },
-                    {
-                      "id": 146,
-                      "content": "Which sentence uses an adjective clause?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She swims quickly.",
-                        "The book that you recommended is excellent.",
-                        "They are playing outside.",
-                        "He eats his breakfast."
-                      ]
-                    },
-                    {
-                      "id": 147,
-                      "content": "Identify the gerund phrase in the sentence: 'Running in the morning is refreshing.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Running in the morning",
-                        "is refreshing",
-                        "Running",
-                        "in the morning"
-                      ]
-                    },
-                    {
-                      "id": 148,
-                      "content": "Choose the correct sentence with parallel structure:",
-                      "correctIndex": 3,
-                      "answers": [
-                        "He enjoys playing basketball and to swim.",
-                        "She likes to dance, and reading.",
-                        "They were excited about the party and went to a movie.",
-                        "She likes to dance and to sing."
-                      ]
-                    },
-                    {
-                      "id": 149,
-                      "content": "What is the function of the adjective phrase in the sentence: 'The book with the red cover is mine.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "Subject",
-                        "Subject complement",
-                        "Verb",
-                        "Object"
-                      ]
-                    },
-                    {
-                      "id": 150,
-                      "content": "Identify the verb phrase in the sentence: 'She had been studying for hours.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She had",
-                        "had been studying",
-                        "for hours",
-                        "studying for hours"
-                      ]
-                    },
-                    {
-                      "id": 151,
-                      "content": "Which sentence uses an adverb clause of condition?",
-                      "correctIndex": 0,
-                      "answers": [
-                        "If you finish your homework, you can go outside.",
-                        "She plays the piano beautifully.",
-                        "They were excited about the party and going to a movie.",
-                        "The cat is playful."
-                      ]
-                    },
-                    {
-                      "id": 152,
-                      "content": "What is the purpose of the word 'yet' in the sentence: 'She hasn't finished her book yet.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Adverb indicating time"
-                      ]
-                    },
-                    {
-                      "id": 153,
-                      "content": "Choose the sentence with the correct use of a superlative adjective:",
-                      "correctIndex": 2,
-                      "answers": [
-                        "She is more taller than him.",
-                        "He is taller than her.",
-                        "Mount Everest is the highest mountain in the world.",
-                        "The dog barked loud."
-                      ]
-                    },
-                    {
-                      "id": 154,
-                      "content": "Identify the conjunction in the sentence: 'He wants to go to the movies or stay home.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "He wants",
-                        "to go",
-                        "to the movies",
-                        "or"
-                      ]
-                    },
-                    {
-                      "id": 155,
-                      "content": "What is the role of the word 'although' in the sentence: 'Although it rained, we still had a great time.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Subordinating conjunction"
-                      ]
-                    },
-                    {
-                      "id": 156,
-                      "content": "Identify the noun clause in the sentence: 'She asked if I could help her.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "if I could help her",
-                        "She asked",
-                        "help her",
-                        "I could help her"
-                      ]
-                    },
-                    {
-                      "id": 157,
-                      "content": "Which sentence uses an adjective derived from a noun?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She runs quickly.",
-                        "The painting is artistic.",
-                        "They danced at the party.",
-                        "He sings beautifully."
-                      ]
-                    },
-                    {
-                      "id":158,
-                      "content": "Identify the modal verb in the sentence: 'She can play the piano.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "She can",
-                        "play the piano",
-                        "She",
-                        "the piano"
-                      ]
-                    },
-                    {
-                      "id": 159,
-                      "content": "Choose the sentence with the correct use of an infinitive phrase:",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She will went to the park.",
-                        "To visit the museum is our plan for today.",
-                        "They swam quickly in the pool.",
-                        "He reads books."
-                      ]
-                    },
-                    {
-                      "id": 160,
-                      "content": "What is the object of the preposition in the sentence: 'He walked through the park.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "He walked",
-                        "through",
-                        "the park",
-                        "walked through"
-                      ]
-                    },
-                    {
-                      "id": 161,
-                      "content": "Identify the adverbial phrase of place in the sentence: 'They live by the river.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "They live",
-                        "by the river",
-                        "They",
-                        "the river"
-                      ]
-                    },
-                    {
-                      "id": 162,
-                      "content": "What is the function of the gerund phrase in the sentence: 'Swimming in the pool is her favorite activity.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Prepositional phrase"
-                      ]
-                    },
-                    {
-                      "id": 163,
-                      "content": "Identify the pronoun in the sentence: 'She was singing a beautiful song.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "She",
-                        "was singing",
-                        "a beautiful song",
-                        "singing"
-                      ]
-                    },
-                    {
-                      "id": 164,
-                      "content": "Choose the sentence with the correct use of a participial phrase:",
-                      "correctIndex": 2,
-                      "answers": [
-                        "The dog barked loudly.",
-                        "She plays the guitar skillfully.",
-                        "Smiling with joy, she thanked the audience.",
-                        "They ran quickly."
-                      ]
-                    },
-                    {
-                      "id": 165,
-                      "content": "In which sentence is the verb 'may' used correctly to express possibility?",
-                      "correctIndex": 3,
-                      "answers": [
-                        "May you pass the salt?",
-                        "They must do their homework.",
-                        "He may to come later.",
-                        "It may rain tomorrow."
-                      ]
-                    },
-                    {
-                      "id": 166,
-                      "content": "Identify the adjective clause in the sentence: 'The book that he lent me is amazing.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "that he lent me",
-                        "The book",
-                        "is amazing",
-                        "he lent me"
-                      ]
-                    },
-                    {
-                      "id": 167,
-                      "content": "What is the purpose of the word 'unless' in the sentence: 'Unless you study, you won't succeed.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Subordinating conjunction"
-                      ]
-                    },
-                    {
-                      "id": 168,
-                      "content": "Which sentence uses an adverb clause of manner?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "He plays the piano skillfully.",
-                        "They walked to school.",
-                        "She sings as if she's on stage.",
-                        "The cat is playful."
-                      ]
-                    },
-                    {
-                      "id": 169,
-                      "content": "Identify the linking verb in the sentence: 'The flower smells sweet.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "The flower",
-                        "smells",
-                        "sweet",
-                        "The"
-                      ]
-                    },
-                    {
-                      "id": 170,
-                      "content": "Identify the compound sentence in the following options:",
-                      "correctIndex": 3,
-                      "answers": [
-                        "She ran quickly.",
-                        "He loves reading books.",
-                        "They played outside.",
-                        "She wanted to go to the park, but it was raining."
-                      ]
-                    },
-                    {
-                      "id": 171,
-                      "content": "What type of sentence is this: 'Please pass the salt.'?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "Interrogative",
-                        "Imperative",
-                        "Exclamatory",
-                        "Declarative"
-                      ]
-                    },
-                    {
-                      "id": 172,
-                      "content": "Identify the verb phrase in the sentence: 'They will be dancing at the party.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "They will be",
-                        "dancing",
-                        "at the party",
-                        "dancing at the party"
-                      ]
-                    },
-                    {
-                      "id": 173,
-                      "content": "Which sentence uses an adjective clause?",
-                      "correctIndex": 2,
-                      "answers": [
-                        "He walked to the store.",
-                        "She sings beautifully.",
-                        "The house that was built last year is huge.",
-                        "They read a book."
-                      ]
-                    },
-                    {
-                      "id": 174,
-                      "content": "What is the purpose of the word 'because' in the sentence: 'She went to the beach because the weather was sunny.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Subordinating conjunction"
-                      ]
-                    },
-                    {
-                      "id": 175,
-                      "content": "Choose the correct sentence with the use of an appositive phrase:",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She swims in the pool.",
-                        "My friend Sarah, a talented artist, won an award.",
-                        "They ran quickly to catch the bus.",
-                        "He enjoys playing video games."
-                      ]
-                    },
-                    {
-                      "id": 176,
-                      "content": "Identify the indirect object in the sentence: 'She gave her sister a gift.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She gave",
-                        "her sister",
-                        "a gift",
-                        "gave her sister"
-                      ]
-                    },
-                    {
-                      "id": 177,
-                      "content": "What is the function of the word 'not' in the sentence: 'I do not like spicy food.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Negation"
-                      ]
-                    },
-                    {
-                      "id": 178,
-                      "content": "Identify the gerund phrase in the sentence: 'Running in the park is her favorite activity.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "Running in the park",
-                        "is her favorite activity",
-                        "Run",
-                        "the park is her favorite activity"
-                      ]
-                    },
-                    {
-                      "id": 179,
-                      "content": "Choose the sentence with the correct use of a possessive pronoun:",
-                      "correctIndex": 3,
-                      "answers": [
-                        "He is taller than him.",
-                        "She sings beautifully.",
-                        "They danced at the party.",
-                        "That book is mine."
-                      ]
-                    },
-                    {
-                      "id": 180,
-                      "content": "Identify the adjective in the sentence: 'The blue sky was clear.'",
-                      "correctIndex": 0,
-                      "answers": [
-                        "blue",
-                        "sky",
-                        "was clear",
-                        "The"
-                      ]
-                    },
-                    {
-                      "id": 181,
-                      "content": "What is the antecedent of the pronoun 'it' in the sentence: 'The dog chased the ball and caught it.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "dog",
-                        "chased",
-                        "ball",
-                        "caught it"
-                      ]
-                    },
-                    {
-                      "id": 182,
-                      "content": "Identify the verb in the sentence: 'She was reading a book.'",
-                      "correctIndex": 1,
-                      "answers": [
-                        "She",
-                        "was reading",
-                        "a book",
-                        "reading a book"
-                      ]
-                    },
-                    {
-                      "id": 183,
-                      "content": "Which sentence uses a demonstrative pronoun?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "He plays the piano beautifully.",
-                        "This is my favorite book.",
-                        "They walked to school.",
-                        "The cat is playful."
-                      ]
-                    },
-                    {
-                      "id": 184,
-                      "content": "What is the purpose of the word 'if' in the sentence: 'I will go to the park if it stops raining.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Subordinating conjunction"
-                      ]
-                    },
-                   
-                    {
-                      "id": 185,
-                      "content": "Choose the sentence with the correct use of a comparative adjective:",
-                      "correctIndex": 2,
-                      "answers": [
-                        "She sings beautifully.",
-                        "He is more smarter than me.",
-                        "The sun is hotter today.",
-                        "They danced at the party."
-                      ]
-                    },
-                    {
-                      "id": 186,
-                      "content": "In which sentence is the verb 'could' used correctly to express possibility?",
-                      "correctIndex": 1,
-                      "answers": [
-                        "They must study for the test.",
-                        "She could come to the party if she finishes her homework.",
-                        "He can to play the guitar.",
-                        "Could you please pass the salt?"
-                      ]
-                    },
-                    {
-                      "id": 187,
-                      "content": "Identify the adverb in the sentence: 'He speaks softly.'",
-                      "correctIndex": 2,
-                      "answers": [
-                        "He speaks",
-                        "very",
-                        "softly",
-                        "He"
-                      ]
-                    },
-                    {
-                      "id": 188,
-                      "content": "What is the function of the word 'nevertheless' in the sentence: 'She studied hard; nevertheless, she failed the exam.'",
-                      "correctIndex": 3,
-                      "answers": [
-                        "Subject",
-                        "Object",
-                        "Verb",
-                        "Conjunctive adverb"
-                      ]
-                    }
+                  }
           ]
       }
        
