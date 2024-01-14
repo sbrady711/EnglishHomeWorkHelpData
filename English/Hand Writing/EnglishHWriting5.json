@@ -9,143 +9,51 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": " Introduction to the Letter 'c'",
-                            "topicContent": "Introduce the cursive letter 'c' and its unique features. Discuss the concept of the 'Curly Caterpillar' family.Engage students in discussions about words that start with the letter 'c.'"
+                            "topicTitle": " Cursive writing follow along 1",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0be1618e6c35a/64f78865c4e8fede/1440.mp4"
                         },
+                       
                         {
                             "id": 1,
-                            "topicTitle": "Forming the Letter 'c' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'c.' Emphasize the proper shape, starting point, and direction.Provide opportunities for students to trace and write 'c' independently."
-                        },
+                            "topicTitle": "Cursive writingv follow along 2",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0be1618e6c72e/ec3b9d75f45fdd90/1440.mp4"                        },
+              
                         {
                             "id": 2,
-                            "topicTitle": "Forming the Letter 'c' - Part 2",
-                            "topicContent": "Guide students in practicing the formation of the letter 'c.' Emphasize the proper shape, starting point, and direction. Provide opportunities for students to trace and write 'c' independently."
+                            "topicTitle": "Cursive writingv follow along 3",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0be161be4c62e/d97400e7a60525da/1440.mp4"
                         },
+                     
                         {
                             "id": 3,
-                            "topicTitle": "Introduction to the Letter 'a'",
-                            "topicContent": "Introduce the formation of the cursive letter 'a.'Discuss the characteristics of 'a' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 'a.'"
+                            "topicTitle": "Cursive writingv follow along 4",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0be161de7c68f/3a034fa18ef7a3d4/1440.mp4"
                         },
+             
                         {
                             "id": 4,
-                            "topicTitle": " Forming the Letter 'a' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'a.'Emphasize the proper shape and connections of 'a.' Provide opportunities for students to trace and write 'a' independently."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Forming the Letter 'a' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'a.' Include exercises that involve joining 'a' to other letters. Discuss words and phrases that feature the letter 'a.'"
+                            "topicTitle": "Cursive writingv follow along 5",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0be161de3c35a/0271b19fb776db57/1440.mp4"
                         },
+                  
+                        {
+                            "id": 5,
+                            "topicTitle": "Cursive writingv follow along 6",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0be161de1c15a/217bd50b851a297f/1440.mp4"
+                        },
+                
                         {
                             "id": 6,
-                            "topicTitle": "Introduction to the Letter 'd'",
-                            "topicContent": "Introduce the formation of the cursive letter 'd.'Discuss the unique features of 'd' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 'd.'"
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": " Forming the Letter 'd' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'd.'Emphasize the proper shape, starting point, and direction.Provide opportunities for students to trace and write 'd' independently."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": " Forming the Letter 'd' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'd.'Include exercises that involve joining 'd' to other letters. Discuss words and phrases that feature the letter 'd.'"
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Introduction to the Letter 'e'",
-                            "topicContent": "Introduce the formation of the cursive letter 'e.' Discuss the characteristics of 'e' within the 'Curly Caterpillar' family. Engage students in identifying words that contain the letter 'e.'"
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Forming the Letter 'e' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'e.'  Emphasize the unique shape and connections of 'e.'  Provide opportunities for students to trace and write 'e' independently."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Forming the Letter 'e' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'e.'Include exercises that involve joining 'e' to other letters. Discuss words and phrases that feature the letter 'e.'"
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Introduction to the Letter 's'",
-                            "topicContent": "Introduce the formation of the cursive letter 's.'Discuss the characteristics of 's' within the 'Curly Caterpillar' family. Encourage students to identify words that contain the letter 's.'"
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Forming the Letter 's' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 's.'Emphasize the proper shape and fluid motion of 's.' Provide opportunities for students to trace and write 's' independently."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Forming the Letter 's' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 's.' Include exercises that involve joining 's' to other letters.Discuss words and phrases that feature the letter 's.'"
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Introduction to the Letter 'g'",
-                            "topicContent": "Introduce the formation of the cursive letter 'g.' Discuss the unique features of 'g' within the 'Curly Caterpillar' family.    Engage students in identifying words that contain the letter 'g'."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Forming the Letter 'g' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'g.' Emphasize the proper shape and connections of 'g.'Provide opportunities for students to trace and write 'g' independently."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Forming the Letter 'g' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'g.'Include exercises that involve joining 'g' to other letters.    Discuss words and phrases that feature the letter 'g.'"
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Introduction to the Letter 'f'",
-                            "topicContent": "Introduce the formation of the cursive letter 'f.' Discuss the characteristics of 'f' within the 'Curly Caterpillar' family.Engage students in identifying words that contain the letter 'f.'"
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Forming the Letter 'f' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'f.'Emphasize the unique shape and connections of 'f.'Provide opportunities for students to trace and write 'f' independently."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Forming the Letter 'f' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'f.' Include exercises that involve joining 'f' to other letters. Discuss words and phrases that feature the letter 'f.'"
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": " Introduction to the Letter 'q'",
-                            "topicContent": "Introduce the formation of the cursive letter 'q.'Discuss the unique features of 'q' within the 'Curly Caterpillar' family.Encourage students to identify words that contain the letter 'q.'"
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Forming the Letter 'q' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'q.'Emphasize the proper shape and connections of 'q.' Provide opportunities for students to trace and write 'q' independently."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Forming the Letter 'q' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'q.'Include exercises that involve joining 'q' to other letters. Discuss words and phrases that feature the letter 'q.'"
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Introduction to the Letter 'o'",
-                            "topicContent": "Introduce the formation of the cursive letter 'o.'Discuss the characteristics of 'o' within the 'Curly Caterpillar' family. Engage students in identifying words that contain the letter 'o.'"
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": "Forming the Letter 'o' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'o.'Emphasize the unique shape and connections of 'o.'Provide opportunities for students to trace and write 'o' independently."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Forming the Letter 'o' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'o.'Include exercises that involve joining 'o' to other letters. Discuss words and phrases that feature the letter 'o.'"
-                     
-                }
+                            "topicTitle": "Cursive writingv follow along 7",
+                            "topicContent": "You will need a lined copy and a pencil or pen.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0be161ce4c48f/e40da278c6d77c8d/1440.mp4"
+                        }
                     ]
       },
 "test": {
@@ -154,7 +62,7 @@
 "time": "30 minutes",
 "description": "Put your Phonics and letter sound knowledge to the test.",
 "questions": [
-          
+    
     {
       "id": 0,
       "content": "Write the word 'action'.",
