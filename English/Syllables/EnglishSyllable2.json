@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 1,
@@ -10,43 +11,35 @@
           {
                             "id": 0,
                             "topicTitle": "Rote Imitation and Enjoyment of Rhyme and Alliteration",
-                            "topicContent": "Engage students in rote imitation of rhyming words and alliterative phrases. Share examples like 'pool, drool, tool' and the tongue-twister 'Seven silly snakes sang songs seriously.'"
+                            "topicContent": "Engage in rote imitation of rhyming words and alliterative phrases. '",
+                            "video": "https://api-files.sproutvideo.com/file/7090d1b51c1ce6c0f9/5b62aeffc64d7cc4/1080.mp4"
                         },
                         {
                             "id": 1,
                             "topicTitle": "Rhyme Recognition and Odd Word Out",
-                            "topicContent": "Teach students to recognize rhyming words and identify the odd word out in a set. Provide exercises like 'Which two words rhyme: stair, steel, chair?'"
+                            "topicContent": "Learn to recognize rhyming words and identify the odd word out in a set.'",
+                            "video": "https://api-files.sproutvideo.com/file/a790d1b51c1fe3c52e/c92acef25ccb4b96/1080.mp4"
                         },
+                   
                         {
                             "id": 2,
-                            "topicTitle": "Recognition of Phonemic Changes and Clapping Syllables",
-                            "topicContent": "Help students recognize phonemic changes in words and practice clapping and counting syllables in different words. Provide examples like 'Hickory Dickory Clock. That’s not right!' and syllable counting for words."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Distinguishing Phonemes in a Series and Blending Onset and Rime",
-                            "topicContent": "Guide students in distinguishing individual phonemes in a series and blending onset and rime to form words. Use activities such as matching initial sounds and blending sounds to form words."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Producing a Rhyme and Matching Initial Sounds",
-                            "topicContent": "Encourage students to produce rhyming words and match initial sounds. Provide prompts like 'Tell me a word that rhymes with car, and 'Say the first sound in ride (/r/); sock (/s/); love (/l/)'."
+                            "topicTitle": "Producing a Rhyme and Matching rime Sounds",
+                            "topicContent": "Produce rhyming words and match initial sounds.",
+                            "video": "https://api-files.sproutvideo.com/file/d390d1b51c1ce3c25a/21833e27069d00bd/1080.mp4"
                     
                 },
                 {
-                            "id": 5,
+                            "id": 3,
                             "topicTitle": "Compound Word and Syllable Deletion",
-                            "topicContent": "Introduce compound word deletion and syllable deletion exercises. Use prompts like 'Say cowboy. Say it again, but don’t say cow' and 'Say parsnip. Say it again, but don’t say par.,"
+                            "topicContent": "Introduction to compound word deletion and syllable deletion exercises.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d1b51c1fe3cacd/d96ff5ae7965cc0e/1080.mp4"
                         },
+                      
                         {
-                            "id": 6,
-                            "topicTitle": "Blending of Two and Three Phonemes and Phoneme Segmentation",
-                            "topicContent": "Teach students to blend two and three phonemes and segment phonemes in words. Use examples like blending /z/ /ū/ to form 'zoo' and segmenting sounds in words like 'sh-e.'"
-                        },
-                        {
-                            "id": 7,
+                            "id": 4,
                             "topicTitle": "Phoneme Substitution and Sound Deletion",
-                            "topicContent": "Guide students in substituting phonemes to build new words and practicing sound deletion in various positions. Use prompts like 'Change the /j/ in cage to /n/.'"
+                            "topicContent": "A Guide in substituting phonemes to build new words and practicing sound deletion in various positions. Use prompts like 'Change the /j/ sound in cage to /n/.'",
+                            "video": "https://api-files.sproutvideo.com/file/7090d1b51c1ce2c4f9/95f76dd7fee78ac1/1440.mp4"
                         }
                     ]
                 },
@@ -65,7 +58,7 @@
                    },
                    {
                      "id": 1,
-                     "content": "Which word has the same ending sound as 'lamp'?",
+                     "content": "Which word has the same rhyme sound as 'lamp'?",
                      "correctIndex": 2,
                      "answers": ["Book", "Jump", "Camp", "Star"]
                    },
@@ -156,7 +149,7 @@
                    {
                      "id": 16,
                      "content": "How many syllables are in the word 'robot'?",
-                     "correctIndex": 2,
+                     "correctIndex": 1,
                      "answers": ["1", "2", "3", "4"]
                    },
                    {
@@ -180,8 +173,8 @@
 {
   "id": 20,
   "content": "How many syllables are in the word 'onomatopoeia'?",
-  "correctIndex": 3,
-  "answers": ["1", "2", "4", "5"]
+  "correctIndex": 1,
+  "answers": ["1", "6", "4", "5"]
 },
                     {
                       "id": 21,
@@ -235,7 +228,7 @@
                       "id": 29,
                       "content": "Which word has the same ending sound as 'cake'?",
                       "correctIndex": 2,
-                      "answers": ["Book", "Lake", "Bake", "Star"]
+                      "answers": ["Book", "Late", "Bake", "Star"]
                     },
                     {
                       "id": 30,
@@ -287,8 +280,8 @@
                     },
                     {
                       "id": 38,
-                      "content": "How many syllables are in the word 'robot'?",
-                      "correctIndex": 1,
+                      "content": "How many syllables are in the word 'robotic'?",
+                      "correctIndex": 2,
                       "answers": ["1", "2", "3", "4"]
                     },
                     {
@@ -462,7 +455,7 @@
                     {
                       "id": 67,
                       "content": "How many syllables are in the word 'garden'?",
-                      "correctIndex": 2,
+                      "correctIndex": 1,
                       "answers": ["1", "2", "3", "4"]
                     },
                     {
@@ -488,55 +481,8 @@
                       "content": "How many syllables are in the word 'butter'?",
                       "correctIndex": 1,
                       "answers": ["1", "2", "3", "4"]
-                    },
-                    {
-                      "id": 72,
-                      "content": "Which word ends with the same sound as 'ball'?",
-                      "correctIndex": 0,
-                      "answers": ["Tall", "Star", "Cat", "Bell"]
-                    },
-                    {
-                      "id": 73,
-                      "content": "How many syllables are in the word 'dinosaur'?",
-                      "correctIndex": 2,
-                      "answers": ["1", "2", "3", "4"]
-                    },
-                    {
-                      "id": 74,
-                      "content": "Which word has the same middle sound as 'rain'?",
-                      "correctIndex": 2,
-                      "answers": ["Star", "Jump", "Cane", "Map"]
-                    },
-                    {
-                      "id": 75,
-                      "content": "How many syllables are in the word 'firetruck'?",
-                      "correctIndex": 2,
-                      "answers": ["1", "2", "3", "4"]
-                    },
-                    {
-                      "id": 76,
-                      "content": "Which word starts with the same sound as 'tree'?",
-                      "correctIndex": 3,
-                      "answers": ["Star", "Tall", "Cat", "Train"]
-                    },
-                    {
-                      "id": 77,
-                      "content": "How many syllables are in the word 'watermelon'?",
-                      "correctIndex": 3,
-                      "answers": ["1", "2", "3", "4"]
-                    },
-                    {
-                      "id": 78,
-                      "content": "Which word ends with the same sound as 'pie'?",
-                      "correctIndex": 2,
-                      "answers": ["Bike", "Star", "Tie", "Book"]
-                    },
-                    {
-                      "id": 79,
-                      "content": "How many syllables are in the word 'superhero'?",
-                      "correctIndex": 3,
-                      "answers": ["1", "2", "3", "4"]
                     }
+                
                    
                ]
            }
