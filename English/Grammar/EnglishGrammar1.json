@@ -1,0 +1,668 @@
+
+[
+    {
+        "id": 0,
+        "category": "Grammer",
+        "description": "Strand units: Reading and writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+     
+                        {
+                            "id": 0,
+                            "topicTitle": "Capital Letters",
+                            "topicContent": "Learn to identify when capital letters are used, such as at the beginning of a sentence, for proper nouns, and for the word 'I.'",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b01d1ae0c898/edbc32db69ac6eff/1080.mp4"                         },
+                    
+                        {
+                            "id": 1,
+                            "topicTitle": "Nouns",
+                            "topicContent": "Review and expand on nouns as names of people, places, things, or ideas. Practice identifying nouns in sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0b01d14ebc1c4/6ef9133c935163f4/1080.mp4"
+                        },
+                        
+                        
+                        
+                        {
+                            "id": 2,
+                            "topicTitle": "Common and Proper Nouns",
+                            "topicContent": "Introduction to proper nouns as names of specific people, places, and things. Provide examples and explain their capitalization.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d0b01d15eac0f9/2b0107f58c5a464f/1080.mp4"
+                        },
+                      
+                        
+                {
+                            "id": 3,
+                            "topicTitle": "'a' or 'an'",
+                            "topicContent": "The indefinite articles ('a' and 'an') and guide on when to use each based on the following sound in the next word.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b01d15eec663/fcf36ed7961d29bc/1080.mp4"
+                        },
+                        
+                        {
+                            "id": 4,
+                            "topicTitle": "Pronouns",
+                            "topicContent": "Introduce pronouns as words that take the place of nouns (e.g., he, she, it, they). Provide examples and practice using pronouns in sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b01c1deaca2e/618452b184e8c4d9/1080.mp4"
+                        },
+                        {
+                            "id": 5,
+                            "topicTitle": "Verbs",
+                            "topicContent": "Learn what verbs are and provide examples. Learn to understand that verbs show action or state of being.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b01c1deacb63/f5a0aa399f40df05/1080.mp4"
+                        },
+                        {
+                            "id": 6,
+                            "topicTitle": "Simple Tenses: Past, Present, Future",
+                            "topicContent": "Review simple verb tenses (past, present, future) and provide more in-depth examples and exercises to practice using each tense correctly.",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0b01c1ce6c72e/d16b4de5517a2d7c/1080.mp4"
+                        },
+                        {
+                            "id": 7,
+                            "topicTitle": "Root Words, Prefixes, and Suffixes",
+                            "topicContent": "Explore the concept of root words and how prefixes and suffixes can be added to change their meanings.",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0b01c1ceace8f/633ec86928b98b4d/1080.mp4"
+                        },
+                        
+                        
+                        {
+                            "id": 8,
+                            "topicTitle": "Adjectives",
+                            "topicContent": "Introduction to adjectives as words that describe nouns. Learn how adjectives provide more information about nouns.",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0b01c1fe3cf98/ad74bb0394526053/1080.mp4"
+                        },
+                        
+                {
+                            "id": 9,
+                            "topicTitle": "Adverbs",
+                            "topicContent": "Learn adverbs as words that describe verbs, providing information about how, when, or where an action occurs.",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0b01c1ee7c2f0/0a0b3694c872a3b0/1080.mp4"
+                        },
+                   
+                      
+                      
+                {
+                            "id": 10,
+                            "topicTitle": "Speach marks, Punctuation and Questions",
+                            "topicContent": "Learn how to form questions using question words (who, what, where, when, why, how). Explain the use of question marks to end questions.",
+                            "video": "https://api-files.sproutvideo.com/file/ea90d0b01c19eecb63/34c4c7daef213a74/1080.mp4"
+                        }
+                   
+                      
+                      
+                      
+                        
+                        
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Grammar knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "Which of the following sentences uses correct capitalization?",
+                "correctIndex": 0,
+                "answers": [
+                  "The sun is shining today.",
+                  "the Sun is shining today.",
+                  "The Sun is Shining today.",
+                  "the sun is shining today."
+                ]
+              },
+              {
+                "id": 1,
+                "content": "Choose the sentence with the correct punctuation.",
+                "correctIndex": 2,
+                "answers": [
+                  "i like apples, oranges and Bananas.",
+                  "I like apples, oranges, and bananas",
+                  "I like apples, oranges, and bananas.",
+                  "I like apples, oranges and, Bananas."
+                ]
+              },
+              {
+                "id": 2,
+                "content": "What type of word is 'ball' in the sentence 'The ball is red.'?",
+                "correctIndex": 0,
+                "answers": ["Noun", "Verb", "Adjective", "Adverb"]
+              },
+              {
+                "id": 3,
+                "content": "Which of the following is a proper noun?",
+                "correctIndex": 3,
+                "answers": ["book", "school", "cat", "Paris"]
+              },
+              {
+                "id": 4,
+                "content": "Which word is a common noun?",
+                "correctIndex": 2,
+                "answers": ["Troy", "Monaghan", "Dog", "Emily"]
+              },
+              {
+                "id": 5,
+                "content": "In which sentence is 'an' used correctly?",
+                "correctIndex": 0,
+                "answers": [
+                  "I have an apple.",
+                  "I have a apple.",
+                  "I have an book.",
+                  "I have a book."
+                ]
+              },
+              {
+                "id": 6,
+                "content": "What type of word is 'he' in the sentence 'He is running.'?",
+                "correctIndex": 3,
+                "answers": ["Noun", "Verb", "Adjective", "Pronoun"]
+              },
+              {
+                "id": 7,
+                "content": "What is a verb?",
+                "correctIndex": 0,
+                "answers": [
+                  "A word that shows action or state of being.",
+                  "A describing word.",
+                  "A word that takes the place of a noun.",
+                  "A word that names a person, place, or thing."
+                ]
+              },
+              {
+                "id": 8,
+                "content": "Choose the correct sentence in the past tense.",
+                "correctIndex": 1,
+                "answers": [
+                  "She plays the piano yesterday.",
+                  "She played the piano yesterday.",
+                  "She play the piano yesterday.",
+                  "She will play the piano yesterday."
+                ]
+              },
+              {
+                "id": 9,
+                "content": "Which sentence uses the future tense?",
+                "correctIndex": 2,
+                "answers": [
+                  "He eats pizza every Friday.",
+                  "They are eating lunch now.",
+                  "She will bake a cake tomorrow.",
+                  "I am reading a book."
+                ]
+              },
+              {
+                "id": 10,
+                "content": "What does an adjective do?",
+                "correctIndex": 1,
+                "answers": [
+                  "Takes the place of a noun.",
+                  "Describes a noun.",
+                  "Shows action or state of being.",
+                  "Connects words or groups of words."
+                ]
+              },
+              {
+                "id": 11,
+                "content": "Which word is an adverb?",
+                "correctIndex": 3,
+                "answers": ["Run", "Blue", "Happy", "Quickly"]
+              },
+              {
+                "id": 12,
+                "content": "Which sentence uses speech marks correctly?",
+                "correctIndex": 1,
+                "answers": [
+                  "\"I love ice cream.  she said.",
+                  "\"I love ice cream\", she said.",
+                  "I love ice cream, she said.",
+                  "I love ice cream\" she said."
+                ]
+              }
+,
+              {
+                "id": 13,
+                "content": "What is the question word in the sentence 'Where is my book?'",
+                "correctIndex": 0,
+                "answers": ["Where", "Is", "My", "Book"]
+              },
+              {
+                "id": 14,
+                "content": "Which sentence uses a prefix?",
+                "correctIndex": 1,
+                "answers": [
+                  "The cat sleeps on the mat.",
+                  "The cat was asleep on the mat.",
+                  "The cat will sleep on the mat.",
+                  "The cat is sleeping on the mat."
+                ]
+              },
+           
+              {
+                "id": 15,
+                "content": "Which sentence is written correctly?",
+                "correctIndex": 1,
+                "answers": [
+                  "Yesterday I goes to the park.",
+                  "Yesterday, I went to the park.",
+                  "Yesterday I go to the park.",
+                  "Yesterday I will go to the park."
+                ]
+              },
+              {
+                "id": 16,
+                "content": "What does a pronoun do?",
+                "correctIndex": 1,
+                "answers": [
+                  "Describes a noun.",
+                  "Takes the place of a noun.",
+                  "Shows action or state of being.",
+                  "Connects words or groups of words."
+                ]
+              },
+              {
+                "id": 17,
+                "content": "Which sentence does not contain a suffix?",
+                "correctIndex": 1,
+                "answers": [
+                  "The sun shines brightly.",
+                  "He's the man.",
+                  "She dances gracefully.",
+                  "The cat sleeps peacefully."
+                ]
+              },
+              {
+                "id": 18,
+                "content": "In the sentence 'Maya will visit the zoo.', what type of word is 'Maya'?",
+                "correctIndex": 2,
+                "answers": ["Common Noun", "Verb", "Proper Noun", "Adjective"]
+              },
+              
+              {
+                "id": 19,
+                "content": "Choose the correct sentence with the right capitalization.",
+                "correctIndex": 1,
+                "answers": [
+                  "the Sun sets in the west.",
+                  "The sun sets in the west.",
+                  "The Sun Sets in the West.",
+                  "the sun Sets in the West."
+                ]
+              },
+              {
+                "id": 20,
+                "content": "Which sentence uses a comma correctly?",
+                "correctIndex": 2,
+                "answers": [
+                  "He likes, to swim and play.",
+                  "She ate the pizza then she drank, soda.",
+                  "I enjoy reading, drawing, and singing.",
+                  "They went to the park, and had ice cream."
+                ]
+              },
+              {
+                "id": 21,
+                "content": "What type of word is 'teacher' in the sentence 'The teacher is kind.'?",
+                "correctIndex": 0,
+                "answers": ["Noun", "Verb", "Adjective", "Adverb"]
+              },
+              {
+                "id": 22,
+                "content": "Which of the following is a proper noun?",
+                "correctIndex": 1,
+                "answers": ["tree", "New York", "ball", "book"]
+              },
+              {
+                "id": 23,
+                "content": "Choose the correct common noun.",
+                "correctIndex": 2,
+                "answers": ["Dean", "Oliver", "Dog", "Eiffel Tower"]
+              },
+              {
+                "id": 24,
+                "content": "In which sentence is 'a' used correctly?",
+                "correctIndex": 0,
+                "answers": [
+                  "I saw a bird.",
+                  "I saw an bird.",
+                  "I saw an cat.",
+                  "I saw an cat."
+                ]
+              },
+              {
+                "id": 25,
+                "content": "What type of word is 'they' in the sentence 'They are playing soccer.'?",
+                "correctIndex": 1,
+                "answers": ["Noun", "Pronoun", "Adjective", "Verb"]
+              },
+              {
+                "id": 26,
+                "content": "What is the definition of a verb?",
+                "correctIndex": 0,
+                "answers": [
+                  "A word that shows action or state of being.",
+                  "A describing word.",
+                  "A word that takes the place of a noun.",
+                  "A word that names a person, place, or thing."
+                ]
+              },
+              {
+                "id": 27,
+                "content": "Choose the sentence in the past tense.",
+                "correctIndex": 3,
+                "answers": [
+                  "She sings beautifully.",
+                  "They will go to the zoo.",
+                  "I am eating breakfast now.",
+                  "He painted a picture yesterday."
+                ]
+              },
+              {
+                "id": 28,
+                "content": "Which sentence uses the future tense?",
+                "correctIndex": 2,
+                "answers": [
+                  "The cat sleeps soundly.",
+                  "We were playing in the park.",
+                  "She will read a book tomorrow.",
+                  "He is running fast."
+                ]
+              },
+              {
+                "id": 29,
+                "content": "What is the role of an adjective?",
+                "correctIndex": 1,
+                "answers": [
+                  "Takes the place of a noun.",
+                  "Describes a noun.",
+                  "Shows action or state of being.",
+                  "Connects words or groups of words."
+                ]
+              },
+              {
+                "id": 30,
+                "content": "Which word is an adverb?",
+                "correctIndex": 2,
+                "answers": ["Jump", "Yellow", "Quickly", "Loud"]
+              },
+              {
+                "id": 31,
+                "content": "Choose the correct use of speech marks.",
+                "correctIndex": 3,
+                "answers": [
+                  "\"The sun is shining,  said John.\"",
+                  "\"The sun is shining,\\\" said John\"",
+                  "\"The sun is shining, said John.\"",
+                  "\"The sun is shining,\\\" said John.\""
+                ]
+              },
+              {
+                "id": 32,
+                "content": "What is the question word in the sentence 'When will the party start?'",
+                "correctIndex": 0,
+                "answers": ["When", "Will", "Party", "Start"]
+              },
+              {
+                "id": 33,
+                "content": "Which sentence includes a word with a prefix?",
+                "correctIndex": 0,
+                "answers": [
+                  "The bicycle has been reassembled.",
+                  "She painted a beautiful picture.",
+                  "He's always friendly to everyone.",
+                  "The flowers bloom in spring."
+                ]
+              },
+
+              {
+                "id": 34,
+                "content": "In the sentence 'Alex will read a book.', what type of word is 'Alex'?",
+                "correctIndex": 1,
+                "answers": ["Noun", "Proper Noun", "Verb", "Adjective"]
+              },
+              {
+                "id": 35,
+                "content": "Choose the sentence with correct punctuation and capitalization.",
+                "correctIndex": 2,
+                "answers": [
+                  "i like swimming in the ocean",
+                  "I Like swimming in the ocean",
+                  "I like swimming in the ocean.",
+                  "i like swimming in the ocean."
+                ]
+              },
+              {
+                "id": 36,
+                "content": "What does a pronoun do?",
+                "correctIndex": 1,
+                "answers": [
+                  "Describes a noun.",
+                  "Takes the place of a noun.",
+                  "Shows action or state of being.",
+                  "Connects words or groups of words."
+                ]
+              },
+              {
+                "id": 37,
+                "content": "Which sentence contains a suffix?",
+                "correctIndex": 2,
+                "answers": [
+                  "The sky is blue.",
+                  "He's a friend.",
+                  "She dances gracefully.",
+                  "The sun shines bright."
+                ]
+              },
+              {
+                "id": 38,
+                "content": "What type of word is 'cat' in the sentence 'The black cat is sleeping.'?",
+                "correctIndex": 0,
+                "answers": ["Noun", "Proper Noun", "Adjective", "Adverb"]
+              },
+              {
+                "id": 39,
+                "content": "Which sentence uses the present tense?",
+                "correctIndex": 1,
+                "answers": [
+                  "She will bake a cake.",
+                  "They play in the park.",
+                  "I read a book yesterday.",
+                  "He was swimming fast."
+                ]
+              },
+              {
+                  "id": 40,
+                  "content": "Which sentence correctly uses a question mark?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "I like pizza and pasta?",
+                    "She is playing soccer?",
+                    "How are you?",
+                    "The cat sleeps quietly?"
+                  ]
+                },
+                {
+                  "id": 41,
+                  "content": "Identify the adjective in the sentence: 'The tall giraffe eats leaves.'",
+                  "correctIndex": 0,
+                  "answers": ["tall", "giraffe", "eats", "leaves"]
+                },
+                {
+                  "id": 42,
+                  "content": "Choose the correct form of the verb for the sentence: 'He ____ to the store everyday.'",
+                  "correctIndex": 3,
+                  "answers": ["go", "going", "went", "goes"]
+                },
+                {
+                  "id": 43,
+                  "content": "What type of word is 'quickly' in the sentence 'She runs quickly.'?",
+                  "correctIndex": 2,
+                  "answers": ["Noun", "Pronoun", "Adverb", "Verb"]
+                },
+                {
+                  "id": 44,
+                  "content": "Select the sentence with correct punctuation ",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Hes going To the park.",
+                    "He's going to the park.",
+                    "Hes going to the park",
+                    "he is going to the park."
+                  ]
+                },
+                {
+                  "id": 45,
+                  "content": "In the sentence 'My friend likes ice cream.', what is the subject?",
+                  "correctIndex": 0,
+                  "answers": ["My friend", "likes", "ice cream", "My"]
+                },
+                {
+                  "id": 46,
+                  "content": "Which sentence correctly uses an apostrophe?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "The dogs wag their tails",
+                    "I like to eats apples",
+                    "She going to the store",
+                    "He'll play with his toys"
+                  ]
+                },
+                {
+                  "id": 47,
+                  "content": "What is the plural form of 'child'?",
+                  "correctIndex": 0,
+                  "answers": ["Children", "Childs", "Childen", "Child's"]
+                },
+                {
+                  "id": 48,
+                  "content": "Identify the verb in the sentence: 'They danced at the party.'",
+                  "correctIndex": 0,
+                  "answers": ["danced", "They", "at", "party"]
+                },
+                {
+                  "id": 49,
+                  "content": "Choose the correct adverb for the sentence: 'She sings _____.'",
+                  "correctIndex": 2,
+                  "answers": ["good", "quick", "beautifully", "happy"]
+                },
+                {
+                  "id": 50,
+                  "content": "What does the word 'after' in the sentence 'We will eat after the movie.' function as?",
+                  "correctIndex": 3,
+                  "answers": ["Noun", "Pronoun", "Verb", "Preposition"]
+                },
+                {
+                  "id": 51,
+                  "content": "Which sentence uses the word 'it' as a pronoun?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "The sun is shining brightly.",
+                    "It is a sunny day.",
+                    "She read a book.",
+                    "He's playing  it soccer."
+                  ]
+                },
+                {
+                  "id": 52,
+                  "content": "What type of word is 'quick' in the sentence 'The quick brown fox jumps over the lazy dog.'?",
+                  "correctIndex": 1,
+                  "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+                },
+         
+                {
+                  "id": 53,
+                  "content": "In the sentence 'We will bake cookies tomorrow.', what type of word is 'tomorrow'?",
+                  "correctIndex": 2,
+                  "answers": ["Noun", "Pronoun", "Adverb", "Verb"]
+                },
+                {
+                  "id": 54,
+                  "content": "What is the role of quotation marks in a sentence?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "End a sentence.",
+                    "Separate nouns and verbs.",
+                    "Indicate spoken words.",
+                    "Show possession."
+                  ]
+                },
+                {
+                  "id": 55,
+                  "content": "Identify the common noun in the sentence: 'I played in the park.'",
+                  "correctIndex": 2,
+                  "answers": ["I", "played", "park", "The"]
+                },
+                {
+                  "id": 56,
+                  "content": "What is the present tense form of the verb 'to eat'?",
+                  "correctIndex": 1,
+                  "answers": ["Eated", "Eat", "Eating", "Eats"]
+                },
+                {
+                  "id": 57,
+                  "content": "Select the sentence with correct punctuation and capitalization.",
+                  "correctIndex": 3,
+                  "answers": [
+                    "he is playing soccer",
+                    "He is playing soccer",
+                    "he is playing soccer.",
+                    "He is playing soccer."
+                  ]
+                },
+                {
+                  "id": 58,
+                  "content": "What type of word is 'quickly' in the sentence 'She quickly finished her homework.'?",
+                  "correctIndex": 2,
+                  "answers": ["Noun", "Adjective", "Adverb", "Verb"]
+                },
+                {
+                   "id": 59,
+                   "content": "Which sentence uses a proper noun?",
+                   "correctIndex": 0,
+                   "answers": [
+                     "Maria went to Galway for a vacation.",
+                     "The dog chased the ball.",
+                     "We saw a beautiful sunset.",
+                     "They danced at the party."
+                   ]
+                 },
+                 {
+                   "id": 60,
+                   "content": "Choose the correct form of 'a' or 'an' for the sentence: 'He saw ___ elephant at the zoo.'",
+                   "correctIndex": 1,
+                   "answers": ["a", "an", "the", "and"]
+                 },
+                 {
+                   "id": 61,
+                   "content": "In the sentence 'The cat sleeps quietly.', what is the verb?",
+                   "correctIndex": 2,
+                   "answers": ["The", "cat", "sleeps", "quietly"]
+                 },
+                 {
+                   "id": 62,
+                   "content": "Identify the word with a prefix in the sentence: 'She's unhappy with the result.'",
+                   "correctIndex": 1,
+                   "answers": ["She's", "unhappy", "with", "result"]
+                 },
+                 {
+                   "id": 63,
+                   "content": "What is the plural form of 'child'?",
+                   "correctIndex": 0,
+                   "answers": ["Children", "Childs", "Childen", "Child's"]
+                 },
+                 {
+                   "id": 64,
+                   "content": "Select the sentence with correct punctuation.",
+                   "correctIndex": 2,
+                   "answers": [
+                     "I like pizza and pasta",
+                     "i like pizza and pasta",
+                     "I like pizza and pasta.",
+                     "i like pizza and pasta."
+                   ]
+                 }
+          ]
+      }
+       
+    }
+
+]
