@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 4,
@@ -7,92 +8,53 @@
       "content": {
           "id": 0,
           "teaching": [
+          
               {
                   "id": 0,
-                  "topicTitle": "Comparatives and Superlatives 'More', 'Less'",
-                  "topicContent": "Introduce comparatives and superlatives using 'more' and 'less'. Teach how to compare adjectives and adverbs with these words."
-              },
-              
-              {
-                  "id": 1,
-                  "topicTitle": "Comparatives and Superlatives 'Good', 'Bad'",
-                  "topicContent": "Extend the concept of comparatives and superlatives to adjectives 'good' and 'bad.' Teach how to compare qualities with these adjectives."
-              },
-              {
-                  "id": 2,
-                  "topicTitle": "Prefixes 3",
-                  "topicContent": "Continue learning about prefixes with a focus on specific prefixes. Discuss how prefixes change the meaning of words and provide examples."
-              },
-              {
-                  "id": 3,
-                  "topicTitle": "Homophones 'Where', 'Wear', and 'Were'",
-                  "topicContent": "Teach the differences among homophones 'where' (location), 'wear' (to put on clothing), and 'were' (past tense of 'be'). Practice using them correctly."
-              },
-              {
-                  "id": 4,
                   "topicTitle": "Suffixes (-al): Making Nouns into Adjectives",
-                  "topicContent": "Introduce the suffix -al and explain how it transforms nouns into adjectives. Practice forming adjectives with -al and using them in sentences."
+                  "topicContent": "Introduction to the suffix -al and how it transforms nouns into adjectives. Practice forming adjectives with -al and using them in sentences.",
+                  "video": "https://api-files.sproutvideo.com/file/ac90d1b61916ecc225/9f1336abcd23b5b4/1440.mp4"
           
       },
               {
-                  "id": 5,
+                  "id": 1,
                   "topicTitle": "Questions and Statements",
-                  "topicContent": "Review sentence types and explain the differences between questions and statements. Practice turning statements into questions and vice versa."
+                  "topicContent": "Review sentence types and explain the differences between questions and statements. Practice turning statements into questions and vice versa.",
+                  "video": "https://api-files.sproutvideo.com/file/ea90d1b61916e2ca63/53faa82ac190a4bb/1080.mp4"
               },
+   
       {
-                  "id": 6,
-                  "topicTitle": "Changing a Statement into a Question",
-                  "topicContent": "Provide practice in changing declarative statements into interrogative questions. Discuss the role of word order and auxiliary verbs in forming questions."
-              },
-      {
-          "id": 7,
+          "id": 2,
           "topicTitle": "Simple and Compound Sentences",
-          "topicContent": "Teach the difference between simple and compound sentences. Explain how compound sentences are formed using coordinating conjunctions."
+          "topicContent": "Learn the difference between simple and compound sentences. Explain how compound sentences are formed using coordinating conjunctions.",
+          "video": "https://api-files.sproutvideo.com/file/4490d1b61e18e0cfcd/0963d93e2814eb27/1080.mp4"
       },
+ 
       {
-          "id": 8,
-          "topicTitle": "More Homophone Mix-ups (1)",
-          "topicContent": "Continue exploring homophones with additional pairs. Discuss their meanings, spellings, and how to use them correctly in context."
-      },
-      {
-                  "id": 9,
-                  "topicTitle": "Infinitives",
-                  "topicContent": "Introduce infinitives as the base form of a verb (to + verb). Explain how infinitives can function as nouns, adjectives, or adverbs in sentences."
+                  "id": 3,
+                  "topicTitle": "Infinitives and Gerunds",
+                  "topicContent": "Introduction to infinitives as the base form of a verb (to + verb). Infinitives can function as nouns, adjectives, or adverbs in sentences.We will also be looking at gerunds.",
+                  "video": "https://api-files.sproutvideo.com/file/ea90d1b61e19e7c763/f0da1e039a55c0b8/1440.mp4"
               },
+         
               {
-                  "id": 10,
-                  "topicTitle": "Understanding Infinitives",
-                  "topicContent": "Deepen understanding of infinitives by discussing their different roles in sentences. Teach how to identify infinitives and their functions."
-              },
-              {
-                  "id": 11,
+                  "id": 4,
                   "topicTitle": "Onomatopoeia",
-                  "topicContent": "Introduce onomatopoeia as words that imitate sounds. Provide examples of onomatopoeic words and discuss their usage in writing."
-              },
+                  "topicContent": "Introduction to onomatopoeia as words that imitate sounds. ",
+                  "video": "https://api-files.sproutvideo.com/file/1190d1b61e19e6c998/a49166d1d4ec890e/1080.mp4"               },
+        
               {
-                  "id": 12,
-                  "topicTitle": "Understanding Onomatopoeia",
-                  "topicContent": "Explore onomatopoeic words further by discussing how they contribute to imagery and sensory experiences in writing."
-              },
-              {
-                  "id": 13,
+                  "id": 5,
                   "topicTitle": "Hyphens",
-                  "topicContent": "Teach the usage of hyphens to connect words in compound words, numbers, and certain prefixes. Explain when to use hyphens for clarity."
+                  "topicContent": "Learn the usage of hyphens to connect words in compound words, numbers, and certain prefixes.",
+                  "video": "https://api-files.sproutvideo.com/file/ea90d1b61e1ae1c263/6abe284413b7d5a2/1080.mp4"
               },
-     {
-                  "id": 14,
-                  "topicTitle": "Understanding Hyphens",
-                  "topicContent": "Deepen understanding of hyphens by discussing additional scenarios where hyphens are used, such as with prefixes and in compound adjectives."
-              },
+
               {
-                  "id": 15,
+                  "id": 6,
                   "topicTitle": "Antonyms and Synonyms",
-                  "topicContent": "Review antonyms and synonyms. Teach how antonyms are opposite in meaning, while synonyms have similar meanings. Encourage vocabulary exploration."
-              },
-              {
-                  "id": 16,
-                  "topicTitle": "More Homophone Mix-ups",
-                  "topicContent": "Continue exploring homophones with additional pairs that commonly confuse students. Discuss their meanings and usage to help students differentiate."
+                  "topicContent": "Review antonyms and synonyms. Learn how antonyms are opposite in meaning, while synonyms have similar meanings.",
+                  "video": "https://api-files.sproutvideo.com/file/7090d1b61e1ae4c5f9/c15ce5e3f12c1f70/1080.mp4"
               }
 
 
@@ -107,7 +69,7 @@
               {
                 "id": 0,
                 "content": "What is the predicate in the sentence: 'The adventurous explorers climbed the steep mountain.'",
-                "correctIndex": 2,
+                "correctIndex": 1,
                 "answers": ["The adventurous explorers", "climbed the steep mountain", "The", "adventurous explorers climbed"]
               },
               {
@@ -125,8 +87,8 @@
               {
                 "id": 3,
                 "content": "Choose the correct homophone: 'The cat licked ____ paw.'",
-                "correctIndex": 1,
-                "answers": ["its", "it's", "its'", "it"]
+                "correctIndex": 2,
+                "answers": ["is", "it's", "its'", "it"]
               },
               {
                 "id": 4,
@@ -225,11 +187,17 @@
                 "answers": ["friend", "ship", "friendsh", "endship"]
               },
               {
-                "id": 20,
-                "content": "In which sentence is a phrase used?",
-                "correctIndex": 0,
-                "answers": ["The cat sleeps peacefully.", "He sings a song.", "They run fast.", "She reads books."]
+                  "id": 20,
+                  "content": "In which sentence is a phrase used?",
+                  "correctIndex": 1,
+                  "answers": [
+                      "The cat sleeps peacefully.",
+                      "A beautiful song.",
+                      "They run fast.",
+                      "She reads books."
+                  ]
               },
+
               {
                 "id": 21,
                 "content": "What is the subject of the sentence? 'Many talented artists painted beautiful murals.'",
@@ -250,9 +218,9 @@
               },
               {
                 "id": 24,
-                "content": "What is an object pronoun?",
+                "content": "What is the object pronoun?",
                 "correctIndex": 2,
-                "answers": ["we", "his", "her", "our"]
+                "answers": ["we", "he", "her", "I"]
               },
               {
                 "id": 25,
@@ -378,7 +346,7 @@
                   "id": 45,
                   "content": "Which sentence is a question?",
                   "correctIndex": 3,
-                  "answers": ["The sky is blue.", "They run fast.", "She sings beautifully.", "Is the party tomorrow?"]
+                  "answers": ["The sky is blue.", "They run fast.", "She sings beautifully.", "Is the party tomorrow"]
                 },
                 {
                   "id": 46,
@@ -389,8 +357,8 @@
                 {
                   "id": 47,
                   "content": "In which sentence is a phrase used?",
-                  "correctIndex": 0,
-                  "answers": ["The sun shines brightly.", "He runs fast.", "They play outside.", "She reads books."]
+                  "correctIndex": 3,
+                  "answers": ["The sun shines brightly.", "He runs fast.", "They play outside.", "Reading books."]
                 },
                 {
                   "id": 48,
@@ -443,7 +411,7 @@
                  {
                    "id": 56,
                    "content": "Choose the correct homophone: '_____ you going to the game?'",
-                   "correctIndex": 0,
+                   "correctIndex": 3,
                    "answers": ["Were", "Where", "Wear", "We're"]
                  },
                  {
@@ -509,8 +477,8 @@
                  },
                  {
                    "id": 67,
-                   "content": "What is the object in the sentence: 'She gave him a gift.'?",
-                   "correctIndex": 2,
+                   "content": "What is the direct object in the sentence: 'She gave him a gift.'?",
+                   "correctIndex": 3,
                    "answers": ["She", "gave", "him a gift", "a gift"]
                  },
                  {
@@ -521,7 +489,7 @@
                  },
                  {
                     "id": 69,
-                    "content": "What is the role of parentheses() in writing?",
+                    "content": "What is the role of brackets () in writing?",
                     "correctIndex": 1,
                     "answers": ["To end a sentence.", "To enclose additional information.", "To create compound sentences.", "To mark the beginning of a paragraph."]
                   },
@@ -559,7 +527,7 @@
                     "id": 75,
                     "content": "What is the role of a semicolon (;) in a sentence?",
                     "correctIndex": 1,
-                    "answers": ["To end a sentence.", "To connect related independent clauses.", "To mark the beginning of a question.", "To introduce a new paragraph."]
+                    "answers": ["To end a sentence.", "To connect related or comparing independent clauses.", "To mark the beginning of a question.", "To introduce a new paragraph."]
                   },
                   {
                     "id": 76,
@@ -648,7 +616,7 @@
                    {
                      "id": 90,
                      "content": "Identify the adverbial phrase in the sentence: 'She walked slowly down the path.'",
-                     "correctIndex": 1,
+                     "correctIndex": 2,
                      "answers": ["She walked", "slowly", "down the path", "She walked slow"]
                    },
                    {
@@ -659,7 +627,7 @@
                    },
                    {
                      "id": 92,
-                     "content": "What is the correct usage of the homophone 'its'?",
+                     "content": "What is the correct usage of the homophone of 'its'?",
                      "correctIndex": 2,
                      "answers": ["It's a beautiful day.", "It's time to leave.", "The cat licked its paws.", "Its raining outside."]
                    },
@@ -684,80 +652,75 @@
                    },
                    {
                      "id": 96,
-                     "content": "What is the suffix in the word 'playfulness'?",
+                     "content": "What is the last suffix in the word 'playfulness'?",
                      "correctIndex": 2,
                      "answers": ["play", "ful", "ness", "playfulness"]
                    },
+                
                    {
                      "id": 97,
-                     "content": "What is the role of an ellipsis in writing?",
-                     "correctIndex": 0,
-                     "answers": ["To indicate omitted words or a pause.", "To mark the end of a sentence.", "To create a list.", "To connect ideas."]
-                   },
-                   {
-                     "id": 98,
                      "content": "What is a compound-complex sentence?",
                      "correctIndex": 2,
                      "answers": ["A sentence with one subject and one verb.", "A sentence with a question mark.", "A sentence with two or more independent clauses and at least one dependent clause.", "A sentence with two independent clauses."]
                    },
                    {
-                     "id": 99,
+                     "id": 98,
                      "content": "What is the antonym for 'vibrant'?",
                      "correctIndex": 2,
                      "answers": ["Dull", "Energetic", "Colorful", "Lively"]
                    },
                    {
-                     "id": 100,
+                     "id": 99,
                      "content": "Choose the correct homophone: '_____ going to the party.'",
                      "correctIndex": 0,
                      "answers": ["They're", "Their", "There", "Them"]
                    },
                    {
-                     "id": 101,
+                     "id": 100,
                      "content": "What is the suffix in the word 'kindness'?",
                      "correctIndex": 1,
                      "answers": ["kind", "ness", "kin", "kinder"]
                    },
                    {
-                     "id": 102,
+                     "id": 101,
                      "content": "What does the prefix 'dis-' mean?",
                      "correctIndex": 0,
                      "answers": ["not, opposite of", "in, into", "around", "before"]
                    },
                    {
-                     "id": 103,
+                     "id": 102,
                      "content": "Identify the adverbial clause in the sentence: 'Although it was raining, they went for a walk.'",
                      "correctIndex": 3,
                      "answers": ["Although it was raining", "they went for a walk", "it was raining", "Although"]
                    },
                    {
-                       "id": 104,
+                       "id": 103,
                        "content": "What is the synonym for 'brave'?",
                        "correctIndex": 2,
                        "answers": ["cowardly", "afraid", "courageous", "timid"]
                      },
                      {
-                       "id": 105,
+                       "id": 104,
                        "content": "What is the comparative form of the adverb 'quickly'?",
                        "correctIndex": 1,
                        "answers": ["more quick", "quicker", "quicklier", "quickest"]
                      },
                      {
-                       "id": 106,
+                       "id": 105,
                        "content": "Choose the correct pronoun: '__________ are my best friends.'",
                        "correctIndex": 3,
                        "answers": ["You", "She", "I", "They"]
                      },
                      {
-                       "id": 107,
+                       "id": 106,
                        "content": "What is the prefix in the word 'unhappy'?",
                        "correctIndex": 0,
                        "answers": ["un", "hap", "happy", "unh"]
                      },
                      {
-                       "id": 108,
+                       "id": 107,
                        "content": "In the sentence 'She was dancing when the phone rang.', which clause is the main clause?",
-                       "correctIndex": 3,
+                       "correctIndex": 0,
                        "answers": ["She was dancing", "when the phone rang", "dancing when the phone rang", "The phone rang"]
                      }
                    
