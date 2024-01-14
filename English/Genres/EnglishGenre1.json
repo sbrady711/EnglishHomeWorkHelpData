@@ -1,0 +1,172 @@
+
+[
+    {
+        "id": 0,
+        "category": "Writing Gnere",
+        "description": "Strand units: Writing",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Introduction to Recount Writing",
+                            "topicContent": "Introduction to the concept of recount writing, where we share events from the past.Build vocabulary related to birthdays and events.",
+              "video": "https://api-files.sproutvideo.com/file/a790d1b61f19e1c12e/3166332045f8abc7/1080.mp4"
+          },
+                        {
+                            "id": 1,
+                            "topicTitle": "Creating a Timeline",
+                            "topicContent": "My Birthday Timeline. Content: Introduction to the concept of a timeline.",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d1b61f19e7c5c4/5ae7fbd44d9a726b/1080.mp4"                         },
+                        {
+                            "id": 2,
+                            "topicTitle": "Writing a Beginning and Adding Details",
+                            "topicContent": "Learn how to write a strong beginning by introducing the event. Examples of opening sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/ac90d1b61f1be4c125/099bc2d9f43e3c4e/1080.mp4"
+                },
+                {
+                            "id": 3,
+                            "topicTitle": "Beginning, Middle and End",
+                            "topicContent": "Focus on adding sensory and descriptive details to make the recount more vivid. Use prompts like 'What did you see?', 'How did you feel?', 'What did you hear?' to encourage detailed writing.",
+                    "video": "https://api-files.sproutvideo.com/file/4d90d1b61f1ae9c8c4/8a9b448bda6f6b2c/1080.mp4"                         }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Phonics and letter sound knowledge to the test.",
+          "questions": [
+              {
+                "id": 0,
+                "content": "Share a special moment from a family gathering.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 1,
+                "content": "Tell a story about your favorite animal at the zoo.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 2,
+                "content": "Describe a memorable adventure during a rainy day.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 3,
+                "content": "Recount the funniest moment you had with a friend.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 4,
+                "content": "Tell a story about the magical world in your dreams.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 5,
+                "content": "Share an exciting discovery during a nature walk.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 6,
+                "content": "Describe a creative game you played with your siblings.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 7,
+                "content": "Recount a day of fun and laughter at the amusement park.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 8,
+                "content": "Tell a story about your favorite make-believe adventure.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 9,
+                "content": "Share the most exciting birthday celebration you had.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 10,
+                "content": "Describe the day you discovered a new favorite book.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 11,
+                "content": "Recount a happy moment during a family picnic.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 12,
+                "content": "Tell a story about a fantastic adventure with your pet.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 13,
+                "content": "Describe a day filled with laughter and joy at school.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 14,
+                "content": "Share the excitement of your first visit to a museum.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 15,
+                "content": "Recount the adventure of finding a hidden treasure.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 16,
+                "content": "Tell a story about the day you learned to ride a bike.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 17,
+                "content": "Describe a magical encounter during a family vacation.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 18,
+                "content": "Share the joy of a surprise visit from a friend.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              },
+              {
+                "id": 19,
+                "content": "Recount a day of exploration in your backyard or garden.",
+                "correctIndex": 0,
+                "answers": ["a", "b", "c", "d"]
+              }
+            ]
+
+               
+               
+               
+               
+          
+      }
+      
+       
+    }
+
+]
