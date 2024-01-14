@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 1,
@@ -7,155 +8,170 @@
       "content": {
           "id": 0,
       "teaching": [
+          
           {
-                            "id": 0,
-                            "topicTitle": "Review of Proper Seating and Pencil Grip",
-                            "topicContent": "Recap the correct way to sit at a table for comfortable writing.Review holding the pencil correctly to promote good handwriting posture."
-                        },
-                        {
-                            "id": 1,
-                            "topicTitle": "Further Exploration of Pre-Cursive Handwriting",
-                            "topicContent": "Build upon the concept of pre-cursive handwriting and its significance.Discuss the progression from print to cursive writing."
-                        },
-                        {
-                            "id": 2,
-                            "topicTitle": "Advanced Lower-Case Letter Formation - Part 1",
-                            "topicContent": "Introduce more complex lower-case letters with loops and curves. Emphasize the correct starting and finishing points for each letter."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Advanced Lower-Case Letter Formation - Part 2",
-                            "topicContent": "Continue with the formation of complex lower-case letters.Include letters with straight lines and diagonal strokes."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": " Practicing Capital Letters, Digits, and Punctuation",
-                            "topicContent": "Extend practice to forming capital letters, digits (0-9), and common punctuation marks. Focus on maintaining size, alignment, and clarity."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Exploring Handwriting Families in Depth",
-                            "topicContent": "Dive deeper into handwriting families and their shared formations.  Allow students to practice letters within the same family."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Perfecting Lower-Case Letter Sizing and Consistency",
-                            "topicContent": "Refine the technique of keeping lower-case letters proportionate to each other.Discuss the importance of uniformity in letter size."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": " Applying Advanced Diagonal and Horizontal Strokes",
-                            "topicContent": "Expand the use of diagonal and horizontal strokes in joining letters. Identify which letters are best left unjoined when adjacent."
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": " Enhanced Joining of Letters - Curves and Diagonals",
-                            "topicContent": "Progress to joining complex letters with curves and diagonal strokes.  Provide exercises to reinforce smooth connections."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Enhanced Joining of Letters - Straights and Diagonals",
-                            "topicContent": "Continue advancing the skill of joining letters.Practice joining letters with straight lines and diagonal strokes."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Advanced Capital Letter Formation",
-                            "topicContent": "Revisit the formation of capital letters in a more advanced manner.Emphasize consistent size, alignment, and proportional relationships."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Achieving Uniform Spacing in Writing",
-                            "topicContent": "Teach students to leave consistent spacing between words. Discuss how spacing complements letter and word size."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": " Integrating Complex Diagonal and Horizontal Strokes",
-                            "topicContent": "Incorporate intricate diagonal and horizontal strokes into writing.Guide students in applying these strokes within words."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Crafting Sentences with Complex Letter Joins",
-                            "topicContent": "Have students construct sentences with complex joined letters.Focus on maintaining legibility and smooth transitions."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Revisiting and Advancing Cursive Capital Letters",
-                            "topicContent": "Review and refine the formation of cursive capital letters.Ensure adherence to size, shape, and alignment."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Advancing Writing Fluency and Expression",
-                            "topicContent": "Guide students in writing longer sentences with expression. Encourage them to maintain consistent spacing and rhythm."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Continuing Lower-Case Letter Practice",
-                            "topicContent": "Provide additional practice for forming lower-case letters.Address any areas where students may need improvement."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Extended Lower-Case Letter Practice",
-                            "topicContent": "Provide additional practice for forming complex lower-case letters.Address any specific areas where students require improvement."
-                        },
-                        {
-                            "id": 18,
-                            "topicTitle": "Mastering the Art of Joining Letters",
-                            "topicContent": "Guide students in seamlessly joining letters within words and sentences.Encourage them to create smooth, flowing handwriting."
-                        },
-                        {
-                            "id": 19,
-                            "topicTitle": "Crafting Paragraphs with Complex Joins",
-                            "topicContent": "Have students compose paragraphs in pre-cursive handwriting.Emphasize organization, coherence, and consistency."
-                        },
-                        {
-                            "id": 20,
-                            "topicTitle": "Joining Letters within Extended Texts",
-                            "topicContent": "Practice joining letters within longer passages of text. Focus on maintaining a steady rhythm and connection."
-                        },
-                        {
-                            "id": 21,
-                            "topicTitle": "Harnessing Handwriting Skills for Projects",
-                            "topicContent": "Assign projects involving more extensive writing tasks. Showcase students' pre-cursive handwriting skills in projects."
-                        },
-                {
-                            "id": 22,
-                            "topicTitle": "Collaborative Editing for Handwriting Enhancement",
-                            "topicContent": "Engage students in peer editing to enhance their handwriting.Foster a supportive environment for constructive feedback.."
-                        },
-                        {
-                            "id": 23,
-                            "topicTitle": "Exploring Digital Handwriting Tools",
-                            "topicContent": "Introduce digital tools for practicing pre-cursive handwriting. Use interactive platforms to reinforce proper letter formation."
-                        },
-                        {
-                            "id": 24,
-                            "topicTitle": "Reflecting on Handwriting Progress and Goals",
-                            "topicContent": "Encourage students to reflect on their handwriting journey. Help them identify areas of growth and set future goals."
-                        },
-                        {
-                            "id": 25,
-                            "topicTitle": " Implementing Handwriting in Real-Life Contexts",
-                            "topicContent": "Guide students in using their pre-cursive handwriting in real-life situations. Emphasize the role of clear and legible writing in effective communication."
-                        },
-                        {
-                            "id": 26,
-                            "topicTitle": "Celebrating Handwriting Achievements",
-                            "topicContent": "Celebrate students' accomplishments in mastering pre-cursive handwriting. Display their improved handwriting in a classroom exhibit or project."
-                     
-                }                    ]
-      },
+              "id": 0,
+              "topicTitle": "Upper case c",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b2161ce8c55a/fc8ab55184cca759/1440.mp4"
+          },
+          {
+              "id": 1,
+              "topicTitle": "Upper case o",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b31f19e0c42e/1db12b3f6596a8c1/1440.mp4"                         },
+          {
+              "id": 2,
+              "topicTitle": "Upper case a",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b21612e6c48f/fbf486f6e9b4d986/1440.mp4"                         },
+          {
+              "id": 3,
+              "topicTitle": "Upper case d",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b31e1ee5c35a/fade7cb527b62ef3/1440.mp4"
+  },
+  {
+              "id": 4,
+              "topicTitle": "Upper case g",
+              "topicContent": "",
+      "video": "https://api-files.sproutvideo.com/file/ea90d0b11514e2c263/071f39acabc8f60c/1440.mp4"                         },
+          {
+              "id": 5,
+              "topicTitle": "Upper case e",
+              "topicContent": ".",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31e1ee9ca63/3a906a40681cea50/1440.mp4"
+          },
+          {
+              "id": 6,
+              "topicTitle": "Upper case f",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ac90d0b31f1fe4c125/c876e182d2628bcc/1440.mp4"                         },
+          {
+              "id": 7,
+              "topicTitle": "Upper case s",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/1190d0b31f1be4cc98/156da2d074948e4d/1440.mp4"                         },
+          {
+              "id": 8,
+              "topicTitle": "Upper case q",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31f18e7c363/71c88953b27fe881/1440.mp4"                         },
+          {
+              "id": 9,
+              "topicTitle": "Upper case i",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4490d0b31f1ee5c9cd/a7d2c343ae90e2ce/1440.mp4"                 },
+  {
+              "id": 10,
+              "topicTitle": "Upper case r",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31f18e6c263/a941a10c5daf04cf/1440.mp4"
+          },
+          
+          {
+              "id": 11,
+              "topicTitle": "Upper case n",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/7090d0b21613e3c6f9/72a0fb5f1cb2efed/1440.mp4"
+          },
+          {
+              "id": 12,
+              "topicTitle": "Upper case m",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b31f19e3c35a/08e2bc6f5deb23d9/1440.mp4"
+          },
+         
+          {
+              "id": 13,
+              "topicTitle": "Upper case h",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ac90d0b31f1ee3c725/7b0106bed5692982/1440.mp4"
+      
+  },
+  {
+              "id": 14,
+              "topicTitle": "Upper case b",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b2161cebc65a/ad6e08652af3f288/1440.mp4"
+          },
+          {
+              "id": 15,
+              "topicTitle": "Upper case p",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4490d0b31f19eec5cd/43f60366ab05d2b3/1440.mp4"
+          },
+          {
+              "id": 16,
+              "topicTitle": "Upper case j",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b31f1ee9ca2e/807fa52bc6681e0e/1440.mp4"
+          },
+          
+          {
+              "id": 17,
+              "topicTitle": "Upper case l",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b31f19e4c45a/dc47ebbb3f0ce264/1440.mp4"                         },
+          {
+              "id": 18,
+              "topicTitle": "Upper case t",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31f18efcb63/f94543f85cc6e1b8/1440.mp4"                         },
+          {
+              "id": 19,
+              "topicTitle": "Upper case k",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ac90d0b31f19e7c425/92749c653f6cfef4/1440.mp4"                         },
+          {
+              "id": 20,
+              "topicTitle": "Upper case u",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31f1be4c363/03561a83b400edd6/1440.mp4"                 },
+  {
+              "id": 21,
+              "topicTitle": "Upper case v",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/1190d0b31f18e1ca98/b78254e99a6b9775/1440.mp4"
+          },
+          
+          {
+              "id": 22,
+              "topicTitle": "Upper case w",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31f18e0c463/b23c513a040b2eb0/1440.mp4"
+          },
+          {
+              "id": 23,
+              "topicTitle": "Upper case y",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b31f18eecb2e/a586260131eb3442/1440.mp4"
+          },
+         
+          {
+              "id": 24,
+              "topicTitle": "Upper case x",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b21613e2c563/254f843c0365c42b/1440.mp4"
+      
+  },
+  {
+              "id": 25,
+              "topicTitle": "Upper case z",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b31f1be4c78f/6e16a942b2a4cd2c/1440.mp4"
+          }
+  
+      ]      },
 "test": {
 "id": 0,
 "image": "testSwift",
 "time": "30 minutes",
 "description": "Put your Phonics and letter sound knowledge to the test.",
 "questions": [
-   {
+    {
           "id":0,
-          "content":"Write the word 'a'",
+          "content":"Write the word 'ant'",
           "correctIndex":0,
           "answers":["cap","pin","man","tap"]
        },
@@ -1423,8 +1439,10 @@
                          "answers":["goes","cake","because","star"]
                       }
                    
+                   
              
      ]
+     
      
      
      
