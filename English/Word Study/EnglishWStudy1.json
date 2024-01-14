@@ -1,0 +1,602 @@
+
+[
+    {
+        "id": 0,
+        "category": "Word Study",
+        "description": "Grammer Writing and Reading ",
+      "content": {
+          "id": 0,
+      "teaching": [
+          {
+                            "id": 0,
+                            "topicTitle": "Sentences",
+                            "topicContent": "Introduction to the concept of sentences as groups of words that express a complete thought. Learn about capitalization and punctuation at the beginning and end of sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/7090d1b71210e2c4f9/45b41720cb50c802/1080.mp4"
+                        },
+          {
+              "id": 1,
+              "topicTitle": "Alphabetical Order",
+              "topicContent": "Learn the order of letters in the alphabet and practice arranging words in alphabetical order.",
+              "video": "https://api-files.sproutvideo.com/file/ac90d1b71213e6c725/e41ec6a741976fd1/1440.mp4"
+      
+  },
+          {
+              "id": 2,
+              "topicTitle": "Plurals",
+              "topicContent": "Learn how to make plurals by adding 's' to most words and 'es' to words ending in certain letters, such as 's,' 'ch,' 'sh,' 'x,' and 'z.'",
+              "video": "https://api-files.sproutvideo.com/file/a790d1b71213edcb2e/6454dadcf76c274d/1080.mp4"           },
+          {
+                      "id": 3,
+                      "topicTitle": "Doubling Rule",
+                      "topicContent": "Learn the doubling rule for adding suffixes to words with short vowel sounds. Understand the change in pronunciation when doubling consonants.",
+                      "video": "https://api-files.sproutvideo.com/file/0690d1b61a1ee7c08f/4fffca563a5ff3e2/1080.mp4"
+                  },
+   
+      
+          {
+              "id": 4,
+              "topicTitle": "Antonyms",
+              "topicContent": "Learn about antonyms as words that have opposite meanings.",
+              "video": "https://api-files.sproutvideo.com/file/ac90d1b61a1ee1c425/e65a159ae11bc461/1080.mp4"
+          }
+                    ]
+                },
+      "test": {
+          "id": 0,
+          "image": "testSwift",
+          "time": "30 minutes",
+          "description": "Put your Word study knowledge to the test.",
+          "questions": [
+              
+              {
+                  "id": 0,
+                  "content": "Which word comes first in alphabetical order?",
+                  "correctIndex": 0,
+                  "answers": ["apple", "banana", "cherry", "orange"]
+                },
+                {
+                  "id": 1,
+                  "content": "What is the plural of 'dog'?",
+                  "correctIndex": 3,
+                  "answers": ["dogys", "doges", "dogies", "dogs"]
+                },
+                {
+                  "id": 2,
+                  "content": "Which word follows 'green' in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["apple", "yellow", "blue", "orange"]
+                },
+                {
+                  "id": 3,
+                  "content": "What is the plural of 'brush'?",
+                  "correctIndex": 0,
+                  "answers": ["brushes", "brushies", "brushs", "brushs"]
+                },
+                {
+                  "id": 4,
+                  "content": "What is the doubling rule for adding 'ed' to the word 'hop'?",
+                  "correctIndex": 0,
+                  "answers": [
+                    "Double the 'p'",
+                    "Double the 'o'",
+                    "Double the 'p' and change the 'o' to 'i'",
+                    "Double the 'h'"
+                  ]
+                },
+                {
+                  "id": 5,
+                  "content": "What is the plural of 'fox'?",
+                  "correctIndex": 2,
+                  "answers": ["foxs", "foxies", "foxes", "foxi"]
+                },
+                {
+                  "id": 6,
+                  "content": "What is an antonym for 'happy'?",
+                  "correctIndex": 0,
+                  "answers": ["sad", "fun", "great", "play"]
+                },
+                {
+                  "id": 7,
+                  "content": "Which word comes first in alphabetical order?",
+                  "correctIndex": 1,
+                  "answers": ["cat", "bat", "rat", "hat"]
+                },
+                {
+                  "id": 8,
+                  "content": "What is the plural of 'box'?",
+                  "correctIndex": 2,
+                  "answers": ["boxs", "boxies", "boxes", "boxen"]
+                },
+                {
+                  "id": 9,
+                  "content": "What is the doubling rule for adding 'ing' to the word 'swim'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Double the 's'",
+                    "Double the 'i'",
+                    "Double the 'm'",
+                    "Double the 'w'"
+                  ]
+                },
+                {
+                  "id": 10,
+                  "content": "What is the plural of 'church'?",
+                  "correctIndex": 1,
+                  "answers": ["churchs", "churches", "churchies", "churche"]
+                },
+                {
+                  "id": 11,
+                  "content": "What is an antonym for 'hot'?",
+                  "correctIndex": 2,
+                  "answers": ["warm", "cool", "cold", "heat"]
+                },
+                {
+                  "id": 12,
+                  "content": "Which word comes first in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["egg", "frog", "dog", "cat"]
+                },
+                {
+                  "id": 13,
+                  "content": "What is the plural of 'bush'?",
+                  "correctIndex": 0,
+                  "answers": ["bushes", "bushs", "bushies", "bushi"]
+                },
+                {
+                  "id": 14,
+                  "content": "What is the doubling rule for adding 'er' to the word 'big'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Double the 'b'",
+                    "Double the 'i'",
+                    "Double the 'g'",
+                    "Double the 'e'"
+                  ]
+                },
+                {
+                  "id": 15,
+                  "content": "What is the plural of 'baby'?",
+                  "correctIndex": 1,
+                  "answers": ["babys", "babies", "babys", "babyes"]
+                },
+                {
+                  "id": 16,
+                  "content": "What is an antonym for 'fast'?",
+                  "correctIndex": 0,
+                  "answers": ["slow", "quick", "speedy", "hurry"]
+                },
+                {
+                  "id": 17,
+                  "content": "Which word comes first in alphabetical order?",
+                  "correctIndex": 2,
+                  "answers": ["jump", "run", "hop", "skip"]
+                },
+                {
+                  "id": 18,
+                  "content": "What is the plural of 'dish'?",
+                  "correctIndex": 2,
+                  "answers": ["dishs", "dishies", "dishes", "dishies"]
+                },
+                {
+                  "id": 19,
+                  "content": "What is the doubling rule for adding 'est' to the word 'sad'?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Double the 's'",
+                    "Double the 'd'",
+                    "Double the 'a'",
+                    "Double the 'e'"
+                  ]
+                },
+              {
+                  "id": 20,
+                  "content": "What is an antonym for 'tall'?",
+                  "correctIndex": 0,
+                  "answers": ["short", "big", "high", "long"]
+                },
+                {
+                  "id": 21,
+                  "content": "What is the plural of 'baby'?",
+                  "correctIndex": 0,
+                  "answers": ["babies", "babyes", "babys", "babyies"]
+                },
+                {
+                  "id": 22,
+                  "content": "What comes after 'dog' in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["apple", "bat", "cat", "fun"]
+                },
+                {
+                  "id": 23,
+                  "content": "What is the doubling rule for adding 'ed' to the word 'plan'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Double the 'p'",
+                    "Double the 'l'",
+                    "Double the 'n'",
+                    "Double the 'a'"
+                  ]
+                },
+                {
+                  "id": 24,
+                  "content": "What is the plural of 'church'?",
+                  "correctIndex": 0,
+                  "answers": ["churches", "churchs", "churchies", "churche"]
+                },
+                {
+                  "id": 25,
+                  "content": "What is the antonym for 'nasty'?",
+                  "correctIndex": 3,
+                  "answers": ["sad", "fun", "angry", "nice"]
+                },
+                {
+                  "id": 26,
+                  "content": "What is the plural of 'bush'?",
+                  "correctIndex": 0,
+                  "answers": ["bushes", "bushs", "bushies", "bushi"]
+                },
+                {
+                  "id": 27,
+                  "content": "What is the doubling rule for adding 'ing' to the word 'run'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Double the 'r'",
+                    "Double the 'u'",
+                    "Double the 'n'",
+                    "Double the 'a'"
+                  ]
+                },
+                {
+                  "id": 28,
+                  "content": "What is the plural of 'wish'?",
+                  "correctIndex": 0,
+                  "answers": ["wishes", "wishs", "wishies", "wishies"]
+                },
+                {
+                  "id": 29,
+                  "content": "What is the antonym for 'positive'?",
+                  "correctIndex": 1,
+                  "answers": ["slow", "negative", "speedy", "hurry"]
+                },
+                {
+                  "id": 30,
+                  "content": "What is the plural of 'launch'?",
+                  "correctIndex": 2,
+                  "answers": ["launchs", "launchies", "launches", "launchen"]
+                },
+                {
+                  "id": 31,
+                  "content": "What comes before 'mango' in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["eight", "banana", "cherry", "grape"]
+                },
+                {
+                  "id": 32,
+                  "content": "What is the doubling rule for adding 'er' to the word 'big'?",
+                  "correctIndex": 2,
+                  "answers": [
+                    "Double the 'b'",
+                    "Double the 'i'",
+                    "Double the 'g'",
+                    "Double the 'e'"
+                  ]
+                },
+                {
+                "id": 33,
+                "content": "What is the plural of 'puppy'?",
+                "correctIndex": 0,
+                "answers": ["puppies", "puppyes", "puppys", "puppys"]
+                },
+               
+               {
+               "id": 34,
+               "content": "What is the antonym for 'full'?",
+               "correctIndex": 0,
+               "answers": ["empty", "half", "filled", "occupied"]
+               },
+                {
+                  "id": 35,
+                  "content": "What is the plural of 'bunny'?",
+                  "correctIndex": 2,
+                  "answers": ["bunnys", "bunnyes", "bunnies", "bunnyies"]
+                },
+                {
+                  "id": 36,
+                  "content": "What is the doubling rule for adding 'est' to the word 'thin'?",
+                  "correctIndex": 3,
+                  "answers": [
+                    "Double the 't'",
+                    "Double the 'h'",
+                    "Double the 'i'",
+                    "Double the 'n'"
+                  ]
+                },
+                {
+                  "id": 37,
+                  "content": "What is the antonym for 'bright'?",
+                  "correctIndex": 2,
+                  "answers": ["shine", "light", "dark", "sunny"]
+                },
+                {
+                  "id": 38,
+                  "content": "What is the plural of 'goose'?",
+                  "correctIndex": 1,
+                  "answers": ["gooses", "geese", "goosies", "goosi"]
+                },
+                {
+                  "id": 39,
+                  "content": "What comes after 'moon' in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["apple", "cat", "dog", "fish"]
+                },
+                {
+                  "id": 40,
+                  "content": "What is the doubling rule for adding 'ed' to the word 'hop'?",
+                  "correctIndex": 1,
+                  "answers": [
+                    "Double the 'h'",
+                    "Double the 'p'",
+                    "Double the 'o'",
+                    "Double the 'a'"
+                  ]
+                },
+                {
+                  "id": 41,
+                  "content": "What is an antonym for 'plenty'?",
+                  "correctIndex": 3,
+                  "answers": ["sad", "fun", "joyful", "scarce"]
+                },
+                {
+                  "id": 42,
+                  "content": "What is the plural of 'tooth'?",
+                  "correctIndex": 2,
+                  "answers": ["toothes", "tooths", "teeth", "teeths"]
+                },
+                {
+                  "id": 43,
+                  "content": "What comes before 'tree' in alphabetical order?",
+                  "correctIndex": 1,
+                  "answers": [
+                      "fruit",
+                      "plantain",
+                      "feline",
+                      "canine"
+                    ]
+
+                },
+                {
+                  "id": 44,
+                  "content": "What is the doubling rule for adding 'ing' to the word 'run'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'r'", "Double the 'u'", "Double the 'n'", "Double the 'a'"]
+                },
+                {
+                  "id": 45,
+                  "content": "What is the plural of 'cherry'?",
+                  "correctIndex": 0,
+                  "answers": ["cherries", "cherryes", "cherrys", "cherrie"]
+                },
+                {
+                  "id": 46,
+                  "content": "What is the antonym for 'fast'?",
+                  "correctIndex": 3,
+                  "answers": ["slowed", "quick", "speedy", "slow"]
+                },
+                {
+                  "id": 47,
+                  "content": "What is the plural of 'bus'?",
+                  "correctIndex": 2,
+                  "answers": ["busies", "buss", "buses", "bushi"]
+                },
+                {
+                  "id": 48,
+                  "content": "What is the doubling rule for adding 'er' to the word 'big'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'b'", "Double the 'i'", "Double the 'g'", "Double the 'e'"]
+                },
+                {
+                  "id": 49,
+                  "content": "What is the plural of 'peach'?",
+                  "correctIndex": 3,
+                  "answers": ["peachi", "peachs", "peachies", "peaches"]
+                },
+                {
+                  "id": 50,
+                  "content": "What is the antonym for 'challenge'?",
+                  "correctIndex": 1,
+                  "answers": ["effort", "facilitate", "struggle", "complicate"]
+                },
+
+                {
+                  "id": 51,
+                  "content": "What is the plural of 'mouse'?",
+                  "correctIndex": 0,
+                  "answers": ["mice", "mouses", "mouseen", "mousy"]
+                },
+                {
+                  "id": 52,
+                  "content": "What comes after 'jelly' in alphabetical order?",
+                  "correctIndex": 2,
+                  "answers": ["courage", "grey", "sea", "tractor"]
+                },
+                {
+                  "id": 53,
+                  "content": "What is the doubling rule for adding 'est' to the word 'hot'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'h'", "Double the 'o'", "Double the 't'", "Double the 'a'"]
+                },
+                {
+                  "id": 54,
+                  "content": "What is the plural of 'baby'?",
+                  "correctIndex": 0,
+                  "answers": ["babies", "babyes", "babys", "babyies"]
+                },
+                {
+                  "id": 55,
+                  "content": "What is the antonym for 'tall'?",
+                  "correctIndex": 1,
+                  "answers": ["stretch", "small", "high", "long"]
+                },
+                {
+                  "id": 56,
+                  "content": "What is the plural of 'dress'?",
+                  "correctIndex": 1,
+                  "answers": ["dresss", "dresses", "dressies", "dressi"]
+                },
+                {
+                  "id": 57,
+                  "content": "What is the doubling rule for adding 'ed' to the word 'beg'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'b'", "Double the 'e'", "Double the 'g'", "Double the 'a'"]
+                }
+,
+                {
+                  "id": 58,
+                  "content": "What is the plural of 'toy'?",
+                  "correctIndex": 0,
+                  "answers": ["toys", "toyies", "toies", "toyi"]
+                },
+                {
+                  "id": 59,
+                  "content": "What is the antonym for 'content'?",
+                  "correctIndex": 0,
+                  "answers": ["discontent", "happy", "pleased", "satisfied"]
+                },
+
+                {
+                  "id": 60,
+                  "content": "What is the plural of 'pencil'?",
+                  "correctIndex": 1,
+                  "answers": ["pencilies", "pencils", "penciles", "penci"]
+                },
+                {
+                  "id": 61,
+                  "content": "Which word comes first in alphabetical order: 'duck', 'dog', 'zebra', 'pencil'?",
+                  "correctIndex": 3,
+                  "answers": ["pencil", "duck", "zebra", "dog"]
+                },
+                {
+                  "id": 62,
+                  "content": "What is the plural of 'knife'?",
+                  "correctIndex": 3,
+                  "answers": ["knifies", "knivies", "knifes", "knives"]
+                },
+                {
+                  "id": 63,
+                  "content": "What comes after 'yellow' in alphabetical order?",
+                  "correctIndex": 2,
+                  "answers": ["red", "green", "zebra", "blue"]
+                },
+                {
+                  "id": 64,
+                  "content": "What is the doubling rule for adding 'ing' to the word 'run'?",
+                  "correctIndex": 1,
+                  "answers": ["Double the 'r'", "Double the 'n'", "Double the 'u'", "Double the 'a'"]
+                },
+                {
+                  "id": 65,
+                  "content": "What is the plural of 'person'?",
+                  "correctIndex": 2,
+                  "answers": ["peoples", "persons", "people", "personal"]
+                },
+                {
+                  "id": 66,
+                  "content": "What is the antonym for 'heavy'?",
+                  "correctIndex": 0,
+                  "answers": ["light", "big", "strong", "hard"]
+                },
+                {
+                  "id": 67,
+                  "content": "What is the plural of 'leaf'?",
+                  "correctIndex": 3,
+                  "answers": ["leavies", "leafs", "leafes", "leaves"]
+                },
+                {
+                  "id": 68,
+                  "content": "What is the doubling rule for adding 'est' to the word 'hot'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'h'", "Double the 'o'", "Double the 't'", "Double the 'a'"]
+                },
+                {
+                  "id": 69,
+                  "content": "What is the plural of 'child'?",
+                  "correctIndex": 0,
+                  "answers": ["children", "childs", "childies", "childer"]
+                },
+
+                {
+                  "id": 70,
+                  "content": "What is the antonym for 'big'?",
+                  "correctIndex": 2,
+                  "answers": ["solid", "huge", "minature", "giant"]
+                },
+                {
+                  "id": 71,
+                  "content": "What is the plural of 'cactus'?",
+                  "correctIndex": 1,
+                  "answers": ["cactuses", "cacti", "cactusies", "cactu"]
+                },
+                {
+                  "id": 72,
+                  "content": "What comes before 'tiger' in alphabetical order?",
+                  "correctIndex": 0,
+                  "answers": [
+                      "orange",
+                      "grape",
+                      "elephant",
+                      "lion"
+                    ]
+
+                },
+                {
+                  "id": 73,
+                  "content": "What is the doubling rule for adding 'ed' to the word 'stop'?",
+                  "correctIndex": 3,
+                  "answers": ["Double the 's'", "Double the 't'", "Double the 'o'", "Double the 'p'"]
+                },
+                {
+                  "id": 74,
+                  "content": "What is the plural of 'car'?",
+                  "correctIndex": 0,
+                  "answers": ["cars", "caries", "carries", "cari"]
+                },
+                {
+                  "id": 75,
+                  "content": "What is the antonym for 'courageous'?",
+                  "correctIndex": 0,
+                  "answers": ["timid", "bold", "confident", "fearless"]
+                },
+
+                {
+                  "id": 76,
+                  "content": "What is the plural of 'ox'?",
+                  "correctIndex": 1,
+                  "answers": ["oxs", "oxen", "oxies", "oxes"]
+                },
+
+                {
+                  "id": 77,
+                  "content": "What is the doubling rule for adding 'er' to the word 'big'?",
+                  "correctIndex": 2,
+                  "answers": ["Double the 'b'", "Double the 'i'", "Double the 'g'", "Double the 'e'"]
+                },
+                {
+                  "id": 78,
+                  "content": "What is the plural of 'baby'?",
+                  "correctIndex": 0,
+                  "answers": ["babies", "babyes", "babys", "babyies"]
+                },
+                {
+                  "id": 79,
+                  "content": "What comes after 'orange' in alphabetical order?",
+                  "correctIndex": 3,
+                  "answers": ["apple", "banana", "grape", "zebra"]
+                }
+              
+              
+          ]
+      }
+       
+    }
+
+]
