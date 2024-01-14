@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 2,
@@ -10,59 +11,35 @@
               {
                   "id": 0,
                   "topicTitle": "Discovering Phonological Awareness",
-                  "topicContent": "Explain that sentences can be broken into words and words into syllables.Introduce onset and rime as the initial sound and the rest of a syllable. Engage students in clapping and identifying syllables in words."
+                  "topicContent": "Understand that a sentences can be broken into words and words into syllables.onset and rime is the initial sound and the rest of a syllable.",
+                  "video": "https://api-files.sproutvideo.com/file/4490d1b51c1fecc5cd/a570fc9bcc03d602/1440.mp4"
               },
+  
+         
+              
               {
                   "id": 1,
-                  "topicTitle": "Exploring Phonemes",
-                  "topicContent": "Define phoneme as the smallest unit of sound in a word. Discuss that letters or letter groups represent phonemes.Practice identifying initial, medial, and final phonemes in words."
-              },
-              {
-                  "id": 2,
-                  "topicTitle": "Phonemic Awareness Introduction",
-                  "topicContent": "Introduce phonemic awareness as an awareness of sounds in words. Differentiate between phonological awareness and phonemic awareness.Engage students in activities like identifying rhyming words."
-              },
-              
-              
-              
-              
-              
-              {
-                  "id": 3,
-                  "topicTitle": "Phoneme Isolation",
-                  "topicContent": "Focus on isolating specific phonemes in words.Practice identifying initial, medial, and final phonemes in words.Use pictures and objects to make the activity interactive."
-              },
-              
-              
-              {
-                  "id": 4,
                   "topicTitle": " Segmenting Sounds",
-                  "topicContent": "Introduce segmenting as breaking words into individual sounds.Model segmenting simple words and have students try it.Use manipulatives like blocks or counters to represent sounds."
+                  "topicContent": "Introduction to segmenting as breaking words into individual sounds.",
+                  "video": "https://api-files.sproutvideo.com/file/4d90d1b51c1ee5c0c4/a06f4cdd9cfb1376/1080.mp4"
         
       },
-      {
-                  "id": 5,
-                  "topicTitle": "Phonemic Substitution",
-                  "topicContent": "Explain how substituting phonemes can create new words. Provide examples and have students substitute sounds in words.  Make it interactive by using flashcards or magnetic letters."
-              },
-      {
-                  "id": 6,
-                  "topicTitle": "Blending Sounds",
-                  "topicContent": "Explain blending as combining sounds to form words. Practice blending simple consonant-vowel words.  Use letter cards to model blending and have students try it."
-              },
+  
       
       
       
       {
-          "id": 7,
+          "id": 2,
           "topicTitle": "Alliteration Adventure",
-          "topicContent": "Define alliteration as words with common initial sounds. Provide examples of alliterative phrases like 'Silly Sammy.'     Engage students in generating alliterative phrases using different letters."
+          "topicContent": "Define alliteration as words with common initial sounds.",
+          "video": "https://api-files.sproutvideo.com/file/a790d1b51c1ee7c02e/8cfbd8a1ea6a12bc/1080.mp4"
 
 },
       {
-          "id": 8,
+          "id": 3,
           "topicTitle": "Rhyming Words",
-          "topicContent": "Reinforce rhyming skills from earlier lessons. Provide sets of words and have students identify rhyming pairs. Encourage creativity by having students generate their own rhymes."
+          "topicContent": "Reinforce rhyming skills from earlier lessons with sets of words.",
+          "video": "https://api-files.sproutvideo.com/file/a790d1b51c1ee0c72e/631d0f0c3f2c34ec/1080.mp4"
       }
               
               
@@ -163,7 +140,7 @@
                },
                {
                  "id": 14,
-                 "content": "Which word starts with the same sound as 'belt'?",
+                 "content": "Which word starts with the same sounds as 'belt'?",
                  "correctIndex": 3,
                  "answers": ["Star", "Banana", "Ball", "Bear"]
                },
@@ -266,7 +243,7 @@
                 {
                   "id": 31,
                   "content": "How many syllables are in the word 'celebration'?",
-                  "correctIndex": 4,
+                  "correctIndex": 3,
                   "answers": ["1", "2", "3", "4"]
                 },
                 {
@@ -340,7 +317,7 @@
                   "id": 43,
                   "content": "Select the word that contains a long 'A' sound.",
                   "correctIndex": 2,
-                  "answers": ["Cake", "Star", "Rain", "Dog"]
+                  "answers": ["Car", "Star", "Rain", "Dog"]
                 },
                 {
                   "id": 44,
@@ -369,8 +346,8 @@
                 {
                   "id": 48,
                   "content": "How many syllables are in the word 'unbelievable'?",
-                  "correctIndex": 5,
-                  "answers": ["1", "2", "3", "4"]
+                  "correctIndex": 0,
+                  "answers": ["5", "2", "3", "4"]
                 },
                 {
                   "id": 49,
@@ -412,7 +389,7 @@
                   "id": 55,
                   "content": "Select the word that has the same middle sound as 'stream'.",
                   "correctIndex": 0,
-                  "answers": ["Dream", "Lake", "Jump", "Tree"]
+                  "answers": ["Dream", "Lake", "Jump", "Trial"]
                 },
                 {
                   "id": 56,
@@ -424,7 +401,7 @@
                   "id": 57,
                   "content": "Which word ends with the same sound as 'rain'?",
                   "correctIndex": 1,
-                  "answers": ["Sea", "date", "Sky", "Leaf"]
+                  "answers": ["Sea", "pan", "Sky", "Leaf"]
                 },
                 {
                   "id": 58,
@@ -453,13 +430,13 @@
                 {
                   "id": 62,
                   "content": "How many syllables are in the word 'unreasonable'?",
-                  "correctIndex": 3,
-                  "answers": ["1", "2", "3", "4"]
+                  "correctIndex": 0,
+                  "answers": ["5", "2", "3", "4"]
                 },
                 {
                   "id": 63,
                   "content": "Which word starts with the same sound as 'goose'?",
-                  "correctIndex": 3,
+                  "correctIndex": 1,
                   "answers": ["Star", "Goat", "Jump", "moose"]
                 },
                 {
@@ -510,44 +487,33 @@
                   "correctIndex": 0,
                   "answers": ["Frog", "Star", "Jump", "Desk"]
                 },
+                
                 {
                   "id": 72,
-                  "content": "How many syllables are in the word 'monstrous'?",
-                  "correctIndex": 2,
-                  "answers": ["1", "2", "3", "4"]
-                },
-                {
-                  "id": 73,
-                  "content": "Select the word that contains the sound 'sh' like in 'sheep'.",
-                  "correctIndex": 1,
-                  "answers": ["Cake", "Sheep", "Dog", "Star"]
-                },
-                {
-                  "id": 74,
                   "content": "How many syllables are in the word 'envelope'?",
                   "correctIndex": 2,
                   "answers": ["1", "2", "3", "4"]
                 },
                 {
-                  "id": 75,
+                  "id": 73,
                   "content": "Which word has the same ending sound as 'game'?",
                   "correctIndex": 2,
                   "answers": ["Rain", "Star", "Flame", "Leaf"]
                 },
                 {
-                  "id": 76,
+                  "id": 74,
                   "content": "How many syllables are in the word 'Antelope'?",
                   "correctIndex": 2,
                   "answers": ["1", "2", "3", "4"]
                 },
                 {
-                  "id": 77,
+                  "id": 75,
                   "content": "Select the word that has the same middle sound as 'sail'.",
                   "correctIndex": 1,
                   "answers": ["Cake", "Snail", "Dog", "Star"]
                 },
                 {
-                  "id": 77,
+                  "id": 76,
                   "content": "How many syllables are in the word 'wonderful'?",
                   "correctIndex": 2,
                   "answers": ["1", "2", "3", "4"]
