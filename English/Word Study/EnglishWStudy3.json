@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 2,
@@ -10,48 +11,47 @@
           {
                             "id": 0,
                             "topicTitle": "Using a Dictionary",
-                            "topicContent": "Further develop dictionary skills, including understanding guide words, pronunciation symbols, and multiple definitions. Practice looking up words and using the information in sentences."
+                            "topicContent": "Further develop dictionary skills, including understanding guide words, pronunciation symbols, and multiple definitions. Practice looking up words and using the information in sentences.",
+                            "video": "https://api-files.sproutvideo.com/file/4490d1b61a1fe0cccd/ef4abf4c07f4ad94/1080.mp4"
                         },
           {
               "id": 1,
               "topicTitle": "Parts of Speech and Parsing",
-              "topicContent": "Introduce the different parts of speech (nouns, verbs, adjectives, adverbs) and the concept of parsing sentences to identify these parts. Teach students how to break down sentences for analysis."
+              "topicContent": "Introduction to the different parts of speech (nouns, verbs, adjectives, adverbs) and the concept of parsing sentences to identify these parts.",
+              "video": "https://api-files.sproutvideo.com/file/4d90d1b61a18e0c6c4/c5d4db118a424293/1080.mp4"           },
+          {
+              "id": 2,
+              "topicTitle": "3rd Person Singular: Verbs Ending in (-y)",
+              "topicContent": "Learn how to form the 3rd person singular of verbs ending in -y (e.g., cry, tries) by changing the -y to -ies. Practice using these verbs in sentences.",
+              "video": "https://api-files.sproutvideo.com/file/4d90d1b61a19e7c0c4/20f34a57a8e9ece6/1080.mp4"
           },
+        
           {
               "id": 3,
-              "topicTitle": "3rd Person Singular: Verbs Ending in (-y)",
-              "topicContent": "Teach how to form the 3rd person singular of verbs ending in -y (e.g., cry, tries) by changing the -y to -ies. Practice using these verbs in sentences."
+              "topicTitle": "Paragraphs",
+              "topicContent": "Learn the structure of a paragraph (topic sentence, supporting details, concluding sentence).",
+              "video": "https://api-files.sproutvideo.com/file/0690d1b61b1fe3c48f/a2a7f196d63ade3b/1080.mp4"
           },
+      
           {
-                      "id": 4,
-                      "topicTitle": "Syllables (1)",
-                      "topicContent": "Introduce the concept of syllables and teach students how to count syllables in words. Use multisyllabic words and provide exercises to practice syllable counting."
-                  },
+              "id": 4,
+              "topicTitle": "Contractions",
+              "topicContent": "Introduction  to contractions (e.g., I'm, don't, can't). They are formed by combining words and using apostrophes. Practice using contractions in sentences.",
+              "video": "https://api-files.sproutvideo.com/file/0690d1b61e1ae0c78f/581b15b257b747bb/1080.mp4"           },
           {
-                      "id": 5,
-                      "topicTitle": "Syllables (2)",
-                      "topicContent": "Extend syllable awareness by introducing syllable patterns, such as VCV and VCCV. Provide words for students to analyze and separate into syllables."
-                  },
+              "id": 5,
+              "topicTitle": "Comparatives",
+              "topicContent": "Learn the concepts of comparative (comparing two things). Practice forming and using these forms.",
+              "video": "https://api-files.sproutvideo.com/file/4d90d1b61b18efc8c4/ed628d550eefa926/1080.mp4"
+          },
           {
               "id": 6,
-              "topicTitle": "Paragraphs (1)",
-              "topicContent": "Teach the structure of a paragraph (topic sentence, supporting details, concluding sentence). Guide students in writing simple paragraphs on familiar topics."
-          },
-          {
-              "id": 7,
-              "topicTitle": "Paragraphs (2)",
-              "topicContent": " Explore more advanced paragraph writing techniques, such as transitioning between sentences, using descriptive language, and organizing ideas logically."
-          },
-          {
-              "id": 8,
-              "topicTitle": "Contractions",
-              "topicContent": "Introduce contractions (e.g., I'm, don't, can't) and teach how they are formed by combining words and using apostrophes. Practice using contractions in sentences."
-          },
-          {
-              "id": 9,
-              "topicTitle": "Comparative and Superlatives",
-              "topicContent": "Teach the concepts of comparative (comparing two things) and superlative (comparing more than two things) forms of adjectives. Practice forming and using these forms."
+              "topicTitle": "Superlatives",
+              "topicContent": "Learn  the concepts of superlative (comparing more than two things) forms of adjectives. Practice forming and using these forms.",
+              "video": "https://api-files.sproutvideo.com/file/ea90d1b61b1be3c463/6a4d23c46b973b5d/1080.mp4"
           }
+          
+          
 
                     ]
                 },
@@ -71,7 +71,7 @@
               {
                 "id": 1,
                 "content": "What is the process of breaking down a sentence to identify its different parts of speech called?",
-                "correctIndex": 3,
+                "correctIndex": 2,
                 "answers": ["spelling", "alphabetizing", "parsing", "vocabulary"]
               },
               {
@@ -157,7 +157,7 @@
               {
                 "id": 15,
                 "content": "What is the plural of 'puppy'?",
-                "correctIndex": 1,
+                "correctIndex": 0,
                 "answers": ["puppies", "puppyes", "puppys", "puppyies"]
               },
               {
@@ -188,7 +188,7 @@
                 "id": 20,
                 "content": "What is the antonym for 'generous'?",
                 "correctIndex": 2,
-                "answers": ["giving", "kind", "selfish", "grateful"]
+                "answers": ["giving", "kind", "selfish", "take"]
               },
               {
                 "id": 21,
@@ -205,7 +205,7 @@
               {
                 "id": 23,
                 "content": "What is the correct order of the syllables in the word 'elephant'?",
-                "correctIndex": 1,
+                "correctIndex": 2,
                 "answers": ["el-e-phant", "ele-phant", "e-le-phant", "elep-hant"]
               },
               {
@@ -259,7 +259,7 @@
               {
                 "id": 32,
                 "content": "What part of speech is the word 'suddenly'?",
-                "correctIndex": 1,
+                "correctIndex": 2,
                 "answers": ["noun", "adjective", "adverb", "verb"]
               },
               {
@@ -273,7 +273,7 @@
                 "id": 34,
                 "content": "What is the correct order of the syllables in the word 'butterfly'?",
                 "correctIndex": 1,
-                "answers": ["but-terfly", "butter-fly", "but-ter-fly", "butterf-ly"]
+                "answers": ["but-terfly", "bu-tter-fly", "but-ter-fly", "butterf-ly"]
               },
               {
                 "id": 35,
@@ -389,7 +389,7 @@
                 "id": 53,
                 "content": "What is the correct order of the syllables in the word 'watermelon'?",
                 "correctIndex": 1,
-                "answers": ["wa-ter-melon", "water-me-lon", "wa-terme-lon", "water-mel-on"]
+                "answers": ["wa-ter-melon", "wa-ter-me-lon", "wa-terme-lon", "water-mel-on"]
               },
               {
                 "id": 54,
@@ -430,8 +430,8 @@
 
                 {
                   "id": 60,
-                  "content": "What part of speech is the word 'gente'?",
-                  "correctIndex": 1,
+                  "content": "What part of speech is the word 'gent'?",
+                  "correctIndex": 0,
                   "answers": ["noun", "adjective", "adverb", "verb"]
                 },
                 {
@@ -510,353 +510,17 @@
                 {
                   "id": 73,
                   "content": "What is the correct order of the syllables in the word 'telephone'?",
-                  "correctIndex": 0,
-                  "answers": ["tele-pho-ne", "tel-ep-hone", "te-le-phon-e", "telepho-ne"]
+                  "correctIndex": 2,
+                  "answers": ["tele-pho-ne", "tel-ep-hone", "te-le-phone", "telepho-ne"]
                 },
+            
                 {
                   "id": 74,
-                  "content": "What does the prefix 're-' mean in the word 'redo'?",
-                  "correctIndex": 3,
-                  "answers": ["not", "before", "again", "repeat"]
-                },
-                {
-                  "id": 75,
                   "content": "What is the superlative form of the adjective 'cold'?",
-                  "correctIndex": 1,
+                  "correctIndex": 0,
                   "answers": ["coldest", "colder", "more cold", "coldiest"]
-                },
-                
-                {
-                   "id": 76,
-                   "content": "What is the suffix in the word 'helpful'?",
-                   "correctIndex": 2,
-                   "answers": ["help", "ly", "ful", "full"]
-                 },
-                 {
-                   "id": 77,
-                   "content": "Which of the following words has the prefix 'dis-'?",
-                   "correctIndex": 0,
-                   "answers": ["dislike", "friendly", "happy", "understand"]
-                 },
-                 {
-                   "id": 78,
-                   "content": "What is the plural form of 'kangaroo'?",
-                   "correctIndex": 2,
-                   "answers": ["kangaroes", "kangarooes", "kangaroos", "kangarouses"]
-                 },
-                 {
-                   "id": 79,
-                   "content": "What is the antonym for 'generous'?",
-                   "correctIndex": 1,
-                   "answers": ["kind", "stingy", "self", "helpful"]
-                 },
-                 {
-                   "id": 80,
-                   "content": "What part of speech is the word 'loudly'?",
-                   "correctIndex": 2,
-                   "answers": ["noun", "adjective", "adverb", "verb"]
-                 },
-                 {
-                   "id": 81,
-                   "content": "Which of the following is a compound word?",
-                   "correctIndex": 3,
-                   "answers": ["teacher", "running", "quickly", "toothpaste"]
-                 },
-                 {
-                   "id": 82,
-                   "content": "What is the correct order of the syllables in the word 'eleven'?",
-                   "correctIndex": 0,
-                   "answers": ["e-le-ven", "ele-ven", "el-e-ven", "eleve-n"]
-                 },
-                 {
-                   "id": 83,
-                   "content": "What does the prefix 'mis-' mean in the word 'misbehave'?",
-                   "correctIndex": 2,
-                   "answers": ["not", "before", "wrong", "bad"]
-                 },
-                 {
-                   "id": 84,
-                   "content": "What is the superlative form of the adjective 'fast'?",
-                   "correctIndex": 0,
-                   "answers": ["fastest", "faster", "more fast", "fastiest"]
-                 },
-                 {
-                   "id": 85,
-                   "content": "Which of the following words has the suffix '-ful'?",
-                   "correctIndex": 3,
-                   "answers": ["slow", "full", "nice", "joyful"]
-                 },
-                 {
-                   "id": 86,
-                   "content": "What is the synonym for 'excited'?",
-                   "correctIndex": 1,
-                   "answers": ["care", "enthusiastic", "calm", "bored"]
-                 },
-                
-                 {
-                   "id": 87,
-                   "content": "What is the prefix in the word 'unhappy'?",
-                   "correctIndex": 2,
-                   "answers": ["up", "happy", "un", "unhappyly"]
-                 },
-                 {
-                   "id": 88,
-                   "content": "What is the plural form of 'deer'?",
-                   "correctIndex": 1,
-                   "answers": ["deers", "deer", "deeries", "deeres"]
-                 },
-                 {
-                   "id": 89,
-                   "content": "What is the antonym for 'patient'?",
-                   "correctIndex": 2,
-                   "answers": ["friendly", "happy", "impatient", "calm"]
-                 },
-                 {
-                   "id": 90,
-                   "content": "What part of speech is the word 'easily'?",
-                   "correctIndex": 2,
-                   "answers": ["noun", "adjective", "adverb", "verb"]
-                 },
-                 {
-                   "id": 91,
-                   "content": "Which of the following is a compound word?",
-                   "correctIndex": 0,
-                   "answers": ["basketball", "quickly", "tooth", "friendly"]
-                 },
-                 {
-                   "id": 92,
-                   "content": "What is the correct order of the syllables in the word 'guitar'?",
-                   "correctIndex": 1,
-                   "answers": ["guit-tar", "gui-tar", "gu-it-ar", "guitar"]
-                 },
-                 {
-                   "id": 93,
-                   "content": "What does the prefix 'bi-' mean in the word 'bicycle'?",
-                   "correctIndex": 2,
-                   "answers": ["two", "before", "both", "new"]
-                 },
-                 {
-                   "id": 94,
-                   "content": "What is the superlative form of the adjective 'funny'?",
-                   "correctIndex": 1,
-                   "answers": ["funniest", "funnier", "more funny", "funniestest"]
-                 },
-                 {
-                   "id": 95,
-                   "content": "What is the suffix in the word 'hopeless'?",
-                   "correctIndex": 1,
-                   "answers": ["hope", "less", "ful", "hoping"]
-                 },
-                 {
-                   "id": 96,
-                   "content": "Which of the following words has the prefix 'pro-'?",
-                   "correctIndex": 3,
-                   "answers": ["happy", "smile", "usual", "produce"]
-                 },
-                 {
-                   "id": 97,
-                   "content": "What is the plural form of 'tomato'?",
-                   "correctIndex": 1,
-                   "answers": ["tomatos", "tomatoes", "tomatoe", "tomatoeses"]
-                 },
-                 {
-                   "id": 98,
-                   "content": "What is the antonym for 'loud'?",
-                   "correctIndex": 0,
-                   "answers": ["quiet", "soft", "noisy", "shell"]
-                 },
-                 {
-                   "id": 99,
-                   "content": "What part of speech is the word 'king'?",
-                   "correctIndex": 0,
-                   "answers": ["noun", "adjective", "adverb", "verb"]
-                 },
-                 {
-                   "id": 100,
-                   "content": "Which of the following is a compound word?",
-                   "correctIndex": 2,
-                   "answers": ["running", "quickly", "toothbrush", "friendly"]
-                 },
-                 {
-                   "id": 101,
-                   "content": "What is the correct order of the syllables in the word 'computer'?",
-                   "correctIndex": 0,
-                   "answers": ["com-pu-ter", "comp-uter", "compu-ter", "comput-er"]
-                 },
-                 {
-                   "id": 102,
-                   "content": "What does the prefix 'pre-' mean in the word 'preview'?",
-                   "correctIndex": 1,
-                   "answers": ["not", "before", "after", "above"]
-                 },
-                 {
-                   "id": 103,
-                   "content": "What is the superlative form of the adjective 'smart'?",
-                   "correctIndex": 3,
-                   "answers": ["smartiest", "smarter", "more smart", "smartest"]
-                 },
-                 {
-                   "id": 104,
-                   "content": "What is the synonym for 'frightened'?",
-                   "correctIndex": 1,
-                   "answers": ["scarf", "terrified", "calm", "happy"]
-                 },
-            {
-              "id": 105,
-              "content": "What is the suffix in the word 'careless'?",
-              "correctIndex": 1,
-              "answers": ["care", "less", "ful", "carely"]
-            },
-            {
-              "id": 106,
-              "content": "Which of the following words has the prefix 'un-'?",
-              "correctIndex": 3,
-              "answers": ["happy", "smile", "usual", "uncover"]
-            },
-            {
-              "id": 107,
-              "content": "What is the plural form of 'apple'?",
-              "correctIndex": 2,
-              "answers": ["apples", "apple", "applees", "appleses"]
-            },
-            {
-              "id": 108,
-              "content": "What is the antonym for 'brave'?",
-              "correctIndex": 2,
-              "answers": ["fearless", "strong", "cowardly", "happy"]
-            },
-            {
-              "id": 109,
-              "content": "What part of speech is the word 'swiftly'?",
-              "correctIndex": 2,
-              "answers": ["noun", "adjective", "adverb", "verb"]
-            },
-            {
-              "id": 110,
-              "content": "Which of the following is a compound word?",
-              "correctIndex": 1,
-              "answers": ["teacher", "baseball", "quickly", "friendly"]
-            },
-            {
-              "id": 111,
-              "content": "What is the correct order of the syllables in the word 'umbrella'?",
-              "correctIndex": 2,
-              "answers": [ "umb-re-lla", "umbr-el-la","um-bre-lla", "um-bre-l-la"]
-            },
-            {
-              "id": 112,
-              "content": "What does the prefix 'tri-' mean in the word 'tricycle'?",
-              "correctIndex": 0,
-              "answers": ["three", "before", "both", "new"]
-            },
-            {
-              "id": 113,
-              "content": "What is the superlative form of the adjective 'strong'?",
-              "correctIndex": 3,
-              "answers": ["strongiest", "stronger", "more strong", "strongest"]
-            },
-            {
-              "id": 114,
-              "content": "What is the suffix in the word 'colorful'?",
-              "correctIndex": 3,
-              "answers": ["color", "full", "ly", "ful"]
-            },
-            {
-              "id": 115,
-              "content": "Which of the following words has the prefix 'dis-'?",
-              "correctIndex": 0,
-              "answers": ["dislike", "friendly", "happy", "understand"]
-            },
-            {
-              "id": 116,
-              "content": "What is the plural form of 'goose'?",
-              "correctIndex": 1,
-              "answers": ["gooses", "geese", "goosees", "geeses"]
-            },
-            {
-              "id": 117,
-              "content": "What is the antonym for 'tiny'?",
-              "correctIndex": 2,
-              "answers": ["small", "little", "huge", "miniature"]
-            },
-            {
-              "id": 118,
-              "content": "What part of speech is the word 'happily'?",
-              "correctIndex": 2,
-              "answers": ["noun", "adjective", "adverb", "verb"]
-            },
-            {
-              "id": 119,
-              "content": "Which of the following is a compound word?",
-              "correctIndex": 0,
-              "answers": ["daytime", "quickly", "cry", "friendly"]
-            },
-            {
-              "id": 120,
-              "content": "What is the correct order of the syllables in the word 'basketball'?",
-              "correctIndex": 0,
-              "answers": ["bas-ket-ball", "basket-ball", "bas-ket-ball", "basketb-all"]
-            },
-            {
-              "id": 121,
-              "content": "What does the prefix 'en-' mean in the word 'enjoy'?",
-              "correctIndex": 1,
-              "answers": ["not", "cause", "inside", "before"]
-            },
-            {
-              "id": 122,
-              "content": "What is the superlative form of the adjective 'kind'?",
-              "correctIndex": 0,
-              "answers": ["kindest", "kinder", "more kind", "kindiest"]
-            },
-            {
-              "id": 123,
-              "content": "What is the synonym for 'curious'?",
-              "correctIndex": 2,
-              "answers": ["invite", "bored", "eager", "angry"]
-            },
-            {
-              "id": 124,
-              "content": "What is the suffix in the word 'helpless'?",
-              "correctIndex": 1,
-              "answers": ["help", "less", "ly", "ful"]
-            },
-            {
-              "id": 125,
-              "content": "Which of the following words has the prefix 'pro-'?",
-              "correctIndex": 3,
-              "answers": ["happy", "smile", "usual", "proceed"]
-            },
-            {
-              "id": 126,
-              "content": "What is the plural form of 'cactus'?",
-              "correctIndex": 0,
-              "answers": ["cacti", "cactuses", "cactuss", "cactusses"]
-            },
-            {
-              "id": 127,
-              "content": "What is the antonym for 'generous'?",
-              "correctIndex": 2,
-              "answers": ["kind", "sting", "selfish", "helpful"]
-            },
-            {
-              "id": 128,
-              "content": "What part of speech is the word 'lost'?",
-              "correctIndex": 3,
-              "answers": ["noun", "adjective", "adverb", "verb"]
-            },
-            {
-              "id": 129,
-              "content": "Which of the following is a compound word?",
-              "correctIndex": 3,
-              "answers": ["teacher", "running", "quickly", "toothpaste"]
-            },
-            {
-              "id": 130,
-              "content": "What is the correct order of the syllables in the word 'eleven'?",
-              "correctIndex": 0,
-              "answers": ["e-le-ven", "ele-ven", "el-e-ven", "eleve-n"]
-            }          ]
+                }
+          ]
       }
        
     }
