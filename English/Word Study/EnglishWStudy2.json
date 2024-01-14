@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 1,
@@ -7,65 +8,33 @@
       "content": {
           "id": 0,
       "teaching": [
-          {
-              "id": 0,
-              "topicTitle": "Sentence Writing",
-              "topicContent": "Teach students the structure of a complete sentence (subject + predicate) and guide them in writing simple, grammatically correct sentences. Focus on capitalization and punctuation."
-          },{
-              "id": 1,
-              "topicTitle": "Alphabetical Order",
-              "topicContent": "Review and reinforce the concept of alphabetical order using words from the class vocabulary. Practice arranging words and short phrases in correct alphabetical order."
-          },
+         
+         {
+                           "id": 0,
+                           "topicTitle": "Sentences",
+                           "topicContent": "Recap on the concept of sentences as groups of words that express a complete thought. ",
+                           "video": "https://api-files.sproutvideo.com/file/d390d1b61a1ee8ce5a/7fd132bef5fc9ac4/1080.mp4"
+                       },
+         {
+                      "id": 1,
+                      "topicTitle": "Homophone Mix-ups",
+                      "topicContent": "Learn about homophones (words that sound the same but have different meanings and spellings) and provide examples. Differentiate between commonly confused homophones.",
+                      "video": "https://api-files.sproutvideo.com/file/7990d1b61a1fe6c3f0/9168f5e137aa3801/1080.mp4"
+                  },
+         
+    
           {
               "id": 2,
-              "topicTitle": "Alphabetical Order 2",
-              "topicContent": "Continue developing alphabetical order skills with more complex words and phrases. Provide activities that challenge students to arrange words in order."
+              "topicTitle": "Expanding a Sentence",
+              "topicContent": "How to add details to a basic sentence using adjectives, adverbs, and additional phrases. Expand simple sentences into more complex ones.",
+              "video": "https://api-files.sproutvideo.com/file/4d90d1b61a19e5c2c4/2062748c30c123ef/1080.mp4"
           },
+        
           {
               "id": 3,
-              "topicTitle": "Plurals",
-              "topicContent": "Expand on plural forms of nouns, including adding -s, -es, and -ies. Explain the rules for each form and provide examples."
-          },
-          {
-                      "id": 4,
-                      "topicTitle": "Homophone Mix-ups",
-                      "topicContent": "Teach about homophones (words that sound the same but have different meanings and spellings) and provide examples. Help students differentiate between commonly confused homophones."
-                  },
-          {
-              "id": 5,
-              "topicTitle": "Alphabetical Order 3",
-              "topicContent": "Further enhance alphabetical order skills by including more challenging vocabulary. Encourage students to independently organize words in alphabetical order."
-          },
-          {
-              "id": 6,
-              "topicTitle": "Sentences and Verbs",
-              "topicContent": "Review sentence structure and introduce verbs as action words. Teach about subject-verb agreement and guide students in creating sentences with appropriate verbs."
-          },
-          {
-              "id": 7,
-              "topicTitle": "Using a Dictionary",
-              "topicContent": "Teach students how to use a dictionary to find word meanings, pronunciations, and spellings. Guide them through dictionary entries and definitions."
-          },
-          {
-              "id": 8,
-              "topicTitle": "Proofreading Sentences",
-              "topicContent": "Teach the importance of proofreading for correct spelling, grammar, and punctuation. Provide sentences with errors for students to identify and correct."
-          },
-          {
-              "id": 9,
-              "topicTitle": "Expanding a Sentence",
-              "topicContent": "Show students how to add details to a basic sentence using adjectives, adverbs, and additional phrases. Guide them in expanding simple sentences into more complex ones."
-          },
-          
-          {
-              "id": 10,
-              "topicTitle": "Plurals (-s), (-es), and (-ies)",
-              "topicContent": "Provide an in-depth exploration of plural forms, including when to add -s, -es, and -ies to different types of nouns. Reinforce these rules with practice activities."
-          },
-          {
-              "id": 11,
               "topicTitle": "Synonyms",
-              "topicContent": "Explore synonyms (words with similar meanings) and their usage in sentences. Encourage students to use a thesaurus to find synonyms for common words."
+              "topicContent": "Explore synonyms (words with similar meanings) and their usage in sentences. Use a thesaurus to find synonyms for common words.",
+              "video": "https://api-files.sproutvideo.com/file/7090d1b61a19e3c5f9/151c7ff9cf181a07/1080.mp4"
           }
           
           
@@ -256,9 +225,9 @@
 
                {
                  "id": 28,
-                 "content": "What is the plural of 'dish'?",
+                 "content": "What is the plural of 'wish'?",
                  "correctIndex": 1,
-                 "answers": ["dishs", "dishes", "dishies", "dishi"]
+                 "answers": ["wishs", "wishes", "wishies", "wishi"]
                },
                {
                  "id": 29,
@@ -281,7 +250,7 @@
                },
                {
                  "id": 32,
-                 "content": "What is the alphabetical order of the words from Low to hihg: 'giraffe', 'elephant', 'iguana', 'zebra'?",
+                 "content": "What is the alphabetical order of the words from Low to high: 'giraffe', 'elephant', 'iguana', 'zebra'?",
                  "correctIndex": 1,
                  "answers": ["elephant, giraffe, iguana, zebra", "zebra ,iguana, giraffe , elephant ", "giraffe, iguana, zebra, elephant", "iguana, elephant, zebra, giraffe"]
                },
@@ -331,7 +300,7 @@
                 },
                 {
                   "id": 40,
-                  "content": "What is the synonym for 'happy'?",
+                  "content": "What is the synonym for 'ecstatic'?",
                   "correctIndex": 2,
                   "answers": ["sad", "funny", "joyful", "angry"]
                 },
@@ -343,13 +312,13 @@
                 },
                 {
                   "id": 42,
-                  "content": "What is the homophone for 'flour'?",
+                  "content": "What is the homophone for 'they're'?",
                   "correctIndex": 3,
-                  "answers": ["flowr", "floor", "flur", "flower"]
+                  "answers": ["ther", "teir", "thr", "their"]
                 },
                 {
                 "id": 43,
-                "content": "Put it the words in Alphabetical ordered sequence: 'canine', 'insect', 'sphere', and 'feline'.",
+                "content": "Put the words in Alphabetical ordered sequence: 'canine', 'insect', 'sphere', and 'feline'.",
                 "correctIndex": 2,
                 "answers": [
                 "insect, sphere, feline, canine",
@@ -372,419 +341,26 @@
                 },
                 {
                   "id": 46,
-                  "content": "What is the synonym for 'small'?",
+                  "content": "What is the synonym for 'minature'?",
                   "correctIndex": 3,
                   "answers": ["big", "tall", "wide", "tiny"]
                 },
                 {
                 "id": 47,
                 "content": "What precedes 'luminous' in an alphabetically sorted list?",
-                "correctIndex": 2,
+                "correctIndex": 1,
                 "answers": ["ethereal", "radiant", "gleaming", "effulgent"]
                 },
-                {
-                  "id": 48,
-                  "content": "What is the homophone for 'pair'?",
-                  "correctIndex": 0,
-                  "answers": ["pear", "pare", "pairr", "peir"]
-                },
-                {
-                "id": 49,
-                "content": "Arrange the following terms: 'sapphire', 'feline', 'monarch', 'pear', in ascending alphabetical sequence.",
-                "correctIndex": 0,
-                "answers": [
-                "feline, monarch, pear sapphire",
-                "pear, feline, sapphire, monarch",
-                "sapphire, feline, monarch, pear",
-                "sapphire, monarch, feline, pear"
-                ]
-                },
-                {
-                "id": 50,
-                "content": "Provide the plural form of 'tooth'",
-                "correctIndex": 0,
-                "answers": ["teeth", "tooths", "toothes", "toothies"]
-                },
-                {
-                  "id": 51,
-                  "content": "What is the synonym for 'angry'?",
-                  "correctIndex": 3,
-                  "answers": ["happy", "sad", "funny", "mad"]
-                },
-                {
-                  "id": 52,
-                  "content": "What comes after 'pen' in alphabetical order?",
-                  "correctIndex": 2,
-                  "answers": ["kite", "lamp", "queen", "nest"]
-                },
-                {
-                  "id": 53,
-                  "content": "What is the homophone for 'hair'?",
-                  "correctIndex": 1,
-                  "answers": ["haire", "hare", "her", "heirr"]
-                },
-                {
-                  "id": 54,
-                  "content": "What is the synonym for 'ecstatic'?",
-                  "correctIndex": 2,
-                  "answers": ["cold", "sad", "merry", "angry"]
-                },
-                {
-                "id": 55,
-                "content": "Identify the term that precedes the others in alphabetical order: 'apple', 'banana', 'cherry', 'date'",
-                "correctIndex": 0,
-                "answers": ["apple", "banana", "cherry", "date"]
-                },
-                {
-                  "id": 56,
-                  "content": "What is the plural of 'tomato'?",
-                  "correctIndex": 1,
-                  "answers": ["tomatoes", "tomatos", "tomatoes", "tomatees"]
-                },
-                {
-                  "id": 57,
-                  "content": "What is the homophone for 'ate'?",
-                  "correctIndex": 1,
-                  "answers": ["eighty", "eight", "ait", "et"]
-                },
-                {
-                  "id": 58,
-                  "content": "What is the alphabetical order of the words: 'book', 'pen', 'table', 'chair'?",
-                  "correctIndex": 2,
-                  "answers": ["book, chair, pen, table", "book, pen, chair, table", "book, chair,pen, table", "pen, book, table, chair"]
-                },
-
-                {
-                "id": 59,
-                "content": "Among the given options, which word represents a verb?",
-                "correctIndex": 1,
-                "answers": ["ball", "jog", "blue", "tree"]
-                },
-                {
-                "id": 60,
-                "content": "What is the plural of 'guitar'?",
-                "correctIndex": 0,
-                "answers": ["guitars", "guitares", "guitaries", "guitarees"]
-                },
-                {
-                  "id": 61,
-                  "content": "What is the antonym for 'hot'?",
-                  "correctIndex": 1,
-                  "answers": ["warm", "cold", "cool", "freezing"]
-                },
-                {
-                  "id": 62,
-                  "content": "Identify the term that follows 'pencil' in alphabetical order.",
-                  "correctIndex": 3,
-                  "answers": ["apple", "dog", "pair", "umbrella"]
-                },
-                {
-                "id": 63,
-                "content": "What is the homophone for 'base'?",
-                "correctIndex": 2,
-                "answers": ["bees", "baste", "bass", "bays"]
-                },
-                {
-                  "id": 64,
-                  "content": "What is the alphabetical order of the words: 'house', 'apple', 'frog', 'cat'?",
-                  "correctIndex": 0,
-                  "answers": ["apple, cat, frog, house", "apple, frog, cat, house", "house, apple, cat, frog", "house, frog, apple, cat"]
-                },
-                {
-                  "id": 65,
-                  "content": "Which of the following is a plural noun?",
-                  "correctIndex": 0,
-                  "answers": ["apples", "happy", "run", "quick"]
-                },
-                {
-                "id": 66,
-                "content": "What is the plural of 'chair'?",
-                "correctIndex": 1,
-                "answers": ["chairs", "chairen", "chairies", "chaired"]
-                },
-                {
-                  "id": 67,
-                  "content": "What is the antonym for 'fast'?",
-                  "correctIndex": 3,
-                  "answers": ["slide", "quick", "rapid", "steady"]
-                },
-                {
-                  "id": 68,
-                  "content": "What comes before 'umbrella' in alphabetical order?",
-                  "correctIndex": 2,
-                  "answers": ["apple", "book", "table", "zebra"]
-                },
-                {
-                "id": 69,
-                "content": "What is the homophone for 'peace'?",
-                "correctIndex": 3,
-                "answers": ["please", "pees", "peas", "piece"]
-                },
-                {
-                  "id": 70,
-                  "content": "What is the alphabetical order of the words: 'zebra', 'cat', 'lion', 'apple'?",
-                  "correctIndex": 1,
-                  "answers": [ "apple, cat, zebra, lion","apple, cat, lion, zebra","zebra, cat, lion, apple", "zebra, lion, cat, apple"]
-                },
-                {
-                  "id": 71,
-                  "content": "Which of the following is a verb?",
-                  "correctIndex": 2,
-                  "answers": ["runner", "happy", "sing", "yellow"]
-                },
-                {
-                  "id": 72,
-                  "content": "What is the plural of 'father'?",
-                  "correctIndex": 2,
-                  "answers": ["fathers", "fathers", "fathers", "father"]
-                },
-                {
-                "id": 73,
-                "content": "What is the antonym for 'miniature'?",
-                "correctIndex": 1,
-                "answers": ["smell", "large", "heart", "tiny"]
-                },
-                {
-                   "id": 74,
-                   "content": "Which word is spelled correctly?",
-                   "correctIndex": 1,
-                   "answers": ["appel", "apple", "apel", "aple"]
-                 },
-                 {
-                   "id": 75,
-                   "content": "What is the synonym for 'small'?",
-                   "correctIndex": 3,
-                   "answers": ["big", "tin", "large", "little"]
-                 },
-                 {
-                 "id": 76,
-                 "content": "What is the plural of 'lunch'?",
-                 "correctIndex": 2,
-                 "answers": ["lunchies", "lunchs", "lunches", "lunchys"]
-                 },
-                 {
-                   "id": 77,
-                   "content": "What is the homophone for 'beach'?",
-                   "correctIndex": 0,
-                   "answers": ["beech", "beche", "beachh", "beeche"]
-                 },
-                 {
-                   "id": 78,
-                   "content": "What is the alphabetical order of the words: 'moon', 'sun', 'star', 'sky'?",
-                   "correctIndex": 0,
-                   "answers": ["moon, sky, star, sun", "moon, star, sky, sun", "sun, moon, star, sky", "sky, sun, moon, star"]
-                 },
-                 {
-                   "id": 79,
-                   "content": "Which word is an adjective?",
-                   "correctIndex": 1,
-                   "answers": ["run", "fast", "quickly", "jump"]
-                 },
-                 {
-                   "id": 80,
-                   "content": "What is the plural of 'fox'?",
-                   "correctIndex": 2,
-                   "answers": ["foxs", "foxies", "foxes", "foxi"]
-                 },
-                 {
-                   "id": 81,
-                   "content": "What is the antonym for 'heavy'?",
-                   "correctIndex": 3,
-                   "answers": ["life", "dark", "thick", "lightweight"]
-                 },
-                 {
-                   "id": 82,
-                   "content": "What comes after 'milk' in alphabetical order?",
-                   "correctIndex": 2,
-                   "answers": ["heart", "king", "nose", "frog"]
-                 },
-                 {
-                   "id": 83,
-                   "content": "What is the homophone for 'one'?",
-                   "correctIndex": 3,
-                   "answers": ["wone", "wun", "owne", "won"]
-                 },
-                 {
-                   "id": 84,
-                   "content": "What is the alphabetical order of the words: 'tree', 'rose', 'flower', 'bush'?",
-                   "correctIndex": 0,
-                   "answers": ["bush, flower, rose, tree", "rose, bush, flower, tree", "bush, flower, tree, rose", "tree, flower, bush, rose"]
-                 },
-                 {
-                   "id": 85,
-                   "content": "Which of the following is a plural noun?",
-                   "correctIndex": 2,
-                   "answers": ["yellow", "jump", "jumps", "jumping"]
-                 },
-                 {
-                   "id": 86,
-                   "content": "What is the plural of 'man'?",
-                   "correctIndex": 2,
-                   "answers": ["mans", "manies", "men", "mae"]
-                 },
-                 {
-                   "id": 87,
-                   "content": "What is the antonym for 'fast'?",
-                   "correctIndex": 0,
-                   "answers": ["slow", "quick", "rapid", "speedy"]
-                 },
-                 {
-                   "id": 88,
-                   "content": "What comes before 'zebra' in alphabetical order?",
-                   "correctIndex": 2,
-                   "answers": ["cherry", "mouse", "under", "lion"]
-                 },
-                 {
-                   "id": 89,
-                   "content": "What is the homophone for 'tail'?",
-                   "correctIndex": 1,
-                   "answers": ["tayle", "tale", "tailh", "taylh"]
-                 },
-                 {
-                   "id": 90,
-                   "content": "What is the alphabetical order of the words: 'kite', 'cloud', 'rain', 'wind'?",
-                   "correctIndex": 0,
-                   "answers": ["cloud, kite, rain, wind", "cloud, kite, wind, rain", "kite, cloud, rain, wind", "kite, wind, cloud, rain"]
-                 },
-                 {
-                 "id": 91,
-                 "content": "Identify the verb from the options below.",
-                 "correctIndex": 1,
-                 "answers": ["swimmer", "run", "cheerful", "hopper"]
-                 },
-                 {
-                 "id": 92,
-                 "content": "What is the plural of 'drink'?",
-                 "correctIndex": 1,
-                 "answers": ["drinkies", "drinks", "drinkers", "drinkys"]
-                 },
-                 {
-                 "id": 93,
-                 "content": "What is the antonym for 'ancient'?",
-                 "correctIndex": 0,
-                 "answers": ["modern", "old", "recount", "past"]
-                 },
-                 {
-                 "id": 94,
-                 "content": "Identify the adjective among the words below.",
-                 "correctIndex": 1,
-                 "answers": ["run", "jump", "swift", "face"]
-                 },
-           
-           {
-           "id": 95,
-           "content": "What is the synonym for 'content'?",
-           "correctIndex": 1,
-           "answers": ["sad", "satisfied", "angry", "please"]
-           },
-                
-                {
-                "id": 96,
-                "content": "What is the plural of 'kitchen'?",
-                "correctIndex": 1,
-                "answers": ["kitchenes", "kitchens", "kitchenies", "kitchies"]
-                },
-                
-                {
-                "id": 97,
-                "content": "What is the homophone for 'miner'?",
-                "correctIndex": 0,
-                "answers": ["minor", "myner", "meiner", "mineyr"]
-                },
-                 {
-                   "id": 98,
-                   "content": "What is the alphabetical order of the words: 'dog', 'cat', 'elephant', 'giraffe'?",
-                   "correctIndex": 3,
-                   "answers": [ "dog, cat, giraffe, elephant", "cat, dog, giraffe, elephant", "elephant, cat, dog, giraffe","cat, dog, elephant, giraffe"]
-                 },
-                 {
-                   "id": 99,
-                   "content": "Which word is a verb?",
-                   "correctIndex": 0,
-                   "answers": ["jump", "happy", "quick", "box"]
-                 },
-                 {
-                   "id": 100,
-                   "content": "What is the plural of 'mouse'?",
-                   "correctIndex": 1,
-                   "answers": ["mouses", "mice", "mousies", "miceys"]
-                 },
-                 {
-                   "id": 101,
-                   "content": "What is the antonym for 'tall'?",
-                   "correctIndex": 0,
-                   "answers": ["short", "high", "time", "long"]
-                 },
-                 {
-                 "id": 102,
-                 "content": "Identify the term that follows 'ocean' in alphabetical order.",
-                 "correctIndex": 0,
-                 "answers": ["planet", "mountain", "river", "tree"]
-                 },
-                 {
-                   "id": 103,
-                   "content": "What is the homophone for 'deer'?",
-                   "correctIndex": 1,
-                   "answers": ["deare", "dear", "deere", "deerh"]
-                 },
-                 {
-                   "id": 104,
-                   "content": "What is the alphabetical order of the words: 'car', 'bike', 'bus', 'train'?",
-                   "correctIndex": 2,
-                   "answers": ["bus, bike, train, car", "car, bike, train, bus","bike, bus, car, train", "train, car, bike, bus"]
-                 },
-                 {
-                   "id": 105,
-                   "content": "Which of the following is a plural noun?",
-                   "correctIndex": 3,
-                   "answers": ["happy", "jump", "quick", "cats"]
-                 },
-                 {
-                   "id": 106,
-                   "content": "What is the plural of 'child'?",
-                   "correctIndex": 0,
-                   "answers": ["children", "childs", "childies", "childys"]
-                 },
-                 {
-                   "id": 107,
-                   "content": "What is the antonym for 'slow'?",
-                   "correctIndex": 2,
-                   "answers": ["fasten", "quit", "rapid", "spend"]
-                 },
-                 {
-                   "id": 108,
-                   "content": "What comes before 'bird' in alphabetical order?",
-                   "correctIndex": 0,
-                   "answers": ["aunt", "cat", "bird", "dog"]
-                 },
-                 
-                 {
-                 "id": 109,
-                 "content": "What is the homophone for 'scent'?",
-                 "correctIndex": 1,
-                 "answers": ["sent", "cent", "skent", "scint"]
-                 },
-                 {
-                   "id": 110,
-                   "content": "What is the alphabetical order of the words: 'frog', 'turtle', 'snake', 'lizard'?",
-                   "correctIndex": 3,
-                   "answers": [ "lizard, snake, frog, turtle", "turtle, snake, frog, lizard", "snake, lizard, turtle, frog","frog, lizard, snake, turtle"]
-                 },
-                 {
-                 "id": 111,
-                 "content": "Identify the verb from the options below.",
-                 "correctIndex": 0,
-                 "answers": ["smile", "rain", "house", "quick"]
-                 },
+            
                
                {
-               "id": 112,
+               "id": 48,
                "content": "What is the plural of 'chair'?",
                "correctIndex": 0,
                "answers": ["chairs", "chairen", "chairies", "chairys"]
                },
                {
-               "id": 113,
+               "id": 49,
                "content": "What is the antonym for 'musical'?",
                "correctIndex": 0,
                "answers": ["toneless", "harmonious", "melodic", "rhythmic"]
