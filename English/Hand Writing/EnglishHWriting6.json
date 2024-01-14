@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": 5,
@@ -9,51 +10,66 @@
       "teaching": [
           {
                             "id": 0,
-                            "topicTitle": " Introduction to the Letter 'v'",
-                            "topicContent": "Introduce the formation of the cursive letter 'v.' Discuss the characteristics of 'v' within the 'Zigzag Monster' family.Engage students in identifying words that contain the letter 'v.'"
+                            "topicTitle": " Cursive writing follow along 1",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/d390d0be161ce5c45a/126ae5a4ea350bf4/1440.mp4"
                         },
+                       
                         {
                             "id": 1,
-                            "topicTitle": "Forming the Letter 'v' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'v.' Emphasize the unique shape and connections of 'v.' Provide opportunities for students to trace and write 'v' independently."
+                            "topicTitle": "Cursive writingv follow along 2",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/4d90d0be161fe1c5c4/830bcf77af0addb1/1440.mp4"
                         },
+              
                         {
                             "id": 2,
-                            "topicTitle": "Forming the Letter 'v' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'v.' Include exercises that involve joining 'v' to other letters.Discuss words and phrases that feature the letter 'v.'"
+                            "topicTitle": "Cursive writingv follow along 3",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0be161ee5c4f0/01d2155952ae5aad/1440.mp4"
                         },
+                     
                         {
                             "id": 3,
-                            "topicTitle": "Introduction to the Letter 'w'",
-                            "topicContent": "Introduce the formation of the cursive letter 'w.' Discuss the characteristics of 'w' within the 'Zigzag Monster' family. Encourage students to identify words that contain the letter 'w.'."
+                            "topicTitle": "Cursive writingv follow along 4",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0be161ee4cd98/05ab20071f503615/1440.mp4"
+                            
                         },
+             
                         {
                             "id": 4,
-                            "topicTitle": "Forming the Letter 'w' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'w.'Emphasize the proper shape and connections of 'w.' Provide opportunities for students to trace and write 'w' independently."
-                    
-                },
+                            "topicTitle": "Cursive writingv follow along 5",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0be161eecce8f/5bad25225a9ba581/1440.mp4"
+                        },
+                  
                         {
-                                    "id": 5,
-                                    "topicTitle": "Forming the Letter 'w' - Part 2",
-                                    "topicContent": "Continue practicing the formation of the letter 'w.' Include exercises that involve joining 'w' to other letters.   Discuss words and phrases that feature the letter 'w.'"
-                                },
-                        
+                            "id": 5,
+                            "topicTitle": "Cursive writingv follow along 6",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/a790d0be1611eec62e/2aad35c128083c44/1440.mp4"
+                        },
+                
                         {
                             "id": 6,
-                            "topicTitle": "Introduction to the Letter 'x'",
-                            "topicContent": "Introduce the formation of the cursive letter 'x.' Discuss the characteristics of 'x' within the 'Zigzag Monster' family.Encourage students to identify words that contain the letter 'x.'"
-                  
-                },
-                {
-                            "id": 7,
-                            "topicTitle": "Forming the Letter 'x' - Part 1",
-                            "topicContent": "Guide students in practicing the formation of the letter 'x.'Emphasize the proper shape and connections of 'x.'Provide opportunities for students to trace and write 'x' independently."
+                            "topicTitle": "Cursive writingv follow along 7",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/0690d0be1611ecc18f/812593db1ea56512/1440.mp4"
                         },
+                  
+                        {
+                            "id": 7,
+                            "topicTitle": "Cursive writingv follow along 8",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/7990d0be1611e2ccf0/173a0449cbe36985/1440.mp4"
+                        },
+              
                         {
                             "id": 8,
-                            "topicTitle": "Forming the Letter 'x' - Part 2",
-                            "topicContent": "Continue practicing the formation of the letter 'x.'  Include exercises that involve joining 'x' to other letters. Discuss words and phrases that feature the letter 'x"
+                            "topicTitle": "Cursive writingv follow along 9",
+                            "topicContent": "",
+                            "video": "https://api-files.sproutvideo.com/file/1190d0be1610e8cf98/c01a2a435b38d2af/1440.mp4"
                         }
                         
                     ]
@@ -64,7 +80,7 @@
 "time": "30 minutes",
 "description": "Put your Phonics and letter sound knowledge to the test.",
 "questions": [
-           {
+    {
       "id": 0,
       "content": "Write the word 'allowed'.",
       "correctIndex": 0,
