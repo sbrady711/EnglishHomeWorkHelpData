@@ -7,109 +7,171 @@
       "content": {
           "id": 0,
       "teaching": [
+          
           {
-                            "id": 0,
-                            "topicTitle": " Introducing the Cursive 'l' - Part 1",
-                            "topicContent": "Introduce the letter 'l' in cursive writing. Explain that 'l' belongs to the 'ladder' family along with other letters. Guide students in practicing air writing of the letter 'l' using gross motor movements."
-                        },
-                        {
-                            "id": 1,
-                            "topicTitle": "Cursive 'l' - Part 2",
-                            "topicContent": "Recap the formation of the cursive 'l.' Show students how to properly hold a writing tool and position their paper. Provide individual guidance as students practice writing the cursive 'l' on activity sheets."
-                        },
-                        {
-                            "id": 2,
-                            "topicTitle": "Joining Ascenders - 'l' and 'i'",
-                            "topicContent": "Begin teaching the formation of lower-case letters.  Focus on letters with curves and loops."
-                        },
-                        {
-                            "id": 3,
-                            "topicTitle": "Forming 'u' and 't' - Part 1",
-                            "topicContent": "Introduce the cursive letters 'u' and 't' within the 'ladder' family. Show students the correct formation and positioning of 'u' and 't.'    Guide students in practicing air writing and forming these letters individually.."
-                        },
-                        {
-                            "id": 4,
-                            "topicTitle": "Forming 'u' and 't' - Part 2",
-                            "topicContent": "Recap the formation of cursive 'u' and 't.'Teach students how to position the letters correctly relative to each other. Provide guided practice in writing 'u' and 't' in sequence."
-                    
-                },
-                {
-                            "id": 5,
-                            "topicTitle": "Curved Letter 'y' - Part 1",
-                            "topicContent": "Introduce the cursive letter 'y' in the 'ladder' family. Explain the unique formation of the curved letter 'y.' Demonstrate air writing and guide students in practicing the cursive 'y' individually."
-                        },
-                        {
-                            "id": 6,
-                            "topicTitle": "Curved Letter 'y' - Part 2",
-                            "topicContent": "Review the formation of cursive 'y.' Teach students how to connect 'y' with other letters. Provide practice in joining 'y' with 'l,' 'i,' 'u,' and 't' using diagonal strokes."
-                        },
-                        {
-                            "id": 7,
-                            "topicTitle": " Descending Letter 'j' - Part 1",
-                            "topicContent": "Introduce the cursive letter 'j' in the 'ladder' family. Explain how 'j' descends below the baseline.Guide students in practicing the formation of the letter 'j.'"
-                        },
-                        {
-                            "id": 8,
-                            "topicTitle": "Descending Letter 'j' - Part 2",
-                            "topicContent": "Recap the formation of cursive 'j.    Show students how to properly space 'j' within words.Provide practice in joining 'j' with other letters using smooth connections."
-                        },
-                        {
-                            "id": 9,
-                            "topicTitle": "Review and Consolidation of 'l' Family Letters",
-                            "topicContent": "Recap the entire 'ladder' family: 'l,' 'i,' 'u,' 't,' 'y,' and 'j.' Emphasize proper formation, positioning, and connections.Have students practice writing words and short sentences containing these letters."
-                        },
-                        {
-                            "id": 10,
-                            "topicTitle": "Expanding Word Formation with 'l' Family Letters",
-                            "topicContent": "Review the 'ladder' family letters: 'l,' 'i,' 'u,' 't,' 'y,' and 'j.'  Guide students in forming simple words that include these letters. Encourage students to pay attention to spacing and connections."
-                  
-                },
-                {
-                            "id": 11,
-                            "topicTitle": "Writing Short Phrases with 'l' Family Letters",
-                            "topicContent": "Introduce writing short phrases that incorporate 'l' family letters. Model how to connect words smoothly while maintaining legibility. Provide practice sheets with phrases for students to write."
-                        },
-                        {
-                            "id": 12,
-                            "topicTitle": "Transition to Continuous Cursive - 'l' Family Letters",
-                            "topicContent": "Introduce continuous cursive writing style.Show how to link 'l' family letters fluidly in a continuous motion. Provide practice in forming words using continuous cursive."
-                        },
-                        {
-                            "id": 13,
-                            "topicTitle": "Writing Longer Sentences - 'l' Family Focus",
-                            "topicContent": "Guide students in writing longer sentences containing 'l' family words. Emphasize consistent size, spacing, and fluid connections. Encourage students to read their sentences aloud for coherence."
-                        },
-                        {
-                            "id": 14,
-                            "topicTitle": "Forming Capital Letters with 'l' Family Letters",
-                            "topicContent": "Teach students how to write capital letters in cursive. Demonstrate the proper formation of capital 'L,' 'I,' 'U,' 'T,' 'Y,' and 'J.' Provide guided practice for forming capital letters."
-                        },
-                        {
-                            "id": 15,
-                            "topicTitle": "Joining 'l' Family Letters with Other Letters - Part 1",
-                            "topicContent": "Transition to joining 'l' family letters with other cursive letters. Focus on letters that naturally connect with 'l' family letters. Practice joining letters to form common words.."
-                        },
-                        {
-                            "id": 16,
-                            "topicTitle": "Joining 'l' Family Letters with Other Letters - Part 2",
-                            "topicContent": "Continue practicing joining 'l' family letters with additional letters. Guide students in forming complete words and short phrases.Emphasize maintaining consistency in connections."
-                    
-                },
-                {
-                            "id": 17,
-                            "topicTitle": "Review and Celebration of Cursive Achievements",
-                            "topicContent": "Review the entire cursive 'l' family and joining concepts. Celebrate students' achievements in mastering these letters. Encourage students to showcase their improved cursive writing skills."
-                        }
-                    ]
+              "id": 0,
+              "topicTitle": "Lower case cursive c",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ac90d0b31c17ebc525/b72d5265801bc14f/1080.mp4"
+          },
+          {
+              "id": 1,
+              "topicTitle": "Lower case cursive o",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b11415e6c28f/defb71af48c589ec/1440.mp4"                         },
+          {
+              "id": 2,
+              "topicTitle": "Lower case cursive a",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b31c19e6c063/76fd839b609cce9f/1080.mp4"                         },
+          {
+              "id": 3,
+              "topicTitle": "Lower case cursive d",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b11415e5c42e/16eb5bdd01136b8d/1440.mp4"
+  },
+  {
+              "id": 4,
+              "topicTitle": "Lower case cursive g",
+              "topicContent": "",
+      "video": "https://api-files.sproutvideo.com/file/4d90d0b31b1fe0c4c4/b3fe950ed2a1008a/1080.mp4"                         },
+          {
+              "id": 5,
+              "topicTitle": "Lower case cursive e",
+              "topicContent": ".",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b31b1be6c18f/0ab941a43c9eb0d5/1080.mp4"
+          },
+          {
+              "id": 6,
+              "topicTitle": "Lower case cursive f",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b31b1fe6c45a/2495ad5a073b6e8e/1080.mp4"                         },
+          {
+              "id": 7,
+              "topicTitle": "Lower case cursive s",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/7090d0b11415e7c5f9/98df064b8244ea93/1440.mp4"                         },
+          {
+              "id": 8,
+              "topicTitle": "Lower case cursive q",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b11415e7c763/f1e8db316e55e8eb/1440.mp4"                         },
+          {
+              "id": 9,
+              "topicTitle": "Lower case cursive i",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4d90d0b01b19e5c4c4/686591589a096f93/1080.mp4"                 },
+  {
+              "id": 10,
+              "topicTitle": "Lower case cursive r",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b11415e7c62e/040e8bdcbb55204b/1440.mp4"
+          },
+          
+          {
+              "id": 11,
+              "topicTitle": "Lower case cursive n",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4d90d0b11415e6c5c4/ab12a2b7f0d9884b/1440.mp4"
+          },
+          {
+              "id": 12,
+              "topicTitle": "Lower case cursive m",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/7090d0b11415e6c4f9/b5a1da8d97c63947/1440.mp4"
+          },
+         
+          {
+              "id": 13,
+              "topicTitle": "Lower case cursive h",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4d90d0b3181ee7c1c4/38d11bc033bdd3ea/1080.mp4"
+      
+  },
+  {
+              "id": 14,
+              "topicTitle": "Lower case cursive b",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/1190d0b31c16e3c598/1e9527f40291899c/1080.mp4"
+          },
+          {
+              "id": 15,
+              "topicTitle": "Lower case cursive p",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b11415e6c35a/3d8a6e08c76919ee/1440.mp4"
+          },
+          {
+              "id": 16,
+              "topicTitle": "Lower case cursive j",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b11415e6c663/e011457edf613b67/1440.mp4"
+          },
+          
+          {
+              "id": 17,
+              "topicTitle": "Lower case cursive l",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ac90d0b11514e1c725/a9a4697cbfd8052d/1440.mp4"                         },
+          {
+              "id": 18,
+              "topicTitle": "Lower case cursive t",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/4d90d0b11415e7c4c4/9d1b59a7cc3665a5/1440.mp4"                         },
+          {
+              "id": 19,
+              "topicTitle": "Lower case cursive k",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b11415e6c72e/e8f9ed9d839a1a23/1440.mp4"                         },
+          {
+              "id": 20,
+              "topicTitle": "Lower case cursive u",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/0690d0b11415e7c38f/780822304569560e/1440.mp4"                 },
+  {
+              "id": 21,
+              "topicTitle": "Lower case cursive v",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/d390d0b11415e7c25a/7a99695736db7b95/1440.mp4"
+          },
+          
+          {
+              "id": 22,
+              "topicTitle": "Lower case cursive w",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/7990d0b11415e7c0f0/8c09f45a307b9af3/1440.mp4"
+          },
+          {
+              "id": 23,
+              "topicTitle": "Lower case cursive y",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/ea90d0b11415e0c063/865e9aeb5d0bd80a/1440.mp4"
+          },
+         
+          {
+              "id": 24,
+              "topicTitle": "Lower case cursive x",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/1190d0b11415e0cf98/a2505dd6b413b3de/1440.mp4"
+      
+  },
+  {
+              "id": 25,
+              "topicTitle": "Lower case cursive z",
+              "topicContent": "",
+              "video": "https://api-files.sproutvideo.com/file/a790d0b11415e0c12e/eb1552d14fbd4c4f/1440.mp4"
+          }
+  
+      ]
       
       },
+          
 "test": {
 "id": 0,
 "image": "testSwift",
 "time": "30 minutes",
 "description": "Put your Phonics and letter sound knowledge to the test.",
 "questions": [
-        {
+    {
            "id":0,
            "content":"Write the word 'after'.",
            "correctIndex":0,
@@ -2129,6 +2191,10 @@
                                                       "correctIndex":335,
                                                       "answers":["my","your","his","her"]
                                                    }
+                                                   
+                                                   
+                                                   
+        
      ]
      
      
