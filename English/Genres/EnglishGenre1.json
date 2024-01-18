@@ -2,7 +2,7 @@
 [
     {
         "id": 0,
-        "category": "Writing Genre",
+        "category": "Genre Writing",
         "description": "Strand units: Writing",
       "content": {
           "id": 0,
@@ -10,7 +10,7 @@
           {
                             "id": 0,
                             "topicTitle": "Introduction to Recount Writing",
-                            "topicContent": "Introduction to the concept of recount writing, where we share events from the past.Build vocabulary related to birthdays and events.",
+                            "topicContent": "Introduction to the concept of recount writing, where we share events from the past. Build vocabulary related to birthdays and events.",
               "video": "https://api-files.sproutvideo.com/file/a790d1b61f19e1c12e/3166332045f8abc7/1080.mp4"
           },
                         {
