@@ -31,14 +31,14 @@
               
               {
                   "id": 3,
-                  "topicTitle": "Formal Letter Writing",
-                  "topicContent": "Master formal letter structure, tone, and etiquette.",
+                  "topicTitle": "Informal Letter Writing",
+                  "topicContent": "Master Informal letter structure, tone, and etiquette.",
                   "video": "https://api-files.sproutvideo.com/file/ea90d1b51b19e3c563/b1f4a67f0777e2f0/1080.mp4"
               },
               {
                   "id": 4,
-                  "topicTitle": "Informal Letter Writing",
-                  "topicContent": "Express yourself personally and build connections through informal letter writing.",
+                  "topicTitle": "Formal Letter Writing",
+                  "topicContent": "Express yourself personally and build connections through formal letter writing.",
                   "video": "https://api-files.sproutvideo.com/file/4490d1b51a1ee0cecd/7f67dd4500d66ce8/1080.mp4" 
               }
             
