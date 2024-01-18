@@ -3,7 +3,7 @@
 [
     {
         "id": 1,
-        "category": "Segmenting and Syllables",
+        "category": "Syllables",
         "description": "Strand units: Reading",
       "content": {
           "id": 0,
@@ -11,13 +11,13 @@
           {
                             "id": 0,
                             "topicTitle": "Rote Imitation and Enjoyment of Rhyme and Alliteration",
-                            "topicContent": "Engage in rote imitation of rhyming words and alliterative phrases. '",
+                            "topicContent": "Engage in rote imitation of rhyming words and alliterative phrases.",
                             "video": "https://api-files.sproutvideo.com/file/7090d1b51c1ce6c0f9/5b62aeffc64d7cc4/1080.mp4"
                         },
                         {
                             "id": 1,
                             "topicTitle": "Rhyme Recognition and Odd Word Out",
-                            "topicContent": "Learn to recognize rhyming words and identify the odd word out in a set.'",
+                            "topicContent": "Learn to recognize rhyming words and identify the odd word out in a set.",
                             "video": "https://api-files.sproutvideo.com/file/a790d1b51c1fe3c52e/c92acef25ccb4b96/1080.mp4"
                         },
                    
