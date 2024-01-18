@@ -4,7 +4,7 @@
 [
     {
         "id": 3,
-        "category": "Writing Genre",
+        "category": "Genre Writing",
         "description": "Strand units: Writing",
       "content": {
           "id": 0,
@@ -12,12 +12,12 @@
           {
                             "id": 0,
                             "topicTitle": "Introduction to Report Writing",
-                            "topicContent": "Introduce the report genre and its purpose. Discuss the key features of a report, such as headings, subheadings, facts, and organized information.",
+                            "topicContent": "Introduction to the report genre and its purpose. Discuss the key features of a report, such as headings, subheadings, facts, and organized information.",
               "video": "https://api-files.sproutvideo.com/file/ea90d1b5191ce5c463/0838e489a12ca2ed/1080.mp4"                         },
                         {
                             "id": 1,
                             "topicTitle": "Choosing a Favourite Animal and Gather Information and Sorting Facts into Categories",
-                            "topicContent": "Guide students in choosing their favorite animal for the report. Discuss the importance of selecting an animal they are passionate about and familiar with.Gather accurate Information",
+                            "topicContent": "Guide students in choosing their favorite animal for the report. Discuss the importance of selecting an animal that you are passionate about and familiar with. Gather accurate Information.",
                             "video": "https://api-files.sproutvideo.com/file/0690d1b5191ee4c38f/6dacadec680cd347/1080.mp4"
                         },
                         {
