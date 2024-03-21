@@ -3,7 +3,7 @@
 [
     {
         "id": 1,
-        "category": "Grammer",
+        "category": "Grammar",
         "description": "Strand units: Reading and writing",
       "content": {
           "id": 0,
@@ -35,7 +35,7 @@
    
                         {
                             "id": 3,
-                            "topicTitle": "Regular and Irregualr Past Tense",
+                            "topicTitle": "Regular and Irregular Past Tense",
                             "topicContent": "Learn how regular verbs form the past tense by adding -ed to the base form. Provide examples and practice using past tense verbs.",
                             "video": "https://api-files.sproutvideo.com/file/0690d1bf1a16e9cf8f/4586a404c904cd40/1080.mp4"
                 },
