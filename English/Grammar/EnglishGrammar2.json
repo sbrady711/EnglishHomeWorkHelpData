@@ -406,78 +406,8 @@
                 "content": "Which perfect tense describes an action that will be completed before a certain time in the future?",
                 "correctIndex": 2,
                 "answers": ["Present perfect", "Past perfect", "Future perfect", "Perfect continuous"]
-              },
-              {
-                "id": 50,
-                "content": "What is the function of the conjunction 'so' in a sentence?",
-                "correctIndex": 0,
-                "answers": [
-                  "To show cause and effect",
-                  "To connect two sentences",
-                  "To express a question",
-                  "To describe a noun"
-                ]
-              },
-              {
-                "id": 51,
-                "content": "Form a question using the words: 'Does' 'she', 'go', 'to', 'the park?'",
-                "correctIndex": 1,
-                "answers": ["She go to the park?", "Does she go to the park?", "To the park she go?", "She to the park go?"]
-              },
-              {
-                "id": 52,
-                "content": "Choose the correct possessive adjective for the sentence: 'Is this ___ book?'",
-                "correctIndex": 0,
-                "answers": ["your", "you're", "yours", "you"]
-              },
-              {
-                "id": 53,
-                "content": "What is the past tense of the verb 'sing'?",
-                "correctIndex": 0,
-                "answers": ["Sang", "Sung", "Singed", "Singing"]
-              },
-              {
-                "id": 54,
-                "content": "Identify the conjunction in the sentence: 'She wanted to play games, but it started raining.'",
-                "correctIndex": 2,
-                "answers": ["She", "games", "but", "started"]
-              },
-              {
-                "id": 55,
-                "content": "Which word is a proper noun in the sentence 'Mr. Johnson teaches at Central Elementary School.'?",
-                "correctIndex": 1,
-                "answers": ["Mr.", "Mr.Johnson", "teaches", "at"]
-              },
-              {
-                "id": 56,
-                "content": "What type of sentence is 'Be careful on the icy road!'?",
-                "correctIndex": 0,
-                "answers": ["Exclamation", "Question", "Statement", "Request"]
-              },
-              {
-                "id": 57,
-                "content": "Choose the correct punctuation for the sentence",
-                "correctIndex": 2,
-                "answers": [
-                  "my favorite colors are red blue and green",
-                  "My Favorite colors are red, blue and green",
-                  "My favorite colors are red, blue, and green.",
-                  "My, favorite colors are red, blue, green"
-                ]
-              },
-              {
-              "id": 58,
-              "content": "What type of word is 'happily' in the sentence 'He sang a song happily.'?",
-              "correctIndex": 2,
-              "answers": ["Noun", "Adjective", "Adverb", "Verb"]
-              },
-              {
-                "id": 59,
-                "content": "Identify the verb 'to be' (present) in the sentence: 'They are playing in the garden.'",
-                "correctIndex": 1,
-                "answers": ["They", "are", "playing", "in"]
               }
-              
+      
               
               
               
