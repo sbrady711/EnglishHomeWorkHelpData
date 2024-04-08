@@ -229,55 +229,8 @@
                                   "content": "Write an explanation of how GPS navigation systems work. Describe how satellites, receivers, and triangulation enable accurate positioning and navigation.",
                                   "correctIndex": 0,
                                   "answers": ["a", "b", "c", "d"]
-                              }, 
-                              {
-                                  "id": 30,
-                                  "content": "Scenario: Your best friend is moving to a new town. Write a heartfelt farewell letter expressing your emotions and memories, and share your wishes for their new adventure.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 31,
-                                  "content": "Scenario: You visited a magical place during your vacation. Write a postcard to your cousin, describing the enchanting moments and inviting them to visit the same place in the future.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 32,
-                                  "content": "Scenario: Your teacher has organized a special event, and you want to invite your classmates. Write a formal invitation letter detailing the event's date, time, venue, and any specific instructions.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 33,
-                                  "content": "Scenario: You received a thoughtful gift from your grandparents. Write a thank-you note expressing your gratitude, mentioning the specific gift, and sharing how much it means to you.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 34,
-                                  "content": "Scenario: You're on a school trip, and you want to share the exciting experiences with your family. Write a postcard to your parents, summarizing the trip's highlights and expressing your enthusiasm.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 35,
-                                  "content": "Scenario: Your friend missed a school event due to illness. Write a thoughtful get-well-soon card to cheer them up and let them know they were missed during the event.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 36,
-                                  "content": "Scenario: You want to express your appreciation to your school librarian for helping you discover a new favorite book. Write a short note thanking them and explaining what you enjoyed about the book.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                },
-                                {
-                                  "id": 37,
-                                  "content": "Scenario: Your younger sibling is upset, and you want to make them feel better. Write a sweet and comforting note to lift their spirits and remind them of your love and support.",
-                                  "correctIndex": 0,
-                                  "answers": ["a", "b", "c", "d"]
-                                }
+                              }
+                         
                               ]
           
      
