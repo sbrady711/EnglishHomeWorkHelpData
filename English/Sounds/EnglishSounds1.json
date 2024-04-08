@@ -625,18 +625,6 @@
                     "content": "Count the syllables in the word 'communication.'",
                     "correctIndex": 1,
                     "answers": ["4", "5", "6", "7"]
-                },
-                {
-                    "id": 60,
-                    "content": "How many syllables are in the word 'wonderful'?",
-                    "correctIndex": 3,
-                    "answers": ["2", "5", "4", "3"]
-                },
-                {
-                    "id": 61,
-                    "content": "In the word 'discovery,' count the syllables.",
-                    "correctIndex": 2,
-                    "answers": ["3", "3", "4", "6"]
                 }
                 
             ]
