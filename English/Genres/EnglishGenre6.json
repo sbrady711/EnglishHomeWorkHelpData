@@ -127,7 +127,7 @@
                           },
                           {
                               "id": 12,
-                              "content": "Convince your parents to let you have a later bedtime. Provide reasons for why a later bedtime would benefit you, such as better rest and improved school performance.",
+                              "content": "Convince your parents to let you have a later/earlier bedtime. Provide reasons for why a later/earlier bedtime would benefit you, such as better rest and improved school performance.",
                               "correctIndex": 0,
                               "answers": ["a", "b", "c", "d"]
                           },
@@ -145,7 +145,7 @@
                           },
                           {
                               "id": 15,
-                              "content": "Write a persuasive essay arguing for or against the use of cell phones in school. Present strong arguments and evidence to support your viewpoint.",
+                              "content": "Write a persuasive essay arguing for or against the use of mobile phones in school. Present strong arguments and evidence to support your viewpoint.",
                               "correctIndex": 0,
                               "answers": ["a", "b", "c", "d"]
                           },
@@ -176,7 +176,7 @@
                           
                           {
                                     "id": 20,
-                                    "content": "Convince your school to implement a 'No Homework' policy. Present your arguments for why homework should be eliminated and suggest alternative ways to reinforce learning.",
+                                    "content": "Convince your school to implement a 'Fun homework' policy. Present your arguments for why homework should be fun and suggest alternative ways to reinforce learning.",
                                     "correctIndex": 0,
                                     "answers": ["a", "b", "c", "d"]
                                 },
