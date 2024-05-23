@@ -277,7 +277,7 @@
                {
                  "id": 30,
                  "content": "Identify the proper adjective in the sentence: 'I enjoy Mexican cuisine.'",
-                 "correctIndex": 1,
+                 "correctIndex": 2,
                  "answers": ["I", "enjoy", "Mexican", "cuisine"]
                },
                {
