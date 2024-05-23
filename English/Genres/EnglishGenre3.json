@@ -75,7 +75,7 @@
                 },
                 {
                     "id": 2,
-                    "content": "Write an exciting story about a friendly robot named ZacyTron who helps save the day during a robot competition.",
+                    "content": "Write an exciting story about a friendly robot named WacyTron who helps save the day during a robot competition.",
                     "correctIndex": 0,
                     "answers": ["a", "b", "c", "d"]
                 },
@@ -234,13 +234,8 @@
                           "content": "Tell a narrative about a magical book that transports its readers into the stories it contains. Describe the adventures you have when you enter the book's world.",
                           "correctIndex": 0,
                           "answers": ["a", "b", "c", "d"]
-                      },
-                      {
-                          "id": 29,
-                          "content": "Write a story about a day when you woke up with the ability to understand and talk to animals. Describe the conversations you have and the adventures that follow.",
-                          "correctIndex": 0,
-                          "answers": ["a", "b", "c", "d"]
                       }
+                      
                    
                         ]
                
