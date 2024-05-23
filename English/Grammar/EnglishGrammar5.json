@@ -11,7 +11,7 @@
                         {
                             "id": 0,
                             "topicTitle": "Grammatical Agreement: Plural Nouns",
-                            "topicContent": "Learn subject-verb agreement with plural nouns. Learn how verbs change when the subject is plural and guide students in practicing correct agreement.",
+                            "topicContent": "Learn subject-verb agreement with plural nouns. Learn how verbs change when the subject is plural.",
                             "video": "https://api-files.sproutvideo.com/file/a790d1b7181eeacb2e/a6a98e29e7c76e7c/1080.mp4"
                         },
                        
@@ -63,14 +63,14 @@
                         {
                             "id": 6,
                             "topicTitle": "All Present tenses",
-                            "topicContent": "Present tenses convey different aspects of completed actions in English.",
+                            "topicContent": "Present tenses convey different aspects of present actions in English.",
                             "video": "https://api-files.sproutvideo.com/file/ea90d1b71e1ee1c763/91d0ed3d164d3397/1080.mp4"
                      
                 },
                         {
                             "id": 7,
                             "topicTitle": "All Future tenses",
-                            "topicContent": "Future tenses convey different aspects of completed actions in English.",
+                            "topicContent": "Future tenses convey different aspects of future actions in English.",
                             "video": "https://api-files.sproutvideo.com/file/4d90d1b71e1eedc8c4/f200acd2e09e954c/1080.mp4"
                      
                 }
