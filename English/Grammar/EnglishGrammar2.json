@@ -107,7 +107,7 @@
                },
                {
                  "id": 6,
-                 "content": "What type of word is 'quickly' in the sentence 'She quickly finished her homework.'?",
+                 "content": "What type of word is 'thoughtfully' in the sentence 'She thoughtfully finished her homework.'?",
                  "correctIndex": 2,
                  "answers": ["Noun", "Adjective", "Adverb", "Verb"]
                },
@@ -232,7 +232,7 @@
                },
                {
                  "id": 24,
-                 "content": "What type of word is 'quickly' in the sentence 'She ran quickly to catch the bus.'?",
+                 "content": "What type of word is 'swiftly' in the sentence 'She ran swiftly to catch the bus.'?",
                  "correctIndex": 2,
                  "answers": ["Noun", "Adjective", "Adverb", "Verb"]
                },
@@ -327,7 +327,7 @@
               },
               {
                 "id": 38,
-                "content": "Form a question using the words: 'do', 'you', 'like', 'to', 'swim?'",
+                "content": "Form a question using the words: 'you', 'swim', 'like', 'to', 'do?'",
                 "correctIndex": 0,
                 "answers": ["Do you like to swim?", "You do like swim?", "Do like you to swim?", "You like to swim do?"]
               },
