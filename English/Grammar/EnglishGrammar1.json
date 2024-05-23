@@ -325,7 +325,7 @@
                   "I saw a bird.",
                   "I saw an bird.",
                   "I saw an cat.",
-                  "I saw an cat."
+                  "I saw a ant."
                 ]
               },
               {
@@ -382,7 +382,7 @@
                 "id": 30,
                 "content": "Which word is an adverb?",
                 "correctIndex": 2,
-                "answers": ["Jump", "Yellow", "Quickly", "Loud"]
+                "answers": ["Jump", "Yellow", "Silently", "Loud"]
               },
               {
                 "id": 31,
@@ -390,9 +390,9 @@
                 "correctIndex": 3,
                 "answers": [
                   "\"The sun is shining,  said John.\"",
-                  "\"The sun is shining,\\\" said John\"",
+                  "\"The sun is going,\\\" said John\"",
                   "\"The sun is shining, said John.\"",
-                  "\"The sun is shining,\\\" said John.\""
+                  "\"The sun is gone,\\\" said John.\""
                 ]
               },
               {
@@ -509,14 +509,9 @@
                     "he is going to the park."
                   ]
                 },
+             
                 {
                   "id": 45,
-                  "content": "In the sentence 'My friend likes ice cream.', what is the subject?",
-                  "correctIndex": 0,
-                  "answers": ["My friend", "likes", "ice cream", "My"]
-                },
-                {
-                  "id": 46,
                   "content": "Which sentence correctly uses an apostrophe?",
                   "correctIndex": 3,
                   "answers": [
@@ -527,19 +522,19 @@
                   ]
                 },
                 {
-                  "id": 47,
+                  "id": 46,
                   "content": "What is the plural form of 'child'?",
                   "correctIndex": 0,
                   "answers": ["Children", "Childs", "Childen", "Child's"]
                 },
                 {
-                  "id": 48,
+                  "id": 47,
                   "content": "Identify the verb in the sentence: 'They danced at the party.'",
                   "correctIndex": 0,
                   "answers": ["danced", "They", "at", "party"]
                 },
                 {
-                  "id": 49,
+                  "id": 48,
                   "content": "Choose the correct adverb for the sentence: 'She sings _____.'",
                   "correctIndex": 2,
                   "answers": ["good", "quick", "beautifully", "happy"]
