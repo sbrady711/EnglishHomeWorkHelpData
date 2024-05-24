@@ -157,7 +157,7 @@
                     },
                     {
                       "id": 14,
-                      "content": "How many sounds are there in the word 'tree'?",
+                      "content": "How many sounds parts are there in the word 'tree'?",
                       "correctIndex": 2,
                       "answers": ["1", "3", "2", "5"]
                     },
