@@ -405,7 +405,7 @@
                  {
                    "id": 55,
                    "content": "What is the superlative form of 'bad'?",
-                   "correctIndex": 0,
+                   "correctIndex": 3,
                    "answers": ["worse", "badder", "badest", "worst"]
                  },
                  {
@@ -422,7 +422,7 @@
                  },
                  {
                    "id": 58,
-                   "content": "What is the suffix in the word 'teacher's'?",
+                   "content": "What is the suffix in the word 'teachers'?",
                    "correctIndex": 1,
                    "answers": ["teacher", "s", "teach", "rs"]
                  },
