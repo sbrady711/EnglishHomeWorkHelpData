@@ -238,7 +238,7 @@
                {
                  "id": 30,
                  "content": "What comes before 'lion' in alphabetical order?",
-                 "correctIndex": 3,
+                 "correctIndex": 2,
                  "answers": ["apple", "cat", "elephant", "dolphin"]
                },
 
@@ -250,7 +250,7 @@
                },
                {
                  "id": 32,
-                 "content": "What is the alphabetical order of the words from Low to high: 'giraffe', 'elephant', 'iguana', 'zebra'?",
+                 "content": "What is the alphabetical order of the words inverted: 'giraffe', 'elephant', 'iguana', 'zebra'?",
                  "correctIndex": 1,
                  "answers": ["elephant, giraffe, iguana, zebra", "zebra ,iguana, giraffe , elephant ", "giraffe, iguana, zebra, elephant", "iguana, elephant, zebra, giraffe"]
                },
@@ -302,7 +302,7 @@
                   "id": 40,
                   "content": "What is the synonym for 'ecstatic'?",
                   "correctIndex": 2,
-                  "answers": ["sad", "funny", "joyful", "angry"]
+                  "answers": ["sad", "funny", "delighted", "angry"]
                 },
                 {
                   "id": 41,
