@@ -393,7 +393,7 @@
                   "content": "Identify the noun phrase in the sentence: 'The old wooden table in the corner is my favorite.'",
                   "correctIndex": 0,
                   "answers": [
-                    "The old wooden",
+                    "The old wooden table",
                     "in the corner",
                     "my favorite",
                     "wooden table"
@@ -432,17 +432,16 @@
                     "that"
                   ]
                 },
-                {
-                  "id": 26,
-                  "content": "Choose the correct irregular plural form for the word: 'child'",
-                  "correctIndex": 2,
-                  "answers": [
-                    "Childs",
-                    "Childes",
-                    "Children",
-                    "Childies"
-                  ]
-                },
+               { "id": 26,
+  "content": "Choose the correct irregular plural form for the word: 'goose'",
+  "correctIndex": 3,
+  "answers": [
+    "Gooses",
+    "Geeses",
+    "Gees",
+    "Geese"
+  ]
+},
                 {
                   "id": 27,
                   "content": "What is the function of the word 'because' in the sentence: 'She stayed home because it was raining.'",
