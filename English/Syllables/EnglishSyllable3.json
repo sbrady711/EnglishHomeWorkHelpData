@@ -142,7 +142,7 @@
                  "id": 14,
                  "content": "Which word starts with the same sounds as 'belt'?",
                  "correctIndex": 3,
-                 "answers": ["Star", "Banana", "Ball", "Bear"]
+                 "answers": ["Star", "cave", "Brawl", "Bear"]
                },
                {
                  "id": 15,
@@ -166,7 +166,7 @@
                  "id": 18,
                  "content": "Which word ends with the same sound as 'bake'?",
                  "correctIndex": 2,
-                 "answers": ["Like", "Star", "Cake", "Desk"]
+                 "answers": ["Line", "Star", "Cake", "Dress"]
                },
                {
                  "id": 19,
@@ -200,9 +200,9 @@
                 },
                 {
                   "id": 24,
-                  "content": "Which word ends with the same sound as 'globe'?",
+                  "content": "Which word ends with the same sound as 'glove'?",
                   "correctIndex": 3,
-                  "answers": ["Zoo", "Star", "Boat", "Glow"]
+                  "answers": ["Zoo", "Star", "Boat", "Have"]
                 },
                 {
                   "id": 25,
@@ -248,7 +248,7 @@
                 },
                 {
                   "id": 32,
-                  "content": "Which word ends with the same sound as 'rake'?",
+                  "content": "Which word ends with the same overall sound as 'rake'?",
                   "correctIndex": 0,
                   "answers": ["Lake", "Star", "Car", "Desk"]
                 },
@@ -341,7 +341,7 @@
                   "id": 47,
                   "content": "Select the word that has the same middle sound as 'hope'.",
                   "correctIndex": 0,
-                  "answers": ["Home", "Star", "Jump", "Boat"]
+                  "answers": ["Home", "Star", "Jump", "Bot"]
                 },
                 {
                   "id": 48,
@@ -353,7 +353,7 @@
                   "id": 49,
                   "content": "Which word ends with the same sound as 'farm'?",
                   "correctIndex": 3,
-                  "answers": ["Sea", "Star", "Sky", "yarn"]
+                  "answers": ["Sea", "Star", "Sky", "arm"]
                 },
                 {
                   "id": 50,
