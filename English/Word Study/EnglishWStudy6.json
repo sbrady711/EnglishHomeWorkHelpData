@@ -93,7 +93,7 @@
                },
                {
                  "id": 5,
-                 "content": "What is the correct usage of the homophone 'you're'?",
+                 "content": "What is the correct usage of the homophone of 'you're'?",
                  "correctIndex": 0,
                  "answers": ["I love your hat.", "You're book is on the table.", "You're hat.", "They're coming over later."]
                },
@@ -105,7 +105,7 @@
                },
                {
                  "id": 7,
-                 "content": "Choose the correct adjective: 'His ____________ voice sounded soothing.'",
+                 "content": "Choose the correct adjective: 'His ____________ voice sounded wholesome.'",
                  "correctIndex": 3,
                  "answers": ["sooth", "soothed", "soothe", "soothing"]
                },
@@ -193,7 +193,7 @@
                 "id": 21,
                 "content": "What is the plural form of the word 'woman'?",
                 "correctIndex": 2,
-                "answers": ["mans", "manes", "women", "manses"]
+                "answers": ["womans", "womanes", "women", "manses"]
               },
           
               {
@@ -243,7 +243,7 @@
               },
               {
                 "id": 29,
-                "content": "What is the active voice of the sentence: 'The book was read by the teacher.'?",
+                "content": "What is the active voice version of the sentence: 'The book was read by the teacher.'?",
                 "correctIndex": 0,
                 "answers": ["The teacher read the book.", "The teacher read the book was.", "The teacher was read by the book.", "The book was reading by the teacher."]
               },
@@ -293,7 +293,7 @@
                 "id": 37,
                 "content": "What is the plural form of the compound noun 'mother-in-law'?",
                 "correctIndex": 2,
-                "answers": ["mothers-in-law", "mother-in-laws", "mothers-in-laws", "mother-in-lawes"]
+                "answers": ["mothers-in-law", "mother-in-laws", "mothers-in-law", "mother-in-lawes"]
               },
               
               {
@@ -354,7 +354,7 @@
               },
               {
                 "id": 47,
-                "content": "Choose the correct passive voice of the sentence: 'They are building a new school.'",
+                "content": "Choose the correct passive voice version of the sentence: 'They are building a new school.'",
                 "correctIndex": 0,
                 "answers": ["A new school is being built by them.", "A new school being built are by them.", "A new school is building by them.", "They building a new school are."]
               },
