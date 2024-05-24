@@ -154,7 +154,7 @@
                },
                {
                  "id": 6,
-                 "content": "Choose the correct subject-verb agreement in the complex sentence: 'The cat and the dog ... playing together.'",
+                 "content": "Choose the correct subject-verb agreement in the complex sentence: 'The cat and the dog ... playing together yesterday.'",
                  "correctIndex": 1,
                  "answers": [
                    "was",
@@ -209,7 +209,7 @@
                },
                {
                  "id": 11,
-                 "content": "Parse the verb in the sentence: 'She has been swimming for hours.'",
+                 "content": "Parse the verb phrase: 'She has been swimming for hours.'",
                  "correctIndex": 3,
                  "answers": [
                    "She",
@@ -253,13 +253,13 @@
                },
                {
                  "id": 15,
-                 "content": "Choose the correct plural form of the irregular noun: 'child'",
+                 "content": "Choose the correct plural form of the irregular noun: 'fish'",
                  "correctIndex": 1,
                  "answers": [
-                   "Childs",
-                   "Children",
-                   "Childes",
-                   "Childies"
+                   "fishes",
+                   "fish",
+                   "fish",
+                   "fishies"
                  ]
                },
                {
@@ -408,7 +408,7 @@
                },
                {
                  "id": 29,
-                 "content": "Choose the correct abstract noun for the word 'hopeful'.",
+                 "content": "Choose the same correct abstract noun for the word 'hopeful'.",
                  "correctIndex": 2,
                  "answers": [
                    "Hoping",
@@ -634,7 +634,7 @@
                  "answers": [
                    "Swimmed",
                    "Swum",
-                   "Swiming",
+                   "Swimming",
                    "Swam"
                  ]
                }
