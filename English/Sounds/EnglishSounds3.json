@@ -136,7 +136,7 @@
                    "id": 8,
                    "content": "In the word 'knight', what sound does 'gh' make?",
                    "correctIndex": 2,
-                   "answers": ["/f/", "/ɡ/", " its silent", "/k/"]
+                   "answers": ["/f/", "/ɡ/", "gh is silent", "/k/"]
                  },
                  
                  {
@@ -390,7 +390,7 @@
                   {
                     "id": 50,
                     "content": "In the word 'about,' count the syllables.",
-                    "correctIndex": 1,
+                    "correctIndex": 0,
                     "answers": ["2", "3", "4", "5"]
                   },
                   {
